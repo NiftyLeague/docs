@@ -19,9 +19,11 @@ Battle it out amongst the community and get in as many _bat bonks_ 🥖on your f
 
 **As noted, this is a beta release of our initial game so lag and issues with pesky bots are to be expected.** Our immediate plan is to continue development on **Nifty Smashers** and to introduce more features such as additional combo moves and a progression system. Hop in our **[Discord](https://discord.gg/4bmTHYWjhe)** to provide feedback and ideas on how we can improve **Nifty Smashers** and take it to the next level!
 
+<!-- ![](../images/highlights.gif) -->
+
 **Online Multiplayer Lag ☁️**
 
-As we are getting ready to launch the online multiplayer in a few weeks, let's talk about lag in fast-paced and snappy brawler games like **Nifty Smashers**.
+With the on-going alpha, let's talk about lag in fast-paced and snappy brawler games like **Nifty Smashers**.
 
 Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag. There are different techniques & tricks that developers use to compensate and hide the lag. We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible. We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible.
 
