@@ -27,7 +27,7 @@ Satoshi ci ha detto che ama le collezioni complete in quasi tutto…quindi pensa
 
 Di seguito è riportata una rappresentazione della forza del moltiplicatore indossabile per ogni indossabile corrispondente. Le tariffe esatte sono ancora da definire.
 
-Fumetto 1 💪💪💪💪💪\ Fumetto 2 💪💪💪💪\ Fumetto 3 💪💪💪\ Fumetto 4 💪💪\ Fumetto 5 💪\ Fumetto 6 💪💪💪💪💪💪
+Comic 1 💪💪💪💪💪\ Comic 2 💪💪💪💪\ Comic 3 💪💪💪\ Comic 4 💪💪\ Comic 5 💪\ Comic 6 💪💪💪💪💪💪
 
 
 Stiamo ancora determinando esattamente quanti slot possono essere riempiti per DEGEN, ma solo 1 di ogni indossabile è assegnabile per DEGEN NFT. 
