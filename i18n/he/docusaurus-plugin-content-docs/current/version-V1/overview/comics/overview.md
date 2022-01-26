@@ -27,7 +27,7 @@ sidebar_position: 1
 
 להלן תיאור של חוזק מכפיל לביש עבור כל רכיב לביש מתאים. התעריפים המדויקים עדיין לא נקבעים.
 
-Comic 1 💪💪💪💪💪\ Comic 2 💪💪💪💪\ Comic 3 💪💪💪\ Comic 4 💪💪\ Comic 5 💪\ Comic 6 💪💪💪💪💪💪
+קומיקס 1 💪💪💪💪💪 \ Comic 2 💪💪💪💪 \ Comic 3 💪💪💪 \ Comic 4 💪💪 \ Comic 5 💪 \ Comic 6 💪💪💪💪💪💪
 
 
 אנחנו עדיין קובעים בדיוק כמה משבצות ניתן למלא לכל DEGEN, אבל רק 1 מכל לביש ניתן להקצאה לכל DEGEN NFT. 
