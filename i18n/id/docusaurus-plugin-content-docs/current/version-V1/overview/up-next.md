@@ -57,7 +57,7 @@ Kami tahu komunitas kami tidak sabar untuk menampilkan DEGEN keren mereka di jal
 
 Tim kami perlahan-lahan mengisyaratkan utilitas yang akan datang untuk komik - karena Anda mungkin sudah menyadari bahwa Anda akan dapat membakar setiap halaman untuk item dalam game khusus yang meningkatkan pengganda NFTL DEGEN Anda ... tetapi kesenangan tidak berhenti di situ !
 
-Kami sebelumnya mengirimkan 4 halaman komik awal kami ke percetakan dan masih memiliki 2 halaman tersisa untuk pemegang DEGEN di awal 2022. Kata dari Satoshi - mengamankan koleksi lengkap atau 2 adalah _sangat_ direkomendasikan.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Kata dari Satoshi - mengamankan koleksi lengkap atau 2 adalah _sangat_ direkomendasikan.
 
 ## Pasar Barang
 
