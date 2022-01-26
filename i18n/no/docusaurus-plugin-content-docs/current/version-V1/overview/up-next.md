@@ -57,7 +57,7 @@ Vi vet at samfunnet vårt ikke kan vente med å vise frem sine kule DEGENS på g
 
 Teamet vårt har sakte antydet de kommende verktøyene for tegneserier - som du kanskje allerede er klar over, vil du kunne brenne hver side for spesielle elementer i spillet som øker din DEGEN'S NFTL-multiplikator... men moroa stopper ikke der !
 
-Vi har tidligere sendt våre første 4 tegneseriesider til myntere og har fortsatt 2 sider igjen for DEGEN-innehavere tidlig i 2022. Ord fra Satoshi - å sikre en full samling eller 2 er _sterkt_ anbefalt.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Ord fra Satoshi - å sikre en full samling eller 2 er _sterkt_ anbefalt.
 
 ## Markedsplass for varer
 
