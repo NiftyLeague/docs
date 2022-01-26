@@ -8,12 +8,12 @@ sidebar_position: 3
 
 ### Списак специјалних способности
 
-- **Мајмун** - Баци банане бумеранга ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
-- **Алиен** - Телепорт ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
-- **Цат** - Набијте и привремено повећајте снагу палице и брзину ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
-- **Жаба** - Кука за хватање језика ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
-- **Доге** - Доге ролл ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
-- **Људски** - Баците динамите који експлодирају на команду ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+- **Мајмун** - Баци банане бумеранга ![хттпс://цдн.дисцордапп.цом/емојис/876605610165157968.пнг?сизе=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **Алиен** - Телепорт ![хттпс://цдн.дисцордапп.цом/емојис/876655147634294794.пнг?сизе=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **Цат** - Набијте и привремено повећајте снагу палице и брзину ![хттпс://цдн.дисцордапп.цом/емојис/876655087869644830.пнг?сизе=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **Жаба** - Кука за хватање језика ![хттпс://цдн.дисцордапп.цом/емојис/876655119817670686.пнг?сизе=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **Доге** - Доге ролл ![хттпс://цдн.дисцордапп.цом/емојис/876600985819164764.пнг?сизе=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **Људски** - Баците динамите који експлодирају на команду ![хттпс://цдн.дисцордапп.цом/емојис/876604536784052274.пнг?сизе=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
 
 ### Алиен
 
