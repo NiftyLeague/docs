@@ -57,7 +57,7 @@ Wir wissen, dass unsere Community es kaum erwarten kann, ihre coolen DEGENS auf 
 
 Unser Team hat langsam auf die kommenden Dienstprogramme für Comics hingewiesen – wie Sie vielleicht bereits wissen, können Sie jede Seite für spezielle Gegenstände im Spiel brennen, die den NFTL-Multiplikator Ihres DEGEN erhöhen … aber der Spaß hört hier nicht auf !
 
-Wir haben unsere ersten 4 Comicseiten zuvor an Minters aus der Luft abgeworfen und haben DEGEN-Inhaber übrig. Wort von Satoshi - Sichern einer vollständigen Sammlung oder 2 ist _sehr_ empfohlen.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Wort von Satoshi - Sichern einer vollständigen Sammlung oder 2 ist _sehr_ empfohlen.
 
 ## Artikel Marktplatz
 
