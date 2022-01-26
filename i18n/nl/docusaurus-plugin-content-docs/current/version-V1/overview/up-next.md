@@ -57,7 +57,7 @@ We weten dat onze community niet kan wachten om hun coole DEGENS op straat te la
 
 Ons team hintte langzaam naar de aankomende hulpprogramma's voor strips - zoals je misschien al weet, kun je elke pagina branden voor speciale in-game-items die je DEGEN'S NFTL-multiplier verhogen... maar het plezier houdt daar niet op. !
 
-We hebben eerder onze eerste 4 strippagina's naar minters gestuurd en hebben DEGEN-houders. Het woord van Satoshi - beveiligen van een volledige verzameling of 2 is _zeer_ aanbevolen.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Het woord van Satoshi - beveiligen van een volledige verzameling of 2 is _zeer_ aanbevolen.
 
 ## Artikelen Marktplaats
 
