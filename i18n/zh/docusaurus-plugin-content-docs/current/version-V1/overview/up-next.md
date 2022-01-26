@@ -57,7 +57,7 @@ sidebar_position: 9
 
 我们的团队一直在慢慢暗示即将推出的漫画实用程序——您可能已经知道，您将能够刻录每一页以获得增加 DEGEN 的 NFTL 乘数的特殊游戏内物品……但乐趣并不止于此！
 
-我们之前将最初的 4 个漫画页面空投给了铸币者，到 2022 年初 来自 Satoshi 的话 - 确保完整的收藏或 2 是 _高度推荐_
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. 来自 Satoshi 的话 - 确保完整的收藏或 2 是 _高度推荐_
 
 ## 物品市场
 
