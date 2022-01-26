@@ -57,7 +57,7 @@ Topluluğumuzun havalı DEGENS'lerini sokaklarda sergilemek için sabırsızland
 
 Ekibimiz yavaş yavaş çizgi roman için gelecek araçlar hakkında ipuçları veriyor - zaten bildiğiniz gibi, DEGEN'S NFTL çarpanınızı artıran özel oyun içi öğeler için her sayfayı yakabileceksiniz... ama eğlence burada bitmiyor. !
 
-Daha önce ilk 4 çizgi roman sayfamızı matbaacılara havadan gönderdik ve 2022'nin DEGEN sahipleri için hala 2 sayfamız kaldı. Satoshi'den Word - tam bir koleksiyonun güvenliğini sağlamak veya 2, _şiddetle_ önerilir.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Satoshi'den Word - tam bir koleksiyonun güvenliğini sağlamak veya 2, _şiddetle_ önerilir.
 
 ## Eşya Pazarı
 
