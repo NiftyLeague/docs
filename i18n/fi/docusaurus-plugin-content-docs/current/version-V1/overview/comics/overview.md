@@ -27,7 +27,7 @@ Satoshi kertoi meille, että hän rakastaa täydellisiä kokoelmia melkein kaike
 
 Alla on kuvaus puettavan kerrannaisvoimakkuudesta jokaiselle vastaavalle puettavalle. Tarkat hinnat ovat vielä määrittämättä.
 
-Comic 1 💪💪💪💪💪\ Comic 2 💪💪💪💪\ Comic 3 💪💪💪\ Comic 4 💪💪\ Comic 5 💪\ Comic 6 💪💪💪💪💪💪
+Sarjakuvan 1 💪💪💪💪💪 \ sarjakuvan 2 💪💪💪💪 \ sarjakuvan 3 💪💪💪 \ sarjakuvan 4 💪💪 \ sarjakuvan 5 💪 \ sarjakuvan 6 💪💪💪💪💪💪
 
 
 Määritämme edelleen, kuinka monta paikkaa voidaan täyttää DEGEN-laitetta kohden, mutta vain yksi jokaisesta puettavasta on osoitettavissa DEGEN NFT:tä kohden. 
