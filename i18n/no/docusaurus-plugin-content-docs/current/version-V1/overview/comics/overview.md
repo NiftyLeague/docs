@@ -27,7 +27,7 @@ Satoshi fortalte oss at han elsker fulle samlinger i omtrent alt…så tenk deg 
 
 Nedenfor er en skildring av bærbar multiplikatorstyrke for hver tilsvarende wearable. De nøyaktige satsene skal fortsatt fastsettes.
 
-Serie 1 💪💪💪💪💪 \ Serie 2 💪💪💪💪 \ Serie 3 💪💪💪 \ komisk 4 💪💪 \ komisk 5 💪 \ komisk 6 💪💪💪💪💪💪
+Tegneserie 1 💪💪💪💪💪\ Tegneserie 2 💪💪💪💪\ Tegneserie 3 💪💪💪\ Tegneserie 4 💪💪\ Tegneserie 5 💪\ Tegneserie 6 💪💪💪💪
 
 
 Vi bestemmer fortsatt nøyaktig hvor mange plasser som kan fylles per DEGEN, men bare 1 av hver wearable kan tilordnes per DEGEN NFT. 
