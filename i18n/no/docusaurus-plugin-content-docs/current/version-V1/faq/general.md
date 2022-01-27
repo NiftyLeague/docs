@@ -21,8 +21,7 @@ Nei, du trenger bare én DEGEN for å spille.
 Så enkelt som å signere en melding for å bekrefte eierskapet til DEGEN-ene dine i kryptolommeboken din når du starter spillet.
 
 ### **Trenger jeg kontrollere for å spille spillet?**
-
-No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
+Nei, selv om vi tror det er lettere å spille med en kontroller (PS, Xbox eller andre gjenkjent av PC/Mac) enn et tastatur.
 
 ### Hvorfor ber omnavnet om flere bekreftelser?
 
