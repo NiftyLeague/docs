@@ -1,6 +1,6 @@
 ---
 id: visão global
-title: Overview
+title: Visão geral
 sidebar_position: 1
 ---
 
@@ -27,7 +27,7 @@ Satoshi nos disse que adora coleções completas em quase tudo…então pense du
 
 Abaixo está uma descrição da força do multiplicador vestível para cada vestível correspondente. As taxas exatas ainda serão definidas.
 
-Comic 1 💪💪💪💪💪\ Comic 2 💪💪💪💪\ Comic 3 💪💪💪\ Comic 4 💪💪\ Comic 5 💪\ Comic 6 💪💪💪💪💪💪
+Quadrinho 1 💪💪💪💪💪\ Quadrinho 2 💪💪💪💪\ Quadrinho 3 💪💪💪\ Quadrinho 4 💪💪\ Quadrinho 5 💪\ Quadrinho 6 💪💪💪💪💪💪💪💪💪💪💪
 
 
 Ainda estamos determinando exatamente quantos slots podem ser preenchidos por DEGEN, mas apenas 1 de cada wearable pode ser atribuído por DEGEN NFT. 
