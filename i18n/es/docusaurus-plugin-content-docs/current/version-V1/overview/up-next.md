@@ -4,7 +4,7 @@ title: A continuación ➡️
 sidebar_position: 9
 ---
 
-Junto con juegos adicionales, tenemos varias ideas guardadas para seguir haciendo crecer nuestra plataforma. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Estos contratos inteligentes extenderían el estándar de tokens múltiples ERC-1155 Ethereum para crear elementos no fungibles con un límite establecido de disponibilidad para cada uno. Como bonificación por jugar nuestros juegos, nos gustaría otorgar artículos que se pueden comprar aquí a los jugadores que luego pueden venderlos o usarlos en el juego. Otra opción que estamos considerando es otorgar NFT de liberación prolongada, como cofres del tesoro que se pueden quemar, revelando el objeto coleccionable del interior.
+Junto con juegos adicionales, tenemos varias ideas guardadas para seguir haciendo crecer nuestra plataforma. Uno de nuestros objetivos principales es lanzar o asociarnos con un mercado de NFT que le permita recopilar NFT reutilizables, como automóviles o armas especiales para nuestros juegos. Estos contratos inteligentes extenderían el estándar de tokens múltiples ERC-1155 Ethereum para crear elementos no fungibles con un límite establecido de disponibilidad para cada uno. Como bonificación por jugar nuestros juegos, nos gustaría otorgar artículos que se pueden comprar aquí a los jugadores que luego pueden venderlos o usarlos en el juego. Otra opción que estamos considerando es otorgar NFT de liberación prolongada, como cofres del tesoro que se pueden quemar, revelando el objeto coleccionable del interior.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Si lees el último punto, sabrás que escalar nuestra plataforma es una alta pri
 
 Nuestro equipo ha estado insinuando lentamente las próximas utilidades para cómics: como ya sabrá, podrá grabar cada página para obtener elementos especiales en el juego que aumentan su multiplicador DEGEN'S NFTL ... pero la diversión no termina ahí. !
 
-Anteriormente lanzamos nuestras 4 páginas de cómic iniciales a los minters y todavía nos quedan 2 páginas para los DEGEN a principios de 2022. Palabras Satoshi - asegurando una colección completa o 2 es _altamente_ recomendado.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Palabras Satoshi - asegurando una colección completa o 2 es _altamente_ recomendado.
 
 ## Mercado de artículos
 
