@@ -4,3 +4,5 @@ title: Rentals
 ---
 
 ### Où louer un DEGEN ?
+
+niftyleague.com/rentals
