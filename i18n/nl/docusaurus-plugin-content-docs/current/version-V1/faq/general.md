@@ -21,8 +21,7 @@ Nee, je hebt maar één DEGEN nodig om te spelen.
 Zo eenvoudig als het ondertekenen van een bericht om het eigendom van uw DEGEN's in uw crypto-portemonnee te verifiëren wanneer u het spel start.
 
 ### **Heb ik controllers nodig om het spel te spelen?**
-
-No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
+Nee, hoewel we denken dat het gemakkelijker is om met een controller (PS, Xbox of andere door pc/Mac herkende) controllers te spelen dan met een toetsenbord.
 
 ### Waarom vraagt de hernoeming om meerdere verificaties?
 
