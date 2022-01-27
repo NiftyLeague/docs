@@ -21,8 +21,7 @@ sidebar_position: 1
 פשוט כמו חתימה על הודעה כדי לאמת את הבעלות על ה-DEGENs שלך בארנק הקריפטו שלך כשאתה מפעיל את המשחק.
 
 ### **האם אני צריך בקרים כדי לשחק את המשחק?**
-
-No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
+לא, למרות שלדעתנו קל יותר לשחק עם בקר (PS, Xbox, או כל אחר המוכר על ידי PC/Mac) מאשר מקלדת.
 
 ### מדוע שינוי השם מבקש אימותים מרובים?
 
