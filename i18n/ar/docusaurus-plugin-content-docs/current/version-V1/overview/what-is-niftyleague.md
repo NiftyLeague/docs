@@ -4,10 +4,18 @@ title: ما هو Nifty League؟
 sidebar_position: 1
 ---
 
-مهمتنا هي إنشاء منصة ألعاب NFT رائدة من خلال إدارة المجتمع والتنمية. تفتخر Nifty League بأنها واحدة من أولى منصات GameFi التي تقدم ألعاب تفاعلية لتكسبها مع شخصيات قابلة للتخصيص ؛ ليس مجرد انخفاض pfp آخر ... 🙃
+Nifty League is leading competitive gaming in the metaverse - moving away from play-to-earn into a new era of play-and-earn by offering a fun and engaging gaming ecosystem.
+
+The NiftyVerse is centered around nostalgia where builders, players, and owners spend time connecting, gaming, and earning in Web3.
 
 ![](/img/story.gif)
 
-يقوم المستخدمون بتصميم وصنع ولعب شخصياتهم الشخصية للمنافسة وكسب المكافآت داخل مجتمعنا بما في ذلك رمز نظامنا البيئي ؛ اتحاد كرة القدم الأميركي. لا يوفر لك شراء Ethereum DEGEN رموز NFTL فحسب ، بل يفتح لك أوضاعًا متعددة اللاعبين داخل ألعابنا مما يمنحك الدخول إلى البطولات العامة.
+Players buy (and soon will be able to rent) their [DEGEN NFTs](https://opensea.io/collection/niftydegen) in order to compete and earn rewards in our ecosystem's token; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
 
-يسعى فريقنا إلى جعل ألعابنا تنافسية للغاية ومليئة بالحنين إلى الماضي من أيام الألعاب القديمة! عند الإطلاق سنطلق لعبتنا الأولى Nifty Smashers ؛ شجاع NFT لتخوضه مع أصدقائك و Crypto Twitter! لدينا العديد من خيارات الألعاب القادمة التي سنطورها بناءً على مدخلات المجتمع ولكننا نأمل في النهاية أن نرى نمو منصتنا يصل إلى حدود غير مرئية بدعم من مطوري المجتمع (مزيد من المعلومات أدناه).
+DEGENs earn NFTL tokens through gaming, which gives you a piece of ownership in the Nifty League DAO, the ability to buy in-game assets via our marketplace, purchase land in the NiftyVerse, and more.
+
+يسعى فريقنا إلى جعل ألعابنا تنافسية للغاية ومليئة بالحنين إلى الماضي من أيام الألعاب القديمة! At launch in September 2021, we released our first game Nifty Smashers; an NFT brawler where you battle it out with your DEGEN friends across 5 exciting levels.
+
+The Nifty League DEGEN community has and will continue to play a key role in shaping our roadmap and games. We hope to see the platform expand into a fully decentralized DAO, with the support of developers in the community and indie gaming studios globally.
+
+Finally, we are excited to partner with some of the largest Web3 gaming guilds in the world to expand our player community, drive our content growth loops and fuel awareness and engagement across the Nifty League ecosystem.
