@@ -27,7 +27,7 @@ Satoshi nos dijo que ama colecciones completas en casi todo…por lo que pensar 
 
 A continuación se muestra una representación de la fuerza del multiplicador portátil para cada dispositivo portátil correspondiente. Las tarifas exactas aún están por determinarse.
 
-Historieta 1 💪💪💪💪💪\ Historieta 2 💪💪💪💪\ Historieta 3 💪💪💪\ Historieta 4 💪💪\ Historieta 5 💪\ Historieta 6 💪💪💪💪💪💪
+Comic 1 💪💪💪💪💪\ Comic 2 💪💪💪💪\ Comic 3 💪💪💪\ Comic 4 💪💪\ Comic 5 💪\ Comic 6 💪💪💪💪💪💪
 
 
 Todavía estamos determinando exactamente cuántos espacios se pueden llenar por DEGEN, pero solo se puede asignar 1 de cada dispositivo portátil por DEGEN NFT. 
