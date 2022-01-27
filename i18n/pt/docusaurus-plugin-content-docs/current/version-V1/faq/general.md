@@ -21,7 +21,8 @@ Não, você só precisa de um DEGEN para jogar.
 Tão simples quanto assinar uma mensagem para verificar a propriedade de seus DEGENs em sua carteira de criptomoedas ao iniciar o jogo.
 
 ### **Preciso de controles para jogar?**
-Não, embora pensemos que é mais fácil jogar com um controle (PS, Xbox ou qualquer outro reconhecido por PC/Mac) do que com um teclado.
+
+No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
 
 ### Por que a renomeação está solicitando várias verificações?
 
