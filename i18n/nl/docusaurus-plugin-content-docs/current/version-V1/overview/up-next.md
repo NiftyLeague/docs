@@ -4,7 +4,7 @@ title: Volgende ➡️
 sidebar_position: 9
 ---
 
-Naast extra games hebben we verschillende ideeën in petto om ons platform verder te laten groeien. Een van onze belangrijkste doelen is om een NFT-marktplaats te lanceren of ermee samen te werken, zodat je herbruikbare NFT's zoals auto's of speciale wapens voor onze games kunt verzamelen. Deze slimme contracten zouden de ERC-1155 Ethereum multi-token-standaard uitbreiden om niet-vergankelijke items te maken met een vaste beschikbaarheidslimiet voor elk. Als bonus voor het spelen van onze spellen, willen we items die hier kunnen worden gekocht, toekennen aan spelers die ze vervolgens kunnen verkopen of in de game kunnen gebruiken. Een andere optie die we overwegen is het toekennen van time-released NFT's, zoals schatkisten die kunnen worden verbrand, waardoor het verzamelobject binnenin wordt onthuld.
+Naast extra games hebben we verschillende ideeën in petto om ons platform verder te laten groeien. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Deze slimme contracten zouden de ERC-1155 Ethereum multi-token-standaard uitbreiden om niet-vergankelijke items te maken met een vaste beschikbaarheidslimiet voor elk. Als bonus voor het spelen van onze spellen, willen we items die hier kunnen worden gekocht, toekennen aan spelers die ze vervolgens kunnen verkopen of in de game kunnen gebruiken. Een andere optie die we overwegen is het toekennen van time-released NFT's, zoals schatkisten die kunnen worden verbrand, waardoor het verzamelobject binnenin wordt onthuld.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ We weten dat onze community niet kan wachten om hun coole DEGENS op straat te la
 
 Ons team hintte langzaam naar de aankomende hulpprogramma's voor strips - zoals je misschien al weet, kun je elke pagina branden voor speciale in-game-items die je DEGEN'S NFTL-multiplier verhogen... maar het plezier houdt daar niet op. !
 
-We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Het woord van Satoshi - beveiligen van een volledige verzameling of 2 is _zeer_ aanbevolen.
+We hebben eerder onze eerste 4 strippagina's naar minters gestuurd en hebben DEGEN-houders. Het woord van Satoshi - beveiligen van een volledige verzameling of 2 is _zeer_ aanbevolen.
 
 ## Artikelen Marktplaats
 
