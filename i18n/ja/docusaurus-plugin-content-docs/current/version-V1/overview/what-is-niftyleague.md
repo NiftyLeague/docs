@@ -4,10 +4,18 @@ title: ニフティリーグとは？
 sidebar_position: 1
 ---
 
-私たちの使命は、コミュニティのガバナンスと開発を通じて、最先端のNFTゲームプラットフォームを作成することです。 ニフティリーグは、カスタマイズ可能なキャラクターを使ったインタラクティブなプレイツーアーンゲームを提供する最初のGameFiプラットフォームの1つであることに誇りを持っています。別のpfpドロップだけではありません...🙃
+Nifty League is leading competitive gaming in the metaverse - moving away from play-to-earn into a new era of play-and-earn by offering a fun and engaging gaming ecosystem.
+
+The NiftyVerse is centered around nostalgia where builders, players, and owners spend time connecting, gaming, and earning in Web3.
 
 ![](/img/story.gif)
 
-ユーザーは、自分のキャラクターとしてデザイン、ミント、プレイして、エコシステムのトークンを含むコミュニティ内で競争し、報酬を獲得します。 NFTL。 イーサリアムDEGENを購入すると、NFTLトークンが提供されるだけでなく、ゲーム内のマルチプレイヤーモードのロックが解除され、パブリックトーナメントに参加できるようになります。
+Players buy (and soon will be able to rent) their [DEGEN NFTs](https://opensea.io/collection/niftydegen) in order to compete and earn rewards in our ecosystem's token; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
 
-私たちのチームは、私たちのゲームを非常に競争力のあるものにし、レトロゲームのハルシオン時代からの懐かしさでいっぱいにするよう努めています！ 発売時に、最初のゲームであるNiftySmashersをリリースします。友達やCryptoTwitterと戦うためのNFT喧嘩屋！ コミュニティの意見に基づいて開発する今後のゲームオプションがいくつかありますが、最終的には、コミュニティ開発者のサポートにより、プラットフォームの成長が限界に達することを期待しています（詳細は以下を参照）。
+DEGENs earn NFTL tokens through gaming, which gives you a piece of ownership in the Nifty League DAO, the ability to buy in-game assets via our marketplace, purchase land in the NiftyVerse, and more.
+
+私たちのチームは、私たちのゲームを非常に競争力のあるものにし、レトロゲームのハルシオン時代からの懐かしさでいっぱいにするよう努めています！ At launch in September 2021, we released our first game Nifty Smashers; an NFT brawler where you battle it out with your DEGEN friends across 5 exciting levels.
+
+The Nifty League DEGEN community has and will continue to play a key role in shaping our roadmap and games. We hope to see the platform expand into a fully decentralized DAO, with the support of developers in the community and indie gaming studios globally.
+
+Finally, we are excited to partner with some of the largest Web3 gaming guilds in the world to expand our player community, drive our content growth loops and fuel awareness and engagement across the Nifty League ecosystem.
