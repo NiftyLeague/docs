@@ -4,7 +4,7 @@ title: A seguir ➡️
 sidebar_position: 9
 ---
 
-Juntamente com jogos adicionais, temos várias ideias guardadas para continuar a expandir nossa plataforma. Um dos nossos principais objetivos é lançar ou fazer parceria com um mercado NFT que permita coletar NFTs reutilizáveis, como carros ou armas especiais para nossos jogos. Esses contratos inteligentes estenderiam o padrão multitoken ERC-1155 Ethereum para criar itens não fungíveis com um limite definido de disponibilidade para cada um. Como bônus por jogar nossos jogos, gostaríamos de premiar os itens que podem ser adquiridos aqui para os jogadores que podem vendê-los ou usá-los no jogo. Outra opção que estamos considerando é premiar NFTs liberados no tempo, como baús de tesouro que podem ser queimados, revelando o colecionável dentro.
+Juntamente com jogos adicionais, temos várias ideias guardadas para continuar a expandir nossa plataforma. Um dos nossos principais objetivos é lançar um mercado que permita coletar NFTs reutilizáveis, como carros, armas especiais ou wearables para nossos jogos. Esses contratos inteligentes estenderiam o padrão multitoken ERC-1155 Ethereum para criar itens não fungíveis com um limite definido de disponibilidade para cada um. Como bônus por jogar nossos jogos, gostaríamos de premiar os itens que podem ser adquiridos aqui para os jogadores que podem vendê-los ou usá-los no jogo. Outra opção que estamos considerando é premiar NFTs liberados no tempo, como baús de tesouro que podem ser queimados, revelando o colecionável dentro.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Sabemos que nossa comunidade mal pode esperar para mostrar seus DEGENS legais na
 
 Nossa equipe tem sugerido aos poucos os próximos utilitários para quadrinhos - como você já deve saber, poderá gravar cada página para obter itens especiais no jogo que aumentam o multiplicador de NFTL do DEGEN... mas a diversão não para por aí !
 
-Anteriormente, lançamos nossas 4 páginas de quadrinhos iniciais para minters e ainda temos 2 páginas restantes para os detentores de DEGEN no início de 2022. Palavra de Satoshi - garantir uma coleção completa ou 2 é _altamente_ recomendado.
+Anteriormente, lançamos nossas 4 páginas iniciais de quadrinhos para minters e ainda temos 2 páginas restantes para DEGEN no início de 2022. Palavra de Satoshi - garantir uma coleção completa ou 2 é _altamente_ recomendado.
 
 ## Mercado de itens
 
