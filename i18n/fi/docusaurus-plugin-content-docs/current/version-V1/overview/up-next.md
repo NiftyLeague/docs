@@ -4,7 +4,7 @@ title: Seuraavaksi ➡️
 sidebar_position: 9
 ---
 
-Lisäpelien lisäksi meillä on useita ideoita alustamme kasvattamiseksi. Yksi tärkeimmistä tavoitteistamme on käynnistää tai tehdä yhteistyötä NFT-markkinapaikan kanssa, jonka avulla voit kerätä uudelleenkäytettäviä NFT-tiedostoja, kuten autoja tai erikoisaseita pelejämme varten. Nämä älykkäät sopimukset laajentaisivat ERC-1155 Ethereum -monitoken-standardia luomaan ei-korjattavia kohteita, joilla kullekin on rajoitettu saatavuus. Peliemme pelaamisen bonuksena haluamme palkita täältä ostettavia esineitä pelaajille, jotka voivat sitten myydä ne tai käyttää niitä pelissä. Toinen vaihtoehto, jota harkitsemme, on palkita aikajulkaisevia NFT-kortteja, kuten aarrearkkuja, jotka voidaan polttaa ja paljastaa sisällä olevan keräilykohteen.
+Lisäpelien lisäksi meillä on useita ideoita alustamme kasvattamiseksi. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Nämä älykkäät sopimukset laajentaisivat ERC-1155 Ethereum -monitoken-standardia luomaan ei-korjattavia kohteita, joilla kullekin on rajoitettu saatavuus. Peliemme pelaamisen bonuksena haluamme palkita täältä ostettavia esineitä pelaajille, jotka voivat sitten myydä ne tai käyttää niitä pelissä. Toinen vaihtoehto, jota harkitsemme, on palkita aikajulkaisevia NFT-kortteja, kuten aarrearkkuja, jotka voidaan polttaa ja paljastaa sisällä olevan keräilykohteen.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Tiedämme, että yhteisömme ei malta odottaa, että pääsemme esittelemään u
 
 Tiimimme on hiljalleen vihjannut tulevista sarjakuvien apuohjelmista - kuten ehkä jo tiedätkin, että voit polttaa jokaiselta sivulta erityisiä pelin sisäisiä kohteita, jotka lisäävät DEGENin NFTL-kerrointa... mutta hauskuus ei lopu tähän. !
 
-We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Word Satoshi - turvata täydellinen kokoelma tai 2 on _erittäin_ suositeltavaa.
+Lähetimme aiemmin neljä ensimmäistä sarjakuvasivuamme rahapajalle, ja vuoden 2022 alussa Word Satoshi - turvata täydellinen kokoelma tai 2 on _erittäin_ suositeltavaa.
 
 ## Tuotteet Marketplace
 
