@@ -1,8 +1,8 @@
 ---
 id: locations
-title: Rentals
+title: Locations
 ---
 
 ### Où louer un DEGEN ?
 
-niftyleague.com/rentals
+niftyleague.com/locations
