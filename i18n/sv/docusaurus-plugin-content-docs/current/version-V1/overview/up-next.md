@@ -4,7 +4,7 @@ title: Nästa ➡️
 sidebar_position: 9
 ---
 
-Tillsammans med ytterligare spel har vi flera idéer på gång för att fortsätta att växa vår plattform. Ett av våra huvudmål är att lansera eller samarbeta med en NFT-marknadsplats som låter dig samla in återanvändbara NFT:er som bilar eller specialvapen för våra spel. Dessa smarta kontrakt skulle utöka ERC-1155 Ethereum multi-token-standarden för att skapa icke-fungibla föremål med en fastställd gräns för tillgänglighet för var och en. Som en bonus för att spela våra spel skulle vi vilja ge föremål som kan köpas här till spelare som sedan kan sälja dem eller använda dem i spelet. Ett annat alternativ vi överväger är att tilldela tidsutgivna NFT:er som skattkistor som kan brännas och avslöjar samlarobjektet inuti.
+Tillsammans med ytterligare spel har vi flera idéer på gång för att fortsätta att växa vår plattform. Ett av våra huvudmål är att lansera en marknadsplats där du kan samla in återanvändbara NFT:er som bilar, specialvapen eller wearables för våra spel. Dessa smarta kontrakt skulle utöka ERC-1155 Ethereum multi-token-standarden för att skapa icke-fungibla föremål med en fastställd gräns för tillgänglighet för var och en. Som en bonus för att spela våra spel skulle vi vilja ge föremål som kan köpas här till spelare som sedan kan sälja dem eller använda dem i spelet. Ett annat alternativ vi överväger är att tilldela tidsutgivna NFT:er som skattkistor som kan brännas och avslöjar samlarobjektet inuti.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Vi vet att vårt community inte kan vänta med att visa upp sina coola DEGENS p�
 
 Vårt team har sakta tipsat om de kommande verktygen för serier - som du kanske redan är medveten om kommer du att kunna bränna varje sida för speciella föremål i spelet som ökar din DEGEN'S NFTL-multiplikator... men det roliga slutar inte där !
 
-Vi har tidigare släppt våra första fyra seriesidor till myntverk och har fortfarande två sidor kvar för DEGEN-innehavare i början av 2022. Ord från Satoshi - att säkra en hel samling eller 2 är _starkt_ rekommenderas.
+Vi har tidigare släppt våra första 4 seriesidor till myntverk och har fortfarande 2 sidor kvar för DEGEN-innehavare i början av 2022. Ord från Satoshi - att säkra en hel samling eller 2 är _starkt_ rekommenderas.
 
 ## Item Marketplace
 
