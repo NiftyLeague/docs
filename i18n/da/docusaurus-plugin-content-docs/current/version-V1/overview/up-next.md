@@ -4,7 +4,7 @@ title: Næste ➡️
 sidebar_position: 9
 ---
 
-Sammen med yderligere spil har vi flere ideer på vej til at fortsætte med at udvide vores platform. Et af vores hovedmål er at lancere eller samarbejde med en NFT-markedsplads, der giver dig mulighed for at indsamle genbrugelige NFT'er såsom biler eller specielle våben til vores spil. Disse smarte kontrakter ville udvide ERC-1155 Ethereum multi-token-standarden for at skabe ikke-fungible varer med en fastsat grænse for tilgængelighed for hver. Som en bonus for at spille vores spil, vil vi gerne tildele varer, der kan købes her, til spillere, som derefter kan sælge dem eller bruge dem i spillet. En anden mulighed, vi overvejer, er at tildele tidsfrigivne NFT'er, såsom skattekister, som kan brændes og afsløre samleobjektet indeni.
+Sammen med yderligere spil har vi flere ideer på vej til at fortsætte med at udvide vores platform. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Disse smarte kontrakter ville udvide ERC-1155 Ethereum multi-token-standarden for at skabe ikke-fungible varer med en fastsat grænse for tilgængelighed for hver. Som en bonus for at spille vores spil, vil vi gerne tildele varer, der kan købes her, til spillere, som derefter kan sælge dem eller bruge dem i spillet. En anden mulighed, vi overvejer, er at tildele tidsfrigivne NFT'er, såsom skattekister, som kan brændes og afsløre samleobjektet indeni.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Vi ved, at vores samfund ikke kan vente med at fremvise deres seje DEGENS på ga
 
 Vores team har langsomt antydet de kommende hjælpeprogrammer til tegneserier - som du måske allerede er klar over, vil du være i stand til at brænde hver side for særlige in-game elementer, der øger din DEGEN'S NFTL multiplikator... men det sjove stopper ikke der !
 
-We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Ord fra Satoshi - at sikre en fuld samling eller 2 er _stærkt_ anbefales.
+Vi har tidligere sendt vores første 4 tegneseriesider til miners og har stadig 2 sider tilbage til DEGEN-indehavere i begyndelsen af 2022. Ord fra Satoshi - at sikre en fuld samling eller 2 er _stærkt_ anbefales.
 
 ## Markedsplads for varer
 
