@@ -21,7 +21,8 @@ sidebar_position: 1
 ゲームを起動するときに、暗号ウォレット内のDEGENの所有権を確認するためのメッセージに署名するのと同じくらい簡単です。
 
 ### **ゲームをプレイするにはコントローラーが必要ですか？**
-いいえ、キーボードよりもコントローラー（PS、Xbox、またはPC / Macで認識されるその他のもの）でプレイする方が簡単だと思いますが。
+
+No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
 
 ### 名前の変更で複数の検証が要求されるのはなぜですか？
 
