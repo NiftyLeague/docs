@@ -21,6 +21,7 @@ Nee, jy het net een DEGEN nodig om te speel.
 So eenvoudig soos om 'n boodskap te onderteken om die eienaarskap van jou DEGENs in jou kripto-beursie te verifieer wanneer jy die speletjie begin.
 
 ### **Het ek beheerders nodig om die speletjie te speel?**
+
 Nee, hoewel ons dink dit is makliker om met 'n kontroleerder (PS, Xbox, of enige ander wat deur PC/Mac herken word) te speel as 'n sleutelbord.
 
 ### Waarom vra die hernoeming vir veelvuldige verifikasies?
