@@ -4,7 +4,7 @@ title: Următorul ➡️
 sidebar_position: 9
 ---
 
-Alături de jocuri suplimentare, avem câteva idei pregătite pentru a continua să ne dezvoltăm platforma. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Aceste contracte inteligente ar extinde standardul multi-token ERC-1155 Ethereum pentru a crea articole nefungibile cu o limită stabilită a disponibilității pentru fiecare. Ca bonus pentru a juca jocurile noastre, am dori să acordăm articole care pot fi cumpărate aici jucătorilor care le pot vinde sau le pot folosi în joc. O altă opțiune pe care o luăm în considerare este acordarea NFT-urilor eliberate în timp, cum ar fi cufere cu comori care pot fi arse, dezvăluind obiectul de colecție din interior.
+Alături de jocuri suplimentare, avem câteva idei pregătite pentru a continua să ne dezvoltăm platforma. Unul dintre obiectivele noastre principale este lansarea sau parteneriatul cu o piață NFT care vă permite să colectați NFT reutilizabile, cum ar fi mașini sau arme speciale pentru jocurile noastre. Aceste contracte inteligente ar extinde standardul multi-token ERC-1155 Ethereum pentru a crea articole nefungibile cu o limită stabilită a disponibilității pentru fiecare. Ca bonus pentru a juca jocurile noastre, am dori să acordăm articole care pot fi cumpărate aici jucătorilor care le pot vinde sau le pot folosi în joc. O altă opțiune pe care o luăm în considerare este acordarea NFT-urilor eliberate în timp, cum ar fi cufere cu comori care pot fi arse, dezvăluind obiectul de colecție din interior.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Dacă citiți ultimul punct, veți ști că scalarea platformei noastre este o p
 
 Echipa noastră a sugerat treptat viitoarele utilități pentru benzi desenate - așa cum probabil știți deja, veți putea arde fiecare pagină pentru articole speciale din joc care vă măresc multiplicatorul NFTL DEGEN... dar distracția nu se oprește aici. !
 
-Am trimis anterior cele 4 pagini de benzi desenate inițiale către monitoare și mai avem 2 pagini rămase pentru DEGEN la începutul anului 2022. Cuvânt de la Satoshi - asigurarea unei colecții complete sau 2 este __ foarte recomandat.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Cuvânt de la Satoshi - asigurarea unei colecții complete sau 2 este __ foarte recomandat.
 
 ## Piața de articole
 
