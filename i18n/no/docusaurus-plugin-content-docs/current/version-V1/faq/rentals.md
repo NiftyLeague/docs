@@ -4,5 +4,3 @@ title: Utleie
 ---
 
 ### Hvor leier jeg en DEGEN?
-
-niftyleague.com/rentals
