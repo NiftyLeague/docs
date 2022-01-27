@@ -21,7 +21,6 @@ Nein, Sie brauchen nur einen DEGEN zum Spielen.
 So einfach wie das Signieren einer Nachricht, um den Besitz Ihrer DEGENs in Ihrer Krypto-Brieftasche zu überprüfen, wenn Sie das Spiel starten.
 
 ### **Benötige ich Controller, um das Spiel zu spielen?**
-
 Nein, obwohl wir der Meinung sind, dass es einfacher ist, mit einem Controller (PS, Xbox oder anderen von PC/Mac erkannten) zu spielen als mit einer Tastatur.
 
 ### Warum verlangt die Umbenennung nach mehreren Bestätigungen?
