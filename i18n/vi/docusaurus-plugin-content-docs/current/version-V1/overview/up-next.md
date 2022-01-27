@@ -4,7 +4,7 @@ title: Tiếp theo ➡️
 sidebar_position: 9
 ---
 
-Cùng với các trò chơi bổ sung, chúng tôi có một số ý tưởng trong cửa hàng để tiếp tục phát triển nền tảng của mình. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Các hợp đồng thông minh này sẽ mở rộng tiêu chuẩn đa mã thông báo Ethereum ERC-1155 để tạo ra các mặt hàng không thể thay thế với giới hạn đã đặt về tính khả dụng cho mỗi loại. Như một phần thưởng cho việc chơi trò chơi của chúng tôi, chúng tôi muốn trao các vật phẩm có thể mua được tại đây cho những người chơi sau đó có thể bán chúng hoặc sử dụng chúng trong trò chơi. Một lựa chọn khác mà chúng tôi đang xem xét là trao thưởng cho các NFT được phát hành theo thời gian, chẳng hạn như rương kho báu có thể bị đốt cháy, để lộ đồ sưu tầm bên trong.
+Cùng với các trò chơi bổ sung, chúng tôi có một số ý tưởng trong cửa hàng để tiếp tục phát triển nền tảng của mình. Một trong những mục tiêu chính của chúng tôi là khởi chạy hoặc hợp tác với thị trường NFT cho phép bạn thu thập các NFT có thể tái sử dụng như ô tô hoặc vũ khí đặc biệt cho trò chơi của chúng tôi. Các hợp đồng thông minh này sẽ mở rộng tiêu chuẩn đa mã thông báo Ethereum ERC-1155 để tạo ra các mặt hàng không thể thay thế với giới hạn đã đặt về tính khả dụng cho mỗi loại. Như một phần thưởng cho việc chơi trò chơi của chúng tôi, chúng tôi muốn trao các vật phẩm có thể mua được tại đây cho những người chơi sau đó có thể bán chúng hoặc sử dụng chúng trong trò chơi. Một lựa chọn khác mà chúng tôi đang xem xét là trao thưởng cho các NFT được phát hành theo thời gian, chẳng hạn như rương kho báu có thể bị đốt cháy, để lộ đồ sưu tầm bên trong.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Chúng tôi biết cộng đồng của chúng tôi rất nóng lòng muốn gi�
 
 Nhóm của chúng tôi đã và đang từ từ gợi ý về các tiện ích sắp tới dành cho truyện tranh - vì bạn có thể đã biết rằng bạn sẽ có thể ghi từng trang để lấy các vật phẩm đặc biệt trong trò chơi giúp tăng hệ số DEGEN'S NFTL của bạn ... nhưng niềm vui không dừng lại ở đó !
 
-Trước đây, chúng tôi đã phát hành 4 trang truyện tranh đầu tiên của mình cho những người đúc và vẫn còn 2 trang cho nắm giữ DEGEN vào đầu năm 2022. Word từ Satoshi - bảo vệ một bộ sưu tập đầy đủ hoặc 2 là _đánh giá cao_ khuyến khích.
+Trước đây, chúng tôi đã phát hành 4 trang truyện tranh đầu tiên của mình cho những người đúc và vẫn còn 2 trang cho những người nắm giữ DEGEN vào đầu năm 2022. Word từ Satoshi - bảo vệ một bộ sưu tập đầy đủ hoặc 2 là _đánh giá cao_ khuyến khích.
 
 ## Thị trường mặt hàng
 
