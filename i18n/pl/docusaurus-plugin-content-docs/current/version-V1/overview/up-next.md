@@ -4,7 +4,7 @@ title: W górę Dalej ➡️
 sidebar_position: 9
 ---
 
-Oprócz dodatkowych gier mamy w zanadrzu kilka pomysłów na dalszy rozwój naszej platformy. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Te inteligentne kontrakty rozszerzyłyby standard wielotokenowy ERC-1155 Ethereum o tworzenie elementów niepodlegających wymianie z ustalonym limitem dostępności dla każdego z nich. Jako bonus za granie w nasze gry, chcielibyśmy przyznać przedmioty, które można tu kupić, graczom, którzy mogą je następnie sprzedać lub użyć w grze. Inną opcją, którą rozważamy, jest nagradzanie wydawanych czasowo NFT, takich jak skrzynie ze skarbami, które można spalić, odkrywając znajdujący się w nich przedmiot kolekcjonerski.
+Oprócz dodatkowych gier mamy w zanadrzu kilka pomysłów na dalszy rozwój naszej platformy. Jednym z naszych głównych celów jest uruchomienie lub nawiązanie współpracy z rynkiem NFT, umożliwiającym zbieranie NFT wielokrotnego użytku, takich jak samochody lub specjalna broń do naszych gier. Te inteligentne kontrakty rozszerzyłyby standard wielotokenowy ERC-1155 Ethereum o tworzenie elementów niepodlegających wymianie z ustalonym limitem dostępności dla każdego z nich. Jako bonus za granie w nasze gry, chcielibyśmy przyznać przedmioty, które można tu kupić, graczom, którzy mogą je następnie sprzedać lub użyć w grze. Inną opcją, którą rozważamy, jest nagradzanie wydawanych czasowo NFT, takich jak skrzynie ze skarbami, które można spalić, odkrywając znajdujący się w nich przedmiot kolekcjonerski.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Wiemy, że nasza społeczność nie może się doczekać, aby zaprezentować swo
 
 Nasz zespół powoli sugerował nadchodzące narzędzia do komiksów — jak być może już wiesz, będziesz mógł nagrać każdą stronę w celu uzyskania specjalnych przedmiotów w grze, które zwiększą mnożnik NFTL DEGEN… ale zabawa się nie kończy !
 
-Wcześniej zrzuciliśmy nasze pierwsze 4 strony komiksów minerkom i nadal mamy 2 strony dla posiadaczy DEGEN na początku 2022 roku. Słowo od Satoshi - zabezpieczenie pełnej kolekcji lub 2 to _wysoce_ zalecane.
+Wcześniej zrzuciliśmy pierwsze 4 strony komiksów mincerzom i nadal mamy 2 strony dla posiadaczy DEGEN na początku 2022 roku. Słowo od Satoshi - zabezpieczenie pełnej kolekcji lub 2 to _wysoce_ zalecane.
 
 ## Rynek przedmiotów
 
