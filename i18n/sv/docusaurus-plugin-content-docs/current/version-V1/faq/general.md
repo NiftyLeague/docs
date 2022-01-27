@@ -21,8 +21,7 @@ Nej, du behöver bara en DEGEN för att spela.
 Så enkelt som att signera ett meddelande för att verifiera ägandet av dina DEGENs i din kryptoplånbok när du startar spelet.
 
 ### **Behöver jag handkontroller för att spela spelet?**
-
-No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
+Nej, även om vi tror att det är lättare att spela med en kontroller (PS, Xbox eller någon annan som känns igen av PC/Mac) än ett tangentbord.
 
 ### Varför kräver det nya namnet flera verifieringar?
 
