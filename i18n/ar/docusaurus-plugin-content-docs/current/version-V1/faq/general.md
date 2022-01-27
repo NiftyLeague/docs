@@ -21,7 +21,8 @@ sidebar_position: 1
 بسيطة مثل توقيع رسالة للتحقق من ملكية DEGENs الخاصة بك في محفظتك المشفرة عند بدء اللعبة.
 
 ### **هل أحتاج إلى وحدات تحكم لتشغيل اللعبة؟**
-لا ، على الرغم من أننا نعتقد أنه من الأسهل اللعب باستخدام وحدة تحكم (PS أو Xbox أو أي أجهزة أخرى يتعرف عليها الكمبيوتر / جهاز Mac) من لوحة المفاتيح.
+
+No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
 
 ### لماذا تطلب إعادة التسمية عمليات تحقق متعددة؟
 
