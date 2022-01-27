@@ -4,7 +4,7 @@ title: Neste ➡️
 sidebar_position: 9
 ---
 
-Sammen med flere spill har vi flere ideer på lager for å fortsette å utvide plattformen vår. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Disse smarte kontraktene vil utvide ERC-1155 Ethereum multi-token-standarden for å lage ikke-fungible elementer med en fastsatt grense for tilgjengelighet for hver. Som en bonus for å spille våre spill, ønsker vi å gi varer som kan kjøpes her til spillere som deretter kan selge dem eller bruke dem i spillet. Et annet alternativ vi vurderer er å tildele tidsutgitte NFT-er som skattekister som kan brennes og avsløre samleobjektet inni.
+Sammen med flere spill har vi flere ideer på lager for å fortsette å utvide plattformen vår. Et av hovedmålene våre er å lansere eller samarbeide med en NFT-markedsplass som lar deg samle gjenbrukbare NFT-er som biler eller spesielle våpen for spillene våre. Disse smarte kontraktene vil utvide ERC-1155 Ethereum multi-token-standarden for å lage ikke-fungible elementer med en fastsatt grense for tilgjengelighet for hver. Som en bonus for å spille våre spill, ønsker vi å gi varer som kan kjøpes her til spillere som deretter kan selge dem eller bruke dem i spillet. Et annet alternativ vi vurderer er å tildele tidsutgitte NFT-er som skattekister som kan brennes og avsløre samleobjektet inni.
 
 ![](/img/nifty_roadmap.png)
 
