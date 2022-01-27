@@ -4,3 +4,5 @@ title: Rentals
 ---
 
 ### Waar huur ek 'n DEGEN?
+
+niftyleague.com/rentals
