@@ -27,7 +27,7 @@ Satoshi het vir ons gesê hy is lief vir volledige versamelings in omtrent alles
 
 Hieronder is 'n uitbeelding van draagbare vermenigvuldigersterkte vir elke ooreenstemmende draagbare. Die presiese tariewe moet nog bepaal word.
 
-Komiese 1 💪💪💪💪💪 \ komiese 2 💪💪💪💪 \ komiese 3 💪💪💪 \ komiese 4 💪💪 \ komiese 5 💪 \ komiese 6 💪💪💪💪💪💪
+Strokiesprent 1 💪💪💪💪💪\ Strokiesprent 2 💪💪💪💪\ Strokiesprent 3 💪💪💪\ Strokiesprent 4 💪💪\ Strokiesprent 5 💪\ Strokiesprent 6 💪💪💪💪
 
 
 Ons is nog besig om te bepaal presies hoeveel gleuwe per DEGEN gevul kan word, maar slegs 1 van elke draagbare is toekenbaar per DEGEN NFT. 
