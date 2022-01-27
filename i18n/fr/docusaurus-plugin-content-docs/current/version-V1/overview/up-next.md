@@ -4,7 +4,7 @@ title: À la prochaine ➡️
 sidebar_position: 9
 ---
 
-En plus de jeux supplémentaires, nous avons plusieurs idées en réserve pour continuer à développer notre plateforme. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Ces contrats intelligents étendraient la norme multi-token ERC-1155 Ethereum pour créer des éléments non fongibles avec une limite de disponibilité définie pour chacun. En bonus pour jouer à nos jeux, nous aimerions attribuer des objets achetables ici aux joueurs qui peuvent ensuite les vendre ou les utiliser dans le jeu. Une autre option que nous envisageons est d'attribuer des NFT à libération prolongée tels que des coffres au trésor qui peuvent être brûlés, révélant l'objet de collection à l'intérieur.
+En plus de jeux supplémentaires, nous avons plusieurs idées en réserve pour continuer à développer notre plateforme. L'un de nos principaux objectifs est de lancer ou de vous associer à une place de marché NFT vous permettant de collecter des NFT réutilisables tels que des voitures ou des armes spéciales pour nos jeux. Ces contrats intelligents étendraient la norme multi-token ERC-1155 Ethereum pour créer des éléments non fongibles avec une limite de disponibilité définie pour chacun. En bonus pour jouer à nos jeux, nous aimerions attribuer des objets achetables ici aux joueurs qui peuvent ensuite les vendre ou les utiliser dans le jeu. Une autre option que nous envisageons est d'attribuer des NFT à libération prolongée tels que des coffres au trésor qui peuvent être brûlés, révélant l'objet de collection à l'intérieur.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Nous savons que notre communauté a hâte de présenter ses cool DEGENS dans les
 
 Notre équipe a lentement fait allusion aux utilitaires à venir pour les bandes dessinées - comme vous le savez peut-être déjà, vous pourrez graver chaque page pour des objets spéciaux dans le jeu qui augmentent votre multiplicateur DEGEN'S NFTL... mais le plaisir ne s'arrête pas là !
 
-Nous avons précédemment largué nos 4 premières pages de bandes dessinées aux monnayeurs et il reste encore 2 pages pour les DEGEN au début de 2022. Mot de Satoshi - sécuriser une collection complète ou 2 est _fortement_ recommandé.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Mot de Satoshi - sécuriser une collection complète ou 2 est _fortement_ recommandé.
 
 ## Marché aux objets
 
