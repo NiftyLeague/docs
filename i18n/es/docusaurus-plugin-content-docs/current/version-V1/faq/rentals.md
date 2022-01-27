@@ -4,5 +4,3 @@ title: Alquileres
 ---
 
 ### ¿Dónde alquilo un DEGEN?
-
-niftyleague.com/rentals
