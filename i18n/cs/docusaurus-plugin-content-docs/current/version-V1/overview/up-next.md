@@ -4,7 +4,7 @@ title: Další ➡️
 sidebar_position: 9
 ---
 
-Spolu s dalšími hrami máme připraveno několik nápadů, jak naši platformu dále rozvíjet. Jedním z našich hlavních cílů je spustit trh, který vám umožní sbírat opakovaně použitelné NFT, jako jsou auta, speciální zbraně nebo nositelná zařízení pro naše hry. Tyto chytré kontrakty by rozšířily multitokenový standard ERC-1155 Ethereum o vytváření nezaměnitelných položek s nastaveným limitem dostupnosti pro každou z nich. Jako bonus za hraní našich her bychom rádi udělili předměty, které lze zde zakoupit, hráčům, kteří je pak mohou prodat nebo použít ve hře. Další možností, kterou zvažujeme, je udělování časově vydaných NFT, jako jsou truhly s pokladem, které lze spálit, čímž se odhalí sběratelský předmět uvnitř.
+Spolu s dalšími hrami máme připraveno několik nápadů, jak naši platformu dále rozvíjet. Jedním z našich hlavních cílů je spuštění nebo partnerství s tržištěm NFT, které vám umožní sbírat opakovaně použitelné NFT, jako jsou auta nebo speciální zbraně pro naše hry. Tyto chytré kontrakty by rozšířily multitokenový standard ERC-1155 Ethereum o vytváření nezaměnitelných položek s nastaveným limitem dostupnosti pro každou z nich. Jako bonus za hraní našich her bychom rádi udělili předměty, které lze zde zakoupit, hráčům, kteří je pak mohou prodat nebo použít ve hře. Další možností, kterou zvažujeme, je udělování časově vydaných NFT, jako jsou truhly s pokladem, které lze spálit, čímž se odhalí sběratelský předmět uvnitř.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Víme, že naše komunita se nemůže dočkat, až předvede své skvělé DEGEN
 
 Náš tým pomalu naznačoval připravované nástroje pro komiksy - jak už možná víte, budete moci vypálit každou stránku pro speciální herní předměty, které zvýší váš DEGEN'S NFTL multiplikátor... ale zábava tím nekončí !
 
-Již dříve jsme předali naše první 4 stránky komiksu těžařům a stále zbývají 2 stránky pro DEGEN na začátku roku 2022. Slovo od Satoshi - zajištění úplného sběru nebo 2 _vysoce_ doporučeno.
+Již dříve jsme předali naše první 4 stránky komiksu těžařům a stále zbývají 2 stránky pro držitele DEGEN na začátku roku 2022. Slovo od Satoshi - zajištění úplného sběru nebo 2 _vysoce_ doporučeno.
 
 ## Tržiště zboží
 
