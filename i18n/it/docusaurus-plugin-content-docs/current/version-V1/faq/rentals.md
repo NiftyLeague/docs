@@ -1,8 +1,8 @@
 ---
 id: affitti
-title: Rentals
+title: Affitti
 ---
 
 ### Dove noleggio un DEGEN?
 
-niftyleague.com/rentals
+niftyleague.com/affitti
