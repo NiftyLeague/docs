@@ -4,7 +4,7 @@ title: Al prossimo ➡️
 sidebar_position: 9
 ---
 
-Oltre a giochi aggiuntivi, abbiamo diverse idee in serbo per continuare a far crescere la nostra piattaforma. Uno dei nostri obiettivi principali è lanciare o collaborare con un mercato NFT che ti permetta di raccogliere NFT riutilizzabili come automobili o armi speciali per i nostri giochi. Questi contratti intelligenti estenderebbero lo standard multi-token ERC-1155 Ethereum per creare elementi non fungibili con un limite di disponibilità stabilito per ciascuno. Come bonus per giocare ai nostri giochi, vorremmo assegnare oggetti acquistabili qui ai giocatori che possono poi venderli o usarli nel gioco. Un'altra opzione che stiamo considerando è l'assegnazione di NFT rilasciati nel tempo come forzieri del tesoro che possono essere bruciati, rivelando il collezionabile all'interno.
+Oltre a giochi aggiuntivi, abbiamo diverse idee in serbo per continuare a far crescere la nostra piattaforma. Uno dei nostri obiettivi principali è lanciare un mercato che ti permetta di collezionare NFT riutilizzabili come automobili, armi speciali o dispositivi indossabili per i nostri giochi. Questi contratti intelligenti estenderebbero lo standard multi-token ERC-1155 Ethereum per creare elementi non fungibili con un limite di disponibilità stabilito per ciascuno. Come bonus per giocare ai nostri giochi, vorremmo assegnare oggetti acquistabili qui ai giocatori che possono poi venderli o usarli nel gioco. Un'altra opzione che stiamo considerando è l'assegnazione di NFT rilasciati nel tempo come forzieri del tesoro che possono essere bruciati, rivelando il collezionabile all'interno.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Sappiamo che la nostra community non vede l'ora di mostrare i suoi fantastici DE
 
 Il nostro team ha lentamente accennato alle imminenti utilità per i fumetti - come forse già saprai, sarai in grado di masterizzare ogni pagina per oggetti di gioco speciali che aumenteranno il tuo moltiplicatore NFTL di DEGEN... ma il divertimento non finisce qui !
 
-In precedenza abbiamo inviato le nostre 4 pagine di fumetti iniziali ai minatori e abbiamo ancora 2 pagine rimanenti per i titolari di DEGEN all'inizio del 2022. Parola di Satoshi: garantire una raccolta completa o 2 è _altamente_ consigliato.
+In precedenza abbiamo trasferito le nostre 4 pagine di fumetti iniziali ai minatori e abbiamo ancora 2 pagine rimanenti per detentori di DEGEN all'inizio del 2022. Parola di Satoshi: garantire una raccolta completa o 2 è _altamente_ consigliato.
 
 ## Mercato degli articoli
 
