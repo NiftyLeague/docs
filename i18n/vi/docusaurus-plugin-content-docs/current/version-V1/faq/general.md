@@ -21,7 +21,8 @@ Không, bạn chỉ cần một DEGEN để chơi.
 Đơn giản như việc ký một tin nhắn để xác minh quyền sở hữu DEGENs của bạn trong ví tiền điện tử khi bạn khởi chạy trò chơi.
 
 ### **Tôi có cần bộ điều khiển để chơi trò chơi không?**
-Không, mặc dù chúng tôi cho rằng chơi bằng bộ điều khiển (PS, Xbox hoặc bất kỳ thiết bị nào khác được PC / Mac nhận dạng) dễ hơn so với bàn phím.
+
+No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
 
 ### Tại sao việc đổi tên lại yêu cầu nhiều xác minh?
 
