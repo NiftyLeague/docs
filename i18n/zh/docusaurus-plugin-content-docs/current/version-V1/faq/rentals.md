@@ -4,3 +4,5 @@ title: Rentals
 ---
 
 ### 我在哪里租用 DEGEN？
+
+niftyleague.com/rentals
