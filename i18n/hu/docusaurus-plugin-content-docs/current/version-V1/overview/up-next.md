@@ -4,7 +4,7 @@ title: Tovább ➡️
 sidebar_position: 9
 ---
 
-A további játékok mellett számos ötletünk van a platformunk továbbfejlesztéséhez. Egyik fő célunk egy olyan NFT piac elindítása vagy partnerség létrehozása, amely lehetővé teszi, hogy újrafelhasználható NFT-ket, például autókat vagy speciális fegyvereket gyűjtsön játékainkhoz. Ezek az intelligens szerződések kibővítenék az ERC-1155 Ethereum több token szabványt, hogy nem helyettesíthető elemeket hozzanak létre, mindegyikhez meghatározott elérhetőségi korláttal. A játékaink bónuszaként az itt megvásárolható tárgyakat szeretnénk odaítélni azoknak a játékosoknak, akik eladhatják vagy felhasználhatják a játékban. Egy másik lehetőség, amit fontolgatunk, az időzített NFT-k díjazása, mint például a kincsesládák, amelyek elégethetők, felfedve a benne lévő gyűjteményt.
+A további játékok mellett számos ötletünk van a platformunk továbbfejlesztéséhez. Egyik fő célunk egy olyan piac elindítása, amely lehetővé teszi, hogy újrafelhasználható NFT-ket, például autókat, speciális fegyvereket vagy hordható eszközöket gyűjtsön játékainkhoz. Ezek az intelligens szerződések kibővítenék az ERC-1155 Ethereum több token szabványt, hogy nem helyettesíthető elemeket hozzanak létre, mindegyikhez meghatározott elérhetőségi korláttal. A játékaink bónuszaként az itt megvásárolható tárgyakat szeretnénk odaítélni azoknak a játékosoknak, akik eladhatják vagy felhasználhatják a játékban. Egy másik lehetőség, amit fontolgatunk, az időzített NFT-k díjazása, mint például a kincsesládák, amelyek elégethetők, felfedve a benne lévő gyűjteményt.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Tudjuk, hogy közösségünk alig várja, hogy bemutassa a menő DEGENS-üket az
 
 Csapatunk lassan utal a képregények hamarosan megjelenő segédprogramjaira – mint azt már biztosan tudod, hogy minden oldalt el lehet majd égetni olyan különleges játékon belüli elemekért, amelyek növelik a DEGEN NFTL szorzóját... de a szórakozás nem áll meg itt. !
 
-Korábban első 4 képregényoldalunkat leadtuk a pénzverőknek, és 2022 elején még maradt 2 oldal a DEGEN-tulajdonosok számára. Szava a Satoshitól – a teljes gyűjtemény vagy 2 biztosítása _erősen_ ajánlott.
+Korábban első 4 képregényoldalunkat leadtuk a pénzverőknek, és DEGEN-tulajdonos számára. Szava a Satoshitól – a teljes gyűjtemény vagy 2 biztosítása _erősen_ ajánlott.
 
 ## Tételek piactér
 
