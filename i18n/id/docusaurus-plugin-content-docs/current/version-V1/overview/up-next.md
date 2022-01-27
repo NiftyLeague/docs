@@ -4,7 +4,7 @@ title: Selanjutnya ️
 sidebar_position: 9
 ---
 
-Seiring dengan permainan tambahan, kami memiliki beberapa ide untuk terus mengembangkan platform kami. Salah satu tujuan utama kami adalah meluncurkan atau bermitra dengan pasar NFT yang memungkinkan Anda mengumpulkan NFT yang dapat digunakan kembali seperti mobil atau senjata khusus untuk permainan kami. Kontrak pintar ini akan memperluas standar multi-token ERC-1155 Ethereum untuk membuat item yang tidak dapat dipertukarkan dengan batas ketersediaan yang ditetapkan untuk masing-masing item. Sebagai bonus untuk memainkan game kami, kami ingin memberikan item yang dapat dibeli di sini kepada pemain yang kemudian dapat menjualnya atau menggunakannya dalam game. Pilihan lain yang kami pertimbangkan adalah memberikan NFT yang dirilis waktu seperti peti harta karun yang dapat dibakar, mengungkapkan barang koleksi di dalamnya.
+Seiring dengan permainan tambahan, kami memiliki beberapa ide untuk terus mengembangkan platform kami. Salah satu tujuan utama kami adalah meluncurkan pasar yang memungkinkan Anda mengumpulkan NFT yang dapat digunakan kembali seperti mobil, senjata khusus, atau perangkat yang dapat dikenakan untuk game kami. Kontrak pintar ini akan memperluas standar multi-token ERC-1155 Ethereum untuk membuat item yang tidak dapat dipertukarkan dengan batas ketersediaan yang ditetapkan untuk masing-masing item. Sebagai bonus untuk memainkan game kami, kami ingin memberikan item yang dapat dibeli di sini kepada pemain yang kemudian dapat menjualnya atau menggunakannya dalam game. Pilihan lain yang kami pertimbangkan adalah memberikan NFT yang dirilis waktu seperti peti harta karun yang dapat dibakar, mengungkapkan barang koleksi di dalamnya.
 
 ![](/img/nifty_roadmap.png)
 
