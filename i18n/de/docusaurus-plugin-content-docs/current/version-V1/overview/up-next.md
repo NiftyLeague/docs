@@ -4,7 +4,7 @@ title: Als nächstes ➡️
 sidebar_position: 9
 ---
 
-Neben zusätzlichen Spielen haben wir einige Ideen auf Lager, um unsere Plattform weiter auszubauen. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Diese intelligenten Verträge würden den Multi-Token-Standard ERC-1155 von Ethereum erweitern, um nicht fungible Gegenstände mit einer festgelegten Verfügbarkeitsgrenze für jeden zu erstellen. Als Bonus für das Spielen unserer Spiele möchten wir hier käufliche Gegenstände an Spieler vergeben, die sie dann verkaufen oder im Spiel verwenden können. Eine weitere Option, die wir in Betracht ziehen, ist die Vergabe von zeitverzögerten NFTs wie Schatztruhen, die verbrannt werden können und das darin enthaltene Sammlerstück enthüllen.
+Neben zusätzlichen Spielen haben wir einige Ideen auf Lager, um unsere Plattform weiter auszubauen. Eines unserer Hauptziele ist die Einführung oder Partnerschaft mit einem NFT-Marktplatz, auf dem Sie wiederverwendbare NFTs wie Autos oder Spezialwaffen für unsere Spiele sammeln können. Diese intelligenten Verträge würden den Multi-Token-Standard ERC-1155 von Ethereum erweitern, um nicht fungible Gegenstände mit einer festgelegten Verfügbarkeitsgrenze für jeden zu erstellen. Als Bonus für das Spielen unserer Spiele möchten wir hier käufliche Gegenstände an Spieler vergeben, die sie dann verkaufen oder im Spiel verwenden können. Eine weitere Option, die wir in Betracht ziehen, ist die Vergabe von zeitverzögerten NFTs wie Schatztruhen, die verbrannt werden können und das darin enthaltene Sammlerstück enthüllen.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Wir wissen, dass unsere Community es kaum erwarten kann, ihre coolen DEGENS auf 
 
 Unser Team hat langsam auf die kommenden Dienstprogramme für Comics hingewiesen – wie Sie vielleicht bereits wissen, können Sie jede Seite für spezielle Gegenstände im Spiel brennen, die den NFTL-Multiplikator Ihres DEGEN erhöhen … aber der Spaß hört hier nicht auf !
 
-Wir haben unsere ersten 4 Comicseiten zuvor an Minters aus der Luft abgeworfen und haben DEGEN-Inhaber übrig. Wort von Satoshi - Sichern einer vollständigen Sammlung oder 2 ist _sehr_ empfohlen.
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Wort von Satoshi - Sichern einer vollständigen Sammlung oder 2 ist _sehr_ empfohlen.
 
 ## Artikel Marktplatz
 
