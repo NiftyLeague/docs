@@ -4,7 +4,7 @@ title: Selanjutnya ️
 sidebar_position: 9
 ---
 
-Seiring dengan permainan tambahan, kami memiliki beberapa ide untuk terus mengembangkan platform kami. Salah satu tujuan utama kami adalah meluncurkan atau bermitra dengan pasar NFT yang memungkinkan Anda mengumpulkan NFT yang dapat digunakan kembali seperti mobil atau senjata khusus untuk permainan kami. Kontrak pintar ini akan memperluas standar multi-token ERC-1155 Ethereum untuk membuat item yang tidak dapat dipertukarkan dengan batas ketersediaan yang ditetapkan untuk masing-masing item. Sebagai bonus untuk memainkan game kami, kami ingin memberikan item yang dapat dibeli di sini kepada pemain yang kemudian dapat menjualnya atau menggunakannya dalam game. Pilihan lain yang kami pertimbangkan adalah memberikan NFT yang dirilis waktu seperti peti harta karun yang dapat dibakar, mengungkapkan barang koleksi di dalamnya.
+Seiring dengan permainan tambahan, kami memiliki beberapa ide untuk terus mengembangkan platform kami. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Kontrak pintar ini akan memperluas standar multi-token ERC-1155 Ethereum untuk membuat item yang tidak dapat dipertukarkan dengan batas ketersediaan yang ditetapkan untuk masing-masing item. Sebagai bonus untuk memainkan game kami, kami ingin memberikan item yang dapat dibeli di sini kepada pemain yang kemudian dapat menjualnya atau menggunakannya dalam game. Pilihan lain yang kami pertimbangkan adalah memberikan NFT yang dirilis waktu seperti peti harta karun yang dapat dibakar, mengungkapkan barang koleksi di dalamnya.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Kami tahu komunitas kami tidak sabar untuk menampilkan DEGEN keren mereka di jal
 
 Tim kami perlahan-lahan mengisyaratkan utilitas yang akan datang untuk komik - karena Anda mungkin sudah menyadari bahwa Anda akan dapat membakar setiap halaman untuk item dalam game khusus yang meningkatkan pengganda NFTL DEGEN Anda ... tetapi kesenangan tidak berhenti di situ !
 
-We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Kata dari Satoshi - mengamankan koleksi lengkap atau 2 adalah _sangat_ direkomendasikan.
+Kami sebelumnya mengirimkan 4 halaman komik awal kami ke percetakan dan masih memiliki 2 halaman tersisa untuk pemegang DEGEN di awal 2022. Kata dari Satoshi - mengamankan koleksi lengkap atau 2 adalah _sangat_ direkomendasikan.
 
 ## Pasar Barang
 
