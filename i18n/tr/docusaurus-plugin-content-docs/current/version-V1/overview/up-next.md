@@ -4,7 +4,7 @@ title: Sıradaki ➡️
 sidebar_position: 9
 ---
 
-Ek oyunların yanı sıra, platformumuzu büyütmeye devam etmek için mağazamızda birkaç fikir var. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Bu akıllı sözleşmeler, ERC-1155 Ethereum çoklu token standardını genişleterek, her biri için belirli bir kullanılabilirlik sınırı olan, değiştirilemez öğeler oluşturmak üzere genişletecektir. Oyunlarımızı oynamanın bir bonusu olarak, burada satın alınabilecek öğeleri, daha sonra onları satabilecek veya oyun içinde kullanabilecek oyunculara vermek istiyoruz. Düşündüğümüz başka bir seçenek de, yakılabilen hazine sandıkları gibi zamanla serbest bırakılan NFT'leri ödüllendirmek ve içindeki koleksiyonları ortaya çıkarmak.
+Ek oyunların yanı sıra, platformumuzu büyütmeye devam etmek için mağazamızda birkaç fikir var. Ana hedeflerimizden biri, oyunlarımız için arabalar veya özel silahlar gibi yeniden kullanılabilir NFT'ler toplamanıza olanak tanıyan bir NFT pazar yeri başlatmak veya bu pazarla ortak olmaktır. Bu akıllı sözleşmeler, ERC-1155 Ethereum çoklu token standardını genişleterek, her biri için belirli bir kullanılabilirlik sınırı olan, değiştirilemez öğeler oluşturmak üzere genişletecektir. Oyunlarımızı oynamanın bir bonusu olarak, burada satın alınabilecek öğeleri, daha sonra onları satabilecek veya oyun içinde kullanabilecek oyunculara vermek istiyoruz. Düşündüğümüz başka bir seçenek de, yakılabilen hazine sandıkları gibi zamanla serbest bırakılan NFT'leri ödüllendirmek ve içindeki koleksiyonları ortaya çıkarmak.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Topluluğumuzun havalı DEGENS'lerini sokaklarda sergilemek için sabırsızland
 
 Ekibimiz yavaş yavaş çizgi roman için gelecek araçlar hakkında ipuçları veriyor - zaten bildiğiniz gibi, DEGEN'S NFTL çarpanınızı artıran özel oyun içi öğeler için her sayfayı yakabileceksiniz... ama eğlence burada bitmiyor. !
 
-Daha önce ilk 4 çizgi roman sayfamızı matbaacılara havadan gönderdik ve 2022'nin DEGEN sahipleri için hala 2 sayfamız kaldı. Satoshi'den Word - tam bir koleksiyonun güvenliğini sağlamak veya 2, _şiddetle_ önerilir.
+Daha önce ilk 4 çizgi roman sayfamızı matbaacılara havadan gönderdik ve 2022'nin başlarında DEGEN sahipleri için hala 2 sayfamız kaldı. Satoshi'den Word - tam bir koleksiyonun güvenliğini sağlamak veya 2, _şiddetle_ önerilir.
 
 ## Eşya Pazarı
 
