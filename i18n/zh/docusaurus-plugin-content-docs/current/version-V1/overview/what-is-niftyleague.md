@@ -4,18 +4,10 @@ title: 什么是漂亮联盟？
 sidebar_position: 1
 ---
 
-Nifty League is leading competitive gaming in the metaverse - moving away from play-to-earn into a new era of play-and-earn by offering a fun and engaging gaming ecosystem.
-
-The NiftyVerse is centered around nostalgia where builders, players, and owners spend time connecting, gaming, and earning in Web3.
+我们的使命是通过社区治理和发展创建领先的 NFT 游戏平台。 Nifty League 以成为首批提供具有可定制角色的互动式赚钱游戏的 GameFi 平台之一而自豪；不只是另一个 pfp 下降......🙃
 
 ![](/img/story.gif)
 
-Players buy (and soon will be able to rent) their [DEGEN NFTs](https://opensea.io/collection/niftydegen) in order to compete and earn rewards in our ecosystem's token; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+用户设计、铸造和扮演他们的个人角色，以在我们的社区内竞争并获得奖励，包括我们生态系统的代币；美国国家橄榄球联盟。 购买以太坊 DEGEN 不仅可以为您提供 NFTL 代币，还可以在我们的游戏中解锁多人模式，让您可以参加公开锦标赛。
 
-DEGENs earn NFTL tokens through gaming, which gives you a piece of ownership in the Nifty League DAO, the ability to buy in-game assets via our marketplace, purchase land in the NiftyVerse, and more.
-
-我们的团队努力使我们的游戏具有高度的竞争力，并且充满了复古游戏的宁静时代的怀旧情怀！ At launch in September 2021, we released our first game Nifty Smashers; an NFT brawler where you battle it out with your DEGEN friends across 5 exciting levels.
-
-The Nifty League DEGEN community has and will continue to play a key role in shaping our roadmap and games. We hope to see the platform expand into a fully decentralized DAO, with the support of developers in the community and indie gaming studios globally.
-
-Finally, we are excited to partner with some of the largest Web3 gaming guilds in the world to expand our player community, drive our content growth loops and fuel awareness and engagement across the Nifty League ecosystem.
+我们的团队努力使我们的游戏具有高度的竞争力，并且充满了复古游戏的宁静时代的怀旧情怀！ 在发布时，我们将发布我们的第一款游戏 Nifty Smashers；一个 NFT brawler 让你与你的朋友和 Crypto Twitter 一起战斗！ 我们有几个即将推出的游戏选项，我们将根据社区的意见进行开发，但最终希望在社区开发人员的支持下看到我们平台的增长达到前所未有的极限（更多信息见下文）。
