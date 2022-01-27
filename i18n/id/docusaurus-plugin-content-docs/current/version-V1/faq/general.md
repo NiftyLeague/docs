@@ -21,6 +21,7 @@ Tidak, Anda hanya perlu satu DEGEN untuk bermain.
 Sesederhana menandatangani pesan untuk memverifikasi kepemilikan DEGEN Anda di dompet crypto Anda saat Anda meluncurkan game.
 
 ### **Apakah saya memerlukan pengontrol untuk memainkan game?**
+
 Tidak, meskipun menurut kami lebih mudah bermain dengan pengontrol (PS, Xbox, atau lainnya yang dikenali oleh PC/Mac) daripada keyboard.
 
 ### Mengapa penggantian nama meminta beberapa verifikasi?
