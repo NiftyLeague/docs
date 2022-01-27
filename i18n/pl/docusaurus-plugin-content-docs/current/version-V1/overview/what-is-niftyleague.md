@@ -4,18 +4,10 @@ title: Co to jest fajna liga?
 sidebar_position: 1
 ---
 
-Nifty League is leading competitive gaming in the metaverse - moving away from play-to-earn into a new era of play-and-earn by offering a fun and engaging gaming ecosystem.
-
-The NiftyVerse is centered around nostalgia where builders, players, and owners spend time connecting, gaming, and earning in Web3.
+Naszą misją jest stworzenie wiodącej platformy gier NFT poprzez zarządzanie społecznością i rozwój. Nifty League szczyci się tym, że jest jedną z pierwszych platform GameFi oferujących interaktywne gry typu „graj, aby zarobić” z dostosowywanymi postaciami; nie tylko kolejny spadek pfp ... 🙃
 
 ![](/img/story.gif)
 
-Players buy (and soon will be able to rent) their [DEGEN NFTs](https://opensea.io/collection/niftydegen) in order to compete and earn rewards in our ecosystem's token; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+Użytkownicy projektują, biją i grają jako swoje osobiste postacie, aby rywalizować i zdobywać nagrody w naszej społeczności, w tym token naszego ekosystemu; NFTL. Zakup Ethereum DEGEN zapewnia nie tylko tokeny NFTL, ale także odblokowuje tryby dla wielu graczy w naszych grach, dając Ci dostęp do turniejów publicznych.
 
-DEGENs earn NFTL tokens through gaming, which gives you a piece of ownership in the Nifty League DAO, the ability to buy in-game assets via our marketplace, purchase land in the NiftyVerse, and more.
-
-Nasz zespół stara się, aby nasze gry były wysoce konkurencyjne i pełne nostalgii po beztroskich czasach gier retro! At launch in September 2021, we released our first game Nifty Smashers; an NFT brawler where you battle it out with your DEGEN friends across 5 exciting levels.
-
-The Nifty League DEGEN community has and will continue to play a key role in shaping our roadmap and games. We hope to see the platform expand into a fully decentralized DAO, with the support of developers in the community and indie gaming studios globally.
-
-Finally, we are excited to partner with some of the largest Web3 gaming guilds in the world to expand our player community, drive our content growth loops and fuel awareness and engagement across the Nifty League ecosystem.
+Nasz zespół stara się, aby nasze gry były wysoce konkurencyjne i pełne nostalgii po beztroskich czasach gier retro! W dniu premiery wydamy naszą pierwszą grę Nifty Smashers; awanturnik NFT, abyś mógł walczyć ze znajomymi i Crypto na Twitterze! Mamy kilka nadchodzących opcji gry, które opracujemy w oparciu o wkład społeczności, ale ostatecznie mamy nadzieję, że dzięki wsparciu deweloperów społeczności ujrzymy limity rozwoju naszej platformy, których nie dostrzeżemy (więcej informacji poniżej).
