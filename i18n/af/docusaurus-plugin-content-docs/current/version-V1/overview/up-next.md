@@ -4,7 +4,7 @@ title: Volgende ➡️
 sidebar_position: 9
 ---
 
-Saam met bykomende speletjies het ons verskeie idees in die vooruitsig om voort te gaan om ons platform te laat groei. Een van ons hoofdoelwitte is om 'n NFT-mark te begin of saam te werk wat jou toelaat om herbruikbare NFT's soos motors of spesiale wapens vir ons speletjies te versamel. Hierdie slim kontrakte sal die ERC-1155 Ethereum multi-token standaard uitbrei om nie-slingerbare items te skep met 'n vasgestelde limiet op beskikbaarheid vir elkeen. As 'n bonus om ons speletjies te speel, wil ons items wat hier gekoop kan word toeken aan spelers wat dit dan kan verkoop of in die speletjie kan gebruik. Nog 'n opsie wat ons oorweeg, is die toekenning van tydvrygestelde NFT's soos skatkiste wat verbrand kan word, wat die versamelstuk binne onthul.
+Saam met bykomende speletjies het ons verskeie idees in die vooruitsig om voort te gaan om ons platform te laat groei. Een van ons hoofdoelwitte is om 'n mark bekend te stel wat jou toelaat om herbruikbare NFT's soos motors, spesiale wapens of draagbare items vir ons speletjies te versamel. Hierdie slim kontrakte sal die ERC-1155 Ethereum multi-token standaard uitbrei om nie-slingerbare items te skep met 'n vasgestelde limiet op beskikbaarheid vir elkeen. As 'n bonus om ons speletjies te speel, wil ons items wat hier gekoop kan word toeken aan spelers wat dit dan kan verkoop of in die speletjie kan gebruik. Nog 'n opsie wat ons oorweeg, is die toekenning van tydvrygestelde NFT's soos skatkiste wat verbrand kan word, wat die versamelstuk binne onthul.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Ons weet ons gemeenskap kan nie wag om hul cool DEGENS op straat ten toon te ste
 
 Ons span het stadigaan gedui op die komende nutsprogramme vir strokiesprente - soos jy dalk reeds bewus is, sal jy elke bladsy kan verbrand vir spesiale in-speletjie-items wat jou DEGEN'S NFTL-vermenigvuldiger verhoog ... maar die pret stop nie daar nie !
 
-We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Woord van Satoshi - die verkryging van 'n volledige versameling of 2 is _sterk_ aanbeveel.
+Ons het voorheen ons aanvanklike 4 strokiesprentbladsye na die mynwerkers laat vaar en het DEGEN-houers. Woord van Satoshi - die verkryging van 'n volledige versameling of 2 is _sterk_ aanbeveel.
 
 ## Items Marketplace
 
