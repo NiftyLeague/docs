@@ -4,7 +4,7 @@ title: Neste ➡️
 sidebar_position: 9
 ---
 
-Sammen med flere spill har vi flere ideer på lager for å fortsette å utvide plattformen vår. Et av hovedmålene våre er å lansere eller samarbeide med en NFT-markedsplass som lar deg samle gjenbrukbare NFT-er som biler eller spesielle våpen for spillene våre. Disse smarte kontraktene vil utvide ERC-1155 Ethereum multi-token-standarden for å lage ikke-fungible elementer med en fastsatt grense for tilgjengelighet for hver. Som en bonus for å spille våre spill, ønsker vi å gi varer som kan kjøpes her til spillere som deretter kan selge dem eller bruke dem i spillet. Et annet alternativ vi vurderer er å tildele tidsutgitte NFT-er som skattekister som kan brennes og avsløre samleobjektet inni.
+Sammen med flere spill har vi flere ideer på lager for å fortsette å utvide plattformen vår. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Disse smarte kontraktene vil utvide ERC-1155 Ethereum multi-token-standarden for å lage ikke-fungible elementer med en fastsatt grense for tilgjengelighet for hver. Som en bonus for å spille våre spill, ønsker vi å gi varer som kan kjøpes her til spillere som deretter kan selge dem eller bruke dem i spillet. Et annet alternativ vi vurderer er å tildele tidsutgitte NFT-er som skattekister som kan brennes og avsløre samleobjektet inni.
 
 ![](/img/nifty_roadmap.png)
 
@@ -57,7 +57,7 @@ Vi vet at samfunnet vårt ikke kan vente med å vise frem sine kule DEGENS på g
 
 Teamet vårt har sakte antydet de kommende verktøyene for tegneserier - som du kanskje allerede er klar over, vil du kunne brenne hver side for spesielle elementer i spillet som øker din DEGEN'S NFTL-multiplikator... men moroa stopper ikke der !
 
-We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in early 2022. Ord fra Satoshi - å sikre en full samling eller 2 er _sterkt_ anbefalt.
+Vi har tidligere sendt våre første 4 tegneseriesider til myntere og har fortsatt 2 sider igjen for DEGEN-innehavere tidlig i 2022. Ord fra Satoshi - å sikre en full samling eller 2 er _sterkt_ anbefalt.
 
 ## Markedsplass for varer
 
