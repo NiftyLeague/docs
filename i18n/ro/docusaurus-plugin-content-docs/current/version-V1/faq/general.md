@@ -21,7 +21,8 @@ Nu, aveți nevoie doar de un DEGEN pentru a juca.
 La fel de simplu ca să semnezi un mesaj pentru a verifica dreptul de proprietate asupra DEGEN-urilor tale în portofelul tău cripto, atunci când lansezi jocul.
 
 ### **Am nevoie de controlere pentru a juca jocul?**
-Nu, deși credem că este mai ușor să te joci cu un controler (PS, Xbox sau orice altul recunoscut de PC/Mac) decât cu o tastatură.
+
+No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
 
 ### De ce redenumirea solicită verificări multiple?
 
