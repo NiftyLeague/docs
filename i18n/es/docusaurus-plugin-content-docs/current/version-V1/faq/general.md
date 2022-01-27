@@ -21,7 +21,8 @@ No, solo necesitas un DEGEN para jugar.
 Tan simple como firmar un mensaje para verificar la propiedad de sus DEGEN en su billetera criptográfica cuando inicia el juego.
 
 ### **¿Necesito controladores para jugar el juego?**
-No, aunque creemos que es más fácil jugar con un mando (PS, Xbox o cualquier otro reconocido por PC/Mac) que con un teclado.
+
+No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
 
 ### ¿Por qué el cambio de nombre solicita múltiples verificaciones?
 
