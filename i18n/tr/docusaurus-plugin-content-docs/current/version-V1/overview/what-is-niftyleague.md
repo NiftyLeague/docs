@@ -1,21 +1,13 @@
 ---
 id: giriş
-title: About Nifty League
+title: Şık Lig Nedir?
 sidebar_position: 1
 ---
 
-Nifty League, metaverse'de rekabetçi oyunlara öncülük ediyor - eğlenceli ve ilgi çekici bir oyun ekosistemi sunarak oyna-kazandan yeni bir oyna ve kazan çağına geçiyor.
-
-NiftyVerse, inşaatçıların, oyuncuların ve sahiplerin Web3'te bağlantı kurmak, oyun oynamak ve kazanmak için zaman harcadıkları nostaljiyi merkez alır.
+Misyonumuz, topluluk yönetimi ve geliştirme yoluyla lider bir NFT oyun platformu oluşturmaktır. Nifty League, özelleştirilebilir karakterlerle etkileşimli oyna-kazan oyunları sunan ilk GameFi platformlarından biri olmaktan gurur duyar; sadece başka bir pfp düşüşü değil... 🙃
 
 ![](/img/story.gif)
 
-Oyuncular satın (ve yakında kiralamak mümkün olacak) onların [DEGEN NFT'ler](https://opensea.io/collection/niftydegen) yarışmak ve ödülleri kazanmak amacıyla bizim ekosistem en belirteç; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+Kullanıcılar, ekosistemimizin simgesi de dahil olmak üzere topluluğumuz içinde rekabet etmek ve ödüller kazanmak için kişisel karakter(ler)i olarak tasarlar, basar ve oynarlar; NFTL. Bir Ethereum DEGEN satın almak size yalnızca NFTL jetonları sağlamakla kalmaz, aynı zamanda oyunlarımızdaki çok oyunculu modların kilidini açarak size halka açık turnuvalara giriş hakkı verir.
 
-DEGEN'ler oyun yoluyla NFTL jetonları kazanır; bu size Nifty League DAO'da bir parça mülkiyet, pazarımız aracılığıyla oyun içi varlıkları satın alma, NiftyVerse'de arazi satın alma ve daha fazlasını sağlar.
-
-Ekibimiz, oyunlarımızı son derece rekabetçi ve retro oyunların yarı günlerinden kalma nostaljiyle dolu hale getirmek için çabalıyor! Eylül 2021'deki lansmanda ilk oyunumuz Nifty Smashers'ı piyasaya sürdük; 5 heyecan verici seviyede DEGEN arkadaşlarınızla savaşacağınız bir NFT kavgası.
-
-Nifty League DEGEN topluluğu, yol haritamızı ve oyunlarımızı şekillendirmede önemli bir rol oynadı ve oynamaya devam edecek. Topluluktaki geliştiricilerin ve küresel olarak bağımsız oyun stüdyolarının desteğiyle platformun tamamen merkezi olmayan bir DAO'ya genişlediğini görmeyi umuyoruz.
-
-Finally, we are excited to partner with some of the largest Web3 gaming guilds in the world to expand our player community, drive our content growth loops, and fuel awareness and engagement across the Nifty League ecosystem.
+Ekibimiz, oyunlarımızı son derece rekabetçi ve retro oyunların yarı günlerinden kalma nostaljiyle dolu hale getirmek için çabalıyor! Lansmanda ilk oyunumuz Nifty Smashers'ı yayınlayacağız; arkadaşlarınızla ve Crypto Twitter'la savaşmanız için bir NFT kavgacısı! Topluluk girdilerine dayalı olarak geliştireceğimiz birkaç oyun seçeneğimiz var, ancak nihayetinde, topluluk geliştiricilerinin desteğiyle platformumuzun büyüme sınırlarına ulaştığını görmeyi umuyoruz (daha fazla bilgi aşağıda).
