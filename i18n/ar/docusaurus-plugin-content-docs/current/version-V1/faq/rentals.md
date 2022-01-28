@@ -4,5 +4,3 @@ title: الإيجارات
 ---
 
 ### أين يمكنني استئجار DEGEN؟
-
-niftyleague.com/rentals
