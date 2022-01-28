@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## oprichters
 
-| Handige Andy            | Snarfy               | Handige Spike            |
-| ----------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Creatief directeur       |
+| Handige Andy                    | Snarfy                | Handige Spike            |
+| ------------------------------- | --------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)         | ![](/img/snarfy.png)  | ![](/img/NiftySpike.png) |
+| Web3-ontwikkeling / Speltheorie | Hoofdspelontwikkelaar | Creatief directeur       |
 
 ## Team
 
