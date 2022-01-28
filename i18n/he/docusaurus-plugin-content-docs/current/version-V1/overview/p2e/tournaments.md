@@ -4,6 +4,6 @@ title: טורנירים
 sidebar_position: 2
 ---
 
-הצטרף לכיף בטורנירים שבועיים או חודשיים! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
+**טורנירים 🏆**
 
-For any other activities you'd like to see implemented, please reach out to our team in Discord!
+הצטרף לכיף בטורנירים שבועיים או חודשיים! כל הטורנירים עשויים לקבל תמריצים על ידי תגמולים מקרן האוצר של הקהילה שלנו לפי **Nifty DAO** באמצעות הצבעה אסימונים. כמה מאלופי טורנירים עשויים אפילו ללכת משם עם מהדורה מיוחדת מפתח למצודה 🗝️ NFT... לכל פעילות אחרת שתרצה לראות מיושמת, אנא פנה לצוות שלנו!
