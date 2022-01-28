@@ -21,6 +21,7 @@ Ei, tarvitset vain yhden DEGENin pelataksesi.
 Yhtä yksinkertaista kuin viestin allekirjoittaminen vahvistaaksesi salauslompakossasi olevien DEGENien omistajuuden, kun käynnistät pelin.
 
 ### **Tarvitsenko ohjaimia pelatakseni peliä?**
+
 Ei, vaikka mielestämme on helpompi pelata ohjaimella (PS, Xbox tai millä tahansa muulla PC/Macin tunnistamalla) kuin näppäimistöllä.
 
 ### Miksi uudelleennimeäminen vaatii useita vahvistuksia?
