@@ -16,11 +16,11 @@ Naše současná hra Nifty Smashers a všechny budoucí hry budou mít speciáln
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Hod mincí Doge
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Člověk** – Hoďte dynamitem, který na povel exploduje
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Zjistěte více o těchto sadách pohybů v našem [Smashers Guide](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+V budoucnu si představujeme, že mohou být vydány nové "speciální" kmeny / vyhrazené pro škálovatelnost, nové hry, turnajové odměny a další.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
