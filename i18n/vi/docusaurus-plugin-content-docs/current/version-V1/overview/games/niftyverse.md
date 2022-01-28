@@ -4,16 +4,16 @@ title: NiftyVerse
 sidebar_position: 1
 ---
 
-### Đang được phát triển cho quý 2 năm 2022!
+### 🚧 Under development for Q2 2022 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
-Đất trong Nifty Verse sẽ được rao bán vào năm 2022.
+Land in the NiftyVerse will go up for sale in 2022.
 
-Bất kỳ ai cũng có thể sở hữu đất và xây dựng trong Nifty Verse.
+Anyone will be able to own land and build in the NiftyVerse.
 
-Chúng tôi dự định làm việc với các studio chơi game độc lập để cho phép họ xây dựng các trò chơi Nifty trong Nifty Verse.
+We plan to work with indie gaming studios and artists to allow them to build Nifty League games in the NiftyVerse!
 
 Lần lặp đầu tiên sẽ là một câu meta art pixel từ trên xuống, với chủ đề nghệ thuật Sushi đô thị.
 
-Tất cả các giao dịch mua đất trong Nifty Verse sẽ được thực hiện bằng **NFTL**.
+All land purchases in the Nifty Verse will be done using NFTL.
