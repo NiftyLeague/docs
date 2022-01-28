@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **基本信息**
 
-准备好吵架！ The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+准备好吵架！ **[Nifty Smashers](https://nifty-league.com/games)** 的本地多人游戏版本在发布时立即可用，随后是在线多人游戏。
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+在社区中进行战斗，并尽可能多地与您的朋友进行战斗！ Nifty Smashers 从经典的 Super Smash Bros 游戏中汲取灵感，其目标是将你的对手从地图上击落以得分。
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+您可以使用键盘或任何其他兼容的控制器（Playstation、Xbox 等）进行游戏。 进入游戏大厅，选择你的DEGEN进行战斗。
 
 ## 计分
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- 如果 DEGEN 被击中一次并死亡（从地图上掉下来），您将获得 1 分。
+- 如果一个 DEGEN 被多次击中而无法恢复，您获得分数的频率与 DEGEN 被击中一样多（无论之前的命中是否由另一个 DEGEN 完成 - 所以最后一个巨型炸弹将它们击出地图并声称该回合的所有分数）。
+- 你的对手被连续击倒的次数越多，他们反弹的速度就越快，你的击球得分就越多。
+- 最后一击杀死 DEGEN，获得所有连击点数。
+- 目前对 DEGEN 击中（组合）的频率没有上限，但您可以获得的点数有上限（最多 3 分：2 人比赛/最多 5 分：3&4 人比赛）。
+- 2人比赛需要5分才能赢得一轮。
+- 3 & 4 人比赛需要 10 分才能赢得一轮。
+- 比赛最好是5轮。
+- 如果在第 5 轮之后打成平局，则被打成平手的玩家进入突然死亡轮，其他玩家可以在场边观看。
 
-## Lag
+## 落后
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- 延迟指示器显示连接的延迟（ping 速度）。
+- 滞后通常表示您的 ping 速度高于 100 毫秒。
+- 一般来说，只要互联网上的玩家之间存在物理距离，就会始终存在延迟。 距离越大，滞后越大。
+- 开发人员使用不同的技术来补偿和隐藏滞后。
+- 我们已经实施了许多这样的延迟补偿技术，这些技术掩盖了延迟，以获得可能的最佳体验。
+- 我们还与世界各地的服务器整合了解决方案，以便我们可以匹配彼此最近的玩家，以尽可能减少延迟。 如果您有兴趣了解有关这些技术的更多信息，请查看 [这个帖子](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) 我们喜欢 Gabriel Gambetta 的滞后补偿。
 
 ## 自定义大厅
 
-- 自定义大厅可用于在选定区域中打开比赛。 The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- 自定义大厅可用于在选定区域中打开比赛。 大厅的创建者可以在大厅地图中看到可以与他人共享的代码。
+- 如果其他人想加入大厅，首先需要选择正确的区域，然后在输入框中输入大厅代码。
+- 使用自定义大厅代码时，应自动切换区域。
 
-## Changing Regions
+## 改变地区
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher 是一款快节奏的游戏，延迟/ping 至关重要。 所选区域离玩家的位置越近，ping 越低。
+- 在 Web-GL 或桌面应用程序中更改区域后，将显示当前 ping。
 
 # **战斗基础**
 
 ## 一般建议
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- 使用强烈推荐的控制器（Playstation、Xbox 或您的 PC/Mac 识别的任何其他控制器）玩游戏。
 
 ## 蝙蝠摆动
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- 球棒可以向所有可能的方向挥动：左、右、上、下、对角线。
+- 单击攻击按钮可以挥动球棒。
+- 较长的按钮按下会使球拍更难击球。
+- 蝙蝠可以在站立、跑步或跳跃时摆动。
+- 玩家可以在跳跃过程中长按攻击键——这通常是让你的对手吃惊的好方法。
 
 ## 移动
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- 作为 2D 游戏，移动方向是左/右。
+- 在跳跃/翻滚期间可以更改方向（使用控制器更容易完成）。
 
 ## 跳跃
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- 跳跃高度可以通过跳跃按钮的持续时间来改变。
+- 在跳跃/翻滚过程中可以改变方向。
 
 ## 飞行汉堡
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- 抓住飞行的汉堡包会让你的 DEGEN 的球棒击打得更厉害——这通常会导致直接击杀。
+- 我们正在考虑按时间和/或杀死限制汉堡增益持续时间。
 
-# **Tribe Specifics**
+# **部落细节**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_所有 DEGEN 部落都有一个特殊能力（“SA”），这将在所有 Nifty League 游戏（现场和未来）中保持一致。_
 
 ## 特殊能力列表
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## 外星人
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- 按下 SA 按钮，Alien 可以向目标方向（左、右、上、下、对角线）传送一小段距离。
+- 传送的位置发生能量爆炸，击中站在附近的对手。
 
 ## 猿
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- 按下 SA 按钮会向目标方向（左、右、上、下、对角线）投掷香蕉，直到它击中对手、击中地图部分或飞出地图。
+- 再次按下 SA 按钮会使香蕉飞回 DEGEN，从而有可能再次击中对手。
+- 香蕉可以用球棒击打并朝目标方向飞行。
 
 ## 猫
 
-- 按下 SA 会使猫扑上去。 After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- 按下 SA 会使猫扑上去。 猛扑一小会后，猫获得了力量。
+- 强大的球棒挥杆意味着球棒击打得更重。
+- 有力的运动意味着猫跑得更快。
+- 猫可以在半空中进行二段跳和跳跃。
 
 ## 总督
 
 - 按住 SA 按钮使总督滚动。
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- 用 doge roll 击中对手会使他们在滚动方向上飞起来。
+- 总督将朝目标方向飞滚。
+- 在 doge roll 期间，可以更改方向 3 次，直到 doge roll 结束。
+- 总督滚动也会在一定时间后结束。
 
 ## 青蛙
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- 按下 SA 按钮会使青蛙吐舌头。
+- 当舌头碰到对手时，对手会被拉向青蛙的方向并飞得更远。
+- 当舌头碰到地图时，青蛙会将自己拉向那个物体（例如墙壁、天花板等）。
+- 舌头可以朝目标方向（左，右，上，下，对角线）射击。
 
 ### 人类
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- 按下 SA 按钮会朝目标方向（左、右、上、下、对角线）投掷炸弹。
+- 炸弹有飞行曲线，不会像香蕉那样直线飞行（如果不引爆，它会停留在地面上）。
+- 炸弹在一段时间后或在第二次按下 SA 按钮后爆炸。
+- 目前，炸弹可以通过击中或爆炸来击中对手。
+- 炸弹是唯一可以用爆炸击中投掷的 DEGEN 本身的 SA。
+- 炸弹可以用蝙蝠击中并朝目标方向飞行。
+- 我们计划更新游戏，使炸弹在与对手接触后立即引爆。 如果没有击中对手，它会一直停留在地面上，直到它自动爆炸或第二次按下 SA 按钮后。
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+请加入我们的 **[Discord](https://discord.gg/niftyleague)** ，就我们如何改进游戏并将其提升到新的水平提供反馈和想法。
