@@ -13,22 +13,129 @@ sidebar_position: 2
 
 ---
 
-¡Prepárate para pelear! La versión multijugador local de **[Nifty Smashers](https://nifty-league.com/games)** estuvo disponible inmediatamente en el lanzamiento, ¡seguida por el modo multijugador en línea! Así que toma algunos controles 🎮 y juega con amigos.
+# **Información general**
 
-¡Combate entre la comunidad y consigue tantos _bat_ 🥖 con tus amigos como puedas! **Nifty Smashers** se inspira en el clásico juego Super Smash Bros, donde el objetivo es eliminar a tus oponentes del mapa para sumar puntos. Para jugar necesitarás un **DEGEN** para seleccionar para la batalla, y luego usar tu teclado, Playstation o controlador de Xbox como entrada (¡el modo multijugador del sofá también funciona!). ¡Desde el lobby del juego podrás seleccionar cualquiera de tus **DEGENs** acuñados previamente que tengas en tu billetera para mostrar tus geniales creaciones! Cada tribu tiene un movimiento especial único, así que experimenta con diferentes tribus y encuentra el conjunto de movimientos que mejor se adapte a tu estilo de juego. Mantenga presionado el botón de ataque para un ataque de murciélago cargado, también se pueden cargar algunos movimientos especiales. Cuando golpeas a otro jugador, vale 1 punto. Cuanto más se golpean sucesivamente, más rápido rebotan y más puntos valen. ¡Consigue el mega-bonk final para sacarlos del mapa y reclamar todos los puntos!
+¡Prepárate para pelear! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
 
-**Como se señaló, esta es una versión beta de nuestro juego inicial, por lo que se esperan retrasos y problemas con los molestos bots.** Nuestro plan inmediato es continuar con el desarrollo de **Nifty Smashers** e introducir más funciones, como movimientos combinados adicionales y un sistema de progresión. ¡Únete a nuestro **[Discord](https://discord.gg/niftyleague)** para brindar comentarios e ideas sobre cómo podemos mejorar **Nifty Smashers** y llevarlo al siguiente nivel!
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-<!-- ![](/img/highlights.gif) -->
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
 
-**Retraso multijugador en línea ☁️**
+## Puntuación
 
-Con el alfa en curso, hablemos del retraso en los juegos de pelea rápidos y ágiles como **Nifty Smashers**.
+- If a DEGEN is hit once and dies (fall off map) you get 1 point.
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
+- The last hit that kills the DEGEN, gets all combo points.
+- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
+- A 2-player match require 5pts to win a round.
+- 3 & 4-player matches require 10pts to win a round.
+- Matches are best of 5 rounds.
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
 
-En términos generales, el retraso siempre está presente cuando hay distancia física entre los jugadores en Internet. Cuanto mayor es la distancia, mayor es el retraso. Existen diferentes técnicas & trucos que utilizan los desarrolladores para compensar y ocultar el retraso. Hemos implementado varias de estas técnicas de compensación de retraso que velan el retraso para obtener la mejor experiencia posible. También hemos incorporado soluciones con servidores en todo el mundo para que podamos emparejar a los jugadores más cercanos entre sí para minimizar el retraso tanto como sea posible.
+## Lag
 
-No obstante, teniendo en cuenta el nivel de capacidad de respuesta que requieren los luchadores de ritmo rápido ⚡, esperamos algo de retraso cuando lancemos el modo multijugador en línea.
+- The lag indicator shows the lag (ping speed) of your connection.
+- Lag tyipcally indicates your ping speed is above 100ms.
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
+- There are different techniques that developers use to compensate and hide the lag.
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
 
-Estamos emocionados de compartir nuestro progreso con usted tan pronto como sea posible. Después del lanzamiento, con sus comentarios, haremos todo lo que esté a nuestro alcance para que el retraso sea lo más imperceptible posible.
+## Vestíbulo personalizado
 
-Si está interesado en aprender más sobre estas técnicas, aquí hay una excelente lectura de Gabriel Gambetta sobre **[Lag Compensation](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)**.
+- Se puede usar un lobby personalizado para abrir un partido en una región elegida. The creator of the lobby can see a code in the lobby map which can be shared with others.
+- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
+- When using a custom lobby code, the region should be switched automatically.
+
+## Changing Regions
+
+- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+
+# **Conceptos básicos de batalla**
+
+## Consejos generales
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+
+## Columpios de bate
+
+- The bat can be swung in all possible direction: left, right, up, down, diagonals.
+- The bat can be swung by clicking the attack button.
+- Longer button presses makes the bat hit harder.
+- The bat can be swung while standing, running, or jumping.
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+
+## Moviente
+
+- As a 2D Game, moving directions are left/right.
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+
+## saltando
+
+- Jump height can be altered by press-duration of jump button.
+- Directions can be changed during jumps/tumble.
+
+## Hamburguesa voladora
+
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
+- We are considering limiting burger buff duration by time and/or kill.
+
+# **Tribe Specifics**
+
+_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+
+## Lista de habilidades especiales
+
+- **Ape** - Lanza bananas boomerang
+- **Alien** - Teletransporte
+- **Cat** : salta y obtén potencia de bate y aumento de velocidad temporalmente
+- **Rana** - El gancho de la lengua
+- **Doge** - Rollo de moneda Doge
+- **Humano** - Lanza dinamitas que explotan al mando
+
+## Extraterrestre
+
+- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
+- There is a energy explosion at the teleported location, hitting opponents that stand near.
+
+## Mono
+
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
+- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
+- Bananas can be hit with a bat and fly in the aimed direction.
+
+## Gato
+
+- Presionar el SA hace que el gato salte. After pouncing for a short duration, the cat ges empowered.
+- Empowered bat swing means the bat hits harder.
+- Empowered movement means the cat runs faster.
+- Cats can double jump and jump in mid-air.
+
+## Dux
+
+- Presionar y mantener presionado el botón SA hace que el dux ruede.
+- Hitting an opponent with doge roll makes them fly upwards in roll direction.
+- Doge will fly-roll in the aimed direction.
+- During doge roll, directions can be changed three times until doge roll ends.
+- Doge roll also ends after a certain time.
+
+## Rana
+
+- Pressing the SA button makes the Frog shoot his tongue.
+- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
+- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+
+### Humano
+
+- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
+- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
+- The bomb explodes after some time or after the SA button is pressed a second time.
+- Currently the bomb can hit an opponent by hitting it or via explosion.
+- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
+- Bombs can be hit with a bat and fly in the aimed direction.
+- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
