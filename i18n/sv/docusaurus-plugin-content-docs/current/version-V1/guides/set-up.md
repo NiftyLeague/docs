@@ -4,7 +4,4 @@ title: Konfigurera din plånbok
 sidebar_position: 0,5
 ---
 
-1. Select Launch App in the top navigation bar
-2. Select Connect
-3. Choose the crypto wallet which holds your DEGEN NFT
-4. Signera transaktionen när du uppmanas.
+Tryck på Starta app i det övre navigeringsfältet till höger. Tryck på Anslut. Välj kryptoplånboken som håller din DEGEN NFT. Signera transaktionen när du uppmanas. 
