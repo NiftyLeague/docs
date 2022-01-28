@@ -4,8 +4,14 @@ title: Σχετικά με
 sidebar_position: 1
 ---
 
-Η διαδικασία κοπής για το Nifty League ήταν ένα μοναδικό θέαμα που επέτρεψε στους τεχνίτες να σχεδιάσουν το δικό τους DEGEN χρησιμοποιώντας το Mint-O-Matic!
+The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
 
 ![](/img/mintomatic.gif)
 
-Υπήρχαν 6 φυλές που περιλαμβάνουν: πίθηκους, ανθρώπους, σκύλους, βατράχους, γάτες και εξωγήινους. Αυτή η απόφαση δεν επηρεάζει μόνο τα διαθέσιμα χαρακτηριστικά χαρακτήρων και αξεσουάρ, αλλά καθορίζει ορισμένους μηχανισμούς και ειδικές κινήσεις εντός του παιχνιδιού. Κατά τη διάρκεια της πώλησης, μπορείτε να ελέγξετε τη σελίδα μας DEGENS για να περιηγηθείτε στα κομμένα DEGENS για να προσδιορίσετε ποιες φυλές είναι πιο σπάνιες από άλλες. Οι παίκτες θα έλκονται φυσικά προς ορισμένους χαρακτήρες με βάση τις προσωπικές τους προτιμήσεις, καθώς το παιχνίδι και οι ειδικές κινήσεις μπορεί να είναι αρκετά διαφορετικές μεταξύ τους για ορισμένα παιχνίδια. Θα μπορείτε να επιλέξετε ποιον από τους χαρακτήρες σας θα χρησιμοποιήσετε πριν από κάθε παιχνίδι (άρα δεν είναι κακό να έχετε έναν από κάθε φυλή!) 😉
+There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+
+The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+
+Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+
+Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
