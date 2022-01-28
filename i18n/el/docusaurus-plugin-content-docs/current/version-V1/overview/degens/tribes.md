@@ -16,11 +16,11 @@ sidebar_position: 2
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Ρολό κέρματος Doge
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Πέτα δυναμίτη που εκρήγνυται κατόπιν εντολής
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Μάθετε περισσότερα για αυτά τα σετ κίνησης στον Οδηγό [](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+Στο μέλλον, οραματιζόμαστε ότι νέες «ειδικές» φυλές ενδέχεται να κυκλοφορήσουν / να δεσμευτούν για επεκτασιμότητα, νέα παιχνίδια, ανταμοιβές τουρνουά και πολλά άλλα.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
