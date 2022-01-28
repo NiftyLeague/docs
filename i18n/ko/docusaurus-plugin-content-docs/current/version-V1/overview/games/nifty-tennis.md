@@ -4,14 +4,14 @@ title: 멋진 테니스
 sidebar_position: 삼
 ---
 
-### 🚧 Under development for 2022 🚧
+### 🚧 2022년 개발 중 🚧
 
 ![](/img/NiftyTennis.jpeg)
 
-- 1-4 players local and online multiplayer, singles or doubles.
-- Choose to be the line umpire and make important calls.
-- Be an audience member and emote from the crowd.
-- Discord voice integration for both players and audience.
-- Play on a variety of court surfaces in unique stages.
-- Equip different racquets & items for a temporary tactical advantage.
-- Compete for the _Nifty League Grand Slam Cup_.
+- 1-4인 로컬 및 온라인 멀티플레이어, 단식 또는 복식.
+- 라인 심판이 되어 중요한 전화를 걸도록 선택하십시오.
+- 청중이 되어 군중의 감정을 표현하십시오.
+- 플레이어와 청중 모두를 위한 Discord 음성 통합.
+- 독특한 스테이지에서 다양한 코트 표면에서 플레이하십시오.
+- 일시적인 전술적 이점을 위해 다른 라켓 장비 &
+- _Nifty League 그랜드 슬램 컵_위해 경쟁하십시오.
