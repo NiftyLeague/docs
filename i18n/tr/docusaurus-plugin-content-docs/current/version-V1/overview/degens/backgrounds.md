@@ -6,7 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN arka planları, ya ortak bir arka planla ya da üç özel seçenekten biriyle sonuçlanan basım üzerine rastgele atandı: **Nadir**, **Meta**veya **Efsanevi**. Havalı görünmenin yanı sıra arka plan, oyunda seçkin bir görünüm ve ekstra kazanç çarpanları gibi özel avantajlarla birlikte gelir.
+DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+
+Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
 
 ### Kazanç Çarpanları
 
