@@ -4,16 +4,16 @@ title: NiftyVerse
 sidebar_position: 1
 ---
 
-### În curs de dezvoltare pentru T2 2022!
+### 🚧 Under development for Q2 2022 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
-Terenul din Nifty Verse va fi scos la vânzare în 2022.
+Land in the NiftyVerse will go up for sale in 2022.
 
-Oricine va putea să dețină teren și să construiască în Nifty Verse.
+Anyone will be able to own land and build in the NiftyVerse.
 
-Intenționăm să lucrăm cu studiouri de jocuri independente pentru a le permite să creeze jocuri Nifty în Nifty Verse.
+We plan to work with indie gaming studios and artists to allow them to build Nifty League games in the NiftyVerse!
 
 Prima iterație va fi un metaverset de sus în jos, pixel art, cu tema urbană Sushi art.
 
-Toate achizițiile de terenuri din Nifty Verse se vor face folosind **NFTL**.
+All land purchases in the Nifty Verse will be done using NFTL.
