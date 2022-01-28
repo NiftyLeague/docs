@@ -21,7 +21,8 @@ Non, vous n'avez besoin que d'un DEGEN pour jouer.
 Aussi simple que de signer un message pour vérifier la propriété de vos DEGEN dans votre portefeuille crypto lorsque vous lancez le jeu.
 
 ### **Ai-je besoin de manettes pour jouer au jeu ?**
-Non, même si nous pensons qu'il est plus facile de jouer avec une manette (PS, Xbox ou toute autre manette reconnue par PC/Mac) qu'avec un clavier.
+
+Non, même si nous pensons qu'il est plus facile de jouer avec une manette (PS, Xbox, ou toute autre reconnue par PC/Mac) qu'avec un clavier.
 
 ### Pourquoi le changement de nom demande-t-il plusieurs vérifications ?
 
