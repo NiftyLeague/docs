@@ -16,11 +16,11 @@ sidebar_position: 2
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**ドージ** ドージコインロール
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**人間** コマンドで爆発するダイナマイトを投げる
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+これらのムーブセットの詳細については、 [マッシャーガイド](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+将来的には、スケーラビリティ、新しいゲーム、トーナメント報酬などのために、新しい「特別な」部族がリリース/予約される可能性があることを想定しています。
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
