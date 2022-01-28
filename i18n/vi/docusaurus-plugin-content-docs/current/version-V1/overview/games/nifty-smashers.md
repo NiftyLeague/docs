@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **Thông tin chung**
 
-Hãy sẵn sàng để ẩu đả! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+Hãy sẵn sàng để ẩu đả! Phiên bản nhiều người chơi cục bộ của **[Nifty Smashers](https://nifty-league.com/games)** đã được cung cấp ngay khi ra mắt, sau đó là phần nhiều người chơi trực tuyến.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+Chiến đấu với nó giữa cộng đồng và nhận được càng nhiều bat bonks với bạn bè của bạn càng tốt! Nifty Smashers lấy cảm hứng từ trò chơi Super Smash Bros cổ điển, trong đó mục tiêu là hạ gục đối thủ của bạn khỏi bản đồ để ghi điểm.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+Bạn có thể chơi bằng bàn phím hoặc bất kỳ bộ điều khiển tương thích nào khác (Playstation, Xbox, v.v.). Vào sảnh trò chơi và chọn DEGEN của bạn cho trận chiến.
 
 ## Chấm điểm
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- Nếu DEGEN bị đánh một lần và chết (rơi khỏi bản đồ), bạn nhận được 1 điểm.
+- Nếu một DEGEN bị đánh nhiều lần mà không thể hồi phục, bạn sẽ nhận được điểm thường xuyên như DEGEN bị đánh (bất kể các lần đánh trước đó có được thực hiện bởi một DEGEN khác hay không - vì vậy hãy hạ gục siêu phẩm cuối cùng để đánh chúng khỏi bản đồ và yêu cầu tất cả các điểm cho vòng).
+- Đối thủ của bạn càng bị bon chen liên tiếp, chúng sẽ tung ra xung quanh càng nhanh và bạn càng ghi được nhiều điểm cho việc bon chen.
+- Đòn đánh cuối cùng giết DEGEN, nhận được tất cả các điểm kết hợp.
+- Hiện tại, không có giới hạn về tần suất một đòn DEGEN có thể bị đánh (kết hợp), nhưng có giới hạn về số điểm bạn có thể nhận được (tối đa 3 điểm: trận đấu 2 người / tối đa 5 điểm: 3&trận đấu 4 người ).
+- Một trận đấu 2 người chơi yêu cầu 5 điểm để giành chiến thắng một vòng.
+- 3 & trận đấu 4 người chơi yêu cầu 10 điểm để giành chiến thắng một vòng.
+- Các trận đấu có kết quả tốt nhất là 5 hiệp.
+- Nếu có hòa sau hiệp thứ 5, các đấu thủ bị hòa sẽ chuyển sang một hiệp đấu tử thần mà các đấu thủ khác phải quan sát từ bên lề.
 
-## Lag
+## Lỗi
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- Chỉ báo độ trễ hiển thị độ trễ (tốc độ ping) của kết nối của bạn.
+- Lag tyipcally cho biết tốc độ ping của bạn trên 100ms.
+- Nói chung, độ trễ luôn xuất hiện bất cứ khi nào có khoảng cách vật lý giữa những người chơi trên internet. Khoảng cách càng lớn thì độ trễ càng lớn.
+- Có nhiều kỹ thuật khác nhau mà các nhà phát triển sử dụng để bù đắp và che giấu độ trễ.
+- Chúng tôi đã triển khai một số kỹ thuật bù độ trễ này để che đi độ trễ để có trải nghiệm tốt nhất có thể.
+- Chúng tôi cũng đã kết hợp các giải pháp với các máy chủ trên toàn thế giới để có thể kết hợp những người chơi gần nhau nhất để giảm thiểu độ trễ nhất có thể. Nếu bạn muốn tìm hiểu thêm về các kỹ thuật này, hãy xem [bài đăng này](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) mà chúng tôi yêu thích trên Lag Compensation của Gabriel Gambetta.
 
 ## Sảnh tùy chỉnh
 
-- Một sảnh tùy chỉnh có thể được sử dụng để mở một trận đấu trong một khu vực đã chọn. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- Một sảnh tùy chỉnh có thể được sử dụng để mở một trận đấu trong một khu vực đã chọn. Người tạo sảnh có thể thấy một mã trong bản đồ sảnh và mã này có thể được chia sẻ với những người khác.
+- Nếu một nhân viên khác muốn tham gia sảnh, trước tiên anh ta cần chọn đúng khu vực và sau đó nhập mã sảnh vào ô nhập liệu.
+- Khi sử dụng mã sảnh tùy chỉnh, khu vực sẽ được chuyển đổi tự động.
 
-## Changing Regions
+## Thay đổi khu vực
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher là một trò chơi có nhịp độ nhanh, trong đó độ trễ / ping là rất quan trọng. Khu vực được chọn càng gần vị trí của người chơi, ping càng thấp.
+- Sau khi thay đổi vùng trong Ứng dụng Web-GL hoặc Máy tính để bàn, ping hiện tại được hiển thị.
 
 # **Khái niệm cơ bản về trận chiến**
 
 ## Lời khuyên chung
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- Chơi với bộ điều khiển được khuyến khích cao (Playstation, Xbox hoặc bất kỳ bộ điều khiển nào khác được PC / Mac của bạn công nhận).
 
 ## Đu quay con dơi
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- Con dơi có thể được xoay theo tất cả các hướng có thể: trái, phải, lên, xuống, đường chéo.
+- Con dơi có thể được xoay bằng cách nhấp vào nút tấn công.
+- Nhấn nút lâu hơn làm cho con dơi đánh mạnh hơn.
+- Con dơi có thể đu đưa khi đứng, chạy hoặc nhảy.
+- Người chơi có thể nhấn và giữ nút tấn công trong khi nhảy - đây thường là một cách hay để gây bất ngờ cho (các) đối thủ của bạn.
 
 ## Động
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- Là một Game 2D, hướng di chuyển là trái / phải.
+- Hướng có thể được thay đổi trong khi nhảy / nhào lộn (điều này dễ thực hiện hơn nhiều khi sử dụng bộ điều khiển).
 
 ## Nhảy
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- Chiều cao bước nhảy có thể được thay đổi bằng thời lượng nhấn của nút nhảy.
+- Hướng có thể được thay đổi trong khi nhảy / nhào lộn.
 
 ## Bánh hamburger bay
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- Bắt được chiếc bánh hamburger đang bay sẽ làm cho cú đánh của con dơi DEGEN của bạn mạnh hơn nhiều - điều này thường dẫn đến giết trực tiếp.
+- Chúng tôi đang xem xét việc giới hạn thời gian buff burger theo thời gian và / hoặc giết.
 
-# **Tribe Specifics**
+# **Thông tin cụ thể về bộ lạc**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_Tất cả các bộ tộc DEGEN đều có Năng lực Đặc biệt (“SA”), khả năng này sẽ nhất quán trong tất cả các trò chơi Nifty League (trực tiếp và trong tương lai)._
 
 ## Danh sách các khả năng đặc biệt
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## Người ngoài hành tinh
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- Nhấn nút SA giúp Alien có thể dịch chuyển một khoảng cách ngắn theo hướng đã nhắm (trái, phải, lên, xuống, đường chéo).
+- Có một vụ nổ năng lượng tại vị trí được dịch chuyển, đánh trúng đối thủ đứng gần.
 
 ## Ape
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- Nhấn nút SA ném chuối theo hướng đã nhắm (trái, phải, lên, xuống, đường chéo) cho đến khi trúng đối thủ, trúng một phần bản đồ hoặc bay khỏi bản đồ.
+- Nhấn nút SA một lần nữa làm cho quả chuối bay trở lại vị trí DEGEN, giúp bạn có thể bắn trúng đối thủ một lần nữa.
+- Chuối có thể được đánh bằng gậy và bay theo hướng đã định.
 
 ## Con mèo
 
-- Nhấn SA làm cho con mèo vồ. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- Nhấn SA làm cho con mèo vồ. Sau khi vồ vập trong một thời gian ngắn, con mèo đã được trao quyền.
+- Cú vung gậy có sức mạnh có nghĩa là gậy đánh mạnh hơn.
+- Chuyển động có sức mạnh có nghĩa là con mèo chạy nhanh hơn.
+- Mèo có thể nhảy đôi và nhảy giữa không trung.
 
 ## Doge
 
 - Nhấn và giữ nút SA làm cho doge lăn.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- Đánh đối thủ bằng cuộn doge khiến chúng bay lên trên theo hướng cuộn.
+- Doge sẽ bay lăn theo hướng đã định.
+- Trong quá trình cuộn doge, hướng có thể được thay đổi ba lần cho đến khi cuộn doge kết thúc.
+- Doge roll cũng kết thúc sau một thời gian nhất định.
 
 ## Con ếch
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- Nhấn nút SA khiến Ếch bắn ra lưỡi.
+- Khi lưỡi chạm vào đối thủ, đối thủ đó bị kéo về hướng ếch và bay xa hơn một chút.
+- Khi lưỡi chạm vào một mảnh bản đồ, ếch tự kéo mình đến đối tượng đó (ví dụ: tường, trần nhà, v.v.)
+- Lưỡi có thể được bắn theo hướng nhắm (trái, phải, lên, xuống, đường chéo).
 
 ### Nhân loại
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- Nhấn nút SA ném bom theo hướng đã nhắm (trái, phải, lên, xuống, đường chéo).
+- Quả bom có đường bay lượn chứ không bay thẳng như chuối (nếu không nổ thì vẫn nằm trên mặt đất).
+- Bom sẽ nổ sau một thời gian hoặc sau khi nhấn nút SA lần thứ hai.
+- Hiện tại, bom có thể bắn trúng đối thủ bằng cách bắn trúng hoặc thông qua vụ nổ.
+- Bom là loại SA duy nhất có thể tự ném DEGEN bằng vụ nổ của nó.
+- Bom có thể được đánh bằng gậy và bay theo hướng đã định.
+- Chúng tôi dự định cập nhật trò chơi để quả bom phát nổ ngay sau khi tiếp xúc với đối thủ. Nếu không có đối thủ nào bị bắn trúng, nó sẽ nằm trên mặt đất cho đến khi tự động phát nổ hoặc sau khi nhấn nút SA lần thứ hai.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+Vui lòng tham gia **[Discord](https://discord.gg/niftyleague)** của chúng tôi để cung cấp phản hồi và ý tưởng về cách chúng tôi có thể cải thiện trò chơi và đưa trò chơi lên cấp độ tiếp theo.
