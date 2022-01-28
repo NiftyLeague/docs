@@ -4,14 +4,14 @@ title: Di
 sidebar_position: 1
 ---
 
-The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
+Il processo di conio per Nifty League ha consentito ai minatori la possibilità di progettare il proprio DEGEN utilizzando il nostro Mint-O-Matic, che la nostra community ha assolutamente adorato!
 
 ![](/img/mintomatic.gif)
 
-There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+Ci sono 6 tribù di DEGEN: scimmie, umani, cani, rane, gatti e alieni.
 
-The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+Il design del DEGEN ha influenzato i tratti del personaggio e gli accessori disponibili e ha determinato alcune meccaniche di gioco e mosse speciali.
 
-Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+I minatori sono stati in grado di sfogliare i DEGEN già coniati per determinare quali tribù erano più rare di altre e verso quale tipo di DEGEN gravitavano.
 
-Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
+Sebbene i nostri NFT siano stati coniati nell'ottobre 2021, possono essere acquistati sul mercato secondario tramite [OpenSea](https://opensea.io/collection/niftydegen).
