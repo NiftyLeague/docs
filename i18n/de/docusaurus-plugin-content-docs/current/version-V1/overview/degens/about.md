@@ -4,14 +4,14 @@ title: Etwa
 sidebar_position: 1
 ---
 
-The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
+Der Prägeprozess für Nifty League ermöglichte es den Münzern, ihre eigenen DEGEN mit unserem Mint-O-Matic zu entwerfen, das unsere Community absolut liebte!
 
 ![](/img/mintomatic.gif)
 
-There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+Es gibt 6 Stämme von DEGENs: Affen, Menschen, Hunde, Frösche, Katzen und Aliens.
 
-The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+Das Design des DEGEN wirkte sich auf verfügbare Charaktereigenschaften und Accessoires aus und bestimmte bestimmte Mechaniken und Spezialbewegungen im Spiel.
 
-Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+Münzmeister konnten bereits geprägte DEGENS durchsuchen, um festzustellen, welche Stämme seltener waren als andere und zu welcher Art von DEGEN sie tendierten.
 
-Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
+Obwohl unsere NFTs im Oktober 2021 geprägt wurden, können sie auf dem Sekundärmarkt über [OpenSea](https://opensea.io/collection/niftydegen).
