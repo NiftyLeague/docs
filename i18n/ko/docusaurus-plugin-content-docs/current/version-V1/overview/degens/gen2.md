@@ -4,8 +4,8 @@ title: 미래의 캐릭터
 sidebar_position: 5
 ---
 
-As our ecosystem grows, we will partner with other popular NFT projects to increase the player capacity in our games, which are only available to **DEGEN** owners or renters.
+생태계가 성장함에 따라 다른 인기 있는 NFT 프로젝트와 파트너 관계를 맺어 **** 소유자 또는 임대인만 사용할 수 있는 게임의 플레이어 용량을 늘릴 것입니다.
 
 **DEGENS** 의 고유한 특성 조합은 **_절대_** 다시 만들 수 없으며 모든 새로운 세대의 캐릭터는 원래 부족에 고유한 변형을 사용하여 설계되거나 완전히 새로운 부족 및 특성이 될 것이라는 점에 유의하는 것이 중요합니다. 전부. 모든 Nifty League NFT는 게임을 플레이하고 커뮤니티에 기여하여 일일 보상을 얻을 수 있는 기회를 갖게 되지만, 토큰 배출에 설명된 대로 **DEGEN** **첫 3년** **NFTL** 토큰을 받게 됩니다.
 
-We are always monitoring demand on other blockchains, and will consider expanding to another EVM-compatible blockchain in order to onboard new users and enable cross-chain gaming. This may also become a requirement if we introduce games which require frequent user transactions. If we move multi-chain, **60%** of all proceeds from future character sales will be sent to the **Nifty DAO** with the remainder going to the core team for putting the infrastructure in place and preparing new contracts and characters for the new blockchain(s). Current Ethereum **DEGEN** holders should expect a free NFT mint on future blockchain(s) as well.
+우리는 항상 다른 블록체인에 대한 수요를 모니터링하고 있으며 새로운 사용자를 온보딩하고 크로스체인 게임을 가능하게 하기 위해 다른 EVM 호환 블록체인으로 확장하는 것을 고려할 것입니다. 이것은 빈번한 사용자 거래가 필요한 게임을 도입하는 경우에도 요구 사항이 될 수 있습니다. 우리는 멀티 체인을 이동하는 경우, **60 %** 미래 문자 판매의 모든 수익금은 전송됩니다 **맵시 DAO** 나머지는 새로운 새로운 계약과 문자를 장소에 인프라를 넣고 준비하기위한 핵심 팀에가는 블록체인. 현재 이더리움 **DEGEN** 보유자는 미래 블록체인에서도 무료 NFT 발행을 기대해야 합니다.
