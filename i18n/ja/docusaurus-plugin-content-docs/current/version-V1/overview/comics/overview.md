@@ -4,30 +4,30 @@ title: 概要
 sidebar_position: 1
 ---
 
-During minting, we surprised the community with a special Nifty League launch comic collection to say thank you for minting our collection and for being early 😁
+まるで私たちの鋳造プロセスがあなたたちにとってまだ十分に楽しくなかったかのように...私たちは特別なニフティリーグのローンチコミックコレクションでコミュニティを驚かせました！ これは、私たちのコレクションを作成してくれて、早くしてくれてありがとうと言っていました😁
 
 コミックのスナップショットは、次のマイルストーンで最初の4つのコミックページの作成プロセス全体で取得されました。ページ2-3500 |ページ3-5000 |ページ4-7500。
 
-ニフティリーグコミックコレクションは6ページで構成されており、コミック5と6はまだリリースされていません。 There will be a snapshot on **1/31/2022** for comic 5 awarded to all DEGEN holders, and comic 6 awarded to all wallets containing all 6 DEGEN tribes. All Meta background DEGENs will receive one comic 6 and all Legendary background DEGENs will receive two comic 6s. これらは、当社のWebサイトの請求を通じて利用可能になります。
+あなたはおそらく「コミックで何をするのか」と疑問に思っているでしょう。 ええと、彼らは複数のユーティリティを持っているので、あなたはいくつかの選択をするつもりです。 だから、あなたがあなた自身の道を選ぶためにここのゲームの中にゲームがあります。
 
-各コミックは、燃やされた各ページと引き換えにゲーム内のウェアラブルまたは武器を受け取るために、将来的に燃やされる予定です。
+ニフティリーグコミックコレクションは6ページで構成されており、コミック5と6はまだリリースされていません。 2022年1月31日に、すべてのDEGEN保有者に授与されるコミック5と、6つのDEGEN部族すべてを含むすべてのウォレットに授与されるコミック6のスナップショットがあります。 すべてのメタ背景DEGENSは1つのコミック6を受け取り、すべての伝説的な背景DEGENSは2つのコミック6を受け取ります！ これらは、当社のWebサイトの請求を通じて利用可能になります。
 
-現在、DEGENごとに埋めることができるスロットの正確な数を決定していますが、DEGENNFTごとに割り当て可能なウェアラブルは1つだけです。
+各コミックは、燃やされた各ページと引き換えにゲーム内のウェアラブルまたは武器を受け取るために、将来的に燃やされる予定です。 ただし、この書き込みウィンドウは永遠ではなく、各所有者はコレクションの将来のためにいくつかの難しい決定を行うことを余儀なくされます。
+
+聡は、彼がちょうど約すべてにフルコレクションを愛している私たちに語った…ですから、ここであまりにも多くの決定を下す前に二度考えます。
+
+**TL; DR**
+
+- 各コミックは、ゲーム内のウェアラブルアイテムに書き込むことができます
+- これらのNFTはERC-1155になります
+- アイテムは着用時にdegenのP2E乗数を変更します
+- または、まだ公開していない将来のユーティリティのためにコミックを保持することもできます
+- 6つのコミックすべてを特別なミステリーアイテムのセットとして一緒に燃やすことができます
+- このミステリーアイテムはP2E乗数を変更しません
 
 以下は、対応する各ウェアラブルのウェアラブル乗数の強さの描写です。 正確なレートはまだ決定されていません。
 
-Comic 1 💪💪💪💪💪  
-Comic 2 💪💪💪💪  
-Comic 3 💪💪💪  
-Comic 4 💪💪  
-Comic 5 💪  
-Comic 6 💪💪💪💪💪💪
+コミック1💪💪💪💪💪\コミック2💪💪💪💪\コミック3💪💪💪\コミック4💪💪\コミック5💪\コミック6💪💪
 
-### TL; DR
 
-- Each comic can be burned for a in-game wearable item.
-- These NFTs will be ERC-1155’s.
-- Items modify a degen's P2E multiplier when worn.
-- Alternatively, you can hold the comics for future utility we have not yet disclosed.
-- All 6 comics can be burned together as a set for a special mystery item.
-- This mystery item will NOT modify the P2E multiplier.
+現在、DEGENごとに埋めることができるスロットの正確な数を決定していますが、DEGENNFTごとに割り当て可能なウェアラブルは1つだけです。 
