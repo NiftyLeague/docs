@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Gründer
 
-| Geschickter Andy        | Bissig               | Nette Spitze             |
-| ----------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Kreativdirektor          |
+| Geschickter Andy                | Bissig                     | Nette Spitze             |
+| ------------------------------- | -------------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)         | ![](/img/snarfy.png)       | ![](/img/NiftySpike.png) |
+| Web3-Entwicklung / Spieltheorie | Leitender Spieleentwickler | Kreativdirektor          |
 
 ## Team
 
