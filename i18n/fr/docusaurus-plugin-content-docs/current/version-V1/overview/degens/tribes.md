@@ -16,11 +16,11 @@ Notre jeu actuel, Nifty Smashers, et tous les futurs jeux auront un mouvement sp
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Rouleau de pièces Doge
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Humain** - Lancer de la dynamite qui explose sur commande
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+En savoir plus sur ces mouvements dans notre guide [](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+À l'avenir, nous prévoyons que de nouvelles tribus "spéciales" pourraient être libérées/réservées pour l'évolutivité, les nouveaux jeux, les récompenses de tournoi, et plus encore.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
