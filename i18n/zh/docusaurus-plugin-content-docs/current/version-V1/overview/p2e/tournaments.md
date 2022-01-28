@@ -4,6 +4,6 @@ title: 锦标赛
 sidebar_position: 2
 ---
 
-加入每周或每月锦标赛的乐趣！ All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
+**比赛🏆**
 
-For any other activities you'd like to see implemented, please reach out to our team in Discord!
+加入每周或每月锦标赛的乐趣！ **Nifty DAO 的** 自由裁量权可通过代币投票从我们的社区国库基金奖励所有锦标赛。 一些锦标赛冠军甚至可能会带着特别版的 Citadel 钥匙离开 🗝️ NFT... 对于您希望实施的任何其他活动，请联系我们的团队！
