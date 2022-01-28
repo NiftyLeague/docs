@@ -4,14 +4,14 @@ title: şık tenis
 sidebar_position: 3
 ---
 
-### 🚧 Under development for 2022 🚧
+### 🚧 2022 için geliştirme aşamasında 🚧
 
 ![](/img/NiftyTennis.jpeg)
 
-- 1-4 players local and online multiplayer, singles or doubles.
-- Choose to be the line umpire and make important calls.
-- Be an audience member and emote from the crowd.
-- Discord voice integration for both players and audience.
-- Play on a variety of court surfaces in unique stages.
-- Equip different racquets & items for a temporary tactical advantage.
-- Compete for the _Nifty League Grand Slam Cup_.
+- 1-4 oyuncu yerel ve çevrimiçi çok oyunculu, tekler veya çiftler.
+- Hat hakemi olmayı seçin ve önemli çağrılar yapın.
+- Bir izleyici üyesi olun ve kalabalığın içinden çıkın.
+- Hem oyuncular hem de izleyiciler için Discord ses entegrasyonu.
+- Benzersiz aşamalarda çeşitli kort yüzeylerinde oynayın.
+- Geçici bir taktik avantaj için farklı raketleri &
+- _Nifty League Grand Slam Cup_için yarışın.
