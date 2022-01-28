@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Fondatori
 
-| Inteligentul Andy           | Snarfy                       | Nifty Spike              |
-| --------------------------- | ---------------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)     | ![](/img/snarfy.png)         | ![](/img/NiftySpike.png) |
-| Web3 Dev / Teoria jocurilor | Conducător de dezvoltare joc | Director de creație      |
+| Inteligentul Andy       | Snarfy               | Nifty Spike              |
+| ----------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| CEO                     | CTO                  | Director de creație      |
 
 ## Echipă
 
