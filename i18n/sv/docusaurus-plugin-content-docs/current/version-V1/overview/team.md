@@ -9,7 +9,7 @@ sidebar_position: 2
 | Snygg Andy              | Snarfy               | Snygg Spike              |
 | ----------------------- | -------------------- | ------------------------ |
 | ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Kreativ chef             |
+| Web3 Dev / Spelteori    | Lead Game Dev        | Kreativ chef             |
 
 ## Team
 
