@@ -21,8 +21,7 @@ Nem, csak egy DEGEN kell a játékhoz.
 Olyan egyszerű, mint egy üzenet aláírása a kriptopénztárcájában lévő DEGEN-ek tulajdonjogának igazolására a játék elindításakor.
 
 ### **Szükségem van kontrollerekre a játékhoz?**
-
-Nem, bár úgy gondoljuk, hogy egyszerűbb kontrollerrel (PS, Xbox vagy bármely más, amit a PC/Mac felismer) játszani, mint billentyűzettel.
+Nem, bár úgy gondoljuk, hogy egyszerűbb kontrollerrel (PS, Xbox vagy bármely más, a PC/Mac által felismert) játszani, mint egy billentyűzettel.
 
 ### Miért kér több ellenőrzést az átnevezés?
 
