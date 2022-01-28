@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Fundadores
 
-| Andy bacana                             | Snarfy                           | Espigão bacana           |
-| --------------------------------------- | -------------------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)                 | ![](/img/snarfy.png)             | ![](/img/NiftySpike.png) |
-| Desenvolvimento Web3 / Teoria dos Jogos | Desenvolvedor principal de jogos | Diretor criativo         |
+| Andy bacana             | Snarfy               | Espigão bacana           |
+| ----------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| CEO                     | CTO                  | Diretor criativo         |
 
 ## Equipe
 
