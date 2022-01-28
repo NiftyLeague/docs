@@ -4,10 +4,10 @@ title: מפתחי קהילה
 sidebar_position: 6
 ---
 
-Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+המטרה שלנו היא להרחיב את הפלטפורמה שלנו עם כמה שיותר משחקים מהנים ומרגשים, שלדעתנו אפשרי רק בעזרת קהילת DEGEN שלנו!
 
-We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+אנו מעודדים מפתחים ליצור משחקים תוך שימוש בדמויות שלנו, אשר - אם נבחר - יעלו לאוויר בפלטפורמה שלנו, ובתמורה מפתחים יתוגמלו מה- Nifty DAO על תרומתם.
 
-Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+תהיו יצירתיים ושלחו לנו את הרעיונות שלכם ב **[Discord](https://discord.gg/niftyleague)**!
 
-If your game shows promise and viability we’d love to share it with the community.
+אם המשחק שלך מראה הבטחה וכדאיות, נשמח לחלוק אותו עם הקהילה.
