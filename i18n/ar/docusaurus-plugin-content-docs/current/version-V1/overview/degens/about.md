@@ -4,8 +4,14 @@ title: عن
 sidebar_position: 1
 ---
 
-كانت عملية سك النقود في Nifty League مشهدًا فريدًا من نوعه سمح للسكّين بالقدرة على تصميم DEGEN الخاص بهم باستخدام Mint-O-Matic!
+The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
 
 ![](/img/mintomatic.gif)
 
-كانت هناك 6 قبائل تشمل: القرود والبشر والكلاب والضفادع والقطط والأجانب. لا يؤثر هذا القرار على سمات الشخصية المتوفرة وملحقاتها فحسب ، بل يحدد آليات معينة داخل اللعبة وحركات خاصة. أثناء البيع ، يمكنك التحقق من صفحة DEGENS الخاصة بنا لتصفح DEGENS التي تم سكها لتحديد القبائل الأكثر ندرة من غيرها. سينجذب اللاعبون بشكل طبيعي إلى شخصيات معينة بناءً على تفضيلاتهم الشخصية لأن طريقة اللعب والحركات الخاصة قد تكون مختلفة تمامًا بينهم في بعض الألعاب. ستكون قادرًا على تحديد أي من الشخصيات الخاصة بك لاستخدامها قبل كل لعبة (لذلك لا ضرر من وجود واحدة من كل قبيلة!) 😉
+There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+
+The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+
+Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+
+Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
