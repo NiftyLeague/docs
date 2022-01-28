@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+Os antecedentes DEGEN foram atribuídos aleatoriamente na cunhagem, o que resultou em um fundo Comum ou em um dos três antecedentes especiais: **Raro**, **Meta**ou **Lendário**.
 
-Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
+Além de parecer legal, o plano de fundo vem com vantagens especiais, como uma aparência distinta no jogo e multiplicadores de ganhos extras.
 
 ### Multiplicadores de ganhos
 
