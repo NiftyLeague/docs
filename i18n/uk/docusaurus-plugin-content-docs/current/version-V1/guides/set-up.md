@@ -4,4 +4,7 @@ title: Налаштуйте свій гаманець
 sidebar_position: 0,5
 ---
 
-Торкніться Запуск програми на верхній навігаційній панелі праворуч. Торкніться Підключення. Виберіть криптовалютний гаманець, у якому зберігається ваш DEGEN NFT. Підпишіть трансакцію, коли буде запропоновано. 
+1. Select Launch App in the top navigation bar
+2. Select Connect
+3. Choose the crypto wallet which holds your DEGEN NFT
+4. Підпишіть трансакцію, коли буде запропоновано.
