@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **Informazioni generali**
 
-Preparati alla rissa! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+Preparati alla rissa! La versione multiplayer locale di **[Nifty Smashers](https://nifty-league.com/games)** stata resa disponibile immediatamente al lancio, seguita dal multiplayer online.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+Combatti all'interno della community e lancia più bat bonk sui tuoi amici che puoi! Nifty Smashers si ispira al classico gioco di Super Smash Bros in cui l'obiettivo è buttare i tuoi avversari fuori mappa per guadagnare punti.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+Puoi giocare utilizzando la tastiera o qualsiasi altro controller compatibile (Playstation, Xbox, ecc.). Entra nella lobby di gioco e seleziona il tuo DEGEN per la battaglia.
 
 ## Punteggio
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- Se un DEGEN viene colpito una volta e muore (cade fuori mappa) ottieni 1 punto.
+- Se un DEGEN viene colpito più volte senza essere in grado di recuperare, ottieni punti ogni volta che viene colpito il DEGEN (indipendentemente dal fatto che i colpi precedenti siano stati effettuati da un altro DEGEN, quindi fai atterrare il mega-bonk finale per eliminarlo dalla mappa e rivendicare tutti i punti per il round).
+- Più il tuo avversario viene colpito successivamente, più velocemente rimbalza e più punti guadagnerai per il bonking.
+- L'ultimo colpo che uccide il DEGEN, ottiene tutti i punti combo.
+- Attualmente non esiste un limite alla frequenza con cui un DEGEN può essere colpito (combo'), ma esiste un limite al numero di punti che puoi ottenere (max 3 punti: partita a 2 giocatori / max 5 punti: 3&partita a 4 giocatori ).
+- Una partita a 2 giocatori richiede 5 punti per vincere un round.
+- 3 & Le partite a 4 giocatori richiedono 10 punti per vincere un round.
+- Le partite sono al meglio di 5 round.
+- Se c'è un pareggio dopo il 5° round, i giocatori in parità passano a un round di morte improvvisa che gli altri giocatori possono guardare dalla linea laterale.
 
-## Lag
+## Ritardo
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- L'indicatore di ritardo mostra il ritardo (velocità del ping) della tua connessione.
+- Il ritardo indica in genere che la velocità del ping è superiore a 100 ms.
+- In generale, il ritardo è sempre presente ogni volta che c'è distanza fisica tra i giocatori su Internet. Maggiore è la distanza, maggiore è il ritardo.
+- Esistono diverse tecniche che gli sviluppatori utilizzano per compensare e nascondere il ritardo.
+- Abbiamo implementato una serie di queste tecniche di compensazione del ritardo che velano il ritardo per la migliore esperienza possibile.
+- Abbiamo anche incorporato soluzioni con server in tutto il mondo in modo da poter abbinare i giocatori più vicini tra loro per ridurre al minimo il ritardo il più possibile. Se sei interessato a saperne di più su queste tecniche, dai un'occhiata a [questo post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) che amiamo sulla compensazione del ritardo di Gabriel Gambetta.
 
 ## Lobby personalizzata
 
-- Una lobby personalizzata può essere utilizzata per aprire una partita in una regione scelta. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- Una lobby personalizzata può essere utilizzata per aprire una partita in una regione scelta. Il creatore della lobby può vedere un codice nella mappa della lobby che può essere condiviso con altri.
+- Se un altro degen vuole entrare nella lobby, deve prima selezionare la regione corretta e quindi digitare il codice della lobby nella casella di input.
+- Quando si utilizza un codice lobby personalizzato, la regione dovrebbe essere cambiata automaticamente.
 
-## Changing Regions
+## Cambiare le regioni
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher è un gioco frenetico in cui latenza/ping è cruciale. Più la regione scelta è vicina alla posizione del giocatore, più basso sarà il ping.
+- Dopo aver modificato la regione nel Web-GL o nell'app desktop, viene visualizzato il ping corrente.
 
 # **Nozioni di base sulla battaglia**
 
 ## Consiglio generale
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- Giocare con un controller altamente raccomandato (Playstation, Xbox o qualsiasi altro controller riconosciuto dal tuo PC/Mac).
 
 ## Altalene di pipistrello
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- La mazza può essere oscillata in tutte le direzioni possibili: sinistra, destra, su, giù, diagonali.
+- La mazza può essere oscillata facendo clic sul pulsante di attacco.
+- Premendo più a lungo i pulsanti, la mazza colpisce più duramente.
+- La mazza può essere oscillata stando in piedi, correndo o saltando.
+- I giocatori possono premere a lungo il pulsante di attacco durante i salti: questo di solito è un buon modo per sorprendere i tuoi avversari.
 
 ## In movimento
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- Come gioco 2D, le direzioni di movimento sono sinistra/destra.
+- Le direzioni possono essere cambiate durante i salti/ruote (questo è molto più facile da realizzare usando un controller).
 
 ## Saltando
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- L'altezza del salto può essere modificata premendo la durata del pulsante di salto.
+- Le direzioni possono essere cambiate durante i salti o le cadute.
 
 ## Hamburger volante
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- Prendere l'hamburger volante renderà la mazza del tuo DEGEN molto più forte - questo in genere si traduce in un'uccisione diretta.
+- Stiamo considerando di limitare la durata del buff degli hamburger in base al tempo e/o alle uccisioni.
 
-# **Tribe Specifics**
+# **Specifiche della tribù**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_Tutte le tribù DEGEN hanno un'abilità speciale ("SA"), che sarà coerente in tutte le partite della Nifty League (live e future)._
 
 ## Elenco delle abilità speciali
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## Alieno
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- Premendo il pulsante SA, Alien può teletrasportarsi per una breve distanza nella direzione mirata (sinistra, destra, su, giù, diagonali).
+- C'è un'esplosione di energia nella posizione del teletrasporto, colpendo gli avversari vicini.
 
 ## Scimmia
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- Premendo il pulsante SA si lancia una banana nella direzione mirata (sinistra, destra, su, giù, diagonali) finché non colpisce un avversario, colpisce una parte della mappa o vola fuori dalla mappa.
+- Premendo nuovamente il pulsante SA, la banana torna al DEGEN, rendendo possibile colpire di nuovo un avversario.
+- Le banane possono essere colpite con una mazza e volare nella direzione mirata.
 
 ## Gatto
 
-- Premendo il SA fa balzare il gatto. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- Premendo il SA fa balzare il gatto. Dopo aver balzato per un breve periodo, il gatto si è potenziato.
+- L'oscillazione della mazza potenziata significa che la mazza colpisce più forte.
+- Il movimento potenziato significa che il gatto corre più veloce.
+- I gatti possono fare un doppio salto e saltare a mezz'aria.
 
 ## Doge
 
 - Premendo e tenendo premuto il pulsante SA, il doge roll.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- Colpire un avversario con un doge roll lo fa volare verso l'alto in direzione di rollio.
+- Doge volerà-rotolare nella direzione mirata.
+- Durante il doge roll, le direzioni possono essere cambiate tre volte fino al termine del doge roll.
+- Anche il Doge roll termina dopo un certo tempo.
 
 ## Rana
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- Premendo il pulsante SA, la Rana spara con la lingua.
+- Quando la lingua colpisce un avversario, quell'avversario viene tirato nella direzione delle rane e vola un po' più lontano.
+- Quando la lingua colpisce un pezzo di mappa, le rane si avvicinano a quell'oggetto (es. pareti, soffitti, ecc.)
+- La lingua può essere sparata nella direzione mirata (sinistra, destra, su, giù, diagonali).
 
 ### Umano
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- Premendo il pulsante SA si lancia una bomba nella direzione mirata (sinistra, destra, su, giù, diagonali).
+- La bomba ha una curva volante e non vola dritta come le banane (se non fatta esplodere, resta a terra).
+- La bomba esplode dopo un po' di tempo o dopo che il pulsante SA è stato premuto una seconda volta.
+- Attualmente la bomba può colpire un avversario colpendolo o tramite esplosione.
+- Le bombe sono le uniche SA in grado di colpire lo stesso DEGEN lanciatore con la sua esplosione.
+- Le bombe possono essere colpite con una mazza e volare nella direzione mirata.
+- Abbiamo in programma di aggiornare il gioco in modo che la bomba esploda immediatamente dopo il contatto con un avversario. Se nessun avversario viene colpito, rimane a terra finché non esplode automaticamente o dopo aver premuto il pulsante SA una seconda volta.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+Unisciti al nostro **[Discord](https://discord.gg/niftyleague)** per fornire feedback e idee su come possiamo migliorare il gioco e portarlo al livello successivo.
