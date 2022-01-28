@@ -13,22 +13,129 @@ sidebar_position: 2
 
 ---
 
-Prepare-se para brigar! A versão multijogador local de **[Nifty Smashers](https://nifty-league.com/games)** foi disponibilizada imediatamente no lançamento, seguida pelo multijogador online! Então pegue alguns controles 🎮 e jogue com os amigos.
+# **Informações gerais**
 
-Lute entre a comunidade e _bat bonks_ 🥖 em seus amigos que puder! **Nifty Smashers** se inspira no clássico jogo Super Smash Bros onde o objetivo é derrubar seus oponentes do mapa para marcar pontos. Para jogar, você precisará de um **DEGEN** para selecionar para a batalha e, em seguida, usar o teclado, o controle do Playstation ou Xbox como entrada (o multijogador de sofá também funciona!). No lobby do jogo, você poderá selecionar qualquer um dos **DEGENs** previamente cunhados que possui em sua carteira para exibir suas criações legais! Cada tribo tem um movimento especial único, então experimente com diferentes tribos e encontre o conjunto de movimentos que melhor se adapta ao seu estilo de jogo. Segure o botão de ataque para um ataque de morcego carregado, alguns movimentos especiais também podem ser carregados. Quando você derruba outro jogador, eles valem 1 ponto. Quanto mais eles são batidos sucessivamente, mais rápido eles quicam e mais pontos eles valem. Acerte o mega-bonk final para tirá-los do mapa e reivindicar todos os pontos!
+Prepare-se para brigar! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
 
-**Como observado, esta é uma versão beta do nosso jogo inicial, portanto, são esperados atrasos e problemas com bots irritantes.** Nosso plano imediato é continuar o desenvolvimento de **Nifty Smashers** e introduzir mais recursos, como movimentos combinados adicionais e um sistema de progressão. Entre no nosso **[Discord](https://discord.gg/niftyleague)** para fornecer feedback e ideias sobre como podemos melhorar **Nifty Smashers** e levá-lo ao próximo nível!
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-<!-- ![](/img/highlights.gif) -->
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
 
-**Lag Multijogador Online ☁️**
+## Pontuação
 
-Com o alfa em andamento, vamos falar sobre lag em jogos brawler rápidos e rápidos como **Nifty Smashers**.
+- If a DEGEN is hit once and dies (fall off map) you get 1 point.
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
+- The last hit that kills the DEGEN, gets all combo points.
+- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
+- A 2-player match require 5pts to win a round.
+- 3 & 4-player matches require 10pts to win a round.
+- Matches are best of 5 rounds.
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
 
-De um modo geral, o lag está sempre presente sempre que há distância física entre os jogadores na internet. Quanto maior a distância, maior o atraso. Existem diferentes técnicas & truques que os desenvolvedores usam para compensar e ocultar o atraso. Implementamos várias dessas técnicas de compensação de atraso que ocultam o atraso para a melhor experiência possível. Também incorporamos soluções com servidores em todo o mundo para que possamos combinar jogadores mais próximos uns dos outros para minimizar o atraso o máximo possível.
+## Lag
 
-No entanto, considerando o nível de resposta que os brawlers rápidos exigem ⚡, esperamos algum atraso quando lançarmos o multiplayer online.
+- The lag indicator shows the lag (ping speed) of your connection.
+- Lag tyipcally indicates your ping speed is above 100ms.
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
+- There are different techniques that developers use to compensate and hide the lag.
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
 
-Estamos animados para compartilhar nosso progresso com você o mais rápido possível. Após o lançamento, com seus comentários, faremos tudo o que estiver ao nosso alcance para tornar o atraso o mais imperceptível possível.
+## Lobby personalizado
 
-Se você estiver interessado em aprender mais sobre essas técnicas, aqui está uma ótima leitura de Gabriel Gambetta sobre **[Lag Compensation](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)**.
+- Um lobby personalizado pode ser usado para abrir uma partida em uma região escolhida. The creator of the lobby can see a code in the lobby map which can be shared with others.
+- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
+- When using a custom lobby code, the region should be switched automatically.
+
+## Changing Regions
+
+- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+
+# **Noções básicas de batalha**
+
+## Conselho Geral
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+
+## Balanços de morcegos
+
+- The bat can be swung in all possible direction: left, right, up, down, diagonals.
+- The bat can be swung by clicking the attack button.
+- Longer button presses makes the bat hit harder.
+- The bat can be swung while standing, running, or jumping.
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+
+## Mudança
+
+- As a 2D Game, moving directions are left/right.
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+
+## Saltando
+
+- Jump height can be altered by press-duration of jump button.
+- Directions can be changed during jumps/tumble.
+
+## Hambúrguer Voador
+
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
+- We are considering limiting burger buff duration by time and/or kill.
+
+# **Tribe Specifics**
+
+_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+
+## Lista de Habilidades Especiais
+
+- **Ape** - Jogue bananas bumerangue
+- **Alien** - Teletransporte
+- **Cat** - Ataque e ganhe força de morcego e aumento de velocidade temporariamente
+- **Frog** - O gancho da língua
+- **Doge** - Rolo de moeda Doge
+- **Humano** - Jogue dinamites que explodem ao comando
+
+## Estrangeiro
+
+- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
+- There is a energy explosion at the teleported location, hitting opponents that stand near.
+
+## Macaco
+
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
+- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
+- Bananas can be hit with a bat and fly in the aimed direction.
+
+## Gato
+
+- Pressionar o SA faz o gato atacar. After pouncing for a short duration, the cat ges empowered.
+- Empowered bat swing means the bat hits harder.
+- Empowered movement means the cat runs faster.
+- Cats can double jump and jump in mid-air.
+
+## Doge
+
+- Pressionar e segurar o botão SA faz o doge rolar.
+- Hitting an opponent with doge roll makes them fly upwards in roll direction.
+- Doge will fly-roll in the aimed direction.
+- During doge roll, directions can be changed three times until doge roll ends.
+- Doge roll also ends after a certain time.
+
+## Sapo
+
+- Pressing the SA button makes the Frog shoot his tongue.
+- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
+- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+
+### Humano
+
+- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
+- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
+- The bomb explodes after some time or after the SA button is pressed a second time.
+- Currently the bomb can hit an opponent by hitting it or via explosion.
+- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
+- Bombs can be hit with a bat and fly in the aimed direction.
+- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
