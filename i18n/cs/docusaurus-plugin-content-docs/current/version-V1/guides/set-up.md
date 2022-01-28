@@ -4,4 +4,7 @@ title: Nastavte si peněženku
 sidebar_position: 0,5
 ---
 
-Klepněte na Spustit aplikaci v horním navigačním panelu vpravo. Klepněte na Připojit. Vyberte si kryptopeněženku, ve které je uložen váš DEGEN NFT. Po zobrazení výzvy transakci podepište. 
+1. Select Launch App in the top navigation bar
+2. Select Connect
+3. Choose the crypto wallet which holds your DEGEN NFT
+4. Po zobrazení výzvy transakci podepište.
