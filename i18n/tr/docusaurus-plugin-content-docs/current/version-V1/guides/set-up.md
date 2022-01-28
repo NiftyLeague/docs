@@ -4,7 +4,4 @@ title: Cüzdanınızı Ayarlayın
 sidebar_position: 0,5
 ---
 
-1. Select Launch App in the top navigation bar
-2. Select Connect
-3. Choose the crypto wallet which holds your DEGEN NFT
-4. İstendiğinde işlemi imzalayın.
+Sağdaki üst gezinme çubuğunda Uygulamayı Başlat'a dokunun. Bağlan'a dokunun. DEGEN NFT'nizi tutan kripto cüzdanını seçin. İstendiğinde işlemi imzalayın. 
