@@ -4,8 +4,8 @@ title: סקירה כללית
 sidebar_position: 1
 ---
 
-We will gradually be transferring ownership of Nifty League to our Nifty DAO in order to decentralize the platform and encourage developers and artists to help build! Our vision is to power rapid growth and development through community contributions, enabling us to build a gaming platform like no other. במילים פשוטות, DAOs הם העתיד. אנו רואים רק דרך אחת להפוך לפלטפורמת GameFi המובילה בעולם וזה על ידי בנייה משותפת.
+בהדרגה נעביר את הבעלות על ה-Nifty League ל-DAO שלנו על מנת לבזר את הפלטפורמה ולעודד מפתחים לעזור לנו לבנות! החזון שלנו הוא להניע צמיחה ופיתוח מהירים באמצעות תרומות לקהילה המאפשרות לנו לבנות פלטפורמת משחקים שאין כמותה. במילים פשוטות, DAOs הם העתיד. אנו רואים רק דרך אחת להפוך לפלטפורמת GameFi המובילה בעולם וזה על ידי בנייה משותפת. 💜
 
-NFTL is our native governance token which provides voting rights and other other utilities ([more info can be found here below](https://nifty-league.com/about#nftl)). Our DAO's treasury assets are held within a Gnosis multi-sig wallet that will be used to handle distributions to future project contributors, as well as tournaments and other activities. We plan on migrating our treasury to **Arbitrum** once their Gnosis integration is complete to benefit from lower fees and more frequent distributions to community contributors going forward.
+**NFTL** הוא אסימון הממשל המקורי שלנו המספק זכויות הצבעה וכלי שירות אחרים (מידע נוסף [להלן](https://nifty-league.com/about#nftl)). נכסי האוצר של ה-DAO שלנו מוחזקים בתוך ארנק Gnosis multi-sig אשר ישמש לטיפול בהפצות לתורמים עתידיים בפרויקט, כמו גם בטורנירים ופעילויות אחרות. אנו מתכננים להעביר את האוצר שלנו ל **Arbitrum** לאחר השלמת שילוב ה-Gnosis שלהם כדי ליהנות מעמלות נמוכות יותר והפצות תכופות יותר לתורמים בקהילה בעתיד.
 
-The core team is actively looking for notable members of our community to join our multi-sig committee to handle treasury operations and guarantee proposals are on-chain according to the DAO's guidelines. Please contact a community mod in [Discord](https://discord.gg/niftyleague) for more information.
+**אנו מחפשים באופן פעיל חברים בולטים בקהילה שלנו שיצטרפו לוועדת ה-multi-sig שלנו כדי לטפל בפעולות האוצר ולהבטיח שההצעות יהיו בהתאמה בשרשרת בהתאם להנחיות ה-DAO. אנא צור קשר אם אתה חושב שאתה מתאים!**
