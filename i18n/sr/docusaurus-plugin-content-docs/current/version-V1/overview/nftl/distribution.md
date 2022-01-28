@@ -4,14 +4,14 @@ title: Дистрибуција (прва година)
 sidebar_position: 2
 ---
 
-There is no max supply set currently, but we expect around **1 Billion NFTL** to be distributed over the next year.
+Тренутно не постоји одређена максимална понуда, али очекујемо да ће око **1 милијарди НФТЛ** бити дистрибуирано током следеће године.
 
-**Community Giveaways**
+**Цоммунити Гивеаваис**
 
-Every project needs quality memes! Join the **[Nifty League Discord](https://discord.gg/niftyleague)** for access to free NFTL distributions to community members who make us all laugh or go above and beyond contributing to discussions. To facilitate this, we've configured a tip bot for our team and moderators to tip Discord users. We spent a combined total of 7M NFTL via the tip bot over the first two months! As noted earlier, these tips will remain available for active Discord members going forward but the rate is expected to be much lower.
+Сваки пројекат треба квалитетне меме! Придружите се **[Нифти Леагуе Дисцорд](https://discord.gg/niftyleague)** за приступ бесплатним дистрибуцијама НФТЛ-а члановима заједнице који нас све засмејавају или доприносе дискусијама. Да бисмо ово олакшали, конфигурисали смо бота за савете за наш тим и модераторе да дају савет корисницима Дисцорд-а. Потрошили смо укупно 7 милиона НФТЛ-а преко бота за савете током прва два месеца! Као што је раније поменуто, ови савети ће остати доступни активним члановима Дисцорд-а убудуће, али се очекује да ће стопа бити много нижа.
 
-**Initial Supply**
+**Инитиал Суппли**
 
-In September 2021, we decided to close our AXS holders airdrop early and reward our DEGEN holders with 212.85M NFTL tokens in total. A portion of these tokens were claimable when purchasing a DEGEN NFT, and the rest were airdropped to holders prior to the sale based on a snapshot taken at **[Block #13360120](https://etherscan.io/block/13360120)**. While the AXS airdrop contract was open, a total of 256K NFTL was claimed.
+У септембру 2021. одлучили смо да раније затворимо своје АКСС држаче и наградимо наше ДЕГЕН власнике са укупно 212,85 милиона НФТЛ токена. Део ових токена се могао потраживати приликом куповине ДЕГЕН НФТ-а, а остали су предати власницима пре продаје на основу снимка направљеног у **[блоку #13360120](https://etherscan.io/block/13360120)**. Док је АКСС аирдроп уговор био отворен, тражено је укупно 256.000 НФТЛ-а.
 
-100M NFTL was allocated for a team development fund which is time-locked for 6 months from **[Block #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**. Another 100M NFTL was provided to the **[Nifty DAO treasury](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** to support early community plans such as liquidity incentives, tournament rewards, or giveaways. This brings the initial supply to around 420M with daily emissions for all genesis NFT owners starting immediately after each character sale.
+100 милиона НФТЛ је додељено за фонд за развој тима који је временски закључан на 6 месеци од **[Блок #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**. Још 100 милиона НФТЛ-а је обезбеђено у **[Нифти ДАО](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** за подршку раним плановима заједнице као што су подстицаји ликвидности, награде за турнире или поклони. Ово доводи до почетне понуде на око 420 милиона са дневним емисијама за све власнике генесис НФТ-а почевши одмах након сваке продаје ликова.
