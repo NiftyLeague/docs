@@ -4,14 +4,14 @@ title: Nifty Tennis
 sidebar_position: 3
 ---
 
-### 🚧 Under development for 2022 🚧
+### 🚧 Υπό ανάπτυξη για το 2022 🚧
 
 ![](/img/NiftyTennis.jpeg)
 
-- 1-4 players local and online multiplayer, singles or doubles.
-- Choose to be the line umpire and make important calls.
-- Be an audience member and emote from the crowd.
-- Discord voice integration for both players and audience.
-- Play on a variety of court surfaces in unique stages.
-- Equip different racquets & items for a temporary tactical advantage.
-- Compete for the _Nifty League Grand Slam Cup_.
+- 1-4 παίκτες τοπικά και online multiplayer, μονό ή διπλό.
+- Επιλέξτε να είστε ο διαιτητής γραμμής και πραγματοποιήστε σημαντικές κλήσεις.
+- Γίνετε μέλος του κοινού και συγκινηθείτε από το πλήθος.
+- Ενσωμάτωση φωνής Discord τόσο για παίκτες όσο και για κοινό.
+- Παίξτε σε διάφορες επιφάνειες γηπέδου σε μοναδικά στάδια.
+- Εξοπλίστε διαφορετικές ρακέτες & αντικείμενα για ένα προσωρινό τακτικό πλεονέκτημα.
+- Διαγωνιστείτε για το _Nifty League Grand Slam Cup_.
