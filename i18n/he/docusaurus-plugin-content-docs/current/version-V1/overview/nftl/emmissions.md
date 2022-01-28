@@ -4,6 +4,6 @@ title: פליטות
 sidebar_position: 3
 ---
 
-**250M NFTL** יופץ מדי שנה במהלך **3 השנים הראשונות** לכל בעלי genesis **DEGEN** NFT. אין צורך להטמיע את ה-NFT שלך; פשוט שב לאחור וצפה ב **NFTL** צוברים מדי יום, אותם תוכל לתבוע באתר האינטרנט שלנו בכל עת בעמוד [הארנק](https://nifty-league.com/wallet).
+250M NFTL will be distributed annually over the first 3 years to all genesis DEGEN NFT owners. There is no need to stake your NFT, just sit back and watch your NFTL accrue daily. DEGEN owners can claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet).
 
-כל פליטת פליטות עתידית שנותרה תהיה עבור תגמולים יומיים במשחק או מימון עבור **Nifty DAO**. אנו **Nifty DAO** את היכולת להטביע עד **330M NFTL** במהלך השנה הראשונה לאחר שנקבל מינימום של **7 חותמים** השולטים בארנק ה-multi-sig. אנו צופים שרוב האסימונים הללו יעברו לתורמים מהקהילה וגם ישמשו לתגמולים בתחרות, אבל בסופו של דבר ה-DAO יקבל את ההחלטה הזו בבוא הזמן.
+Any remaining future emissions will either be for daily in-game rewards or funding for the Nifty DAO. We will grant the Nifty DAO the ability to mint up to 330M NFTL over the first year after we get a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors as well as being used for competition rewards, but ultimately the DAO will be responsible for the decision.
