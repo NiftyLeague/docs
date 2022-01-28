@@ -4,6 +4,6 @@ title: Tournois
 sidebar_position: 2
 ---
 
-**Tournois 🏆**
+Participez au plaisir lors de tournois hebdomadaires ou mensuels ! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
 
-Participez au plaisir lors de tournois hebdomadaires ou mensuels ! Tous les tournois peuvent être incités par des récompenses de notre fonds de trésorerie communautaire à la **Nifty DAO** via un vote symbolique. Certains champions du tournoi repartiront peut-être même avec une édition spéciale Clé de la Citadelle 🗝️ NFT... Pour toute autre activité que vous souhaiteriez voir mise en place, n'hésitez pas à contacter notre équipe !
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
