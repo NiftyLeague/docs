@@ -4,6 +4,6 @@ title: Εκπομπές
 sidebar_position: 3
 ---
 
-**250 εκατομμύρια NFTL** θα διανέμονται ετησίως κατά τα πρώτα **3 χρόνια** σε όλους τους κατόχους του **DEGEN** Δεν χρειάζεται να ποντάρετε το NFT σας. απλά να καθίσετε και να παρακολουθήσετε το **NFTL** συγκεντρώνουν καθημερινά το οποίο μπορείτε να διεκδικήσετε στην ιστοσελίδα μας ανά πάσα στιγμή για σας [σελίδα πορτοφόλι](https://nifty-league.com/wallet).
+250M NFTL will be distributed annually over the first 3 years to all genesis DEGEN NFT owners. There is no need to stake your NFT, just sit back and watch your NFTL accrue daily. DEGEN owners can claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet).
 
-Τυχόν υπόλοιπες μελλοντικές εκπομπές θα προορίζονται είτε για καθημερινές ανταμοιβές εντός του παιχνιδιού είτε για χρηματοδότηση για το **Nifty DAO**. Θα παραχωρήσουμε στο **Nifty DAO** τη δυνατότητα να κόψει έως και **330 εκατομμύρια NFTL** τον πρώτο χρόνο, αφού λάβουμε τουλάχιστον **7 υπογράφοντες** ελέγχουν το πορτοφόλι πολλαπλών σημείων. Προβλέπουμε ότι τα περισσότερα από αυτά τα διακριτικά θα πηγαίνουν σε συνεισφέροντες της κοινότητας καθώς και ότι θα χρησιμοποιηθούν για ανταμοιβές ανταγωνισμού, αλλά τελικά το DAO θα λάβει αυτή την απόφαση όταν έρθει η ώρα.
+Any remaining future emissions will either be for daily in-game rewards or funding for the Nifty DAO. We will grant the Nifty DAO the ability to mint up to 330M NFTL over the first year after we get a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors as well as being used for competition rewards, but ultimately the DAO will be responsible for the decision.
