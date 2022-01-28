@@ -4,14 +4,14 @@ title: 漂亮的网球
 sidebar_position: 3
 ---
 
-### 🚧 Under development for 2022 🚧
+### 🚧 2022 年开发中🚧
 
 ![](/img/NiftyTennis.jpeg)
 
-- 1-4 players local and online multiplayer, singles or doubles.
-- Choose to be the line umpire and make important calls.
-- Be an audience member and emote from the crowd.
-- Discord voice integration for both players and audience.
-- Play on a variety of court surfaces in unique stages.
-- Equip different racquets & items for a temporary tactical advantage.
-- Compete for the _Nifty League Grand Slam Cup_.
+- 1-4 人本地和在线多人游戏，单打或双打。
+- 选择成为线路裁判并拨打重要电话。
+- 成为观众并从人群中表达出来。
+- 玩家和观众的 Discord 语音集成。
+- 在独特的阶段在各种球场表面上进行比赛。
+- 装备不同的球拍 & 物品以获得暂时的战术优势。
+- 争夺 _漂亮联赛大满贯杯_。
