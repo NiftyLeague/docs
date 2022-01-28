@@ -4,6 +4,6 @@ title: Kibocsátások
 sidebar_position: 3
 ---
 
-Az első 3 évben évente 250 millió NFTL-t osztanak ki minden genesis DEGEN NFT tulajdonosnak. Nem kell kockára tenni az NFT-jét, csak dőljön hátra, és figyelje, ahogy naponta gyűlik az NFTL. A DEGEN tulajdonosok bármikor igényelhetik NFTL-jüket a weboldalunkon a [Wallet](https://nifty-league.com/wallet)meglátogatásával.
+**250 millió NFTL** kerül kiosztásra évente az első **3 évben** minden genezis **DEGEN** NFT tulajdonos számára. Nem szükséges kockáztatni az NFT-jét; Csak dőljön hátra, és nézze meg, ahogy naponta gyűlik **** amelyet weboldalunkon bármikor igényelhet [pénztárcáján](https://nifty-league.com/wallet)oldalon.
 
-A fennmaradó jövőbeli kibocsátások vagy napi játékon belüli jutalomként vagy a Nifty DAO finanszírozására szolgálnak. Lehetőséget adunk a Nifty DAO-nak akár 330 millió NFTL leverésére az első év során, miután legalább 7 aláírót felügyelünk a multi-sig pénztárcára. Előrelátjuk, hogy ezeknek a tokeneknek a többségét a közösségi közreműködők kapják, valamint versenyjutalmakra is használják őket, de végső soron a DAO lesz a felelős a döntésért.
+A fennmaradó jövőbeli kibocsátások vagy napi játékon belüli jutalomként vagy a **Nifty DAO**finanszírozására szolgálnak. Mi megadja a **Nifty DAO** képes menta legfeljebb **330M NFTL** az első évben, miután megkapjuk minimum **7 aláírói** ellenőrző multi-sig pénztárca. Előrelátjuk, hogy ezeknek a tokeneknek a többségét a közösségi közreműködők kapják, valamint versenyjutalmakra is használják őket, de végül a DAO meghozza ezt a döntést, amikor eljön az ideje.
