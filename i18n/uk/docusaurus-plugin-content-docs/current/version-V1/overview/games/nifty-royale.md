@@ -4,6 +4,6 @@ title: Nifty Royale
 sidebar_position: 5
 ---
 
-### У розробці до 2022 року!
+### 🚧 Under development for 2022 🚧
 
 ![](/img/niftyroyale_v01.png)
