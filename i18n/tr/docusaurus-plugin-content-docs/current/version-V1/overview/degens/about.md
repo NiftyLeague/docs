@@ -4,8 +4,14 @@ title: Hakkında
 sidebar_position: 1
 ---
 
-Nifty League için para basma süreci, madencilerin Mint-O-Matic kullanarak kendi DEGEN'lerini tasarlamalarına izin veren türünün tek örneği bir gösteriydi!
+The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
 
 ![](/img/mintomatic.gif)
 
-6 kabile vardı: maymunlar, insanlar, köpekler, kurbağalar, kediler ve uzaylılar. Bu karar, yalnızca mevcut karakter özelliklerini ve aksesuarlarını etkilemekle kalmaz, aynı zamanda belirli oyun içi mekanikleri ve özel hareketleri de belirler. İndirim sırasında, hangi kabilelerin diğerlerinden daha nadir olduğunu belirlemek için basılmış DEGENS'e göz atmak için DEGENS sayfamıza göz atabilirsiniz. Belirli oyunlar için oynanış ve özel hareketler aralarında oldukça farklı olabileceğinden, oyuncular doğal olarak kişisel tercihlerine bağlı olarak belirli karakterlere yöneleceklerdir. Her oyundan önce hangi karakterlerinizi kullanacağınızı seçebileceksiniz (böylece her bir kabileden birine sahip olmanızda bir sakınca yok!) 😉
+There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+
+The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+
+Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+
+Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
