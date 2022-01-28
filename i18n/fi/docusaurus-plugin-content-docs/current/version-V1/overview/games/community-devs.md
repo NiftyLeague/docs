@@ -4,10 +4,10 @@ title: Yhteisön kehittäjät
 sidebar_position: 6
 ---
 
-Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+Tavoitteenamme on laajentaa alustaamme mahdollisimman monilla hauskoilla ja jännittävillä peleillä, minkä uskomme olevan mahdollista vain DEGEN-yhteisömme avulla!
 
-We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+Kannustamme kehittäjiä luomaan hahmojamme hyödyntäviä pelejä, jotka - jos ne valitaan - julkaistaan alustallamme, ja vastineeksi kehittäjät saavat palkinnon Nifty DAO:lta heidän panoksestaan.
 
-Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+Ole luova ja lähetä meille ideasi **[Discord](https://discord.gg/niftyleague)**-palvelussa!
 
-If your game shows promise and viability we’d love to share it with the community.
+Jos pelisi näyttää lupaavalta ja elinkelpoiselta, jaamme sen mielellämme yhteisön kanssa.
