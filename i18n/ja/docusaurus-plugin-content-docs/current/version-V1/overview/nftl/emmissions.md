@@ -4,6 +4,6 @@ title: 排出量
 sidebar_position: 3
 ---
 
-**250M NFTL** 第1の過毎年分配される **、3年** 全起源に **DEGEN** NFTの所有者。 NFTを賭ける必要はありません。 **NFTL** 発生するのを見てください。これは、当社のWebサイトの [ウォレットページ](https://nifty-league.com/wallet)でいつでも請求できます。
+250M NFTL will be distributed annually over the first 3 years to all genesis DEGEN NFT owners. There is no need to stake your NFT, just sit back and watch your NFTL accrue daily. DEGEN owners can claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet).
 
-残りの将来の排出量は、いずれかの毎日のゲーム内の報酬や資金調達のためになります **ニフティDAO**。 私たちは、付与されます **ニフティDAO** までミントまでに能力を **330M NFTL** 我々は最低取得後一年以上 **7署名者** マルチSIGの財布を制御します。 これらのトークンのほとんどは、コミュニティの貢献者に送られ、競争の報酬に使用されると予測していますが、最終的には、DAOがその決定を下します。
+Any remaining future emissions will either be for daily in-game rewards or funding for the Nifty DAO. We will grant the Nifty DAO the ability to mint up to 330M NFTL over the first year after we get a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors as well as being used for competition rewards, but ultimately the DAO will be responsible for the decision.
