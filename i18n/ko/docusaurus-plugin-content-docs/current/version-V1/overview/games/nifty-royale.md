@@ -4,6 +4,6 @@ title: 니프티 로얄
 sidebar_position: 5
 ---
 
-### 🚧 Under development for 2022 🚧
+### 🚧 2022년 개발 중 🚧
 
 ![](/img/niftyroyale_v01.png)
