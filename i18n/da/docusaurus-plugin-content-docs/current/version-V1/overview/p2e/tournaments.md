@@ -4,6 +4,6 @@ title: Turneringer
 sidebar_position: 2
 ---
 
-Deltag i det sjove i ugentlige eller månedlige turneringer! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
+**Turneringer 🏆**
 
-For any other activities you'd like to see implemented, please reach out to our team in Discord!
+Deltag i det sjove i ugentlige eller månedlige turneringer! Alle turneringer kan blive tilskyndet af belønninger fra vores fællesskabsfond efter **Nifty DAO's** skøn via token-afstemning. Nogle turneringsmestre kan endda gå væk med en specialudgave Key to the Citadel 🗝️ NFT... For andre aktiviteter, du gerne vil se implementeret, bedes du kontakte vores team!
