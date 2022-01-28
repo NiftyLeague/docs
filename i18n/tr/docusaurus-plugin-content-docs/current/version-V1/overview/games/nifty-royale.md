@@ -4,6 +4,6 @@ title: Şık Royale
 sidebar_position: 5
 ---
 
-### 🚧 Under development for 2022 🚧
+### 🚧 2022 için geliştirme aşamasında 🚧
 
 ![](/img/niftyroyale_v01.png)
