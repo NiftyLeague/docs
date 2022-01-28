@@ -16,11 +16,11 @@ Trò chơi hiện tại của chúng tôi, Nifty Smashers và tất cả các tr
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Cuộn xu Doge
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Con người** - Ném thuốc nổ theo lệnh
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Tìm hiểu thêm về các cách di chuyển này trong Hướng dẫn [](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+Trong tương lai, chúng tôi hình dung rằng các bộ lạc "đặc biệt" mới có thể được phát hành / dành riêng cho khả năng mở rộng, trò chơi mới, phần thưởng giải đấu, v.v.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
