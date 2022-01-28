@@ -9,7 +9,7 @@ sidebar_position: 2
 | Näppärä Andy            | Snarfy               | Näppärä Spike            |
 | ----------------------- | -------------------- | ------------------------ |
 | ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| toimitusjohtaja         | CTO                  | Luova johtaja            |
+| Web3 Dev / peliteoria   | Lead Game Dev        | Luova johtaja            |
 
 ## Tiimi
 
