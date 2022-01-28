@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Fondateurs
 
-| Andy astucieux                      | Snarfy                              | Pointe astucieuse        |
-| ----------------------------------- | ----------------------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)             | ![](/img/snarfy.png)                | ![](/img/NiftySpike.png) |
-| Développeur Web3 / Théorie des jeux | Responsable du développement du jeu | Directeur de création    |
+| Andy astucieux          | Snarfy               | Pointe astucieuse        |
+| ----------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| PDG                     | CTO                  | Directeur de création    |
 
 ## Équipe
 
