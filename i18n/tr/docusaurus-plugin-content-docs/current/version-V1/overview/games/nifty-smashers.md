@@ -13,22 +13,129 @@ sidebar_position: 2
 
 ---
 
-Kavga etmeye hazır olun! **[Nifty Smashers](https://nifty-league.com/games)** yerel çok oyunculu versiyonu, lansman sırasında hemen kullanıma sunuldu ve ardından çevrimiçi çok oyunculu! O halde birkaç kumanda 🎮 alın ve arkadaşlarınızla oynayın.
+# **Genel Bilgi**
 
-Topluluk içinde savaşın ve arkadaşlarınıza mümkün _yarasa şakası_ **Nifty Smashers** , amacın rakiplerinizi haritadan atarak puan kazanmak olduğu klasik Super Smash Bros oyunundan ilham alıyor. **DEGEN** ihtiyacınız olacak ve ardından giriş olarak klavyenizi, Playstation'ınızı veya Xbox denetleyicinizi kullanacaksınız (kanepe çok oyunculu da çalışır!). Oyun lobisinde itibaren önceden basılmış herhangi birinden seçmek mümkün olacak **Degens** size serin kreasyonlar göstermek için cüzdanınızda sahibi! Her kabilenin benzersiz bir özel hareketi vardır, bu nedenle farklı kabilelerle denemeler yapın ve oyun tarzınıza en uygun hamle setini bulun. Şarjlı bir yarasa saldırısı için saldırı düğmesini basılı tutun, bazı özel hareketler de şarj edilebilir. Başka bir oyuncuyu siktiğinizde, 1 puan değerindedir. Art arda ne kadar çok vurulurlarsa, o kadar hızlı zıplarlar ve o kadar çok puan kazanırlar. Onları haritadan çıkarmak için son mega bonku indir ve tüm puanları al!
+Kavga etmeye hazır olun! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
 
-**Belirtildiği gibi, bu ilk oyunumuzun bir beta sürümüdür, bu nedenle gecikme ve sinir bozucu botlarla ilgili sorunlar beklenebilir.** Acil planımız, **Nifty Smashers** geliştirmeye devam etmek ve ek kombo hareketler ve ilerleme sistemi gibi daha fazla özellik sunmaktır. **Nifty Smashers** nasıl geliştirebileceğimize ve onu bir sonraki seviyeye taşıyabileceğimize dair geri bildirim ve fikir sağlamak için **[Discord](https://discord.gg/niftyleague)**
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-<!-- ![](/img/highlights.gif) -->
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
 
-**Çevrimiçi Çok Oyunculu Gecikme ☁️**
+## puanlama
 
-**Nifty Smashers**gibi hızlı tempolu ve hızlı kavga oyunlarında gecikme hakkında konuşalım.
+- If a DEGEN is hit once and dies (fall off map) you get 1 point.
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
+- The last hit that kills the DEGEN, gets all combo points.
+- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
+- A 2-player match require 5pts to win a round.
+- 3 & 4-player matches require 10pts to win a round.
+- Matches are best of 5 rounds.
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
 
-Genel olarak konuşursak, internette oyuncular arasında fiziksel mesafe olduğunda gecikme her zaman mevcuttur. Mesafe ne kadar büyük olursa, gecikme o kadar büyük olur. Geliştiricilerin gecikmeyi telafi etmek ve gizlemek için kullandığı farklı teknikler & Mümkün olan en iyi deneyim için gecikmeyi gizleyen bu gecikme telafisi tekniklerinden birkaçını uyguladık. Ayrıca, gecikmeyi mümkün olduğunca en aza indirmek için birbirine en yakın oyuncuları eşleştirebilmemiz için dünyanın her yerindeki sunucularla çözümler ekledik.
+## Lag
 
-Bununla birlikte, hızlı tempolu dövüşçülerin ⚡ gerektirdiği tepki düzeyi göz önüne alındığında, çevrimiçi çok oyunculu oyunu başlattığımızda biraz gecikme bekliyoruz.
+- The lag indicator shows the lag (ping speed) of your connection.
+- Lag tyipcally indicates your ping speed is above 100ms.
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
+- There are different techniques that developers use to compensate and hide the lag.
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
 
-İlerlememizi en kısa sürede sizinle paylaşmaktan heyecan duyuyoruz. Lansmandan sonra, geri bildirimlerinizle gecikmeyi mümkün olduğunca farkedilemez hale getirmek için elimizden gelen her şeyi yapacağız.
+## Özel Lobi
 
-Bu teknikler hakkında daha fazla bilgi edinmek istiyorsanız, burada Gabriel Gambetta tarafından **[Gecikme Telafisi](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)**ilgili harika bir okuma var.
+- Seçilen bir bölgede bir maç açmak için özel bir lobi kullanılabilir. The creator of the lobby can see a code in the lobby map which can be shared with others.
+- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
+- When using a custom lobby code, the region should be switched automatically.
+
+## Changing Regions
+
+- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+
+# **Savaş Temelleri**
+
+## Genel tavsiye
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+
+## Yarasa salıncakları
+
+- The bat can be swung in all possible direction: left, right, up, down, diagonals.
+- The bat can be swung by clicking the attack button.
+- Longer button presses makes the bat hit harder.
+- The bat can be swung while standing, running, or jumping.
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+
+## Hareketli
+
+- As a 2D Game, moving directions are left/right.
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+
+## Atlama
+
+- Jump height can be altered by press-duration of jump button.
+- Directions can be changed during jumps/tumble.
+
+## uçan hamburger
+
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
+- We are considering limiting burger buff duration by time and/or kill.
+
+# **Tribe Specifics**
+
+_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+
+## Özel Yetenekler Listesi
+
+- **Maymun** - Bumerang muzları atın
+- **Uzaylı** - Işınlanma
+- **Cat** - Atla ve geçici olarak yarasa gücü ve hız artışı elde et
+- **Kurbağa** - Dil kıskaçlı kanca
+- **Doge** - Doge madeni para rulosu
+- **İnsan** - Komut verildiğinde patlayan dinamitleri fırlat
+
+## Yabancı
+
+- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
+- There is a energy explosion at the teleported location, hitting opponents that stand near.
+
+## Maymun
+
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
+- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
+- Bananas can be hit with a bat and fly in the aimed direction.
+
+## Kedi
+
+- SA'ya basmak kedinin zıplamasını sağlar. After pouncing for a short duration, the cat ges empowered.
+- Empowered bat swing means the bat hits harder.
+- Empowered movement means the cat runs faster.
+- Cats can double jump and jump in mid-air.
+
+## doge
+
+- SA düğmesini basılı tutmak, doge rulosunu yapar.
+- Hitting an opponent with doge roll makes them fly upwards in roll direction.
+- Doge will fly-roll in the aimed direction.
+- During doge roll, directions can be changed three times until doge roll ends.
+- Doge roll also ends after a certain time.
+
+## Kurbağa
+
+- Pressing the SA button makes the Frog shoot his tongue.
+- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
+- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+
+### İnsan
+
+- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
+- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
+- The bomb explodes after some time or after the SA button is pressed a second time.
+- Currently the bomb can hit an opponent by hitting it or via explosion.
+- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
+- Bombs can be hit with a bat and fly in the aimed direction.
+- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
