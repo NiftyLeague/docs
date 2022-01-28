@@ -9,7 +9,7 @@ sidebar_position: 2
 | Snaakse Andy            | Snarfy               | Lekker Spike             |
 | ----------------------- | -------------------- | ------------------------ |
 | ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Kreatiewe direkteur      |
+| Web3 Dev / Spelteorie   | Lead Game Dev        | Kreatiewe direkteur      |
 
 ## Span
 
