@@ -4,7 +4,4 @@ title: Stel jou beursie op
 sidebar_position: 0,5
 ---
 
-1. Kies Begin toepassing in die boonste navigasiebalk
-2. Kies Koppel
-3. Kies die kripto-beursie wat jou DEGEN NFT bevat
-4. Teken die transaksie wanneer dit gevra word.
+Tik Begin toepassing in die boonste navigasiebalk aan die regterkant. Tik Koppel. Kies die kripto-beursie wat jou DEGEN NFT bevat. Teken die transaksie wanneer dit gevra word. 
