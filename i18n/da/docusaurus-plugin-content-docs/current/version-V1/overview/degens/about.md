@@ -4,8 +4,14 @@ title: Om
 sidebar_position: 1
 ---
 
-Udmøntningsprocessen for Nifty League var et enestående skuespil, der gav møntere mulighed for at designe deres egen DEGEN ved hjælp af Mint-O-Matic!
+The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
 
 ![](/img/mintomatic.gif)
 
-Der var 6 stammer, som omfatter: aber, mennesker, hunde, frøer, katte og rumvæsener. Denne beslutning påvirker ikke kun tilgængelige karaktertræk og tilbehør, men bestemmer visse mekanikker i spillet og specielle bevægelser. Under udsalget kan du tjekke vores DEGENS-side for at gennemse prægede DEGENS for at afgøre, hvilke stammer der er sjældnere end andre. Spillere vil naturligt drage mod bestemte karakterer baseret på deres personlige præferencer, da gameplay og specielle træk kan være meget forskellige mellem dem for visse spil. Du vil være i stand til at vælge, hvilke af dine karakterer du vil bruge før hvert spil (så ingen skade i at have en af hver stamme!) 😉
+There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+
+The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+
+Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+
+Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
