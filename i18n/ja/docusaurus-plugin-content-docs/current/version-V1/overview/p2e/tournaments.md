@@ -4,6 +4,6 @@ title: トーナメント
 sidebar_position: 2
 ---
 
-**トーナメント🏆**
+毎週または毎月のトーナメントの楽しみに参加してください！ All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
 
-毎週または毎月のトーナメントの楽しみに参加してください！ すべてのトーナメントは、トークン投票 **Nifty DAOの** 裁量で、コミュニティ財務基金からの報酬によって奨励される場合があります。 一部のトーナメントチャンピオンは、特別版のKey totheCitadelを持って立ち去ることさえあります🗝️NFT... 実施してほしいその他の活動については、私たちのチームに連絡してください！
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
