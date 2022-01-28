@@ -4,14 +4,14 @@ title: Verspreiding (eerste jaar)
 sidebar_position: 2
 ---
 
-There is no max supply set currently, but we expect around **1 Billion NFTL** to be distributed over the next year.
+Daar is tans geen maksimum aanbod vasgestel nie, maar ons verwag dat ongeveer **1 miljard NFTL** oor die volgende jaar versprei sal word.
 
-**Community Giveaways**
+**Gemeenskap geskenke**
 
-Every project needs quality memes! Join the **[Nifty League Discord](https://discord.gg/niftyleague)** for access to free NFTL distributions to community members who make us all laugh or go above and beyond contributing to discussions. To facilitate this, we've configured a tip bot for our team and moderators to tip Discord users. We spent a combined total of 7M NFTL via the tip bot over the first two months! As noted earlier, these tips will remain available for active Discord members going forward but the rate is expected to be much lower.
+Elke projek het kwaliteit memes nodig! Sluit aan by die **[Nifty League Discord](https://discord.gg/niftyleague)** vir toegang tot gratis NFTL-verspreidings aan lede van die gemeenskap wat ons almal laat lag of meer as om by te dra tot besprekings. Om dit te vergemaklik, het ons 'n wenkbot vir ons span en moderators opgestel om Discord-gebruikers te gee. Ons het 'n gesamentlike totaal van 7M NFTL deur die eerste twee maande deur die fooibot spandeer! Soos vroeër genoem, sal hierdie wenke vorentoe beskikbaar bly vir aktiewe Discord-lede, maar die koers sal na verwagting baie laer wees.
 
-**Initial Supply**
+**Aanvanklike Voorsiening**
 
-In September 2021, we decided to close our AXS holders airdrop early and reward our DEGEN holders with 212.85M NFTL tokens in total. A portion of these tokens were claimable when purchasing a DEGEN NFT, and the rest were airdropped to holders prior to the sale based on a snapshot taken at **[Block #13360120](https://etherscan.io/block/13360120)**. While the AXS airdrop contract was open, a total of 256K NFTL was claimed.
+In September 2021 het ons besluit om ons AXS-houers se lugdrop vroegtydig te sluit en ons DEGEN-houers te beloon met 212.85M NFTL-tokens in totaal. 'n Gedeelte van hierdie tokens was opeisbaar met die aankoop van 'n DEGEN NFT, en die res is voor die uitverkoping na die houers gestuur, gebaseer op 'n momentopname geneem by **[Blok #13360120](https://etherscan.io/block/13360120)**. Terwyl die AXS airdrop-kontrak oop was, is 'n totaal van 256K NFTL geëis.
 
-100M NFTL was allocated for a team development fund which is time-locked for 6 months from **[Block #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**. Another 100M NFTL was provided to the **[Nifty DAO treasury](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** to support early community plans such as liquidity incentives, tournament rewards, or giveaways. This brings the initial supply to around 420M with daily emissions for all genesis NFT owners starting immediately after each character sale.
+100M NFTL is toegeken vir 'n spanontwikkelingsfonds wat vir 6 maande gesluit is vanaf **[Blok #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**. Nog 100M NFTL is aan die **[Nifty DAO-tesourie](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** om vroeë gemeenskapsplanne soos likiditeitsaansporings, toernooibelonings of geskenke te ondersteun. Dit bring die aanvanklike aanbod op ongeveer 420M te staan met daaglikse emissies vir alle genesis NFT-eienaars wat onmiddellik na elke karakterverkoping begin.
