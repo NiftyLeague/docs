@@ -13,22 +13,129 @@ sidebar_position: 2
 
 ---
 
-Gør dig klar til at slås! Den lokale multiplayer-version af **[Nifty Smashers](https://nifty-league.com/games)** blev gjort tilgængelig umiddelbart ved lanceringen efterfulgt af online multiplayer! Så tag et par controllere 🎮 og spil med vennerne.
+# **Generel info**
 
-Kæmp det ud blandt fællesskabet, og få så mange __ 🥖 på dine venner, som du kan! **Nifty Smashers** henter inspiration fra det klassiske Super Smash Bros-spil, hvor målet er at slå dine modstandere væk fra kortet for at score point. For at spille skal du bruge en **DEGEN** til at vælge til kamp, og derefter bruge dit tastatur, din Playstation eller Xbox-controller som input (sofa-multiplayer fungerer også!). Fra spillobbyen vil du være i stand til at vælge fra en hvilken som helst af dine tidligere prægede **DEGENs** du ejer i din pung, for at vise dine seje kreationer frem! Hver stamme har et unikt specielt træk, så eksperimenter med forskellige stammer og find det træksæt, der passer bedst til din spillestil. Hold angrebsknappen nede for et opladet flagermusangreb, nogle specielle træk kan også oplades. Når du bonker en anden spiller, er de 1 point værd. Jo mere de successivt bliver knust, jo hurtigere hopper de rundt, og jo flere point er de værd. Land den sidste mega-bonk for at slå dem væk fra kortet og få alle pointene!
+Gør dig klar til at slås! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
 
-**Som nævnt er dette en beta-udgivelse af vores første spil, så forsinkelser og problemer med irriterende bots kan forventes.** Vores umiddelbare plan er at fortsætte udviklingen på **Nifty Smashers** og introducere flere funktioner såsom yderligere kombinationsbevægelser og et progressionssystem. Hop ind i vores **[Discord](https://discord.gg/niftyleague)** at give feedback og ideer til, hvordan vi kan forbedre **Nifty Smashers** og tage det til næste niveau!
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-<!-- ![](/img/highlights.gif) -->
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
 
-**Online multiplayer-forsinkelse ☁️**
+## Scoring
 
-Med den igangværende alfa, lad os tale om forsinkelser i hurtige og smarte slagsmålsspil som **Nifty Smashers**.
+- If a DEGEN is hit once and dies (fall off map) you get 1 point.
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
+- The last hit that kills the DEGEN, gets all combo points.
+- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
+- A 2-player match require 5pts to win a round.
+- 3 & 4-player matches require 10pts to win a round.
+- Matches are best of 5 rounds.
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
 
-Generelt er lag altid til stede, når der er fysisk afstand mellem spillerne på internettet. Jo større afstand, jo større forsinkelse. Der er forskellige teknikker & tricks, som udviklere bruger til at kompensere og skjule forsinkelsen. Vi har implementeret en række af disse forsinkelseskompensationsteknikker, der skjuler forsinkelsen for den bedst mulige oplevelse. Vi har også indarbejdet løsninger med servere over hele verden, så vi kan matche spillere tættest på hinanden for at minimere forsinkelsen så meget som muligt.
+## Lag
 
-Ikke desto mindre forventer vi en vis forsinkelse, når vi lancerer online multiplayer, i betragtning af det niveau af reaktionsevne, som hurtige slagsmålere kræver ⚡.
+- The lag indicator shows the lag (ping speed) of your connection.
+- Lag tyipcally indicates your ping speed is above 100ms.
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
+- There are different techniques that developers use to compensate and hide the lag.
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
 
-Vi er glade for at dele vores fremskridt med dig så hurtigt som muligt. Efter lanceringen vil vi med din feedback gøre alt, hvad vi kan for at gøre forsinkelsen så umærkelig som muligt.
+## Brugerdefineret lobby
 
-Hvis du er interesseret i at lære mere om disse teknikker, er her en fantastisk læsning af Gabriel Gambetta om **[Lagkompensation](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)**.
+- En tilpasset lobby kan bruges til at åbne en kamp i en valgt region. The creator of the lobby can see a code in the lobby map which can be shared with others.
+- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
+- When using a custom lobby code, the region should be switched automatically.
+
+## Changing Regions
+
+- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+
+# **Battle Basics**
+
+## Generelle råd
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+
+## Flagermus gynger
+
+- The bat can be swung in all possible direction: left, right, up, down, diagonals.
+- The bat can be swung by clicking the attack button.
+- Longer button presses makes the bat hit harder.
+- The bat can be swung while standing, running, or jumping.
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+
+## Bevæger sig
+
+- As a 2D Game, moving directions are left/right.
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+
+## Hoppe
+
+- Jump height can be altered by press-duration of jump button.
+- Directions can be changed during jumps/tumble.
+
+## Flyvende Hamburger
+
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
+- We are considering limiting burger buff duration by time and/or kill.
+
+# **Tribe Specifics**
+
+_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+
+## Liste over særlige evner
+
+- **Ape** - Kast boomerangbananer
+- **Alien** - Teleport
+- **Kat** - Kast og få flagermusstyrke og hastighedsboost midlertidigt
+- **Frø** - Tungegribekrogen
+- **Doge** - Doge møntrulle
+- **Menneske** - Kast dynamitter, der eksploderer på kommando
+
+## Alien
+
+- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
+- There is a energy explosion at the teleported location, hitting opponents that stand near.
+
+## Abe
+
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
+- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
+- Bananas can be hit with a bat and fly in the aimed direction.
+
+## Kat
+
+- Et tryk på SA får katten til at kaste sig. After pouncing for a short duration, the cat ges empowered.
+- Empowered bat swing means the bat hits harder.
+- Empowered movement means the cat runs faster.
+- Cats can double jump and jump in mid-air.
+
+## Doge
+
+- Ved at trykke på SA-knappen og holde den nede får dogen til at rulle.
+- Hitting an opponent with doge roll makes them fly upwards in roll direction.
+- Doge will fly-roll in the aimed direction.
+- During doge roll, directions can be changed three times until doge roll ends.
+- Doge roll also ends after a certain time.
+
+## Frø
+
+- Pressing the SA button makes the Frog shoot his tongue.
+- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
+- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+
+### Human
+
+- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
+- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
+- The bomb explodes after some time or after the SA button is pressed a second time.
+- Currently the bomb can hit an opponent by hitting it or via explosion.
+- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
+- Bombs can be hit with a bat and fly in the aimed direction.
+- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
