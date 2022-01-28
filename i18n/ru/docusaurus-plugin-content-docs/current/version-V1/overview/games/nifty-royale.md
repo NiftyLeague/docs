@@ -4,6 +4,6 @@ title: Изящный Рояль
 sidebar_position: 5
 ---
 
-### В разработке на 2022 год!
+### 🚧 Under development for 2022 🚧
 
 ![](/img/niftyroyale_v01.png)
