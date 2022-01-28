@@ -4,6 +4,6 @@ title: Toernooien
 sidebar_position: 2
 ---
 
-Doe mee met het plezier in wekelijkse of maandelijkse toernooien! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
+**Toernooien**
 
-For any other activities you'd like to see implemented, please reach out to our team in Discord!
+Doe mee met het plezier in wekelijkse of maandelijkse toernooien! **Nifty DAO** worden gestimuleerd door beloningen uit ons schatkistfonds van de gemeenschap via token-stemming. Sommige toernooikampioenen kunnen zelfs weglopen met een speciale editie Sleutel tot de Citadel 🗝️ NFT... Neem contact op met ons team voor andere activiteiten die u graag geïmplementeerd zou willen zien!
