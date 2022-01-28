@@ -4,4 +4,10 @@ title: Цоммунити Девс
 sidebar_position: 6
 ---
 
-Наш циљ је да проширимо ову платформу са што више забавних и узбудљивих игара, а то је могуће само уз помоћ наше заједнице. Подстичемо програмере да креирају игре користећи наше ликове који ће – ако буду изабрани – бити објављени на нашој платформи, а заузврат ће програмери бити награђени од Нифти ДАО-а за свој допринос. Будите креативни и пошаљите нам своје идеје! Ако ваша игра показује обећање и одрживост, волели бисмо да је поделимо са заједницом.
+Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+
+We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+
+Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+
+If your game shows promise and viability we’d love to share it with the community.
