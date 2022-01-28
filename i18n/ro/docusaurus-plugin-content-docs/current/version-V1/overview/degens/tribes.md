@@ -16,11 +16,11 @@ Jocul nostru actual, Nifty Smashers, și toate jocurile viitoare vor avea o miș
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Rol de monede Doge
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Uman** - Aruncă dinamită care explodează la comandă
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Aflați mai multe despre aceste seturi de mișcări în Ghidul [](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+În viitor, ne imaginăm că noi triburi „speciale” pot fi lansate/rezervate pentru scalabilitate, jocuri noi, recompense de turneu și multe altele.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
