@@ -21,7 +21,6 @@ Nie, do gry potrzebujesz tylko jednego DEGEN.
 Wystarczy podpisać wiadomość, aby zweryfikować własność swoich DEGEN w portfelu kryptograficznym po uruchomieniu gry.
 
 ### **Czy do gry potrzebuję kontrolerów?**
-
 Nie, chociaż uważamy, że łatwiej jest grać z kontrolerem (PS, Xbox lub innym rozpoznawanym przez PC/Mac) niż klawiaturą.
 
 ### Dlaczego zmiana nazwy wymaga wielu weryfikacji?
