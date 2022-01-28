@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **Загальна інформація**
 
-Готуйся до бійки! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+Готуйся до бійки! Одразу після запуску стала доступна локальна багатокористувацька версія **[Nifty Smashers](https://nifty-league.com/games)** а потім і онлайн-ігри.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+Боріться між суспільством і отримайте якомога більше лайків зі своїми друзями! Nifty Smashers черпає натхнення з класичної гри Super Smash Bros, мета якої — збити ваших суперників з карти, щоб набрати очки.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+Ви можете грати за допомогою клавіатури або будь-якого іншого сумісного контролера (Playstation, Xbox тощо). Увійдіть у лобі гри та виберіть свій DEGEN для битви.
 
 ## Підрахунок балів
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- Якщо DEGEN влучено один раз і загине (впаде з карти), ви отримаєте 1 очко.
+- Якщо DEGEN завдано кілька разів, але не зможете відновитися, ви отримуєте очки так само часто, як і DEGEN (незалежно від того, чи попередні удари були зроблені іншим DEGEN - тож приземліть останній мега-бонк, щоб збити їх з карти та заявити всі очки за раунд).
+- Чим більше ваш супротивник отримує послідовні удари, тим швидше він підскакує і тим більше очок ви отримаєте за удар.
+- Останній удар, який вбиває DEGEN, отримує всі комбо-очки.
+- Наразі немає обмеження щодо частоти ударів DEGEN (комбо), але є обмеження на кількість очок, які ви можете отримати (макс. 3 бали: матч для 2 гравців / максимум 5 балів: 3&матч для 4 гравців ).
+- Матч з 2 гравцями вимагає 5 очок, щоб виграти раунд.
+- 3 & Матчі для 4 гравців вимагають 10 очок, щоб виграти раунд.
+- Матчі найкращі за 5 раундів.
+- Якщо після 5-го раунду є нічия, гравці з нічиєю переходять у раунд раптової смерті, за яким інші гравці можуть спостерігати з бокової лінії.
 
-## Lag
+## відставання
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- Індикатор затримки показує затримку (швидкість ping) вашого з’єднання.
+- Затримка зазвичай вказує, що швидкість ping перевищує 100 мс.
+- Взагалі кажучи, відставання завжди присутнє, коли існує фізична відстань між гравцями в Інтернеті. Чим більше відстань, тим більше відставання.
+- Існують різні прийоми, які розробники використовують, щоб компенсувати та приховати відставання.
+- Ми впровадили ряд цих методів компенсації відставання, які прикривають відставання для найкращого можливого досвіду.
+- Ми також включили рішення із серверами по всьому світу, щоб ми могли підбирати гравців, які є найближчими один до одного, щоб мінімізувати відставання, наскільки це можливо. Якщо вам цікаво дізнатися більше про ці методи, перегляньте [цю публікацію](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) ми любимо, про компенсацію відставання від Габріеля Гамбетти.
 
 ## Індивідуальне лобі
 
-- Для відкриття матчу у вибраному регіоні можна використовувати спеціальне лобі. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- Для відкриття матчу у вибраному регіоні можна використовувати спеціальне лобі. Творець вестибюля може побачити код на карті лобі, яким можна поділитися з іншими.
+- Якщо інший degen хоче приєднатися до лобі, йому спочатку потрібно вибрати правильний регіон, а потім ввести код лобі у поле введення.
+- При використанні спеціального коду лобі регіон має перемикатися автоматично.
 
-## Changing Regions
+## Зміна регіонів
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher – це гра зі швидким темпом, де затримка/пінг має вирішальне значення. Чим ближче обраний регіон до розташування гравця, тим нижчий пінг.
+- Після зміни регіону в додатку Web-GL або настільному додатку відображається поточний ping.
 
 # **Основи бою**
 
 ## Загальні поради
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- Настійно рекомендується грати з контролером (Playstation, Xbox або будь-яким іншим контролером, розпізнаним вашим ПК/Mac).
 
 ## Гойдалки кажана
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- Биту можна качати в усіх можливих напрямках: вліво, вправо, вгору, вниз, по діагоналі.
+- Биту можна махнути, натиснувши кнопку атаки.
+- Довше натискання кнопки робить биту сильніше.
+- Биту можна качати стоячи, бігаючи або стрибаючи.
+- Гравці можуть довго натискати кнопку атаки під час стрибків - зазвичай це хороший спосіб здивувати суперника(ів).
 
 ## Переміщення
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- Як 2D-ігри, напрямки руху ліворуч/праворуч.
+- Напрямки можна змінювати під час стрибків/падіння (це набагато легше зробити за допомогою контролера).
 
 ## Стрибки
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- Висоту стрибка можна змінити, натиснувши кнопку стрибка.
+- Напрямки можна змінювати під час стрибків/падіння.
 
 ## Літаючий гамбургер
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- Спіймати літаючий гамбургер зробить удар бита вашого DEGEN набагато сильніше - це зазвичай призводить до прямого вбивства.
+- Ми розглядаємо обмеження тривалості баффа для бургерів часом та/або вбивством.
 
-# **Tribe Specifics**
+# **Особливості племені**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_Усі племена DEGEN мають особливу здатність ("SA"), яка буде однаковою для всіх ігор Nifty League (живих і майбутніх)._
 
 ## Список особливих здібностей
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## Інопланетянин
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- Натискання кнопки SA дозволяє Чужому телепортуватися на коротку відстань у цільовому напрямку (ліворуч, праворуч, вгору, вниз, по діагоналі).
+- У телепортованому місці відбувається енергетичний вибух, який вражає супротивників, які стоять поруч.
 
 ## мавпа
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- Натискання кнопки SA кидає банан у прицільному напрямку (ліворуч, праворуч, вгору, вниз, по діагоналі), поки він не влучить у супротивника, не вдариться у частину карти або не злетить з карти.
+- Повторне натискання кнопки SA змушує банан летіти назад до DEGEN, що дає можливість знову вразити супротивника.
+- Банани можна вдарити битою і летіти в прицільному напрямку.
 
 ## кіт
 
-- Натискання на SA змушує кота кидатися. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- Натискання на SA змушує кота кидатися. Після короткого кидка кіт набуває сили.
+- Уповноважений мах битою означає, що бита б’є сильніше.
+- Посилений рух означає, що кіт бігає швидше.
+- Кішки можуть стрибати подвійно і стрибати в повітрі.
 
 ## дож
 
 - Натискання та утримування кнопки SA змушує дожа кидатися.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- Ударивши суперника кидком дожів, він летить вгору в напрямку кидання.
+- Дож полетить у цільовому напрямку.
+- Під час перебігу дож-ролу напрямки можна змінити тричі, доки не закінчиться перебіг.
+- Дож рол також закінчується через певний час.
 
 ## жаба
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- Натискання кнопки SA змушує Жабу стріляти язиком.
+- Коли язик вдаряється в супротивника, його тягне в бік жаб і відлітає трохи далі.
+- Коли язик торкається фрагмента карти, жаби тягнуться до цього об’єкта (наприклад, стін, стелі тощо).
+- Язиком можна стріляти в прицільному напрямку (вліво, вправо, вгору, вниз, по діагоналі).
 
 ### Людський
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- Натискання кнопки SA кидає бомбу в прицільному напрямку (ліворуч, праворуч, вгору, вниз, по діагоналі).
+- Бомба має криву польоту і не летить прямо, як банани (якщо її не підірвати, вона залишається на землі).
+- Бомба вибухає через деякий час або після другого натискання кнопки SA.
+- Зараз бомба може вразити супротивника, влучивши в нього або вибухом.
+- Бомби - єдина SA, яка може вразити своїм вибухом сам метальний DEGEN.
+- Бомби можна бити битою і летіти в приціленому напрямку.
+- Ми плануємо оновити гру, щоб бомба вибухнула відразу після контакту з супротивником. Якщо жоден суперник не вражений, він залишається на землі, поки не вибухне автоматично або після другого натискання кнопки SA.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+Будь ласка, приєднайтеся до нашого **[Discord](https://discord.gg/niftyleague)** щоб надати відгук та ідеї щодо того, як ми можемо покращити гру та вивести її на наступний рівень.
