@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+DEGEN-taustat jaettiin satunnaisesti lyönnin yhteydessä, mikä johti joko yhteiseen taustaan tai johonkin kolmesta erityistaustasta: **Harvinainen**, **Meta**tai **Legendaarinen**.
 
-Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
+Sen lisäksi, että se näyttää siistiltä, taustalla on erityisetuja, kuten erottuva ulkonäkö pelissä ja lisätulokertoimet.
 
 ### Tulojen kertoimet
 
