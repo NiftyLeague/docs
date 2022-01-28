@@ -1,21 +1,13 @@
 ---
 id: הקדמה
-title: על Nifty League
+title: מהי ליגת ניפטי?
 sidebar_position: 1
 ---
 
-Nifty League מובילה את המשחקים התחרותיים במטא-וורס - מתרחקת ממשחק-להרוויח לעידן חדש של משחק-והרווח על-ידי הצעת אקולוגית מהנה ומרתקת.
-
-ה-NiftyVerse מתרכז סביב נוסטלגיה שבה בונים, שחקנים ובעלים מבלים זמן בחיבור, משחקים והרווחים ב-Web3.
+המשימה שלנו היא ליצור פלטפורמת משחקי NFT מובילה באמצעות ממשל ופיתוח קהילתי. Nifty League מתגאה בכך שהיא אחת מפלטפורמות ה-GameFi הראשונות שמציעות משחקים אינטראקטיביים להרוויח עם דמויות הניתנות להתאמה אישית; לא סתם עוד טיפת pfp... 🙃
 
 ![](/img/story.gif)
 
-שחקנים קונים (ובקרוב יוכלו לשכור) את [DEGEN NFTs](https://opensea.io/collection/niftydegen) שלהם כדי להתחרות ולהרוויח פרסים באסימון של המערכת האקולוגית שלנו; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+משתמשים מעצבים, מטביעים ומשחקים כדמות האישית שלהם כדי להתחרות ולהרוויח פרסים בתוך הקהילה שלנו, כולל האסימון של המערכת האקולוגית שלנו; NFTL. רכישת Ethereum DEGEN לא רק מספקת לך אסימוני NFTL, אלא פותחת מצבים מרובי משתתפים במשחקים שלנו ומעניקים לך כניסה לטורנירים ציבוריים.
 
-DEGENs מרוויחים אסימוני NFTL דרך משחק, מה שנותן לך חלק מהבעלות ב- Nifty League DAO, את היכולת לקנות נכסים במשחק דרך השוק שלנו, לרכוש קרקע ב- NiftyVerse ועוד.
-
-הצוות שלנו שואף להפוך את המשחקים שלנו לתחרותיים ביותר ועמוסים בנוסטלגיה מימי הגיימינג הרטרויים! בהשקה בספטמבר 2021, שחררנו את המשחק הראשון שלנו Nifty Smashers; קרב NFT שבו אתה נלחם עם חבריך DEGEN על פני 5 רמות מרגשות.
-
-לקהילת DEGEN של Nifty League יש ותמשיך לשחק תפקיד מפתח בעיצוב מפת הדרכים והמשחקים שלנו. אנו מקווים לראות את הפלטפורמה מתרחבת ל-DAO מבוזר לחלוטין, עם תמיכה של מפתחים בקהילה ואולפני משחקי אינדי ברחבי העולם.
-
-לבסוף, אנו נרגשים לשתף פעולה עם כמה מגילדות המשחקים Web3 הגדולות בעולם כדי להרחיב את קהילת השחקנים שלנו, להניע את לולאות צמיחת התוכן שלנו ולעורר מודעות ומעורבות ברחבי האקולוגית של ליגת Nifty.
+הצוות שלנו שואף להפוך את המשחקים שלנו לתחרותיים ביותר ועמוסים בנוסטלגיה מימי הגיימינג הרטרויים! בהשקה נשחרר את המשחק הראשון שלנו Nifty Smashers; קרב NFT שתוכל להילחם בו עם החברים שלך וטוויטר Crypto! יש לנו מספר אפשרויות משחק עתידיות שנפתח בהתבסס על קלט מהקהילה, אך בסופו של דבר מקווים לראות את הגבלות הצמיחה של הפלטפורמה שלנו שלא נראו עם התמיכה של מפתחי הקהילה (מידע נוסף בהמשך).
