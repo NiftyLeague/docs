@@ -16,11 +16,11 @@ sidebar_position: 2
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**总督** - 总督硬币卷
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**人类** - 投掷根据命令爆炸的炸药
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+[Smashers 指南](/guides/nifty-smashers/tribes)了解有关这些移动装置的更多信息
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+在未来，我们设想可能会发布/保留新的“特殊”部落，用于可扩展性、新游戏、锦标赛奖励等。
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
