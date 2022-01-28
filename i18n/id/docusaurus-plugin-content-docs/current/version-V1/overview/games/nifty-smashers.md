@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **Informasi Umum**
 
-Bersiaplah untuk berkelahi! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+Bersiaplah untuk berkelahi! Versi multipemain lokal **[Nifty Smashers](https://nifty-league.com/games)** segera tersedia saat peluncuran diikuti oleh multipemain daring.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+Bertarunglah di antara komunitas dan dapatkan teman-temanmu sebanyak mungkin! Nifty Smashers mengambil inspirasi dari game Super Smash Bros klasik di mana tujuannya adalah untuk menjatuhkan lawan Anda dari peta untuk mencetak poin.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+Anda dapat bermain menggunakan keyboard atau pengontrol lain yang kompatibel (Playstation, Xbox, dll.). Masuk ke lobi game dan pilih DEGEN Anda untuk bertempur.
 
 ## Penilaian
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- Jika DEGEN terkena sekali dan mati (jatuh dari peta) Anda mendapatkan 1 poin.
+- Jika DEGEN dipukul beberapa kali tanpa bisa pulih, Anda mendapatkan poin sesering DEGEN terkena (terlepas dari jika hit sebelumnya dilakukan oleh DEGEN lain - jadi dapatkan mega-bonk terakhir untuk memukul mereka dari peta dan mengklaim semua poin untuk putaran).
+- Semakin banyak lawan Anda yang terkena bonking, semakin cepat mereka terpental dan semakin banyak poin yang akan Anda dapatkan untuk bonking.
+- Pukulan terakhir yang membunuh DEGEN, mendapatkan semua poin kombo.
+- Saat ini tidak ada batasan seberapa sering DEGEN dapat dipukul (combo'ed), tetapi ada batasan jumlah poin yang bisa Anda dapatkan (max 3pts: 2-player match / max 5pts: 3&4-player match ).
+- Pertandingan 2 pemain membutuhkan 5 poin untuk memenangkan ronde.
+- 3 & Pertandingan 4 pemain membutuhkan 10 poin untuk memenangkan ronde.
+- Pertandingan adalah yang terbaik dari 5 putaran.
+- Jika ada seri setelah ronde ke-5, para pemain yang imbang pindah ke ronde kematian mendadak yang bisa ditonton oleh pemain lain dari sideline.
 
-## Lag
+## Ketinggalan
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- Indikator lag menunjukkan lag (kecepatan ping) koneksi Anda.
+- Lag biasanya menunjukkan kecepatan ping Anda di atas 100ms.
+- Secara umum, lag selalu hadir setiap kali ada jarak fisik antara pemain di internet. Semakin jauh jaraknya, semakin besar lagnya.
+- Ada berbagai teknik yang digunakan pengembang untuk mengimbangi dan menyembunyikan kelambatan.
+- Kami telah menerapkan sejumlah teknik kompensasi lag yang menutupi lag untuk pengalaman terbaik.
+- Kami juga telah menggabungkan solusi dengan server di seluruh dunia sehingga kami dapat mencocokkan pemain yang paling dekat satu sama lain untuk meminimalkan lag sebanyak mungkin. Jika Anda tertarik untuk mempelajari lebih lanjut tentang teknik ini, lihat [posting ini](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) kami sukai tentang Kompensasi Lag oleh Gabriel Gambetta.
 
 ## Lobi Khusus
 
-- Lobi khusus dapat digunakan untuk membuka pertandingan di wilayah yang dipilih. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- Lobi khusus dapat digunakan untuk membuka pertandingan di wilayah yang dipilih. Pembuat lobi dapat melihat kode di peta lobi yang dapat dibagikan dengan orang lain.
+- Jika degen lain ingin bergabung dengan lobi, dia harus memilih wilayah yang benar terlebih dahulu dan kemudian mengetikkan kode lobi ke dalam kotak input.
+- Saat menggunakan kode lobi khusus, wilayah harus dialihkan secara otomatis.
 
-## Changing Regions
+## Mengubah Wilayah
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher adalah permainan serba cepat di mana latensi / ping sangat penting. Semakin dekat wilayah yang dipilih dengan lokasi pemain, semakin rendah ping.
+- Setelah mengubah wilayah di Web-GL atau Aplikasi Desktop, ping saat ini ditampilkan.
 
 # **Dasar-dasar Pertempuran**
 
 ## Saran umum
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- Bermain dengan pengontrol sangat disarankan (Playstation, Xbox, atau pengontrol lain yang dikenali oleh PC/Mac Anda).
 
 ## Ayunan kelelawar
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- Kelelawar dapat diayunkan ke segala arah yang memungkinkan: kiri, kanan, atas, bawah, diagonal.
+- Kelelawar dapat diayunkan dengan mengklik tombol serangan.
+- Menekan tombol lebih lama membuat pukulan lebih keras.
+- Kelelawar dapat diayunkan sambil berdiri, berlari, atau melompat.
+- Pemain dapat menekan lama tombol serangan selama lompatan - ini biasanya merupakan cara yang baik untuk mengejutkan lawan Anda.
 
 ## Bergerak
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- Sebagai Game 2D, arah bergerak ke kiri/kanan.
+- Arah dapat diubah selama lompatan/jatuh (ini jauh lebih mudah dilakukan dengan menggunakan pengontrol).
 
 ## Melompat
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- Tinggi lompat dapat diubah dengan menekan-durasi tombol lompat.
+- Arah dapat diubah selama melompat/jatuh.
 
 ## Hamburger Terbang
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- Menangkap hamburger terbang akan membuat pukulan DEGEN Anda lebih kuat - ini biasanya menghasilkan pembunuhan langsung.
+- Kami sedang mempertimbangkan untuk membatasi durasi buff burger berdasarkan waktu dan/atau kill.
 
-# **Tribe Specifics**
+# **Spesifik Suku**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_Semua suku DEGEN memiliki Kemampuan Khusus ("SA"), yang akan konsisten di semua game Nifty League (langsung dan yang akan datang)._
 
 ## Daftar Kemampuan Khusus
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## Asing
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- Menekan tombol SA membuat Alien dapat melakukan teleportasi jarak pendek ke arah yang dituju (kiri, kanan, atas, bawah, diagonal).
+- Ada ledakan energi di lokasi teleportasi, mengenai lawan yang berdiri di dekatnya.
 
 ## Kera
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- Menekan tombol SA akan melempar pisang ke arah yang dituju (kiri, kanan, atas, bawah, diagonal) hingga mengenai lawan, mengenai bagian peta, atau terbang keluar dari peta.
+- Menekan tombol SA lagi membuat pisang terbang kembali ke DEGEN, memungkinkan untuk mengenai lawan lagi.
+- Pisang dapat dipukul dengan tongkat pemukul dan terbang ke arah yang dituju.
 
 ## Kucing
 
-- Menekan SA membuat kucing menerkam. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- Menekan SA membuat kucing menerkam. Setelah menerkam untuk waktu yang singkat, ges kucing diberdayakan.
+- Ayunan kelelawar yang diberdayakan berarti kelelawar memukul lebih keras.
+- Gerakan yang diberdayakan berarti kucing berlari lebih cepat.
+- Kucing dapat melompat ganda dan melompat di udara.
 
 ## anjing
 
 - Menekan dan menahan tombol SA membuat doge berguling.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- Memukul lawan dengan doge roll membuat mereka terbang ke atas dalam arah roll.
+- Doge akan terbang-roll ke arah yang dituju.
+- Selama doge roll, arah dapat diubah tiga kali sampai doge roll berakhir.
+- Doge roll juga berakhir setelah waktu tertentu.
 
 ## Katak
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- Menekan tombol SA membuat Katak menembak lidahnya.
+- Ketika lidah mengenai lawan, lawan itu ditarik ke arah katak dan terbang sedikit lebih jauh.
+- Ketika lidahnya mengenai potongan peta, katak menarik dirinya ke objek itu (misalnya dinding, langit-langit, dll.)
+- Lidah dapat ditembakkan ke arah yang dituju (kiri, kanan, atas, bawah, diagonal).
 
 ### Manusia
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- Menekan tombol SA melempar bom ke arah yang dituju (kiri, kanan, atas, bawah, diagonal).
+- Bom memiliki kurva terbang dan tidak terbang lurus seperti pisang (jika tidak diledakkan, ia tetap di tanah).
+- Bom meledak setelah beberapa waktu atau setelah tombol SA ditekan untuk kedua kalinya.
+- Saat ini bom dapat mengenai lawan dengan cara dipukul atau melalui ledakan.
+- Bom adalah satu-satunya SA yang bisa mengenai lemparan DEGEN itu sendiri dengan ledakannya.
+- Bom dapat dipukul dengan tongkat pemukul dan terbang ke arah yang dituju.
+- Kami berencana untuk memperbarui permainan sehingga bom meledak segera setelah kontak dengan lawan. Jika tidak ada lawan yang terkena, ia tetap di tanah sampai meledak secara otomatis atau setelah menekan tombol SA untuk kedua kalinya.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+Silakan bergabung dengan **[Discord](https://discord.gg/niftyleague)** untuk memberikan umpan balik dan ide tentang bagaimana kami dapat meningkatkan permainan dan membawanya ke level berikutnya.
