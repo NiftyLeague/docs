@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## kurucular
 
-| şık Andy                | hıçkırık             | Şık Başak                |
-| ----------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Yaratıcı yönetmen        |
+| şık Andy                       | hıçkırık              | Şık Başak                |
+| ------------------------------ | --------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)        | ![](/img/snarfy.png)  | ![](/img/NiftySpike.png) |
+| Web3 Geliştirme / Oyun Teorisi | Lider Oyun Geliştirme | Yaratıcı yönetmen        |
 
 ## Takım
 
