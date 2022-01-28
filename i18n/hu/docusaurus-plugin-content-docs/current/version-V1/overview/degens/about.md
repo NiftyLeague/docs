@@ -4,14 +4,14 @@ title: Ról ről
 sidebar_position: 1
 ---
 
-The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
+A Nifty League pénzverési folyamata lehetővé tette a pénzverők számára, hogy saját DEGEN-t tervezzenek a Mint-O-Matic segítségével, amelyet közösségünk nagyon szeretett!
 
 ![](/img/mintomatic.gif)
 
-There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+A DEGEN-ek 6 törzse létezik: majmok, emberek, kutyák, békák, macskák és idegenek.
 
-The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+A DEGEN dizájnja befolyásolta az elérhető karaktertulajdonságokat és kiegészítőket, valamint meghatározott játékon belüli mechanikát és speciális mozdulatokat.
 
-Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+A pénzverők át tudták böngészni a már vert DEGENS-eket, hogy megállapítsák, mely törzsek ritkábbak a többieknél, és milyen típusú DEGEN felé vonzódtak.
 
-Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
+Bár NFT-jeink 2021 októberében vertek ki, a másodlagos piacon megvásárolhatók a [](https://opensea.io/collection/niftydegen)en keresztül.
