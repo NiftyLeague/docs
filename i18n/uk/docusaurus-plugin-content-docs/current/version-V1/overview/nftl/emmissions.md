@@ -4,6 +4,6 @@ title: Викиди
 sidebar_position: 3
 ---
 
-250M NFTL will be distributed annually over the first 3 years to all genesis DEGEN NFT owners. There is no need to stake your NFT, just sit back and watch your NFTL accrue daily. DEGEN owners can claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet).
+**250 млн NFTL** буде розподілятися щорічно протягом перших **3 років** всім **DEGEN** NFT. Немає необхідності робити ставку NFT; просто сідайте і дивіться, як ваш **NFTL** накопичується щодня, який ви можете отримати на нашому веб-сайті в будь-який час на сторінці вашого гаманця [](https://nifty-league.com/wallet).
 
-Any remaining future emissions will either be for daily in-game rewards or funding for the Nifty DAO. We will grant the Nifty DAO the ability to mint up to 330M NFTL over the first year after we get a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors as well as being used for competition rewards, but ultimately the DAO will be responsible for the decision.
+Будь-які майбутні викиди, що залишилися, будуть або для щоденних ігрових нагород, або для фінансування **Nifty DAO**. Ми надамо **Nifty DAO** можливість карбувати до **330 млн NFTL** протягом першого року після того, як ми отримаємо мінімум **7 підписників** контролюють гаманець з кількома підписами. Ми передбачаємо, що більшість із цих жетонів надійдуть учасникам спільноти, а також будуть використані для нагород за змагання, але в кінцевому підсумку DAO прийме це рішення, коли настане час.
