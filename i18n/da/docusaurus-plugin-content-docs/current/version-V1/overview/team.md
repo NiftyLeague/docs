@@ -9,7 +9,7 @@ sidebar_position: 2
 | Smart Andy              | Snarfy               | Smart Spike              |
 | ----------------------- | -------------------- | ------------------------ |
 | ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| direktør                | CTO                  | Kreativ direktør         |
+| Web3 Dev / Spilteori    | Lead Game Dev        | Kreativ direktør         |
 
 ## Hold
 
