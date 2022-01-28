@@ -4,7 +4,4 @@ title: Configurați-vă portofelul
 sidebar_position: 0,5
 ---
 
-1. Select Launch App in the top navigation bar
-2. Select Connect
-3. Choose the crypto wallet which holds your DEGEN NFT
-4. Semnați tranzacția când vi se solicită.
+Atingeți Lansați aplicația în bara de navigare de sus din dreapta. Atinge Conectare. Alegeți portofelul cripto care conține DEGEN NFT. Semnați tranzacția când vi se solicită. 
