@@ -16,11 +16,11 @@ sidebar_position: 2
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge 동전 롤
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**인간** - 명령에 따라 폭발하는 다이너마이트 던지기
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+[Smashers Guide](/guides/nifty-smashers/tribes)에서 이러한 기술에 대해 자세히 알아보십시오.
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+미래에는 확장성, 새로운 게임, 토너먼트 보상 등을 위해 새로운 "특별한" 부족이 출시/예약될 수 있다고 생각합니다.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
