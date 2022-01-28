@@ -1,21 +1,13 @@
 ---
 id: pengantar
-title: Tentang Liga Nifty
+title: Apa Itu Liga Nifty?
 sidebar_position: 1
 ---
 
-Nifty League memimpin game kompetitif di metaverse - beralih dari play-to-earn ke era baru play-and-earn dengan menawarkan ekosistem game yang menyenangkan dan menarik.
-
-NiftyVerse berpusat di sekitar nostalgia di mana pembangun, pemain, dan pemilik menghabiskan waktu untuk terhubung, bermain game, dan menghasilkan di Web3.
+Misi kami adalah menciptakan platform game NFT terkemuka melalui tata kelola dan pengembangan komunitas. Nifty League bangga menjadi salah satu platform GameFi pertama yang menawarkan game play-to-earn interaktif dengan karakter yang dapat disesuaikan; bukan hanya penurunan pfp...
 
 ![](/img/story.gif)
 
-Pemain membeli (dan akan segera dapat menyewa) [DEGEN NFT](https://opensea.io/collection/niftydegen) untuk bersaing dan mendapatkan hadiah di token ekosistem kami; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+Pengguna mendesain, mencetak, dan bermain sebagai karakter pribadi mereka untuk bersaing dan mendapatkan hadiah dalam komunitas kami termasuk token ekosistem kami; NFTL. Membeli Ethereum DEGEN tidak hanya memberi Anda token NFTL, tetapi membuka mode multipemain dalam game kami yang memberi Anda izin masuk ke turnamen publik.
 
-DEGEN mendapatkan token NFTL melalui permainan, yang memberi Anda kepemilikan di Nifty League DAO, kemampuan untuk membeli aset dalam game melalui pasar kami, membeli tanah di NiftyVerse, dan banyak lagi.
-
-Tim kami berusaha untuk membuat game kami sangat kompetitif dan penuh dengan nostalgia dari masa tenang game retro! Saat diluncurkan pada September 2021, kami merilis game pertama kami Nifty Smashers; petarung NFT di mana Anda bertarung dengan teman DEGEN Anda di 5 level yang menarik.
-
-Komunitas DEGEN Nifty League telah dan akan terus memainkan peran kunci dalam membentuk peta jalan dan permainan kami. Kami berharap untuk melihat platform berkembang menjadi DAO yang sepenuhnya terdesentralisasi, dengan dukungan pengembang di komunitas dan studio game indie secara global.
-
-Terakhir, kami sangat antusias untuk bermitra dengan beberapa serikat game Web3 terbesar di dunia untuk memperluas komunitas pemain kami, mendorong loop pertumbuhan konten kami, dan mendorong kesadaran dan keterlibatan di seluruh ekosistem Nifty League.
+Tim kami berusaha untuk membuat game kami sangat kompetitif dan penuh dengan nostalgia dari masa tenang game retro! Saat peluncuran, kami akan merilis game pertama kami Nifty Smashers; petarung NFT bagi Anda untuk bertarung dengan teman-teman Anda dan Crypto Twitter! Kami memiliki beberapa opsi game mendatang yang akan kami kembangkan berdasarkan masukan komunitas tetapi pada akhirnya berharap untuk melihat batas jangkauan pertumbuhan platform kami yang tidak terlihat dengan dukungan pengembang komunitas (info lebih lanjut di bawah).
