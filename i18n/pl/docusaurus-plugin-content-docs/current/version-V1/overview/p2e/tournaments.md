@@ -4,6 +4,6 @@ title: Turnieje
 sidebar_position: 2
 ---
 
-Dołącz do zabawy w cotygodniowych lub miesięcznych turniejach! Wszystkie turnieje mogą być premiowane nagrodami z naszego funduszu skarbowego społeczności według uznania Nifty DAO poprzez głosowanie tokenami. Niektórzy mistrzowie turnieju mogą nawet odejść ze specjalną edycją Klucza do Cytadeli 🗝️.
+**Turnieje 🏆**
 
-W przypadku jakichkolwiek innych działań, które chcesz zobaczyć wdrożone, skontaktuj się z naszym zespołem w Discord!
+Dołącz do zabawy w cotygodniowych lub miesięcznych turniejach! Wszystkie turnieje mogą być motywowane nagrodami z naszego funduszu skarbowego społeczności **Nifty DAO** poprzez głosowanie tokenami. Niektórzy mistrzowie turnieju mogą nawet odejść ze specjalną edycją Klucza do Cytadeli 🗝️ NFT... W przypadku jakichkolwiek innych działań, które chcesz zobaczyć wdrożone, skontaktuj się z naszym zespołem!
