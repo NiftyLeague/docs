@@ -4,4 +4,10 @@ title: Розробники спільноти
 sidebar_position: 6
 ---
 
-Наша мета — розширити цю платформу якомога більшою кількістю веселих та захоплюючих ігор, а це можливо лише за допомогою нашої спільноти. Ми заохочуємо розробників створювати ігри з використанням наших персонажів, які, якщо їх вибрано, будуть доступні на нашій платформі, а натомість розробники отримають винагороду від Nifty DAO за їхній внесок. Будьте креативними та надсилайте нам свої ідеї! Якщо ваша гра демонструє перспективи та життєздатність, ми будемо раді поділитися нею зі спільнотою.
+Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+
+We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+
+Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+
+If your game shows promise and viability we’d love to share it with the community.
