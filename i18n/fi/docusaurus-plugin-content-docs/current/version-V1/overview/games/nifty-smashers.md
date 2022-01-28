@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **Yleistä tietoa**
 
-Valmistaudu tappeluun! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+Valmistaudu tappeluun! **[Nifty Smashers](https://nifty-league.com/games)** paikallinen moninpeliversio julkaistiin heti julkaisun yhteydessä ja sen jälkeen verkkomoninpeli.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+Taistele yhteisön keskuudessa ja lyö ystävillesi niin monta lyöntiä kuin pystyt! Nifty Smashers saa inspiraationsa klassisesta Super Smash Bros -pelistä, jossa tavoitteena on kaataa vastustajasi pois kartalta pisteiden keräämiseksi.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+Voit pelata näppäimistölläsi tai millä tahansa muulla yhteensopivalla ohjaimella (Playstation, Xbox jne.). Mene pelin aulaan ja valitse DEGEN taisteluun.
 
 ## Pisteytys
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- Jos DEGEN osuu kerran ja kuolee (putoaa kartalta), saat 1 pisteen.
+- Jos DEGENiin osuu useita kertoja ilman, että pystyt toipumaan, saat pisteitä niin usein kuin DEGENiin osuu (riippumatta siitä, onko aiemmat osumat tehty toisella DEGENillä - joten laske viimeinen megabonkki, jotta voit osua ne pois kartalta ja lunastaa kierroksen kaikki pisteet).
+- Mitä enemmän vastustajasi lyö peräkkäin, sitä nopeammin hän pomppii ympäriinsä ja sitä enemmän pisteitä saat.
+- Viimeinen osuma, joka tappaa DEGENin, saa kaikki yhdistelmäpisteet.
+- Tällä hetkellä ei ole rajaa sille, kuinka usein DEGENiin voidaan lyödä (yhdistelmä), mutta pistemäärälle, jonka voit saada, on raja (max 3 pistettä: 2 pelaajan ottelu / max 5 pt: 3&4 pelaajan ottelu ).
+- Kahden pelaajan ottelu vaatii 5 pistettä kierroksen voittamiseksi.
+- 3 & 4 pelaajan ottelut vaativat 10 pistettä kierroksen voittamiseksi.
+- Ottelut ovat paras viidestä kierroksesta.
+- Jos 5. kierroksen jälkeen on tasapeli, tasatuloksissa olevat pelaajat siirtyvät äkilliseen kuolemaan, jota muut pelaajat pääsevät katsomaan sivurajasta.
 
-## Lag
+## Viive
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- Viiveilmaisin näyttää yhteytesi viiveen (ping-nopeuden).
+- Viive osoittaa tyypillisesti, että ping-nopeus on yli 100 ms.
+- Yleisesti ottaen viive on aina läsnä aina, kun pelaajien välillä on fyysinen etäisyys Internetissä. Mitä suurempi etäisyys, sitä suurempi viive.
+- On olemassa erilaisia tekniikoita, joita kehittäjät käyttävät viiveen kompensoimiseen ja piilottamiseen.
+- Olemme ottaneet käyttöön useita näitä viiveen kompensointitekniikoita, jotka peittävät viiveen parhaan mahdollisen kokemuksen saavuttamiseksi.
+- Olemme myös yhdistäneet ratkaisuja palvelimiin ympäri maailmaa, jotta voimme sovittaa toisiaan lähinnä olevia pelaajia minimoidaksemme viiveen mahdollisimman paljon. Jos olet kiinnostunut oppimaan lisää näistä tekniikoista, katso [tämä viesti](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) jota rakastamme Gabriel Gambettan viiveen kompensoinnista.
 
 ## Mukautettu aula
 
-- Räätälöityä aulaa voidaan käyttää ottelun avaamiseen valitulla alueella. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- Räätälöityä aulaa voidaan käyttää ottelun avaamiseen valitulla alueella. Aulan luoja näkee aulakartassa koodin, jonka voi jakaa muiden kanssa.
+- Jos toinen degen haluaa liittyä aulaan, hänen on ensin valittava oikea alue ja kirjoitettava sitten aulan koodi syöttöruutuun.
+- Kun käytät mukautettua aulakoodia, alueen tulee vaihtaa automaattisesti.
 
-## Changing Regions
+## Vaihtuvat alueet
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher on nopeatempoinen peli, jossa latenssi/ping on ratkaisevan tärkeää. Mitä lähempänä pelaajan sijaintia valittu alue on, sitä pienempi on ping.
+- Kun alue on vaihdettu Web-GL:ssä tai työpöytäsovelluksessa, nykyinen ping näytetään.
 
 # **Taistelun perusteet**
 
 ## Yleiset neuvot
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- Pelaaminen ohjaimella on erittäin suositeltavaa (Playstation, Xbox tai mikä tahansa muu PC/Mac-tietokoneesi tunnistama ohjain).
 
 ## Lepakon keinut
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- Mailaa voidaan heilauttaa kaikkiin mahdollisiin suuntiin: vasemmalle, oikealle, ylös, alas, diagonaaleihin.
+- Mailaa voi heilauttaa napsauttamalla hyökkäyspainiketta.
+- Pidemmät painikkeen painallukset tekevät mailasta kovempaa iskemistä.
+- Mailaa voi heilua seistessä, juoksussa tai hyppääessä.
+- Pelaajat voivat painaa hyökkäyspainiketta pitkään hyppyjen aikana - tämä on yleensä hyvä tapa yllättää vastustajasi.
 
 ## Liikkuva
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- 2D-pelinä liikesuunnat ovat vasemmalle/oikealle.
+- Suunta voidaan muuttaa hyppyjen/pysähdysten aikana (tämä on paljon helpompi suorittaa ohjaimella).
 
 ## Hyppääminen
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- Hyppykorkeutta voidaan muuttaa painamalla hyppypainiketta.
+- Suunta voidaan muuttaa hyppyjen/pysähdysten aikana.
 
 ## Lentävä hampurilainen
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- Lentävän hampurilaisen kiinni saaminen tekee DEGENin mailasta paljon vahvemman - tämä johtaa yleensä suoraan tappamiseen.
+- Harkitsemme hampurilaisen buffin keston rajoittamista ajan ja/tai tappamisen mukaan.
 
-# **Tribe Specifics**
+# **Heimotiedot**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_Kaikilla DEGEN-heimoilla on Special Ability ("SA"), joka on johdonmukainen kaikissa Nifty League -peleissä (liveissä ja tulevissa)._
 
 ## Luettelo erityiskyvyistä
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## Ulkomaalainen
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- Painamalla SA-painiketta Alien voi teleportoida lyhyen matkan kohdistettuun suuntaan (vasemmalle, oikealle, ylös, alas, diagonaalit).
+- Teleportoidussa paikassa tapahtuu energiaräjähdys, joka osuu lähellä seisoviin vastustajiin.
 
 ## Apina
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- SA-painikkeen painaminen heittää banaania kohdistettuun suuntaan (vasemmalle, oikealle, ylös, alas, diagonaalit), kunnes se osuu vastustajaan, osuu karttaosaan tai lentää pois kartalta.
+- Kun painat SA-painiketta uudelleen, banaani lentää takaisin DEGENiin, jolloin vastustajaan on mahdollista lyödä uudelleen.
+- Banaaneja voi lyödä mailalla ja lentää haluttuun suuntaan.
 
 ## Kissa
 
-- SA:n painaminen saa kissan pomppimaan. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- SA:n painaminen saa kissan pomppimaan. Lyhyen pommituksen jälkeen kissa vahvistui.
+- Voimakas lepakkokeinu tarkoittaa, että maila osuu kovemmin.
+- Voimakas liike tarkoittaa, että kissa juoksee nopeammin.
+- Kissat voivat hypätä kaksinkertaisesti ja hypätä ilmassa.
 
 ## Doge
 
 - Painamalla ja pitämällä SA-painiketta painettuna, doge rullaa.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- Vastustajaan lyöminen doge-rullalla saa heidät lentämään ylöspäin heiton suuntaan.
+- Doge lennättää suunnattuun suuntaan.
+- Doge-rullan aikana suuntaa voidaan vaihtaa kolme kertaa, kunnes doge-tela päättyy.
+- Doge roll myös loppuu tietyn ajan kuluttua.
 
 ## Sammakko
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- SA-painikkeen painaminen saa sammakon ampumaan kielensä.
+- Kun kieli osuu vastustajaan, vastustaja vedetään sammakon suuntaan ja lentää hieman pidemmälle.
+- Kun kieli osuu karttapalaan, sammakot vetäytyvät kyseiseen kohteeseen (esim. seinät, katto jne.)
+- Kielellä voidaan ampua suunnattuun suuntaan (vasen, oikea, ylös, alas, diagonaalit).
 
 ### Ihmisen
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- SA-painikkeen painaminen heittää pommin kohdistettuun suuntaan (vasemmalle, oikealle, ylös, alas, diagonaalit).
+- Pommilla on lentävä kaarre, eikä se lennä suoraan kuin banaanit (jos sitä ei räjäytä, se pysyy maassa).
+- Pommi räjähtää jonkin ajan kuluttua tai sen jälkeen, kun SA-painiketta painetaan toisen kerran.
+- Tällä hetkellä pommi voi osua vastustajaan osumalla siihen tai räjähdyksen kautta.
+- Pommit ovat ainoa SA, joka voi osua itse heittävään DEGENiin räjähdyksellä.
+- Pommeihin voidaan lyödä mailalla ja lentää kohdistettuun suuntaan.
+- Aiomme päivittää pelin niin, että pommi räjähtää heti kontaktin jälkeen vastustajaan. Jos vastustajaa ei lyödä, se pysyy maassa, kunnes se räjähtää automaattisesti tai kun SA-painiketta on painettu toisen kerran.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+Liity **[Discord](https://discord.gg/niftyleague)** -ryhmään saadaksesi palautetta ja ideoita siitä, kuinka voimme parantaa peliä ja viedä sen seuraavalle tasolle.
