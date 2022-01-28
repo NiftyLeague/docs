@@ -4,16 +4,16 @@ title: BagusVerse
 sidebar_position: 1
 ---
 
-### Dalam pengembangan untuk Q2 2022!
+### 🚧 Under development for Q2 2022 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
-Tanah di Nifty Verse akan dijual pada 2022.
+Land in the NiftyVerse will go up for sale in 2022.
 
-Siapa pun akan dapat memiliki tanah dan membangun di Nifty Verse.
+Anyone will be able to own land and build in the NiftyVerse.
 
-Kami berencana bekerja sama dengan studio game indie untuk memungkinkan mereka membuat game yang bagus di Nifty Verse.
+We plan to work with indie gaming studios and artists to allow them to build Nifty League games in the NiftyVerse!
 
 Iterasi pertama adalah meta verse pixel art top down, dengan tema seni urban Sushi.
 
-Semua pembelian tanah di Nifty Verse akan dilakukan dengan menggunakan **NFTL**.
+All land purchases in the Nifty Verse will be done using NFTL.
