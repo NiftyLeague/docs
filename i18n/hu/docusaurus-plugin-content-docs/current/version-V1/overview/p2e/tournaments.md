@@ -4,6 +4,6 @@ title: Versenyek
 sidebar_position: 2
 ---
 
-**Versenyek 🏆**
+Csatlakozzon a szórakozáshoz a heti vagy havi versenyeken! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
 
-Csatlakozzon a szórakozáshoz a heti vagy havi versenyeken! Minden versenyt ösztönözhet a közösségi kincstári alapunk jutalma a **Nifty DAO** belátása szerint, jelképes szavazással. Egyes versenybajnokok akár egy különleges kiadású Kulcs a Citadellával is távozhatnak 🗝️ NFT... Bármilyen egyéb tevékenységgel kapcsolatban, amelyet szeretne megvalósítani, forduljon csapatunkhoz!
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
