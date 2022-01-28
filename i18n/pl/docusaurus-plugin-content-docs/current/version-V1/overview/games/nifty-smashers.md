@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **Ogólne informacje**
 
-Przygotuj się na bójkę! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+Przygotuj się na bójkę! **[Nifty Smashers](https://nifty-league.com/games)** lokalnego trybu wieloosobowego została udostępniona natychmiast po premierze, a następnie w trybie wieloosobowym online.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+Walcz w społeczności i zdobądź jak najwięcej nietoperzy na swoich znajomych! Nifty Smashers czerpie inspirację z klasycznej gry Super Smash Bros, w której celem jest zrzucenie przeciwników z mapy, aby zdobyć punkty.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+Możesz grać za pomocą klawiatury lub dowolnego innego kompatybilnego kontrolera (Playstation, Xbox itp.). Wejdź do lobby gry i wybierz swój DEGEN do bitwy.
 
 ## Punktacja
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- Jeśli DEGEN zostanie trafiony raz i zginie (spadnie z mapy), otrzymujesz 1 punkt.
+- Jeśli DEGEN zostanie trafiony wiele razy bez możliwości odzyskania, otrzymasz punkty tak często, jak trafiony DEGEN (niezależnie od tego, czy poprzednie trafienia zostały wykonane przez inny DEGEN - więc wyląduj ostatni mega-bonk, aby uderzyć go z mapy i odbierz wszystkie punkty za rundę).
+- Im bardziej przeciwnik jest kolejno bonkingowy, tym szybciej się podskakuje i tym więcej punktów zdobędziesz za bonking.
+- Ostatnie uderzenie, które zabije DEGEN, dostaje wszystkie punkty combo.
+- Obecnie nie ma limitu, jak często można trafić w DEGEN (w kombinacji), ale istnieje limit punktów, które możesz zdobyć (maksymalnie 3 pkt: mecz 2-osobowy / maks. 5 pkt: 3&mecz 4-osobowy ).
+- Mecz 2-osobowy wymaga 5 pkt., aby wygrać rundę.
+- 3 & meczów 4-osobowych wymaga 10 pkt., aby wygrać rundę.
+- Mecze są najlepsze z 5 rund.
+- Jeśli po piątej rundzie jest remis, remisujący gracze przechodzą do rundy nagłej śmierci, którą inni gracze mogą obserwować z boku.
 
-## Lag
+## Opóźnienie
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- Wskaźnik opóźnienia pokazuje opóźnienie (prędkość ping) Twojego połączenia.
+- Lag zwykle wskazuje, że prędkość pingowania przekracza 100 ms.
+- Ogólnie rzecz biorąc, lag jest zawsze obecny, gdy istnieje fizyczna odległość między graczami w Internecie. Im większa odległość, tym większe opóźnienie.
+- Istnieją różne techniki, których programiści używają, aby zrekompensować i ukryć opóźnienie.
+- Wdrożyliśmy kilka z tych technik kompensacji lagów, które ukrywają lag, aby zapewnić jak najlepsze wrażenia.
+- Wprowadziliśmy również rozwiązania z serwerami na całym świecie, dzięki czemu możemy dopasować graczy najbliżej siebie, aby maksymalnie zminimalizować lagi. Jeśli chcesz dowiedzieć się więcej o tych technikach, sprawdź [ten post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation autorstwa Gabriela Gambetty.
 
 ## Lobby niestandardowe
 
-- Niestandardowe lobby może zostać użyte do otwarcia meczu w wybranym regionie. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- Niestandardowe lobby może zostać użyte do otwarcia meczu w wybranym regionie. Twórca lobby może zobaczyć kod na mapie lobby, który można udostępnić innym.
+- Jeśli inny degen chce dołączyć do lobby, musi najpierw wybrać właściwy region, a następnie wpisać kod lobby w polu wprowadzania.
+- W przypadku korzystania z niestandardowego kodu lobby region powinien być przełączany automatycznie.
 
-## Changing Regions
+## Zmiana Regionów
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher to szybka gra, w której kluczowe znaczenie ma opóźnienie/ping. Im bliżej lokalizacji gracza znajduje się wybrany region, tym niższy ping.
+- Po zmianie regionu w aplikacji Web-GL lub na komputery wyświetlany jest aktualny ping.
 
 # **Podstawy walki**
 
 ## Ogólna rada
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- Granie z kontrolerem wysoce zalecane (Playstation, Xbox lub jakikolwiek inny kontroler rozpoznawany przez komputer PC/Mac).
 
 ## Huśtawki nietoperzy
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- Rakietkę można wychylać we wszystkich możliwych kierunkach: w lewo, w prawo, w górę, w dół, po przekątnej.
+- Kijem można zamachnąć, klikając przycisk ataku.
+- Dłuższe naciśnięcia przycisków sprawiają, że kij uderza mocniej.
+- Kijem można machać podczas stania, biegania lub skakania.
+- Gracze mogą długo naciskać przycisk ataku podczas skoków - jest to zazwyczaj dobry sposób na zaskoczenie przeciwnika (przeciwników).
 
 ## Poruszający
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- W grze 2D kierunki poruszania się to lewo/prawo.
+- Kierunki można zmieniać podczas skoków/przewracania (jest to znacznie łatwiejsze przy użyciu kontrolera).
 
 ## Skoki
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- Wysokość skoku można zmienić, naciskając przycisk skoku.
+- Kierunki można zmieniać podczas skoków/przewracania.
 
 ## Latający Hamburger
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- Złapanie latającego hamburgera sprawi, że nietoperz DEGENa zostanie znacznie silniejszy - zazwyczaj skutkuje to bezpośrednim zabiciem.
+- Rozważamy ograniczenie czasu trwania wzmocnienia burgerów przez czas i/lub zabójstwo.
 
-# **Tribe Specifics**
+# **Specyfika plemienia**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_Wszystkie plemiona DEGEN mają specjalną zdolność („SA”), która będzie spójna we wszystkich grach Nifty League (na żywo iw przyszłości)._
 
 ## Lista zdolności specjalnych
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## Obcy
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- Naciśnięcie przycisku SA sprawia, że Obcy może teleportować się na niewielką odległość we wskazanym kierunku (w lewo, w prawo, w górę, w dół, po przekątnej).
+- W miejscu teleportacji dochodzi do eksplozji energii, która uderza w przeciwników stojących w pobliżu.
 
 ## Małpa
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- Naciśnięcie przycisku SA powoduje wyrzucenie banana we wskazanym kierunku (w lewo, prawo, w górę, w dół, po przekątnej), aż uderzy w przeciwnika, uderzy w część mapy lub zleci z mapy.
+- Ponowne naciśnięcie przycisku SA powoduje, że banan leci z powrotem do DEGEN, umożliwiając ponowne trafienie przeciwnika.
+- Banany można uderzyć kijem i lecieć w wybranym kierunku.
 
 ## Kot
 
-- Naciśnięcie SA powoduje, że kot rzuca się. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- Naciśnięcie SA powoduje, że kot rzuca się. Po krótkim rzuceniu kot nabiera sił.
+- Wzmocniony zamach nietoperza oznacza, że kij uderza mocniej.
+- Wzmocniony ruch oznacza, że kot biegnie szybciej.
+- Koty mogą skakać podwójnie i skakać w powietrzu.
 
 ## pieseł
 
 - Naciśnięcie i przytrzymanie przycisku SA powoduje przetoczenie się doża.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- Trafienie przeciwnika za pomocą przewrotu powoduje, że leci on w górę w kierunku przechyłu.
+- Doge potoczy się w wybranym kierunku.
+- Podczas przewrotu doge kierunki można zmieniać trzy razy, aż do zakończenia przewrotu.
+- Doge roll również kończy się po pewnym czasie.
 
 ## Żaba
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- Naciśnięcie przycisku SA powoduje, że Żaba strzela językiem.
+- Kiedy język uderza przeciwnika, ten przeciwnik jest przyciągany w kierunku żaby i leci nieco dalej.
+- Kiedy język uderza w fragment mapy, żaby przyciągają się do tego obiektu (np. ścian, sufitów itp.)
+- Język można wystrzelić w kierunku celu (w lewo, w prawo, w górę, w dół, po przekątnej).
 
 ### Człowiek
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- Naciśnięcie przycisku SA wyrzuca bombę we wskazanym kierunku (w lewo, w prawo, w górę, w dół, po przekątnej).
+- Bomba ma krzywiznę lotu i nie leci prosto jak banany (jeśli nie zostanie zdetonowana, pozostaje na ziemi).
+- Bomba eksploduje po pewnym czasie lub po drugim naciśnięciu przycisku SA.
+- Obecnie bomba może trafić przeciwnika trafiając w nią lub poprzez eksplozję.
+- Bomby są jedynym SA, który może uderzyć sam rzucający się DEGEN swoim wybuchem.
+- Bomby można trafić kijem i lecieć w wybranym kierunku.
+- Planujemy zaktualizować grę, aby bomba wybuchła natychmiast po kontakcie z przeciwnikiem. Jeśli żaden przeciwnik nie zostanie trafiony, pozostaje on na ziemi, aż wybuchnie automatycznie lub po drugim naciśnięciu przycisku SA.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+Dołącz do naszego **[Discord](https://discord.gg/niftyleague)** aby przekazać opinie i pomysły, jak możemy ulepszyć grę i przenieść ją na wyższy poziom.
