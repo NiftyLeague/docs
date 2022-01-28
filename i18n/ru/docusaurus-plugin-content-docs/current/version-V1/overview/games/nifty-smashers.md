@@ -13,22 +13,129 @@ sidebar_position: 2
 
 ---
 
-Приготовьтесь к драке! Локальная многопользовательская версия **[Nifty Smashers](https://nifty-league.com/games)** стала доступной сразу после запуска, а затем появилась сетевая многопользовательская игра! Так что берите несколько контроллеров 🎮 и играйте с друзьями.
+# **Главная информация**
 
-Сражайтесь в сообществе и получите как можно больше _бат-бонков_ 🥖на своих друзей! **Nifty Smashers** черпает вдохновение из классической игры Super Smash Bros, где цель состоит в том, чтобы сбить ваших противников с карты и набрать очки. Чтобы играть, вам понадобится **DEGEN** чтобы выбрать битву, а затем использовать клавиатуру, контроллер Playstation или Xbox в качестве ввода (мультиплеер на диване тоже работает!). В игровом лобби вы сможете выбрать любой из ранее отчеканенных **DEGEN** в своем кошельке, чтобы продемонстрировать свои крутые творения! У каждого племени есть уникальный особый прием, так что поэкспериментируйте с разными племенами и найдите набор приемов, который лучше всего подходит вашему стилю игры. Удерживайте кнопку атаки для заряженной атаки летучей мыши, некоторые специальные движения также могут быть заряжены. Когда вы бьете другого игрока, он приносит 1 очко. Чем больше их последовательно бьют, тем быстрее они прыгают и тем больше очков они приносят. Совершите последний мегабонк, чтобы сбить их с карты и получить все очки!
+Приготовьтесь к драке! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
 
-**Как уже отмечалось, это бета-версия нашей первоначальной игры, поэтому следует ожидать задержки и проблемы с надоедливыми ботами.** В наших ближайших планах продолжить развитие на **Nifty Smashers** и ввести более функции , такие как дополнительные комбо - движения и системы прогрессии. Присоединяйтесь к нашему **[Discord](https://discord.gg/niftyleague)** чтобы поделиться отзывами и идеями о том, как мы можем улучшить **Nifty Smashers** и вывести его на новый уровень!
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-<!-- ![](/img/highlights.gif) -->
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
 
-**Задержка многопользовательской игры в сети ☁️**
+## Подсчет очков
 
-Пока продолжается альфа-тестирование, давайте поговорим о задержках в динамичных и динамичных играх-драках, таких как **Nifty Smashers**.
+- If a DEGEN is hit once and dies (fall off map) you get 1 point.
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
+- The last hit that kills the DEGEN, gets all combo points.
+- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
+- A 2-player match require 5pts to win a round.
+- 3 & 4-player matches require 10pts to win a round.
+- Matches are best of 5 rounds.
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
 
-Вообще говоря, задержка всегда присутствует, когда между игроками в Интернете есть физическое расстояние. Чем больше расстояние, тем больше отставание. Существуют различные приемы & трюков, которые разработчики используют, чтобы компенсировать и скрыть отставание. Мы внедрили ряд этих методов компенсации задержки, которые скрывают задержку для достижения наилучших результатов. Мы также внедрили решения с серверами по всему миру, чтобы мы могли подбирать игроков ближе всего друг к другу, чтобы максимально минимизировать отставание.
+## Lag
 
-Тем не менее, учитывая уровень отклика, который требуется быстро развивающимся дракам ⚡, мы ожидаем некоторого отставания при запуске сетевой многопользовательской игры.
+- The lag indicator shows the lag (ping speed) of your connection.
+- Lag tyipcally indicates your ping speed is above 100ms.
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
+- There are different techniques that developers use to compensate and hide the lag.
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
 
-Мы рады поделиться с вами нашим прогрессом как можно скорее. После запуска, с вашими отзывами, мы сделаем все, что в наших силах, чтобы сделать отставание как можно незаметнее.
+## Пользовательское лобби
 
-Если вам интересно узнать больше об этих методах, вот отличное чтение Габриэля Гамбетты о **[Компенсация отставания](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)**.
+- Пользовательское лобби можно использовать для открытия матча в выбранном регионе. The creator of the lobby can see a code in the lobby map which can be shared with others.
+- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
+- When using a custom lobby code, the region should be switched automatically.
+
+## Changing Regions
+
+- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+
+# **Основы боя**
+
+## Общие советы
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+
+## Летучая мышь качается
+
+- The bat can be swung in all possible direction: left, right, up, down, diagonals.
+- The bat can be swung by clicking the attack button.
+- Longer button presses makes the bat hit harder.
+- The bat can be swung while standing, running, or jumping.
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+
+## Движущийся
+
+- As a 2D Game, moving directions are left/right.
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+
+## Прыжки
+
+- Jump height can be altered by press-duration of jump button.
+- Directions can be changed during jumps/tumble.
+
+## Летающий гамбургер
+
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
+- We are considering limiting burger buff duration by time and/or kill.
+
+# **Tribe Specifics**
+
+_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+
+## Список особых способностей
+
+- **Обезьяна** - Бросить бананы-бумеранги
+- **Чужой** - Телепорт
+- **Кат.** — набрасывайтесь и временно увеличивайте силу и скорость летучей мыши.
+- **Лягушка** - Крюк с язычком
+- **дож** - бросок монет дожа
+- **Человек** - Бросать динамит, который взрывается по команде
+
+## Пришелец
+
+- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
+- There is a energy explosion at the teleported location, hitting opponents that stand near.
+
+## Обезьяна
+
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
+- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
+- Bananas can be hit with a bat and fly in the aimed direction.
+
+## Кот
+
+- Нажатие SA заставляет кошку прыгать. After pouncing for a short duration, the cat ges empowered.
+- Empowered bat swing means the bat hits harder.
+- Empowered movement means the cat runs faster.
+- Cats can double jump and jump in mid-air.
+
+## Дож
+
+- Нажатие и удерживание кнопки SA приводит к броску дожа.
+- Hitting an opponent with doge roll makes them fly upwards in roll direction.
+- Doge will fly-roll in the aimed direction.
+- During doge roll, directions can be changed three times until doge roll ends.
+- Doge roll also ends after a certain time.
+
+## Лягушка
+
+- Pressing the SA button makes the Frog shoot his tongue.
+- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
+- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+
+### Человек
+
+- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
+- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
+- The bomb explodes after some time or after the SA button is pressed a second time.
+- Currently the bomb can hit an opponent by hitting it or via explosion.
+- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
+- Bombs can be hit with a bat and fly in the aimed direction.
+- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
