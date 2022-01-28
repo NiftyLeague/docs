@@ -6,7 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Fundalurile DEGEN au fost alocate aleatoriu la batere, ceea ce a rezultat fie într-un fundal comun, fie într-una dintre cele trei opțiuni speciale: **Rare**, **Meta**sau **Legendare**. Pe lângă faptul că arată cool, fundalul vine cu avantaje speciale, cum ar fi un aspect distins în joc și multiplicatori suplimentari de câștig.
+DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+
+Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
 
 ### Multiplicatori ai veniturilor
 
