@@ -6,7 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Les arrière-plans DEGEN ont été attribués au hasard lors de la frappe, ce qui a abouti à un arrière-plan commun ou à l'une des trois options spéciales : **Rare**, **Meta**ou **Legendary**. En plus d'avoir l'air cool, l'arrière-plan offre des avantages spéciaux tels qu'un look distingué dans le jeu et des multiplicateurs de gains supplémentaires.
+DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+
+Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
 
 ### Multiplicateurs de gains
 
