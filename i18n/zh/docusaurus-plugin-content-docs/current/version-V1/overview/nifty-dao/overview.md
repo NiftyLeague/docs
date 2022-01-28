@@ -4,8 +4,8 @@ title: 概述
 sidebar_position: 1
 ---
 
-We will gradually be transferring ownership of Nifty League to our Nifty DAO in order to decentralize the platform and encourage developers and artists to help build! Our vision is to power rapid growth and development through community contributions, enabling us to build a gaming platform like no other. 简单地说，DAO 就是未来。 我们认为只有一条途径可以成为世界领先的 GameFi 平台，那就是共同构建。
+我们将逐步将 Nifty League 的所有权转移给我们的 DAO，以分散平台并鼓励开发人员帮助我们建立！ 我们的愿景是通过社区贡献推动快速增长和发展，使我们能够建立一个与众不同的游戏平台。 简单地说，DAO 就是未来。 我们认为只有一条途径可以成为世界领先的 GameFi 平台，那就是共同构建。 💜
 
-NFTL is our native governance token which provides voting rights and other other utilities ([more info can be found here below](https://nifty-league.com/about#nftl)). Our DAO's treasury assets are held within a Gnosis multi-sig wallet that will be used to handle distributions to future project contributors, as well as tournaments and other activities. We plan on migrating our treasury to **Arbitrum** once their Gnosis integration is complete to benefit from lower fees and more frequent distributions to community contributors going forward.
+**NFTL** 是我们的原生治理代币，提供投票权和其他实用程序（更多信息 [下面](https://nifty-league.com/about#nftl)）。 我们的 DAO 的国库资产保存在 Gnosis 多重签名钱包中，该钱包将用于处理对未来项目贡献者的分配以及锦标赛和其他活动。 一旦他们的 Gnosis 集成完成，我们计划将我们的资金库迁移到 **Arbitrum** ，以受益于未来更低的费用和更频繁的向社区贡献者分发。
 
-The core team is actively looking for notable members of our community to join our multi-sig committee to handle treasury operations and guarantee proposals are on-chain according to the DAO's guidelines. Please contact a community mod in [Discord](https://discord.gg/niftyleague) for more information.
+**我们正在积极寻找社区中的知名成员加入我们的多重签名委员会，以处理资金业务，并根据 DAO 的指导方针保证提案各自在链上。 如果您认为自己很合适，请与我们联系！**
