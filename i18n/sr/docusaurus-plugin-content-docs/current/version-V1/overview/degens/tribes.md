@@ -16,11 +16,11 @@ sidebar_position: 2
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Доге** - Доге ролл
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Људски** - Баците динамит који експлодира на команду
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Сазнајте више о овим сетовима покрета у нашем [Смасхерс водичу](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+У будућности, предвиђамо да би нова „специјална“ племена могла бити пуштена/резервисана за скалабилност, нове игре, награде за турнире и још много тога.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
