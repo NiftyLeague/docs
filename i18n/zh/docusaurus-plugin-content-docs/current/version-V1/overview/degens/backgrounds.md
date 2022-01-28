@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+：DEGEN背景随机时铸币其中或者产生了普通的背景或三个特殊背景的一个指派的 **稀有**， **元**，或 **传奇**。
 
-Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
+除了看起来很酷之外，背景还具有特殊的好处，例如在游戏中的杰出外观和额外的收入乘数。
 
 ### 收益乘数
 
