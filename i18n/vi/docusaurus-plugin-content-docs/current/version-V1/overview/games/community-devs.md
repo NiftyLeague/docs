@@ -4,10 +4,10 @@ title: Cộng đồng Devs
 sidebar_position: 6
 ---
 
-Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+Mục tiêu của chúng tôi là mở rộng nền tảng của mình với nhiều trò chơi thú vị và hấp dẫn nhất có thể, mà chúng tôi tin rằng chỉ có thể thực hiện được khi có sự giúp đỡ của cộng đồng DEGEN của chúng tôi!
 
-We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+Chúng tôi khuyến khích các nhà phát triển tạo trò chơi sử dụng các nhân vật của chúng tôi - nếu được chọn - sẽ xuất hiện trực tuyến trên nền tảng của chúng tôi và đổi lại, các nhà phát triển sẽ được thưởng từ Nifty DAO cho những đóng góp của họ.
 
-Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+Hãy sáng tạo và gửi cho chúng tôi ý tưởng của bạn trong **[Discord](https://discord.gg/niftyleague)**!
 
-If your game shows promise and viability we’d love to share it with the community.
+Nếu trò chơi của bạn có hứa hẹn và khả năng tồn tại, chúng tôi rất muốn chia sẻ nó với cộng đồng.
