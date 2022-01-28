@@ -6,7 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-A DEGEN háttereket a pénzverés során véletlenszerűen osztották ki, ami vagy egy közös hátteret eredményezett, vagy a három speciális opció valamelyikét eredményezte: **Ritka**, **Meta**vagy **Legendás**. A menő megjelenés mellett a háttérben olyan különleges előnyök is járnak, mint a kiemelkedő megjelenés a játékban és az extra bevételi szorzók.
+DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+
+Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
 
 ### Bevételi szorzók
 
