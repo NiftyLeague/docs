@@ -1,18 +1,18 @@
 ---
 id: cestovní mapa
-title: Další ➡️
+title: Roadmap
 sidebar_position: 9
 ---
 
-Spolu s dalšími hrami máme připraveno několik nápadů, jak naši platformu dále rozvíjet. Jedním z našich hlavních cílů je spuštění nebo partnerství s tržištěm NFT, které vám umožní sbírat opakovaně použitelné NFT, jako jsou auta nebo speciální zbraně pro naše hry. Tyto chytré kontrakty by rozšířily multitokenový standard ERC-1155 Ethereum o vytváření nezaměnitelných položek s nastaveným limitem dostupnosti pro každou z nich. Jako bonus za hraní našich her bychom rádi udělili předměty, které lze zde zakoupit, hráčům, kteří je pak mohou prodat nebo použít ve hře. Další možností, kterou zvažujeme, je udělování časově vydaných NFT, jako jsou truhly s pokladem, které lze spálit, čímž se odhalí sběratelský předmět uvnitř.
-
 ![](/img/nifty_roadmap.png)
 
-## Ražba DEGEN
+Spolu s dalšími hrami máme připraveno několik nápadů, jak naši platformu dále rozvíjet. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Tyto chytré kontrakty by rozšířily multitokenový standard ERC-1155 Ethereum o vytváření nezaměnitelných položek s nastaveným limitem dostupnosti pro každou z nich. Jako bonus za hraní našich her bychom rádi udělili předměty, které lze zde zakoupit, hráčům, kteří je pak mohou prodat nebo použít ve hře. Další možností, kterou zvažujeme, je udělování časově vydaných NFT, jako jsou truhly s pokladem, které lze spálit, čímž se odhalí sběratelský předmět uvnitř.
 
-Nifty League DEGEN NFT byly uvedeny do života naší komunitou na konci září 2021. Proces ražby byl jedinečnou podívanou, která umožnila ražbám navrhnout si vlastní DEGEN pomocí Satoshi **[Mint-O-Matic**.](https://niftyleague.com/mint-o-matic)
+## DEGEN Minting ✅
 
-## Šikovný Smashers Alpha
+Nifty League DEGEN NFT byly uvedeny do života naší komunitou na konci září 2021. The minting process was a one-of-a-kind spectacle that allowed minters the ability to design their own DEGEN using using Satoshi's [Mint-O-Matic](https://niftyleague.com/mint-o-matic).
+
+## Nifty Smashers Alpha Launch ✅
 
 Naše spuštění NFT se časově shodovalo s okamžitou dostupností naší první z mnoha her,**[Nifty Smashers](http://localhost:3000/games)**. <div>
   <video width="100%" height="100%" playsInline controls loop>
@@ -21,31 +21,37 @@ Naše spuštění NFT se časově shodovalo s okamžitou dostupností naší prv
   </video>
   </div>
 
-## Desktopová aplikace
+## Desktop App ✅
 
 Aplikace**[Desktop App](https://niftyleague.com/games)**je nyní dostupná pro uživatele Windows! *(MacOS je hned za rohem)*
 
-S ohledem na omezení prohlížeče s naší předchozí verzí WebGL jsme se rozhodli zaměřit naše okamžité úsilí na vytvoření spouštěče, který bude obsahovat všechny naše hry a bude zahrnovat integrace Discord. Nyní, když se limity paměti netýkají, můžeme volně zavádět další animace, sady pohybů a další projekty NFT – to vše při výrazném zlepšení pingu pro naše uživatele.
+Considering browser limitations with our previous WebGL build, we made a point to focus our immediate efforts on creating a launcher to house all of our games and include Discord social integrations. Now that memory limits are not a concern we are free to introduce additional animations, movesets, and other NFT projects - all while significantly improving ping for our users.
 
-## Žebříčky
-
-Naše hry mají být soutěživé; jaký lepší způsob, jak to předvést, než žebříček s hvězdnými hráči jako FVSVY na vrcholu? Do NiftyVerse zahrneme herní statistiky pro denní, týdenní, měsíční a samozřejmě i pro lídry všech dob pro všechny naše hry.
-
-## Play-2-Earn
+## Play-and-Earn ✅
 
 Jak skvělé je vydělávat peníze hraním her, které vás skutečně baví? Se zavedením našeho P2E systému budete moci začít hromadit NFTL prostřednictvím příležitostných zápasů v Nifty Smashers. Zatímco největší výhry získá ten, kdo si zajistí 1. místo v zápase, získáte také NFTL prostřednictvím získaných bodů a výherních kol. Dávejte pozor, abyste nespadli z mapy, protože z vašeho potenciálního výdělku budou odečteny sankce!
 
-## Beta hry Nifty Smashers
+## Komiks
 
-Implementujeme nové řešení síťového kódu, které vypadá velmi slibně již od rané vývojové fáze. Nejen, že se tím značně zlepší zpoždění, ale můžete očekávat i některé skvělé funkce, jako je živé vysílání her a snadno dostupné záznamy v našem archivu.
+Our team has been slowly hinting at the upcoming utilities for comics - as you may already be aware you will be able to burn each page for special in-game items that increase your DEGEN's NFTL multiplier... but the fun doesn't stop there!
 
-## Degen Rentals
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in February 2022. Slovo od Satoshi - zajištění úplného sběru nebo 2 _vysoce_ doporučeno.
+
+## Pronájmy
 
 Naše hráčská základna je v současnosti omezena počtem unikátních držitelů DEGEN NFT. Chceme naši platformu co nejvíce rozšířit, aniž bychom znehodnotili naše genesis kmeny DEGEN, které stojí v srdci našeho ekosystému.
 
 Spíše než navyšování nabídky postav, jak to mohou dělat některé projekty, zavádíme systém pronájmu na míru, který umožňuje držitelům DEGEN vydělávat NFTL denně prostřednictvím poplatků. Každý DEGEN lze pronajmout na dobu neurčitou, ale náklady na to se s každým dalším pronájmem exponenciálně zvyšují. To umožňuje trhu rozhodnout o ceně pro každý DEGEN individuálně a zároveň rozložit nájmy napříč celou oblastí, protože některé vybavené drahými předměty, nositelnými předměty nebo pozadími budou mít vyšší výdělek prostřednictvím multiplikátorů NFTL.
 
-## Free-2-Play
+## Žebříčky
+
+Naše hry mají být soutěživé; jaký lepší způsob, jak to předvést, než žebříček s hvězdnými hráči jako FVSVY na vrcholu? Do NiftyVerse zahrneme herní statistiky pro denní, týdenní, měsíční a samozřejmě i pro lídry všech dob pro všechny naše hry.
+
+## Beta hry Nifty Smashers
+
+Implementujeme nové řešení síťového kódu, které vypadá velmi slibně již od rané vývojové fáze. Nejen, že se tím značně zlepší zpoždění, ale můžete očekávat i některé skvělé funkce, jako je živé vysílání her a snadno dostupné záznamy v našem archivu.
+
+## Free-to-Play
 
 Pokud si přečtete poslední bod, budete vědět, že škálování naší platformy je vysokou prioritou. Součástí tohoto procesu je nábor nových uživatelů, kteří si možná nebudou moci dovolit vlastnit nebo pronajmout DEGEN. Naše možnost hry zdarma 2 umožní novým uživatelům naskočit do zápasů s použitím generické postavy, která jim umožní vyzkoušet speciální tah každého kmene, ale co je důležitější - vymýtit to, dokud nebudou mít dostatek NFTL na zaplacení pronájmu.
 
@@ -53,21 +59,15 @@ Pokud si přečtete poslední bod, budete vědět, že škálování naší plat
 
 Víme, že naše komunita se nemůže dočkat, až předvede své skvělé DEGENS v ulicích! Jsme nadšeni, že můžeme odhalit náš trh se zbožím včetně dvou řad oblečení. První má silný herní sklon podobný **Pokémon,** , zatímco druhý bude zaměřena na rad streetwear estetické.
 
-## Komiks
-
-Náš tým pomalu naznačoval připravované nástroje pro komiksy - jak už možná víte, budete moci vypálit každou stránku pro speciální herní předměty, které zvýší váš DEGEN'S NFTL multiplikátor... ale zábava tím nekončí !
-
-Již dříve jsme předali naše první 4 stránky komiksu těžařům a stále zbývají 2 stránky pro držitele DEGEN na začátku roku 2022. Slovo od Satoshi - zajištění úplného sběru nebo 2 _vysoce_ doporučeno.
-
 ## Tržiště zboží
 
-Spolupracujeme s týmem Immutable X na spuštění našeho trhu s položkami začátkem příštího roku. Nabídka bude zahrnovat skvělé skiny, zbraně, spotřební předměty a další, které vylepší vaši DEGENS ve hře. Zatímco některé položky mohou být skvělými kosmetickými doplňky, mnohé budou obsahovat NFTL multiplikátory pro hru 2-vydělávání.
+We are working with the Immutable X team to launch our items marketplace in early 2022. Nabídka bude zahrnovat skvělé skiny, zbraně, spotřební předměty a další, které vylepší vaši DEGENS ve hře. While some items may be cosmetic additions, many will include NFTL multipliers for play-and-earn.
 
 Položky se budou prodávat prostřednictvím NFTL v omezeném množství. 70 % všech výnosů bude spáleno, zatímco zbytek bude zaslán DAO pro jeho počáteční tok příjmů.
 
 ## DAO
 
-Postupně převedeme vlastnictví Nifty League na naše DAO, abychom platformu decentralizovali a povzbudili vývojáře, aby nám pomohli vybudovat! Naší vizí je zajistit rychlý růst a rozvoj prostřednictvím příspěvků komunity, což nám umožňuje vybudovat herní platformu jako žádná jiná. Jednoduše řečeno, DAO jsou budoucnost. Vidíme pouze jednu cestu, jak se stát přední světovou platformou GameFi, a to společným budováním. 💜
+We will gradually be transferring ownership of Nifty League to our DAO in order to decentralize the platform and encourage devs to help us build! Our vision is power rapid growth and development via community contributions, enabling us to build a gaming platform like no other. Jednoduše řečeno, DAO jsou budoucnost. Vidíme pouze jednu cestu, jak se stát přední světovou platformou GameFi, a to společným budováním.
 
 ## Mobilní telefon Nifty League
 
@@ -75,11 +75,11 @@ V budoucnu budou všechny naše hry kompatibilní s mobilními zařízeními. Vz
 
 ## Chat ve hře
 
-V rámci přípravy na NiftyVerse začneme uvolněním herního chatu, kde si můžete popovídat nebo posílat SMS s DEGEN frens. Vzhledem k tomu, že se jedná o populární požadavek – je možné, že tento požadavek bude na naší časové ose představen dříve, takže zůstaňte naladěni!
+V rámci přípravy na NiftyVerse začneme uvolněním herního chatu, kde si můžete popovídat nebo posílat SMS s DEGEN frens. Being a popular request - there is a chance this may even be introduced earlier in our timeline - stay tuned!
 
 ## NiftyVerse
 
-Vítejte v NiftyVerse; svět plný komunit DEGENS a NFT podobných se společnou vizí bavit se a budovat prosperující herní komunitu. To, čím se NiftyVerse odlišuje od ostatních metaverzí, jsou naše p2e hry, které jsou středobodem. Vejděte do naší arkádové místnosti plné zábavných miniher nebo se vydejte do destinací na mapě a skočte do našich klasických titulů, jako jsou Nifty Smashers a Nifty Kart.
+Welcome to the NiftyVerse - a world filled with DEGENS and NFT communities alike with a shared vision to have fun and build a thriving gaming community. To, čím se NiftyVerse odlišuje od ostatních metaverzí, jsou naše p2e hry, které jsou středobodem. Vejděte do naší arkádové místnosti plné zábavných miniher nebo se vydejte do destinací na mapě a skočte do našich klasických titulů, jako jsou Nifty Smashers a Nifty Kart.
 
 Svět je soustředěn kolem města připomínajícího naši oblíbenou úroveň Sushiswap v Nifty Smashers. Pro začátek uspořádáme prodej pozemků s prémiovými opcemi ve městě a také levnějších nezastavěných pozemků za hranicemi města. Získání prémiových pozemků ve městě, kde se odehrává veškerá akce, přichází s další výhodou, že už jsou na místě budovy, které můžete navrhnout, jak uznáte za vhodné.
 
@@ -101,6 +101,6 @@ Je důležité si uvědomit, že o všech následujících hrách bude hlasovat 
 
 Klasiky staré školy jsou základem naší herní nabídky, protože si uvědomujeme sílu znovu prožívat oblíbené hry z dětství pomocí Web3. Vlastníte své postavy & motokár a připravte se na závody o NFTL!
 
-## Gen2 DEGENS
+## Gen2 DEGENs
 
 Jak naše platforma roste a poptávka zvyšuje náklady na pronájem DEGEN - můžeme zvážit budoucí prodej NFT s představením nových kmenů. Pamatujte, že konečné rozhodnutí jít touto cestou bude na DAO.
