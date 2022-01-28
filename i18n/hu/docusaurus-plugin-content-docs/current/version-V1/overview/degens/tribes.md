@@ -16,11 +16,11 @@ Jelenlegi játékunk, a Nifty Smashers és az összes jövőbeli játékunk mind
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge érme tekercs
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Ember** - Dobj dinamitot, amely parancsra felrobban
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Tudjon meg többet ezekről a mozgáskészletekről a [Smashers Guide](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+A jövőben azt képzeljük, hogy új "speciális" törzsek jelenhetnek meg / tarthatók fenn a skálázhatóság, az új játékok, a versenyek jutalmai és egyebek miatt.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
