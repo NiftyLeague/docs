@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Fondatori
 
-| L'elegante Andy                   | Sniffato             | Spicca elegante          |
-| --------------------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)           | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| Sviluppo Web3 / Teoria dei giochi | Lead Game Dev        | Direttore creativo       |
+| L'elegante Andy         | Sniffato             | Spicca elegante          |
+| ----------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| Amministratore delegato | CTO                  | Direttore creativo       |
 
 ## Squadra
 
