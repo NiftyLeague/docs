@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+Під час карбування фони DEGEN були випадковим чином призначені, що призвело до створення загального фону або одного з трьох спеціальних фонів: **рідкісних**, **мета**або **легендарних**.
 
-Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
+Окрім того, що він виглядає круто, фон має особливі переваги, такі як видатний вигляд у грі та додаткові множники заробітку.
 
 ### Коефіцієнти заробітку
 
