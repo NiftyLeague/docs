@@ -4,10 +4,10 @@ title: コミュニティ開発者
 sidebar_position: 6
 ---
 
-Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+私たちの目標は、できるだけ多くの楽しくてエキサイティングなゲームでプラットフォームを拡張することです。これは、DEGENコミュニティの助けを借りてのみ可能であると信じています。
 
-We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+開発者には、キャラクターを使用してゲームを作成することをお勧めします。このゲームは、選択された場合、プラットフォームで公開され、その見返りとして、開発者はNiftyDAOから貢献に対して報酬を受け取ります。
 
-Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+クリエイティブになって、 **[Discord](https://discord.gg/niftyleague)**アイデアを送ってください！
 
-If your game shows promise and viability we’d love to share it with the community.
+あなたのゲームが約束と実行可能性を示しているなら、私たちはそれをコミュニティと共有したいと思っています。
