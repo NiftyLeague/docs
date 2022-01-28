@@ -4,6 +4,6 @@ title: Чудовий картинг
 sidebar_position: 4
 ---
 
-### У розробці до 2022 року!
+### 🚧 Under development for 2022 🚧
 
 ![](/img/niftykart_v01.png)
