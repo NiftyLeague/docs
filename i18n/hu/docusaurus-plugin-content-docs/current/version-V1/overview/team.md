@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Alapítók
 
-| Ügyes Andy                    | Snarfy               | Szép Spike               |
-| ----------------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)       | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| Web3 fejlesztő / játékelmélet | Lead Game Dev        | Kreatív igazgató         |
+| Ügyes Andy              | Snarfy               | Szép Spike               |
+| ----------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| CEO                     | CTO                  | Kreatív igazgató         |
 
 ## Csapat
 
