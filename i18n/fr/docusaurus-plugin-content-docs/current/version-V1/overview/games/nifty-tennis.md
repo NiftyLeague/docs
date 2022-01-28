@@ -4,14 +4,14 @@ title: Tennis astucieux
 sidebar_position: 3
 ---
 
-### 🚧 Under development for 2022 🚧
+### 🚧 En cours de développement pour 2022 🚧
 
 ![](/img/NiftyTennis.jpeg)
 
-- 1-4 players local and online multiplayer, singles or doubles.
-- Choose to be the line umpire and make important calls.
-- Be an audience member and emote from the crowd.
-- Discord voice integration for both players and audience.
-- Play on a variety of court surfaces in unique stages.
-- Equip different racquets & items for a temporary tactical advantage.
-- Compete for the _Nifty League Grand Slam Cup_.
+- 1 à 4 joueurs en multijoueur local et en ligne, en simple ou en double.
+- Choisissez d'être l'arbitre de ligne et faites des appels importants.
+- Soyez un membre du public et emote de la foule.
+- Intégration vocale Discord pour les joueurs et le public.
+- Jouez sur une variété de surfaces de terrain dans des étapes uniques.
+- Équipez différentes raquettes & articles pour un avantage tactique temporaire.
+- Participez à la _Nifty League Grand Slam Cup_.
