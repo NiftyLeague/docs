@@ -4,6 +4,6 @@ title: Turnamen
 sidebar_position: 2
 ---
 
-Bergabunglah dalam kesenangan dalam turnamen mingguan atau bulanan! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
+**Turnamen**
 
-For any other activities you'd like to see implemented, please reach out to our team in Discord!
+Bergabunglah dalam kesenangan dalam turnamen mingguan atau bulanan! Semua turnamen dapat diberi insentif oleh hadiah dari dana perbendaharaan komunitas kami atas kebijakan **Nifty DAO** melalui voting token. Beberapa juara turnamen bahkan mungkin pergi dengan edisi khusus Kunci Benteng 🗝️ NFT... Untuk aktivitas lain yang ingin Anda lihat diterapkan, hubungi tim kami!
