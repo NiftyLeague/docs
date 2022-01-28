@@ -1,21 +1,13 @@
 ---
 id: intro
-title: Om Nifty League
+title: Hva er Nifty League?
 sidebar_position: 1
 ---
 
-Nifty League leder konkurrerende spill i metaversen – beveger seg bort fra spill-til-tjene inn i en ny æra av spill-og-tjen ved å tilby et morsomt og engasjerende spilløkosystem.
-
-NiftyVerse er sentrert rundt nostalgi der byggere, spillere og eiere bruker tid på å koble til, spille og tjene penger i Web3.
+Vårt oppdrag er å skape en ledende NFT-spillplattform gjennom fellesskapsstyring og utvikling. Nifty League er stolt av å være en av de første GameFi-plattformene som tilbyr interaktive spill for å tjene penger med tilpassbare karakterer; ikke bare en annen pfp-dråpe... 🙃
 
 ![](/img/story.gif)
 
-Spillere kjøper (og vil snart kunne leie) sine [DEGEN NFTs](https://opensea.io/collection/niftydegen) for å konkurrere og tjene belønninger i økosystemets token; [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+Brukere designer, skaper og spiller som deres personlige karakter(er) for å konkurrere og tjene belønninger i fellesskapet vårt, inkludert økosystemets token; NFTL. Å kjøpe en Ethereum DEGEN gir deg ikke bare NFTL-tokens, men låser opp flerspillermoduser i spillene våre og gir deg adgang til offentlige turneringer.
 
-DEGENs tjener NFTL-tokens gjennom spill, noe som gir deg et eierskap i Nifty League DAO, muligheten til å kjøpe eiendeler i spillet via markedsplassen vår, kjøpe land i NiftyVerse og mer.
-
-Teamet vårt streber etter å gjøre spillene våre svært konkurransedyktige og fulle av nostalgi fra retro-spillingens hallcyon dager! Ved lansering i september 2021 ga vi ut vårt første spill Nifty Smashers; en NFT-kamp der du kjemper mot dine DEGEN-venner på 5 spennende nivåer.
-
-Nifty League DEGEN-fellesskapet har og vil fortsette å spille en nøkkelrolle i utformingen av veikart og spill. Vi håper å se plattformen utvides til en fullstendig desentralisert DAO, med støtte fra utviklere i fellesskapet og uavhengige spillstudioer globalt.
-
-Til slutt er vi glade for å samarbeide med noen av de største Web3-spilllaugene i verden for å utvide spillerfellesskapet vårt, drive innholdsvekstsløyfene våre og skape bevissthet og engasjement på tvers av Nifty League-økosystemet.
+Teamet vårt streber etter å gjøre spillene våre svært konkurransedyktige og fulle av nostalgi fra retro-spillingens hallcyon dager! Ved lansering slipper vi vårt første spill Nifty Smashers; en NFT-kriger for deg å kjempe mot vennene dine og Crypto Twitter! Vi har flere kommende spillalternativer som vi vil utvikle basert på fellesskapsinnspill, men til slutt håper vi å se plattformens vekstgrenser usett med støtte fra fellesskapsutviklere (mer info nedenfor).
