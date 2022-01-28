@@ -4,6 +4,6 @@ title: Turnaukset
 sidebar_position: 2
 ---
 
-**Turnaukset 🏆**
+Liity hauskanpitoon viikoittaisissa tai kuukausittaisissa turnauksissa! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
 
-Liity hauskanpitoon viikoittaisissa tai kuukausittaisissa turnauksissa! Kaikkia turnauksia voidaan kannustaa yhteisön kassarahastomme palkinnoilla **Nifty DAO:n** harkinnan mukaan merkkiäänestyksen kautta. Jotkut turnauksen mestarit saattavat jopa kävellä pois erikoisversiolla Key to the Citadel 🗝️ NFT... Jos sinulla on muita aktiviteetteja, joita haluat toteuttaa, ota yhteyttä tiimiimme!
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
