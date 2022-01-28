@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **Általános információ**
 
-Készülj fel a verekedésre! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+Készülj fel a verekedésre! **[Nifty Smashers](https://nifty-league.com/games)** helyi többjátékos verziója azonnal elérhetővé vált az induláskor, majd az online többjátékos.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+Küzdj meg vele a közösségben, és szerezz minél több denevér bonkot a barátaidnak! A Nifty Smashers a klasszikus Super Smash Bros játékból merít ihletet, ahol a cél az, hogy ellenfeleidet leütd a térképről, hogy pontokat szerezz.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+Játszhatsz a billentyűzeteddel vagy bármilyen más kompatibilis kontrollerrel (Playstation, Xbox stb.). Lépj be a játék előcsarnokába, és válaszd ki a DEGEN-edet a csatához.
 
 ## Pontozás
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- Ha egy DEGEN-t egyszer eltalálják és meghal (leesik a térképről), 1 pontot kapsz.
+- Ha egy DEGEN-t többször eltalálják anélkül, hogy képes lennél helyreállni, akkor pont annyiszor kapsz pontot, ahányszor a DEGEN-t eltalálják (függetlenül attól, hogy a korábbi találatokat egy másik DEGEN ütötte-e – szóval tedd le az utolsó mega-bonkot, hogy leüthesd őket a térképről, és igényeld forduló összes pontját).
+- Minél többet botlik egymás után az ellenfeled, annál gyorsabban ugrál, és annál több pontot szerezhetsz.
+- Az utolsó találat, amelyik megöli a DEGEN-t, megkapja az összes kombinált pontot.
+- Jelenleg nincs korlátozva, hogy egy DEGEN-t hányszor lehet eltalálni (kombinált), de a megszerezhető pontok számának korlátozása van (max 3 pont: 2 játékos meccs / max 5 pont: 3&4 játékos meccs ).
+- Egy 2 fős meccsen 5 pont szükséges a kör megnyeréséhez.
+- 3 & 4 fős meccsek esetén 10 pont szükséges egy kör megnyeréséhez.
+- A mérkőzések 5 körből a legjobbak.
+- Ha az 5. kör után döntetlen van, a döntetlen játékosok egy hirtelen halál körbe lépnek, amelyet a többi játékos az oldalvonalról nézhet.
 
-## Lag
+## Lemaradás
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- A késésjelző a kapcsolat késését (ping sebességét) mutatja.
+- A késés általában azt jelzi, hogy a ping sebessége meghaladja a 100 ms-ot.
+- Általánosságban elmondható, hogy a késés mindig jelen van, ha fizikai távolság van a játékosok között az interneten. Minél nagyobb a távolság, annál nagyobb a késés.
+- A fejlesztők különböző technikákat alkalmaznak a késés kompenzálására és elrejtésére.
+- Számos késéskompenzációs technikát alkalmaztunk, amelyek a lehető legjobb élmény érdekében elfedik a késést.
+- A világ különböző pontjain lévő szerverekkel is beépítettünk megoldásokat, hogy egymáshoz legközelebb eső játékosokat párosíthassuk, hogy a lehető legkisebbre csökkentsük a késést. Ha többet szeretne megtudni ezekről a technikákról, nézze meg [ezt a bejegyzést](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) amit szeretünk a késés kompenzációjáról Gabriel Gambetta.
 
 ## Egyedi előcsarnok
 
-- Egy egyéni lobby használható a mérkőzés megnyitására a kiválasztott régióban. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- Egy egyéni lobby használható a mérkőzés megnyitására a kiválasztott régióban. Az előcsarnok létrehozója a lobby térképen láthat egy kódot, amelyet megoszthat másokkal.
+- Ha egy másik degen szeretne csatlakozni a lobbyhoz, először ki kell választania a megfelelő régiót, majd be kell írnia a lobby kódját a beviteli mezőbe.
+- Egyéni lobby kód használata esetén a régiót automatikusan át kell váltani.
 
-## Changing Regions
+## Változó régiók
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- A Smasher egy gyors tempójú játék, ahol a késleltetés/ping kulcsfontosságú. Minél közelebb van a kiválasztott régió a játékos helyéhez, annál alacsonyabb a ping.
+- Miután megváltoztatta a régiót a Web-GL-ben vagy az asztali alkalmazásban, megjelenik az aktuális ping.
 
 # **Harc alapjai**
 
 ## Általános Tanács
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- A játék kontrollerrel erősen ajánlott (Playstation, Xbox vagy bármely más, a PC/Mac által felismert kontrollerrel).
 
 ## Denevérhinták
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- Az ütő minden lehetséges irányba forgatható: balra, jobbra, fel, le, átlósan.
+- Az ütőt a támadás gombra kattintva lehet lendíteni.
+- A gomb hosszabb lenyomása erősebbé teszi az ütőt.
+- Az ütő állva, futva vagy ugrálva lendíthető.
+- A játékosok hosszan lenyomhatják a támadás gombot ugrások közben – ez általában jó módja annak, hogy meglepje ellenfeleit.
 
 ## Mozgó
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- 2D-s játékként a mozgási irányok balra/jobbra vonatkoznak.
+- Az irányok megváltoztathatók ugrások/buktatás közben (ez sokkal könnyebben megvalósítható kontrollerrel).
 
 ## Ugrás
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- Az ugrás magassága az ugrás gomb megnyomásával módosítható.
+- Az irány megváltoztatható ugrások/buktatás közben.
 
 ## Repülő Hamburger
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- A repülő hamburger elkapása sokkal erősebbé teszi a DEGEN ütőjét – ez általában közvetlen ölést eredményez.
+- Azt fontolgatjuk, hogy korlátozzuk a hamburgerbuff időtartamát az idő és/vagy az ölés alapján.
 
-# **Tribe Specifics**
+# **A törzs sajátosságai**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_Minden DEGEN törzs rendelkezik speciális képességgel ("SA"), amely az összes Nifty League-játékban (élőben és jövőben) is egységes lesz._
 
 ## Különleges képességek listája
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## Idegen
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- Az SA gomb megnyomásával az Alien kis távolságra teleportálhat a megcélzott irányba (balra, jobbra, fel, le, átlók).
+- Energiarobbanás történik a teleportált helyen, ami eltalálja a közelben álló ellenfeleket.
 
 ## Emberszabású majom
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- Az SA gomb megnyomása a banánt a megcélzott irányba dobja (balra, jobbra, fel, le, átlók), amíg el nem találja az ellenfelet, el nem találja egy térképrészt, vagy le nem repül a térképről.
+- Az SA gomb újbóli megnyomásával a banán visszarepül a DEGEN-be, ami lehetővé teszi, hogy ismét eltaláljon egy ellenfelet.
+- A banánt ütővel lehet ütni és a megcélzott irányba repülni.
 
 ## Macska
 
-- Az SA megnyomására a macska felpattan. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- Az SA megnyomására a macska felpattan. Rövid ütés után a macska megerősödött.
+- A megerősített denevérlengés azt jelenti, hogy az ütő erősebben üt.
+- Az erős mozgás azt jelenti, hogy a macska gyorsabban fut.
+- A macskák képesek duplán ugrani és levegőben ugrani.
 
 ## Dózse
 
 - Az SA gomb lenyomásával és nyomva tartásával a doge felgurul.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- Ha dózsadobással ütik el az ellenfelet, az a dobás irányába felfelé repül.
+- Doge repülni fog a megcélzott irányba.
+- Doge roll közben az irány háromszor változtatható, amíg a doge roll véget nem ér.
+- A Doge tekercs egy bizonyos idő után véget is ér.
 
 ## Béka
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- Az SA gomb megnyomásával a béka kilövi a nyelvét.
+- Amikor a nyelv eltalálja az ellenfelet, az ellenfél a békák irányába húzódik, és egy kicsit tovább repül.
+- Amikor a nyelv eltalál egy térképdarabot, a békák az adott tárgyhoz húzódnak (pl. falak, mennyezetek stb.)
+- A nyelv a megcélzott irányba lőhető (balra, jobbra, fel, le, átlósan).
 
 ### Emberi
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- Az SA gomb megnyomásával bombát dob a célirányba (balra, jobbra, fel, le, átlók).
+- A bombának van egy repülő íve, és nem repül egyenesen, mint a banán (ha nem robbantják fel, akkor a földön marad).
+- A bomba egy idő után vagy az SA gomb másodszori megnyomása után felrobban.
+- Jelenleg a bomba eltalálhatja az ellenfelet ütéssel vagy robbanással.
+- A bombák az egyetlen SA, amely magát a dobó DEGEN-t tudja eltalálni a robbanásával.
+- A bombákat ütővel lehet eltalálni, és a megcélzott irányba repülni.
+- Azt tervezzük, hogy frissítjük a játékot, hogy a bomba azonnal felrobbanjon az ellenféllel való érintkezés után. Ha egyetlen ellenfelet sem talál el, akkor a földön marad, amíg automatikusan fel nem robban, vagy az SA gomb másodszori megnyomása után.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+Kérjük, csatlakozzon a **[Discord](https://discord.gg/niftyleague)** hoz, hogy visszajelzést és ötleteket adjon a játék fejlesztéséhez és a következő szintre emeléséhez.
