@@ -4,6 +4,6 @@ title: Turnaje
 sidebar_position: 2
 ---
 
-Připojte se k zábavě v týdenních nebo měsíčních turnajích! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
+**Turnaje 🏆**
 
-For any other activities you'd like to see implemented, please reach out to our team in Discord!
+Připojte se k zábavě v týdenních nebo měsíčních turnajích! Všechny turnaje mohou být motivovány odměnami z našeho komunitního pokladního fondu na základě **Nifty DAO** prostřednictvím hlasování o tokeny. Někteří turnajoví šampioni mohou dokonce odejít se speciální edicí Key to the Citadel 🗝️ NFT... V případě jakýchkoli dalších aktivit, které byste rádi realizovali, se prosím obraťte na náš tým!
