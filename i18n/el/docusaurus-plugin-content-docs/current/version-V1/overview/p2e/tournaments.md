@@ -4,6 +4,6 @@ title: Τουρνουά
 sidebar_position: 2
 ---
 
-**Τουρνουά 🏆**
+Λάβετε μέρος στη διασκέδαση σε εβδομαδιαία ή μηνιαία τουρνουά! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
 
-Λάβετε μέρος στη διασκέδαση σε εβδομαδιαία ή μηνιαία τουρνουά! Όλα τα τουρνουά μπορούν να δοθούν κίνητρα με ανταμοιβές από το ταμείο ταμείου της κοινότητας κατά την **Nifty DAO** μέσω ψηφοφορίας συμβολικής. Ορισμένοι πρωταθλητές τουρνουά μπορεί ακόμη και να φύγουν με μια ειδική έκδοση Key to the Citadel 🗝️ NFT... Για οποιεσδήποτε άλλες δραστηριότητες θα θέλατε να δείτε να υλοποιούνται, επικοινωνήστε με την ομάδα μας!
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
