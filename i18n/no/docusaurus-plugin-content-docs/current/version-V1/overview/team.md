@@ -9,7 +9,7 @@ sidebar_position: 2
 | Flink Andy              | Snarfy               | Flott Spike              |
 | ----------------------- | -------------------- | ------------------------ |
 | ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| Web3 Dev / Spillteori   | Lead Game Dev        | Kreativ direktør         |
+| CEO                     | CTO                  | Kreativ direktør         |
 
 ## Team
 
