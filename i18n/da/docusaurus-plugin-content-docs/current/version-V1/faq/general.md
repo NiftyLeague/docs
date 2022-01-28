@@ -21,7 +21,6 @@ Nej, du behøver kun én DEGEN for at spille.
 Så simpelt som at underskrive en besked for at bekræfte ejerskabet af dine DEGENs i din kryptopung, når du starter spillet.
 
 ### **Har jeg brug for controllere for at spille spillet?**
-
 Nej, selvom vi synes, det er nemmere at spille med en controller (PS, Xbox eller andre, der genkendes af PC/Mac) end et tastatur.
 
 ### Hvorfor beder omdøbningen om flere bekræftelser?
