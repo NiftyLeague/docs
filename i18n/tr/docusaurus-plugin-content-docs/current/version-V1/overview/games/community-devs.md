@@ -4,10 +4,10 @@ title: Topluluk Geliştiricileri
 sidebar_position: 6
 ---
 
-Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+Amacımız, DEGEN topluluğumuzun yardımıyla mümkün olduğuna inandığımız, platformumuzu olabildiğince eğlenceli ve heyecan verici oyunlarla genişletmek!
 
-We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+Geliştiricileri, seçilirlerse platformumuzda yayınlanacak ve karşılığında geliştiriciler katkılarından dolayı Nifty DAO'dan ödüllendirilecek olan karakterlerimizi kullanarak oyunlar yaratmaya teşvik ediyoruz.
 
-Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+Yaratıcı olun ve fikirlerinizi bize **[Discord](https://discord.gg/niftyleague)**gönderin!
 
-If your game shows promise and viability we’d love to share it with the community.
+Oyununuz umut vaat ediyor ve uygulanabilirlik gösteriyorsa, bunu toplulukla paylaşmayı çok isteriz.
