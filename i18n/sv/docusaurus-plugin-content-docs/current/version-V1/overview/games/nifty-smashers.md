@@ -13,22 +13,129 @@ sidebar_position: 2
 
 ---
 
-Gör dig redo att bråka! Den lokala flerspelarversionen av **[Nifty Smashers](https://nifty-league.com/games)** gjordes tillgänglig omedelbart vid lanseringen följt av online multiplayer! Så ta några kontroller 🎮 och spela med vänner.
+# **Generell information**
 
-Kämpa ut bland samhället och få in så många _batbonks_ 🥖 på dina vänner som du kan! **Nifty Smashers** hämtar inspiration från det klassiska Super Smash Bros-spelet där målet är att slå dina motståndare från kartan för att få poäng. För att kunna spela behöver du en **DEGEN** att välja för strid, och sedan använda ditt tangentbord, Playstation eller Xbox-kontroll som ingång (soffa multiplayer fungerar också!). Från spellobbyn kommer du att kunna välja från någon av dina tidigare präglade **DEGENs** du äger i din plånbok för att visa upp dina coola skapelser! Varje stam har ett unikt specialdrag så experimentera med olika stammar och hitta det rörelseset som passar din spelstil bäst. Håll ned attackknappen för en laddad fladdermusattack, några speciella drag kan också laddas. När du bonkar en annan spelare är de värda 1 poäng. Ju mer de successivt bonkades, desto snabbare studsar de runt och desto fler poäng är de värda. Landa den sista megabonken för att slå dem från kartan och ta alla poäng!
+Gör dig redo att bråka! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
 
-**Som nämnts är detta en betaversion av vårt första spel, så lagg och problem med irriterande bots kan förväntas.** Vår omedelbara plan är att fortsätta utvecklingen av **Nifty Smashers** och att introducera fler funktioner som ytterligare kombinationsrörelser och ett progressionssystem. Hoppa in i vår **[Discord](https://discord.gg/niftyleague)** att ge feedback och idéer om hur vi kan förbättra **Nifty Smashers** och ta det till nästa nivå!
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-<!-- ![](/img/highlights.gif) -->
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
 
-**Online Multiplayer Lag ☁️**
+## Poängsättning
 
-Med den pågående alfa, låt oss prata om eftersläpning i snabba och snabba brawler-spel som **Nifty Smashers**.
+- If a DEGEN is hit once and dies (fall off map) you get 1 point.
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
+- The last hit that kills the DEGEN, gets all combo points.
+- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
+- A 2-player match require 5pts to win a round.
+- 3 & 4-player matches require 10pts to win a round.
+- Matches are best of 5 rounds.
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
 
-Generellt sett är lagg alltid närvarande när det finns fysiskt avstånd mellan spelarna på internet. Ju större avstånd, desto större fördröjning. Det finns olika tekniker & knep som utvecklare använder för att kompensera och dölja eftersläpningen. Vi har implementerat ett antal av dessa fördröjningskompensationstekniker som döljer fördröjningen för bästa möjliga upplevelse. Vi har även införlivat lösningar med servrar över hela världen så att vi kan matcha spelare närmast varandra för att minimera eftersläpningen så mycket som möjligt.
+## Lag
 
-Icke desto mindre, med tanke på nivån av lyhördhet snabba brawlers kräver ⚡, förväntar vi oss en viss fördröjning när vi lanserar online multiplayer.
+- The lag indicator shows the lag (ping speed) of your connection.
+- Lag tyipcally indicates your ping speed is above 100ms.
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
+- There are different techniques that developers use to compensate and hide the lag.
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
 
-Vi är glada att dela våra framsteg med dig så snart som möjligt. Efter lanseringen, med din feedback, kommer vi att göra allt i vår makt för att göra eftersläpningen så omärklig som möjligt.
+## Anpassad lobby
 
-Om du är intresserad av att lära dig mer om dessa tekniker, här är en bra läsning av Gabriel Gambetta om **[Lagkompensation](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)**.
+- En anpassad lobby kan användas för att öppna en match i en vald region. The creator of the lobby can see a code in the lobby map which can be shared with others.
+- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
+- When using a custom lobby code, the region should be switched automatically.
+
+## Changing Regions
+
+- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+
+# **Battle Basics**
+
+## Allmänna råd
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+
+## Fladdermus gungor
+
+- The bat can be swung in all possible direction: left, right, up, down, diagonals.
+- The bat can be swung by clicking the attack button.
+- Longer button presses makes the bat hit harder.
+- The bat can be swung while standing, running, or jumping.
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+
+## Rör på sig
+
+- As a 2D Game, moving directions are left/right.
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+
+## Hoppar
+
+- Jump height can be altered by press-duration of jump button.
+- Directions can be changed during jumps/tumble.
+
+## Flygande hamburgare
+
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
+- We are considering limiting burger buff duration by time and/or kill.
+
+# **Tribe Specifics**
+
+_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+
+## Lista över speciella förmågor
+
+- **Ape** - Kasta bumerangbananer
+- **Alien** - Teleportera
+- **Katt** - Släng och få fladdermuskraft och fartökning tillfälligt
+- **Groda** - Tunggripkroken
+- **Doge** - Doge myntrulle
+- **Människan** - Kasta dynamit som exploderar på kommando
+
+## Utomjording
+
+- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
+- There is a energy explosion at the teleported location, hitting opponents that stand near.
+
+## Apa
+
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
+- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
+- Bananas can be hit with a bat and fly in the aimed direction.
+
+## Katt
+
+- Att trycka på SA får katten att kasta sig. After pouncing for a short duration, the cat ges empowered.
+- Empowered bat swing means the bat hits harder.
+- Empowered movement means the cat runs faster.
+- Cats can double jump and jump in mid-air.
+
+## Doge
+
+- Genom att trycka och hålla ner SA-knappen får dogen att rulla.
+- Hitting an opponent with doge roll makes them fly upwards in roll direction.
+- Doge will fly-roll in the aimed direction.
+- During doge roll, directions can be changed three times until doge roll ends.
+- Doge roll also ends after a certain time.
+
+## Groda
+
+- Pressing the SA button makes the Frog shoot his tongue.
+- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
+- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+
+### Mänsklig
+
+- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
+- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
+- The bomb explodes after some time or after the SA button is pressed a second time.
+- Currently the bomb can hit an opponent by hitting it or via explosion.
+- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
+- Bombs can be hit with a bat and fly in the aimed direction.
+- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
