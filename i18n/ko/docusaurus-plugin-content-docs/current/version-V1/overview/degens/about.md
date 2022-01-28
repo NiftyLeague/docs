@@ -4,8 +4,14 @@ title: 에 대한
 sidebar_position: 1
 ---
 
-Nifty League의 주조 프로세스는 주조업자가 Mint-O-Matic을 사용하여 자신의 DEGEN을 디자인할 수 있는 독특한 광경이었습니다!
+The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
 
 ![](/img/mintomatic.gif)
 
-원숭이, 인간, 개, 개구리, 고양이 및 외계인을 포함하는 6개의 부족이 있었습니다. 이 결정은 사용 가능한 캐릭터 특성 및 액세서리에 영향을 미칠 뿐만 아니라 특정 게임 내 메커니즘 및 특수 동작을 결정합니다. 판매 기간 동안 DEGENS 페이지에서 주조된 DEGENS를 검색하여 다른 부족보다 희귀한 부족을 확인할 수 있습니다. 특정 게임에서는 게임 플레이와 특수 동작이 상당히 다를 수 있으므로 플레이어는 개인 취향에 따라 자연스럽게 특정 캐릭터에 끌리게 됩니다. 각 게임 전에 사용할 캐릭터를 선택할 수 있습니다(각 부족에 하나씩 있어도 해가 되지 않습니다!) 😉
+There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+
+The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+
+Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+
+Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
