@@ -16,11 +16,11 @@ Game kami saat ini, Nifty Smashers, dan semua game mendatang akan memiliki jurus
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - gulungan koin Doge
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Manusia** - Lempar dinamit yang meledak sesuai perintah
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Pelajari lebih lanjut tentang gerakan ini di [Smashers Guide](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+Di masa depan, kami membayangkan bahwa suku "khusus" baru dapat dirilis / dicadangkan untuk skalabilitas, game baru, hadiah turnamen, dan banyak lagi.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
