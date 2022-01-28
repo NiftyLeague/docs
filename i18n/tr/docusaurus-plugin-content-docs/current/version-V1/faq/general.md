@@ -21,7 +21,8 @@ Hayır, oynamak için sadece bir DEGEN'e ihtiyacınız var.
 Oyunu başlattığınızda kripto cüzdanınızdaki DEGEN'lerinizin sahipliğini doğrulamak için bir mesaj imzalamak kadar basit.
 
 ### **Oyunu oynamak için kontrolcülere ihtiyacım var mı?**
-Hayır, her ne kadar bir kumandayla (PS, Xbox veya PC/Mac tarafından tanınan diğer herhangi biri) oynamanın klavyeden daha kolay olduğunu düşünmemize rağmen.
+
+Hayır, ancak bir kumandayla (PS, Xbox veya PC/Mac tarafından tanınan herhangi bir başkası) oynamanın klavyeden daha kolay olduğunu düşünsek de.
 
 ### Yeniden adlandırma neden birden çok doğrulama istiyor?
 
