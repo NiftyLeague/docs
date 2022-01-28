@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Stigters
 
-| Snaakse Andy             | Snarfy               | Lekker Spike             |
-| ------------------------ | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)  | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| hoof uitvoerende beampte | CTO                  | Kreatiewe direkteur      |
+| Snaakse Andy            | Snarfy               | Lekker Spike             |
+| ----------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| Web3 Dev / Spelteorie   | Lead Game Dev        | Kreatiewe direkteur      |
 
 ## Span
 
