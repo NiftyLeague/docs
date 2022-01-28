@@ -4,6 +4,6 @@ title: Изящный Карт
 sidebar_position: 4
 ---
 
-### В разработке на 2022 год!
+### 🚧 Under development for 2022 🚧
 
 ![](/img/niftykart_v01.png)
