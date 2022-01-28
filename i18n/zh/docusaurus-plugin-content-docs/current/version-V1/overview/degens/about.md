@@ -4,8 +4,14 @@ title: 关于
 sidebar_position: 1
 ---
 
-Nifty League 的铸币过程是一种独一无二的奇观，它让铸币者能够使用 Mint-O-Matic 设计自己的 DEGEN！
+The minting process for Nifty League allowed minters the ability to design their own DEGEN using our Mint-O-Matic, which our community absolutely loved!
 
 ![](/img/mintomatic.gif)
 
-有6个部落，包括：猿、人类、狗、青蛙、猫和外星人。 这一决定不仅会影响可用的角色特征和配饰，还会决定某些游戏机制和特殊动作。 在销售期间，您可以查看我们的 DEGENS 页面以浏览铸造的 DEGENS，以确定哪些部落比其他部落更稀有。 玩家自然会根据个人喜好倾向于某些角色，因为某些游戏的游戏玩法和特殊动作可能在他们之间有很大不同。 您将能够在每场比赛之前选择要使用的角色（因此每个部落都有一个没有害处！） 😉
+There are 6 tribes of DEGENs: apes, humans, dogs, frogs, cats, and aliens.
+
+The DEGEN's design affected available character traits and accessories, and determined certain in-game mechanics and special moves.
+
+Minters were able to browse through already minted DEGENS to determine which tribes were rarer than others and what type of DEGEN they gravitated toward.
+
+Although our NFTs minted out in October 2021, they can be purchased on the secondary market via [OpenSea](https://opensea.io/collection/niftydegen).
