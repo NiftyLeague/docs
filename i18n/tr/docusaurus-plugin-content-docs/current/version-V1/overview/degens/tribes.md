@@ -16,11 +16,11 @@ Mevcut oyunumuz Nifty Smashers ve gelecekteki tüm oyunlarda her karakter türü
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge madeni para rulosu
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**İnsan** - Komut verildiğinde patlayan dinamit atın
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+[Smashers Guide](/guides/nifty-smashers/tribes)bu hareket kümeleri hakkında daha fazla bilgi edinin.
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+Gelecekte, ölçeklenebilirlik, yeni oyunlar, turnuva ödülleri ve daha fazlası için yeni "özel" kabilelerin piyasaya sürülebileceğini / ayrılabileceğini öngörüyoruz.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
