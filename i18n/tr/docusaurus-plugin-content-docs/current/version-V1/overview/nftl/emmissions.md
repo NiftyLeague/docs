@@ -4,6 +4,6 @@ title: emisyonlar
 sidebar_position: 3
 ---
 
-**250M NFTL** **3 yıl** boyunca tüm genesis **DEGEN** NFT sahiplerine yıllık olarak dağıtılacaktır. NFT'nizi stake etmeye gerek yoktur; sadece arkanıza yaslanın ve web sitemizden istediğiniz zaman talep edebileceğiniz günlük **NFTL** [cüzdan sayfanız](https://nifty-league.com/wallet)izleyin.
+250M NFTL will be distributed annually over the first 3 years to all genesis DEGEN NFT owners. There is no need to stake your NFT, just sit back and watch your NFTL accrue daily. DEGEN owners can claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet).
 
-Gelecekteki kalan emisyonlar ya günlük oyun içi ödüller için ya da **Nifty DAO**için finansman için olacaktır. **Nifty DAO** , çoklu **7 imza sahibi** elde ettikten sonraki ilk yıl boyunca **330 milyon NFTL** kadar para basma yeteneği vereceğiz. Bu belirteçlerin çoğunun topluluğa katkıda bulunanlara gideceğini ve rekabet ödülleri için kullanılacağını öngörüyoruz, ancak nihayetinde DAO, zamanı geldiğinde bu kararı verecektir.
+Any remaining future emissions will either be for daily in-game rewards or funding for the Nifty DAO. We will grant the Nifty DAO the ability to mint up to 330M NFTL over the first year after we get a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors as well as being used for competition rewards, but ultimately the DAO will be responsible for the decision.
