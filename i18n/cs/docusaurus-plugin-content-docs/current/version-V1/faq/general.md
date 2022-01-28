@@ -21,7 +21,6 @@ Ne, ke hře potřebujete pouze jeden DEGEN.
 Stejně jednoduché jako podepsání zprávy pro ověření vlastnictví vašich DEGENů ve vaší kryptopeněžence při spuštění hry.
 
 ### **Potřebuji ke hraní hry ovladače?**
-
 Ne, i když si myslíme, že je snazší hrát s ovladačem (PS, Xbox nebo jakýmkoli jiným, který PC/Mac rozpoznává) než s klávesnicí.
 
 ### Proč přejmenování vyžaduje vícenásobné ověření?
