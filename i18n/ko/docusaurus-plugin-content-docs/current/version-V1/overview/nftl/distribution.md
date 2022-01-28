@@ -4,14 +4,14 @@ title: 배포(첫해)
 sidebar_position: 2
 ---
 
-There is no max supply set currently, but we expect around **1 Billion NFTL** to be distributed over the next year.
+이 현재 설정에는 최대 공급은 없지만, 우리는 주변의 기대 **1 억 NFTL** 다음 해에 분포한다.
 
-**Community Giveaways**
+**커뮤니티 경품**
 
-Every project needs quality memes! Join the **[Nifty League Discord](https://discord.gg/niftyleague)** for access to free NFTL distributions to community members who make us all laugh or go above and beyond contributing to discussions. To facilitate this, we've configured a tip bot for our team and moderators to tip Discord users. We spent a combined total of 7M NFTL via the tip bot over the first two months! As noted earlier, these tips will remain available for active Discord members going forward but the rate is expected to be much lower.
+모든 프로젝트에는 양질의 밈이 필요합니다! **[Nifty League Discord](https://discord.gg/niftyleague)** 에 가입하여 우리 모두를 웃게 만들거나 토론에 기여하는 것 이상으로 나아가는 커뮤니티 구성원에게 무료 NFTL 배포에 액세스하십시오. 이를 용이하게 하기 위해 팀과 중재자가 Discord 사용자에게 팁을 줄 수 있도록 팁 봇을 구성했습니다. 우리는 처음 두 달 동안 팁 봇을 통해 총 7백만 NFTL을 지출했습니다! 앞서 언급했듯이 이 팁은 활성 Discord 회원에게 계속 제공되지만 그 비율은 훨씬 낮을 것으로 예상됩니다.
 
-**Initial Supply**
+**초기 공급**
 
-In September 2021, we decided to close our AXS holders airdrop early and reward our DEGEN holders with 212.85M NFTL tokens in total. A portion of these tokens were claimable when purchasing a DEGEN NFT, and the rest were airdropped to holders prior to the sale based on a snapshot taken at **[Block #13360120](https://etherscan.io/block/13360120)**. While the AXS airdrop contract was open, a total of 256K NFTL was claimed.
+2021년 9월에 AXS 보유자 에어드롭을 조기에 종료하고 DEGEN 보유자에게 총 2억 1285만 NFTL 토큰을 보상하기로 결정했습니다. 이 토큰의 일부는 DEGEN NFT를 구매할 때 청구할 수 있었고 나머지는 **[블록 #13360120](https://etherscan.io/block/13360120)**에서 찍은 스냅샷을 기반으로 판매 전에 보유자에게 에어드롭되었습니다. AXS 에어드롭 계약이 열려 있는 동안 총 256K NFTL이 청구되었습니다.
 
-100M NFTL was allocated for a team development fund which is time-locked for 6 months from **[Block #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**. Another 100M NFTL was provided to the **[Nifty DAO treasury](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** to support early community plans such as liquidity incentives, tournament rewards, or giveaways. This brings the initial supply to around 420M with daily emissions for all genesis NFT owners starting immediately after each character sale.
+**[Block #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**부터 6개월 동안 시간이 고정된 팀 개발 기금에 할당되었습니다. 유동성 인센티브, 토너먼트 보상 또는 경품과 같은 초기 커뮤니티 계획을 지원하기 위해 또 다른 1억 NFTL이 **[Nifty DAO 재무](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** 이것은 각 캐릭터 판매 직후부터 모든 제네시스 NFT 소유자를 위한 일일 배출량으로 약 4억 2천만 개의 초기 공급을 가져옵니다.
