@@ -4,6 +4,6 @@ title: Giải đấu
 sidebar_position: 2
 ---
 
-Tham gia vào niềm vui trong các giải đấu hàng tuần hoặc hàng tháng! All tournaments may be incentivized by rewards from our community treasury fund at the Nifty DAO's discretion via token voting. Some tournament champions may even walk away with a special edition Key to the Citadel 🗝️.
+**Giải đấu 🏆**
 
-For any other activities you'd like to see implemented, please reach out to our team in Discord!
+Tham gia vào niềm vui trong các giải đấu hàng tuần hoặc hàng tháng! Tất cả các giải đấu có thể được khuyến khích bằng phần thưởng từ quỹ kho bạc cộng đồng của chúng tôi **Nifty DAO** thông qua biểu quyết mã thông báo. Một số nhà vô địch giải đấu thậm chí có thể ra đi với phiên bản đặc biệt Chìa khóa đến Hoàng thành 🗝️ NFT ... Đối với bất kỳ hoạt động nào khác mà bạn muốn thấy đã được triển khai, vui lòng liên hệ với nhóm của chúng tôi!
