@@ -4,6 +4,6 @@ title: Şık Kart
 sidebar_position: 4
 ---
 
-### 2022 için geliştirme aşamasında!
+### 🚧 Under development for 2022 🚧
 
 ![](/img/niftykart_v01.png)
