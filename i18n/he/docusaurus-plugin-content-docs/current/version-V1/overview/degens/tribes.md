@@ -16,11 +16,11 @@ sidebar_position: 2
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - גלגול מטבעות Doge
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**אדם** - זרוק דינמיט שמתפוצץ בפקודה
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+למד עוד על המהלכים האלה במדריך [Smashers](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+בעתיד, אנו רואים בדעתנו ששבטים "מיוחדים" חדשים עשויים להשתחרר / לשמור עבור מדרגיות, משחקים חדשים, תגמולים בטורנירים ועוד.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
