@@ -4,16 +4,16 @@ title: fajny wers
 sidebar_position: 1
 ---
 
-### W przygotowaniu na II kwartał 2022 roku!
+### 🚧 Under development for Q2 2022 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
-Ziemia w Nifty Verse trafi do sprzedaży w 2022 roku.
+Land in the NiftyVerse will go up for sale in 2022.
 
-Każdy będzie mógł posiadać ziemię i budować w Nifty Verse.
+Anyone will be able to own land and build in the NiftyVerse.
 
-Planujemy współpracować z niezależnymi studiami gier, aby umożliwić im tworzenie gier Nifty w Nifty Verse.
+We plan to work with indie gaming studios and artists to allow them to build Nifty League games in the NiftyVerse!
 
 Pierwsza iteracja będzie z góry na dół, w stylu pixel art, z miejskim motywem sushi.
 
-Wszystkie zakupy ziemi w Nifty Verse będą dokonywane przy użyciu **NFTL**.
+All land purchases in the Nifty Verse will be done using NFTL.
