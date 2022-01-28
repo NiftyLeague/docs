@@ -16,11 +16,11 @@ Ons huidige spel, Nifty Smashers, en alle toekomstige spellen zullen een special
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge muntrol
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Mens** - Gooi dynamiet dat op commando explodeert
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Lees meer over deze movesets in onze [Smashers Guide](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+In de toekomst voorzien we dat nieuwe "speciale" stammen kunnen worden vrijgegeven/gereserveerd voor schaalbaarheid, nieuwe spellen, toernooibeloningen en meer.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
