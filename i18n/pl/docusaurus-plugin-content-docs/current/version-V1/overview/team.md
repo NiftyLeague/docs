@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Założyciele
 
-| Sprytny Andy            | Wściekły                  | Fajny kolec              |
-| ----------------------- | ------------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png) |
-| CEO                     | Dyrektor ds. Technicznych | Dyrektor kreatywny       |
+| Sprytny Andy                 | Wściekły               | Fajny kolec              |
+| ---------------------------- | ---------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)   | ![](/img/NiftySpike.png) |
+| Web3 Deweloper / Teoria gier | Główny programista gry | Dyrektor kreatywny       |
 
 ## Zespół
 
