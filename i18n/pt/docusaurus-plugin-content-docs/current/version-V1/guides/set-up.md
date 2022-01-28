@@ -4,4 +4,7 @@ title: Configure sua carteira
 sidebar_position: 0,5
 ---
 
-Toque em Iniciar aplicativo na barra de navegação superior à direita. Toque em Conectar. Escolha a carteira criptográfica que contém seu DEGEN NFT. Assine a transação quando solicitado. 
+1. Select Launch App in the top navigation bar
+2. Select Connect
+3. Choose the crypto wallet which holds your DEGEN NFT
+4. Assine a transação quando solicitado.
