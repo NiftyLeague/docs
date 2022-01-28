@@ -4,6 +4,6 @@ title: 漂亮的皇家
 sidebar_position: 5
 ---
 
-### 2022年开发中！
+### 🚧 Under development for 2022 🚧
 
 ![](/img/niftyroyale_v01.png)
