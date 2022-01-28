@@ -6,7 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Latar belakang DEGEN ditetapkan secara acak saat dicetak yang menghasilkan latar belakang umum atau salah satu dari tiga opsi khusus: **Rare**, **Meta**, atau **Legendary**. Selain terlihat keren, latar belakang hadir dengan fasilitas khusus seperti tampilan luar biasa dalam game dan pengganda penghasilan tambahan.
+DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+
+Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
 
 ### Pengganda Pendapatan
 
