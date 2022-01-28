@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN backgrounds were randomly assigned upon minting which either resulted in a Common background or one of three special backgrounds: **Rare**, **Meta**, or **Legendary**.
+DEGEN-agtergronde is lukraak toegeken tydens slaan wat óf gelei het tot 'n gemeenskaplike agtergrond óf een van drie spesiale agtergronde: **Skaars**, **Meta**, of **Legendaries**.
 
-Aside from looking cool, background come with special perks such as a distinguished look in game and exta earning multipliers.
+Behalwe dat dit koel lyk, kom agtergrond met spesiale byvoordele soos 'n uitstekende voorkoms in speletjie en vermenigvuldigers wat ekstra verdien.
 
 ### Verdienstevermenigvuldigers
 
