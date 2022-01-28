@@ -9,7 +9,7 @@ sidebar_position: 2
 | Nifty Andy              | Snarfy               | Nifty Spike              |
 | ----------------------- | -------------------- | ------------------------ |
 | ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Creative Director        |
+| Web3 Dev / Game Theory  | Lead Game Dev        | Creative Director        |
 
 ## Team
 
