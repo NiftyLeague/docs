@@ -4,10 +4,10 @@ title: 社区开发者
 sidebar_position: 6
 ---
 
-Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community!
+我们的目标是通过尽可能多的有趣和令人兴奋的游戏来扩展我们的平台，我们相信只有在我们的 DEGEN 社区的帮助下才有可能！
 
-We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the Nifty DAO for their contributions.
+我们鼓励开发人员使用我们的角色创建游戏，如果选择这些角色，这些游戏将在我们的平台上上线，作为回报，开发人员将从 Nifty DAO 中获得他们的贡献的奖励。
 
-Get creative and send us your ideas in **[Discord](https://discord.gg/niftyleague)**!
+**[Discord](https://discord.gg/niftyleague)**向我们发送您的想法！
 
-If your game shows promise and viability we’d love to share it with the community.
+如果您的游戏显示出前景和可行性，我们很乐意与社区分享。
