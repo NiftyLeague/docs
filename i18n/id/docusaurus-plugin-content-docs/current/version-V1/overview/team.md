@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Pendiri
 
-| Andy yang bagus         | Snarfy               | Spike yang bagus         |
-| ----------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Sutradara kreatif        |
+| Andy yang bagus              | Snarfy                   | Spike yang bagus         |
+| ---------------------------- | ------------------------ | ------------------------ |
+| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)     | ![](/img/NiftySpike.png) |
+| Pengembang Web3 / Teori Game | Memimpin Pengembang Game | Sutradara kreatif        |
 
 ## Tim
 
