@@ -15,76 +15,76 @@ sidebar_position: 2
 
 # **מידע כללי**
 
-תתכונן לקטטה! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
+תתכונן לקטטה! גרסת מרובי המשתתפים המקומית של **[Nifty Smashers](https://nifty-league.com/games)** הופנתה לזמינה מיד עם ההשקה ואחריה מרובה משתתפים מקוון.
 
-Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
+נאבק על זה בקרב הקהילה והכנס כמה שיותר חבילות עטלפים על החברים שלך! Nifty Smashers לוקח השראה מהמשחק הקלאסי Super Smash Bros שבו המטרה היא להפיל את היריבים שלך מהמפה כדי לצבור נקודות.
 
-You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
+אתה יכול לשחק באמצעות המקלדת שלך או כל בקר תואם אחר (Playstation, Xbox וכו'). היכנס ללובי המשחק ובחר את DEGEN שלך לקרב.
 
 ## מְנִיָה
 
-- If a DEGEN is hit once and dies (fall off map) you get 1 point.
-- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
-- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
-- The last hit that kills the DEGEN, gets all combo points.
-- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
-- A 2-player match require 5pts to win a round.
-- 3 & 4-player matches require 10pts to win a round.
-- Matches are best of 5 rounds.
-- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
+- אם DEGEN נפגע פעם אחת ומת (נופל מהמפה) אתה מקבל נקודה אחת.
+- אם DEGEN נפגע מספר פעמים מבלי שתוכל להתאושש, אתה מקבל נקודות באותה תדירות שבה ה-DEGEN נפגע (ללא קשר אם פגעים קודמים נעשו על ידי DEGEN אחר - אז הנח את המגה-בונק האחרון כדי להכות אותם מהמפה ותבע כל הנקודות לסיבוב).
+- ככל שהיריב שלך יתפרץ ברציפות, כך הוא יקפוץ מהר יותר ותצבור יותר נקודות עבור ספיגה.
+- המכה האחרונה שהורגת את DEGEN, מקבלת את כל נקודות המשולבות.
+- נכון לעכשיו אין מגבלה של התדירות שבה ניתן להכות DEGEN (משולב), אבל יש מגבלה על מספר הנקודות שאתה יכול לקבל (מקסימום 3 נקודות: משחק לשני שחקנים / מקסימום 5 נקודות: 3&-4 שחקנים ).
+- משחק של 2 שחקנים דורש 5 נקודות כדי לנצח בסיבוב.
+- 3 & משחקים של 4 שחקנים דורשים 10 נקודות כדי לנצח בסיבוב.
+- המשחקים הם הטובים ביותר מ-5 סיבובים.
+- אם יש שוויון לאחר הסיבוב החמישי, השחקנים השיווים עוברים לסיבוב מוות פתאומי בו זוכים השחקנים האחרים לצפות מהצד.
 
-## Lag
+## לְפַגֵר
 
-- The lag indicator shows the lag (ping speed) of your connection.
-- Lag tyipcally indicates your ping speed is above 100ms.
-- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
-- There are different techniques that developers use to compensate and hide the lag.
-- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
-- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
+- מחוון השהיה מציג את השהיה (מהירות הפינג) של החיבור שלך.
+- השהיה מעידה בדרך כלל על מהירות הפינג שלך היא מעל 100 אלפיות השנייה.
+- באופן כללי, פיגור תמיד קיים בכל פעם שיש מרחק פיזי בין השחקנים באינטרנט. ככל שהמרחק גדול יותר, הפיגור גדול יותר.
+- ישנן טכניקות שונות שמפתחים משתמשים בהן כדי לפצות ולהסתיר את הפיגור.
+- יישמנו מספר טכניקות פיצוי פיגור אלו שמכסות את הפיגור לחוויה הטובה ביותר האפשרית.
+- שילבנו גם פתרונות עם שרתים בכל רחבי העולם כדי שנוכל להתאים את השחקנים הקרובים זה לזה כדי למזער את הפיגור ככל האפשר. אם אתה מעוניין ללמוד עוד על טכניקות אלה, בדוק את [את הפוסט הזה](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) שאנחנו אוהבים על פיצוי פיגור מאת גבריאל גמבטה.
 
 ## לובי מותאם אישית
 
-- ניתן להשתמש בלובי מותאם אישית לפתיחת משחק באזור נבחר. The creator of the lobby can see a code in the lobby map which can be shared with others.
-- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
-- When using a custom lobby code, the region should be switched automatically.
+- ניתן להשתמש בלובי מותאם אישית לפתיחת משחק באזור נבחר. יוצר הלובי יכול לראות במפת הלובי קוד שניתן לחלוק עם אחרים.
+- אם דגן אחר רוצה להצטרף ללובי, הוא צריך קודם כל לבחור את האזור הנכון ולאחר מכן להקליד את קוד הלובי בתיבת הקלט.
+- בעת שימוש בקוד לובי מותאם אישית, יש להחליף את האזור באופן אוטומטי.
 
-## Changing Regions
+## שינוי אזורים
 
-- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
-- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+- Smasher הוא משחק בקצב מהיר שבו חביון/פינג הוא קריטי. ככל שהאזור הנבחר קרוב יותר למיקום השחקן, כך הפינג נמוך יותר.
+- לאחר שינוי האזור באפליקציית Web-GL או שולחן העבודה, הפינג הנוכחי מוצג.
 
 # **יסודות הקרב**
 
 ## עצה כללית
 
-- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+- משחק עם בקר מומלץ מאוד (Playstation, Xbox, או כל בקר אחר המוכר על ידי ה-PC/Mac שלך).
 
 ## נדנדות עטלפים
 
-- The bat can be swung in all possible direction: left, right, up, down, diagonals.
-- The bat can be swung by clicking the attack button.
-- Longer button presses makes the bat hit harder.
-- The bat can be swung while standing, running, or jumping.
-- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+- ניתן להניף את המחבט לכל הכיוונים האפשריים: שמאלה, ימינה, למעלה, למטה, באלכסונים.
+- ניתן להניף את המחבט על ידי לחיצה על כפתור ההתקפה.
+- לחיצות ארוכות יותר על הכפתור גורמות למחבט להכות חזק יותר.
+- ניתן להניף את המחבט תוך כדי עמידה, ריצה או קפיצה.
+- שחקנים עשויים ללחוץ ארוכות על כפתור ההתקפה במהלך קפיצות - זו בדרך כלל דרך טובה להפתיע את היריב/ים שלך.
 
 ## מעבר דירה
 
-- As a 2D Game, moving directions are left/right.
-- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+- כמשחק דו-ממדי, כיווני תנועה הם שמאלה/ימינה.
+- ניתן לשנות כיוונים במהלך קפיצות/נפילה (זה הרבה יותר קל לבצע באמצעות בקר).
 
 ## קפיצה
 
-- Jump height can be altered by press-duration of jump button.
-- Directions can be changed during jumps/tumble.
+- ניתן לשנות את גובה הקפיצה על ידי לחיצה על כפתור הקפיצה.
+- ניתן לשנות כיוונים במהלך קפיצות/נפילה.
 
 ## המבורגר מעופף
 
-- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
-- We are considering limiting burger buff duration by time and/or kill.
+- תפיסת ההמבורגר המעופף יגרום לחבטת המחבט של DEGEN שלך להיות הרבה יותר חזקה - זה בדרך כלל מביא להרג ישיר.
+- אנו שוקלים להגביל את משך אכילת ההמבורגרים לפי זמן ו/או הרג.
 
-# **Tribe Specifics**
+# **פרטי השבט**
 
-_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+_לכל שבטי DEGEN יש יכולת מיוחדת ("SA"), שתהיה עקבית בכל משחקי ליגת Nifty (חיים ועתידיים)._
 
 ## רשימת יכולות מיוחדות
 
@@ -97,45 +97,45 @@ _All DEGEN tribes have a Special Ability (”SA”), which will be consistent ac
 
 ## חייזר
 
-- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
-- There is a energy explosion at the teleported location, hitting opponents that stand near.
+- לחיצה על כפתור ה-SA גורמת ל-Alien לבצע טלפורטציה למרחק קצר בכיוון המכוון (שמאלה, ימין, למעלה, למטה, באלכסונים).
+- יש פיצוץ אנרגיה במיקום הטלפורטי, ופוגע ביריבים שעומדים ליד.
 
 ## קוֹף
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
-- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
-- Bananas can be hit with a bat and fly in the aimed direction.
+- לחיצה על כפתור ה-SA זורקת בננה לכיוון המכוון (שמאלה, ימין, למעלה, למטה, אלכסונים) עד שהיא פוגעת ביריב, פוגעת בחלק מפה או עפה מהמפה.
+- לחיצה נוספת על כפתור ה-SA גורמת לבננה לעוף בחזרה ל-DEGEN, מה שמאפשר להכות שוב ביריב.
+- ניתן לפגוע בבננות עם מחבט ולעוף בכיוון המכוון.
 
 ## חתול
 
-- לחיצה על ה-SA גורמת לחתול להסתער. After pouncing for a short duration, the cat ges empowered.
-- Empowered bat swing means the bat hits harder.
-- Empowered movement means the cat runs faster.
-- Cats can double jump and jump in mid-air.
+- לחיצה על ה-SA גורמת לחתול להסתער. לאחר התנפלות למשך זמן קצר, החתול התחזק.
+- הנפת עטלפים מועצמת פירושה שהעטלף מכה חזק יותר.
+- תנועה מועצמת פירושה שהחתול רץ מהר יותר.
+- חתולים יכולים לקפוץ כפול ולקפוץ באוויר.
 
 ## דוג'ה
 
 - לחיצה ממושכת על כפתור ה-SA גורמת לדוג' להתגלגל.
-- Hitting an opponent with doge roll makes them fly upwards in roll direction.
-- Doge will fly-roll in the aimed direction.
-- During doge roll, directions can be changed three times until doge roll ends.
-- Doge roll also ends after a certain time.
+- פגיעה ביריב עם רול דוגה גורמת לו לעוף כלפי מעלה בכיוון הרול.
+- דוג'ה יתגלגל לכיוון המכוון.
+- במהלך גלגול הדוג'ה, ניתן לשנות כיוון שלוש פעמים עד לסיום גלגול הדוג'.
+- גם רול הדוג'ה מסתיים לאחר זמן מסוים.
 
 ## צְפַרְדֵעַ
 
-- Pressing the SA button makes the Frog shoot his tongue.
-- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
-- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+- לחיצה על כפתור ה-SA גורמת לצפרדע לירות בלשונו.
+- כאשר הלשון פוגעת ביריב, היריב הזה נמשך לכיוון הצפרדעים ועף עוד קצת.
+- כאשר הלשון פוגעת בחתיכת מפה, הצפרדעים מושכות את עצמה אל אותו חפץ (למשל קירות, תקרות וכו')
+- ניתן לירות בלשון בכיוון המכוון (שמאלה, ימין, למעלה, למטה, אלכסונים).
 
 ### בן אנוש
 
-- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
-- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
-- The bomb explodes after some time or after the SA button is pressed a second time.
-- Currently the bomb can hit an opponent by hitting it or via explosion.
-- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
-- Bombs can be hit with a bat and fly in the aimed direction.
-- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+- לחיצה על כפתור SA זורקת פצצה לכיוון המכוון (שמאלה, ימין, למעלה, למטה, אלכסונים).
+- לפצצה יש עקומה מעופפת ואינה עפה ישר כמו בננות (אם לא מפוצצת היא נשארת על הקרקע).
+- הפצצה מתפוצצת לאחר זמן מה או לאחר לחיצה שנייה על כפתור ה-SA.
+- נכון לעכשיו הפצצה יכולה לפגוע ביריב על ידי פגיעה בו או באמצעות פיצוץ.
+- פצצות הן ה-SA היחיד שיכול לפגוע ב-DEGEN הזורק עצמו עם הפיצוץ שלו.
+- ניתן לפגוע בפצצות עם מחבט ולעוף לכיוון המכוון.
+- אנו מתכננים לעדכן את המשחק כך שהפצצה תתפוצץ מיד לאחר מגע עם יריב. אם אף יריב לא נפגע, הוא נשאר על הקרקע עד שהוא מתפוצץ אוטומטית או לאחר לחיצה על כפתור SA בפעם השנייה.
 
-Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
+אנא הצטרף ל **[Discord](https://discord.gg/niftyleague)** כדי לספק משוב ורעיונות כיצד נוכל לשפר את המשחק ולקחת אותו לשלב הבא.
