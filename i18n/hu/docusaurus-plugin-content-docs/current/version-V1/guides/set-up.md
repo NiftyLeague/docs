@@ -4,7 +4,4 @@ title: Állítsa be pénztárcáját
 sidebar_position: 0.5
 ---
 
-1. Válassza az Alkalmazás indítása lehetőséget a felső navigációs sávban
-2. Válassza a Csatlakozás lehetőséget
-3. Válassza ki a DEGEN NFT-jét tartalmazó kriptotárcát
-4. Amikor a rendszer kéri, írja alá a tranzakciót.
+Érintse meg az Alkalmazás indítása lehetőséget a jobb felső navigációs sávban. Koppintson a Csatlakozás elemre. Válassza ki a DEGEN NFT-jét tartalmazó kriptotárcát. Amikor a rendszer kéri, írja alá a tranzakciót. 
