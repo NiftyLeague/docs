@@ -4,5 +4,3 @@ title: 租金
 ---
 
 ### 我在哪里租用 DEGEN？
-
-niftyleague.com/rentals
