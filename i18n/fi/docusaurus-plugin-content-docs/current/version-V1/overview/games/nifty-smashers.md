@@ -13,22 +13,129 @@ sidebar_position: 2
 
 ---
 
-Valmistaudu tappeluun! **[Nifty Smashers](https://nifty-league.com/games)** paikallinen moninpeliversio julkaistiin heti julkaisun yhteydessä ja sen jälkeen verkkomoninpeli! Joten nappaa muutama ohjain 🎮 ja pelaa ystävien kanssa.
+# **Yleistä tietoa**
 
-Taistele yhteisön kesken ja hanki niin monta _bat bonkia_ 🥖 ystävillesi kuin voit! **Nifty Smashers** saa inspiraation klassisesta Super Smash Bros -pelistä, jossa tavoitteena on kaataa vastustajasi kartalta pisteiden keräämiseksi. Pelataksesi tarvitset **DEGEN** joka valitsee taistelun ja käytä sitten näppäimistöä, Playstation- tai Xbox-ohjainta syötteenä (myös sohvamoninpeli toimii!). Peliaulasta voit esitellä upeita luomuksiasi mistä tahansa aiemmin **DEGEN:stä** Jokaisella heimolla on ainutlaatuinen erikoisliike, joten kokeile eri heimojen kanssa ja löydä pelityyliisi parhaiten sopiva siirto. Pidä hyökkäyspainiketta painettuna latautuneen lepakkohyökkäyksen ajaksi, ja joitain erikoisliikkeitä voidaan myös ladata. Kun houkuttelet toista pelaajaa, he ovat yhden pisteen arvoisia. Mitä enemmän ne ovat peräkkäin bonked, sitä nopeammin ne pomppivat ympäriinsä ja sitä enemmän pisteitä ne ovat arvoisia. Laske viimeinen megabonkki, niin saat heidät pois kartalta ja lunasta kaikki pisteet!
+Valmistaudu tappeluun! The local-multiplayer version of **[Nifty Smashers](https://nifty-league.com/games)** was made available immediately at launch followed by the online multiplayer.
 
-**Kuten todettiin, tämä on alkuperäisen pelimme betaversio, joten viivettä ja ongelmia ärsyttävien robottien kanssa on odotettavissa.** Välittömänä suunnitelmanamme on jatkaa **Nifty Smashers** kehitystä ja ottaa käyttöön lisää ominaisuuksia, kuten ylimääräisiä yhdistelmäliikkeitä ja etenemisjärjestelmää. Hyppää **[Discord](https://discord.gg/niftyleague)** -palveluun antaaksesi palautetta ja ideoita siitä, kuinka voimme parantaa **Nifty Smashers** -peliä ja viedä sen seuraavalle tasolle!
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! Nifty Smashers takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-<!-- ![](/img/highlights.gif) -->
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). Enter the game lobby and select your DEGEN for battle.
 
-**Online-moninpelin viive ☁️**
+## Pisteytys
 
-Käynnissä olevan alfan avulla puhutaan viiveistä nopeatempoisissa ja näppärissä tappelupelien, kuten **Nifty Smashers**-peleissä.
+- If a DEGEN is hit once and dies (fall off map) you get 1 point.
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round).
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking.
+- The last hit that kills the DEGEN, gets all combo points.
+- Currently there is no cap of how often a DEGEN can be hit (combo’ed), but there is a cap on the number of points you can get (max 3pts: 2-player match / max 5pts: 3&4-player match).
+- A 2-player match require 5pts to win a round.
+- 3 & 4-player matches require 10pts to win a round.
+- Matches are best of 5 rounds.
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline.
 
-Yleisesti ottaen viive on aina läsnä aina, kun pelaajien välillä on fyysinen etäisyys Internetissä. Mitä suurempi etäisyys, sitä suurempi viive. On olemassa erilaisia tekniikoita & temppuja, joita kehittäjät käyttävät viiveen kompensoimiseen ja piilottamiseen. Olemme ottaneet käyttöön useita näitä viiveen kompensointitekniikoita, jotka peittävät viiveen parhaan mahdollisen kokemuksen saavuttamiseksi. Olemme myös yhdistäneet ratkaisuja palvelimiin ympäri maailmaa, jotta voimme sovittaa toisiaan lähinnä olevia pelaajia minimoidaksemme viiveen mahdollisimman paljon.
+## Lag
 
-Siitä huolimatta, kun otetaan huomioon nopeatempoisten tappelupelien vaatima reagointikyky ⚡, odotamme jonkin verran viivettä verkkomoninpelin julkaisussa.
+- The lag indicator shows the lag (ping speed) of your connection.
+- Lag tyipcally indicates your ping speed is above 100ms.
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet. The greater the distance, the greater the lag.
+- There are different techniques that developers use to compensate and hide the lag.
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible.
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible. If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta.
 
-Olemme innoissamme voidessamme jakaa edistymisemme kanssasi mahdollisimman pian. Lanseerauksen jälkeen teemme palautteesi perusteella kaikkemme tehdäksemme viiveestä mahdollisimman huomaamattoman.
+## Mukautettu aula
 
-Jos olet kiinnostunut oppimaan lisää näistä tekniikoista, tässä on Gabriel Gambettan hienoa luettavaa aiheesta **[Viiveen kompensointi](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)**.
+- Räätälöityä aulaa voidaan käyttää ottelun avaamiseen valitulla alueella. The creator of the lobby can see a code in the lobby map which can be shared with others.
+- If another degen wants to join the lobby, he first needs to select the correct region and then type the lobby code into the input box.
+- When using a custom lobby code, the region should be switched automatically.
+
+## Changing Regions
+
+- Smasher is a fast paced game where latency/ping is crucial. The closer the chosen region is to the player’s location, the lower the ping.
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed.
+
+# **Taistelun perusteet**
+
+## Yleiset neuvot
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac).
+
+## Lepakon keinut
+
+- The bat can be swung in all possible direction: left, right, up, down, diagonals.
+- The bat can be swung by clicking the attack button.
+- Longer button presses makes the bat hit harder.
+- The bat can be swung while standing, running, or jumping.
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s).
+
+## Liikkuva
+
+- As a 2D Game, moving directions are left/right.
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller).
+
+## Hyppääminen
+
+- Jump height can be altered by press-duration of jump button.
+- Directions can be changed during jumps/tumble.
+
+## Lentävä hampurilainen
+
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill.
+- We are considering limiting burger buff duration by time and/or kill.
+
+# **Tribe Specifics**
+
+_All DEGEN tribes have a Special Ability (”SA”), which will be consistent across all Nifty League games (live and future)._
+
+## Luettelo erityiskyvyistä
+
+- **Ape** - Heitä bumerangibanaanit
+- **Alien** - Teleport
+- **Cat** - Hyppää ja saat mailan tehoa ja nopeutta väliaikaisesti
+- **Sammakko** - kielikoukku
+- **Doge** - Doge-kolikkorulla
+- **Ihminen** - Heitä dynamiittia, joka räjähtää käskystä
+
+## Ulkomaalainen
+
+- Pressing the SA button makes Alien can teleport a short distance in the aimed direction (left, right, up, down, diagonals).
+- There is a energy explosion at the teleported location, hitting opponents that stand near.
+
+## Apina
+
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part, or flies off the map.
+- Pressing the SA button again makes the banana fly back to the DEGEN, making it possible to hit an opponent again.
+- Bananas can be hit with a bat and fly in the aimed direction.
+
+## Kissa
+
+- SA:n painaminen saa kissan pomppimaan. After pouncing for a short duration, the cat ges empowered.
+- Empowered bat swing means the bat hits harder.
+- Empowered movement means the cat runs faster.
+- Cats can double jump and jump in mid-air.
+
+## Doge
+
+- Painamalla ja pitämällä SA-painiketta painettuna, doge rullaa.
+- Hitting an opponent with doge roll makes them fly upwards in roll direction.
+- Doge will fly-roll in the aimed direction.
+- During doge roll, directions can be changed three times until doge roll ends.
+- Doge roll also ends after a certain time.
+
+## Sammakko
+
+- Pressing the SA button makes the Frog shoot his tongue.
+- When the tongue hits an opponent, that opponent is pulled to the frogs direction and flies a bit further.
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings, etc.)
+- The tongue can be shot in the aimed direction (left, right, up, down, diagonals).
+
+### Ihmisen
+
+- Pressing the SA button throws a bomb in the aimed direction (left, right, up, down, diagonals).
+- The bomb has a flying curve and doesn't fly straight like bananas (if not detonated, it stays on the ground).
+- The bomb explodes after some time or after the SA button is pressed a second time.
+- Currently the bomb can hit an opponent by hitting it or via explosion.
+- Bombs are the only SA that can hit the throwing DEGEN itself with its explosion.
+- Bombs can be hit with a bat and fly in the aimed direction.
+- We plan to update the game so the bomb detonates immediately after contact with an opponent. If no opponent is hit, it stays on the ground until it explodes automatically or after pressing SA button second time.
+
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level.
