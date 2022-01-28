@@ -4,6 +4,6 @@ title: Szuper Kart
 sidebar_position: 4
 ---
 
-### 2022-re fejlesztés alatt!
+### 🚧 Under development for 2022 🚧
 
 ![](/img/niftykart_v01.png)
