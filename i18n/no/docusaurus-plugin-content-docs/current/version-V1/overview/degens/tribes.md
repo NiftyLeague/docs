@@ -16,11 +16,11 @@ Vårt nåværende spill, Nifty Smashers, og alle fremtidige spill vil ha et spes
 
 -![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge myntrull
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human** - Throw dynamite that explodes on command
+-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Menneske** - Kast dynamitt som eksploderer på kommando
 
-Learn more about these movesets in our [Smashers Guide](/guides/nifty-smashers/tribes)
+Lær mer om disse bevegelsessettene i vår [Smashers Guide](/guides/nifty-smashers/tribes)
 
-In the future, we envision that new "special" tribes may be released / reserved for scalability, new games, tournament rewards, and more.
+I fremtiden ser vi for oss at nye "spesielle" stammer kan bli utgitt / reservert for skalerbarhet, nye spill, turneringsbelønninger og mer.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
