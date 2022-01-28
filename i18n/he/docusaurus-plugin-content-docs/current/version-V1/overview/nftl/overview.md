@@ -4,12 +4,4 @@ title: סקירה כללית
 sidebar_position: 1
 ---
 
-NFTL helps decentralize our ecosystem by ensuring important decisions regarding the direction of Nifty League are decided via the Nifty DAO.
-
-The sale of our characters kicked off the initial distribution of our ecosystem’s native utility and governance token, NFTL.
-
-NFTL משרתת מטרה כפולה של מתן זכויות הצבעה למשתמשים במשחקים ובטורנירים הקרובים, כמו גם שימוש להוצאות פלטפורמה. For now, this only includes naming characters, but will soon be expanded to be used for purchasing additional in-game items and collectibles.
-
-כל NFTL המשמש למתן שמות לדמויות נשרף מיד או מוסר מהמחזור. אם וכאשר יוכנסו פריטים נוספים במשחק, 90% מכל ההכנסות יינתן ל-Nifty DAO כשה-10% הנותרים ישולמו לצוות שלנו.
-
-In the future, NFTL will be used to [rent a DEGEN NFT](http://localhost:3000/guides/rentals/rental-overview), and to purchase land in the NiftyVerse.
+NFTL פועלת כדרך לביזור המערכת האקולוגית שלנו על ידי הבטחת החלטות חשובות לגבי הכיוון של Nifty League דרך ה- Nifty DAO. מכירת הדמויות שלנו התחילה את ההפצה הראשונית של אסימון השירות והממשל המקורי של המערכת האקולוגית שלנו; NFTL. NFTL משרתת מטרה כפולה של מתן זכויות הצבעה למשתמשים במשחקים ובטורנירים הקרובים, כמו גם שימוש להוצאות פלטפורמה. לעת עתה, זה כולל רק מתן שמות לדמויות, אך עשוי להיות מורחב כך שישמש לרכישת פריטים נוספים במשחק, פריטי אספנות או אפילו דמויות עתידיות פוטנציאליות. כל NFTL המשמש למתן שמות לדמויות נשרף מיד או מוסר מהמחזור. אם וכאשר יוכנסו פריטים נוספים במשחק, 90% מכל ההכנסות יינתן ל-Nifty DAO כשה-10% הנותרים ישולמו לצוות שלנו.
