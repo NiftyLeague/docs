@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Fundadores
 
-| ingenioso andy          | Snarfy               | Púa ingeniosa            |
-| ----------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| CEO                     | CTO                  | Director creativo        |
+| ingenioso andy              | Snarfy                        | Púa ingeniosa            |
+| --------------------------- | ----------------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)     | ![](/img/snarfy.png)          | ![](/img/NiftySpike.png) |
+| Web3 Dev / Teoría de juegos | Desarrollador líder de juegos | Director creativo        |
 
 ## Equipo
 
