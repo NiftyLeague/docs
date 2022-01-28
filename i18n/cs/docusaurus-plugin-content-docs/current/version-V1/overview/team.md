@@ -9,7 +9,7 @@ sidebar_position: 2
 | Šikovný Andy            | Snarfy               | Šikovný Spike            |
 | ----------------------- | -------------------- | ------------------------ |
 | ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| Web3 Dev / Teorie her   | Vedoucí hry Dev      | kreativní ředitel        |
+| CEO                     | CTO                  | kreativní ředitel        |
 
 ## tým
 
