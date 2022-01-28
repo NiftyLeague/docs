@@ -1,18 +1,18 @@
 ---
 id: tiekartta
-title: Seuraavaksi ➡️
+title: Roadmap
 sidebar_position: 9
 ---
 
-Lisäpelien lisäksi meillä on useita ideoita alustamme kasvattamiseksi. Yksi tärkeimmistä tavoitteistamme on käynnistää tai tehdä yhteistyötä NFT-markkinapaikan kanssa, jonka avulla voit kerätä uudelleenkäytettäviä NFT-tiedostoja, kuten autoja tai erikoisaseita pelejämme varten. Nämä älykkäät sopimukset laajentaisivat ERC-1155 Ethereum -monitoken-standardia luomaan ei-korjattavia kohteita, joilla kullekin on rajoitettu saatavuus. Peliemme pelaamisen bonuksena haluamme palkita täältä ostettavia esineitä pelaajille, jotka voivat sitten myydä ne tai käyttää niitä pelissä. Toinen vaihtoehto, jota harkitsemme, on palkita aikajulkaisevia NFT-kortteja, kuten aarrearkkuja, jotka voidaan polttaa ja paljastaa sisällä olevan keräilykohteen.
-
 ![](/img/nifty_roadmap.png)
 
-## DEGENin lyönti
+Lisäpelien lisäksi meillä on useita ideoita alustamme kasvattamiseksi. One of our main goals is to launch a marketplace allowing you to collect reusable NFTs such as cars, special weapons, or wearables for our games. Nämä älykkäät sopimukset laajentaisivat ERC-1155 Ethereum -monitoken-standardia luomaan ei-korjattavia kohteita, joilla kullekin on rajoitettu saatavuus. Peliemme pelaamisen bonuksena haluamme palkita täältä ostettavia esineitä pelaajille, jotka voivat sitten myydä ne tai käyttää niitä pelissä. Toinen vaihtoehto, jota harkitsemme, on palkita aikajulkaisevia NFT-kortteja, kuten aarrearkkuja, jotka voidaan polttaa ja paljastaa sisällä olevan keräilykohteen.
 
-Yhteisömme herätti Nifty League DEGEN NFT:t henkiin syyskuun 2021 lopussa. Lyöntiprosessi oli ainutlaatuinen spektaakkeli, jonka ansiosta rahapajat pystyivät suunnittelemaan oman DEGEN-mallinsa Satoshin **[Mint-O-Maticilla**.](https://niftyleague.com/mint-o-matic)
+## DEGEN Minting ✅
 
-## Näppärä Smashers Alpha
+Yhteisömme herätti Nifty League DEGEN NFT:t henkiin syyskuun 2021 lopussa. The minting process was a one-of-a-kind spectacle that allowed minters the ability to design their own DEGEN using using Satoshi's [Mint-O-Matic](https://niftyleague.com/mint-o-matic).
+
+## Nifty Smashers Alpha Launch ✅
 
 NFT-julkaisumme osui samaan aikaan, kun ensimmäinen monista peleistämme,**[Nifty Smashers](http://localhost:3000/games)**, tuli välittömästi saataville. <div>
   <video width="100%" height="100%" playsInline controls loop>
@@ -21,31 +21,37 @@ NFT-julkaisumme osui samaan aikaan, kun ensimmäinen monista peleistämme,**[Nif
   </video>
   </div>
 
-## Työpöytäsovellus
+## Desktop App ✅
 
 **[Desktop App](https://niftyleague.com/games)**on nyt saatavilla Windows-käyttäjille! *(MacOS on aivan nurkan takana)*
 
-Ottaen huomioon aiemman WebGL-versiomme selaimen rajoitukset, päätimme keskittää välittömät ponnistelumme luomaan käynnistysohjelma, joka sisältää kaikki pelimme ja sisältää Discord-integraatiot. Nyt kun muistirajoitukset eivät ole huolestuttavia, voimme vapaasti ottaa käyttöön lisäanimaatioita, siirtosarjoja ja muita NFT-projekteja – kaikki samalla kun parannamme käyttäjiemme pingiä merkittävästi.
+Considering browser limitations with our previous WebGL build, we made a point to focus our immediate efforts on creating a launcher to house all of our games and include Discord social integrations. Now that memory limits are not a concern we are free to introduce additional animations, movesets, and other NFT projects - all while significantly improving ping for our users.
 
-## Tulostaulukot
-
-Pelimme on tarkoitettu kilpailemaan; Mikä olisikaan parempi tapa esitellä tätä kuin tulostaulukko, jossa on tähtipelaajat, kuten FVSVY? Sisällytämme pelitilastot päivittäisistä, viikoittaisista, kuukausittaisista ja tietysti kaikkien aikojen johtajista kaikista NiftyVersen peleistämme.
-
-## Pelaa-2-Ansaitse
+## Play-and-Earn ✅
 
 Kuinka siistiä on ansaita rahaa pelaamalla pelejä, joista todella pidät? P2E-järjestelmämme käyttöönoton myötä voit alkaa kerätä NFTL:ää satunnaisten otteluiden kautta Nifty Smashersissa. Vaikka suurimmat voitot menevät sille, joka varmistaa 1. sijan ottelussa, ansaitset myös NFTL:n pisteytettyjen pisteiden ja voittokierrosten kautta. Varo putoamasta kartalta, sillä mahdollisista tuloistasi vähennetään sakkoja!
 
-## Nifty Smashers Beta
+## Sarjakuvat
 
-Otamme käyttöön uuden verkkokoodiratkaisun, joka näyttää erittäin lupaavalta jo varhaisesta kehitysvaiheesta lähtien. Tämä ei ainoastaan paranna viivettä huomattavasti, vaan voit odottaa myös hienoja ominaisuuksia, kuten live-pelien lähettämistä ja toistojen olevan helposti saatavilla arkistomme kautta.
+Our team has been slowly hinting at the upcoming utilities for comics - as you may already be aware you will be able to burn each page for special in-game items that increase your DEGEN's NFTL multiplier... but the fun doesn't stop there!
 
-## Degen Rentals
+We previously airdropped our initial 4 comic pages to minters and still have 2 pages remaining for DEGEN holders in February 2022. Word Satoshi - turvata täydellinen kokoelma tai 2 on _erittäin_ suositeltavaa.
+
+## Vuokrat
 
 Pelaajakuntamme on tällä hetkellä rajoitettu yksittäisten DEGEN NFT -pidikkeiden lukumäärään. Haluamme skaalata alustamme niin paljon kuin mahdollista devalvoimatta syntyperäämme DEGEN-heimojamme, jotka ovat ekosysteemimme ytimessä.
 
 Sen sijaan, että kasvattaisimme hahmojen tarjontaa, kuten jotkut projektit voivat tehdä, otamme käyttöön räätälöidyn vuokrausjärjestelmän, jonka avulla DEGENin haltijat voivat ansaita NFTL:itä päivittäin maksujen kautta. Jokainen DEGEN voidaan vuokrata toistaiseksi, mutta kustannukset nousevat eksponentiaalisesti jokaisen lisävuokrauksen myötä. Tämän ansiosta markkinat voivat päättää kunkin DEGENin hinnasta erikseen ja samalla jakaa vuokrat eri puolille, sillä joillakin arvokkailla esineillä, puetettavilla tarvikkeilla tai taustoilla varustetuilla on korkeampi tuloprosentti NFTL-kertoimien ansiosta.
 
-## Ilmainen 2-peli
+## Tulostaulukot
+
+Pelimme on tarkoitettu kilpailemaan; Mikä olisikaan parempi tapa esitellä tätä kuin tulostaulukko, jossa on tähtipelaajat, kuten FVSVY? Sisällytämme pelitilastot päivittäisistä, viikoittaisista, kuukausittaisista ja tietysti kaikkien aikojen johtajista kaikista NiftyVersen peleistämme.
+
+## Nifty Smashers Beta
+
+Otamme käyttöön uuden verkkokoodiratkaisun, joka näyttää erittäin lupaavalta jo varhaisesta kehitysvaiheesta lähtien. Tämä ei ainoastaan paranna viivettä huomattavasti, vaan voit odottaa myös hienoja ominaisuuksia, kuten live-pelien lähettämistä ja toistojen olevan helposti saatavilla arkistomme kautta.
+
+## Free-to-Play
 
 Jos luet viimeisen kohdan, tiedät, että alustamme skaalaaminen on erittäin tärkeää. Osa tätä prosessia on sellaisten uusien käyttäjien käyttöönotto, joilla ei ehkä ole varaa omistaa tai vuokrata DEGENiä. Free-2-play -vaihtoehtomme antaa uusille käyttäjille mahdollisuuden hypätä otteluihin käyttämällä yleistä hahmoa, jonka avulla he voivat testata kunkin heimon erikoisliikettä, mutta mikä vielä tärkeämpää - hioa sitä, kunnes heillä on tarpeeksi NFTL:ää vuokran maksamiseen.
 
@@ -53,21 +59,15 @@ Jos luet viimeisen kohdan, tiedät, että alustamme skaalaaminen on erittäin t�
 
 Tiedämme, että yhteisömme ei malta odottaa, että pääsemme esittelemään upeita DEGENS-tuotteita kaduilla! Olemme innoissamme voidessamme paljastaa kauppapaikkamme, joka sisältää kaksi vaatemallistoa. Ensimmäisellä on vahva pelikaltevuus, joka muistuttaa **Pokémonia,** kun taas toinen keskittyy katuvaatteiden estetiikkaan.
 
-## Sarjakuvat
-
-Tiimimme on hiljalleen vihjannut tulevista sarjakuvien apuohjelmista - kuten ehkä jo tiedätkin, että voit polttaa jokaiselta sivulta erityisiä pelin sisäisiä kohteita, jotka lisäävät DEGENin NFTL-kerrointa... mutta hauskuus ei lopu tähän. !
-
-Lähetimme aiemmin neljä ensimmäistä sarjakuvasivuamme rahapajalle, ja DEGEN-haltijoille on vielä kaksi sivua jäljellä vuoden 2022 alussa. Word Satoshi - turvata täydellinen kokoelma tai 2 on _erittäin_ suositeltavaa.
-
 ## Tuotteet Marketplace
 
-Työskentelemme Immutable X -tiimin kanssa avataksemme tavaramarkkinamme ensi vuoden alussa. Tarjoukset sisältävät siistejä skinejä, aseita, kulutustavaroita ja paljon muuta DEGENS-pelisi tehostamiseksi. Vaikka jotkin tuotteet voivat olla hienoja kosmeettisia lisäyksiä, monet sisältävät NFTL-kertoimia, joiden avulla voit ansaita kaksi kertaa.
+We are working with the Immutable X team to launch our items marketplace in early 2022. Tarjoukset sisältävät siistejä skinejä, aseita, kulutustavaroita ja paljon muuta DEGENS-pelisi tehostamiseksi. While some items may be cosmetic additions, many will include NFTL multipliers for play-and-earn.
 
 Tuotteita myydään NFTL:n kautta rajoitettu määrä. 70 % kaikista tuotoista poltetaan ja loput lähetetään DAO:lle sen alkuperäistä tulovirtaa varten.
 
 ## DAO
 
-Siirrämme Nifty Leaguen omistuksen asteittain DAO:llemme hajauttaaksemme alustan ja rohkaistaksemme kehittäjiä auttamaan meitä rakentamaan! Visiomme on vauhdittaa nopeaa kasvua ja kehitystä yhteisön lahjoituksilla, mikä antaa meille mahdollisuuden rakentaa pelialustan, jollaista ei ole. Yksinkertaisesti sanottuna DAO:t ovat tulevaisuutta. Näemme vain yhden tien tulla maailman johtavaksi GameFi-alustaksi ja se on rakentamalla yhdessä. 💜
+We will gradually be transferring ownership of Nifty League to our DAO in order to decentralize the platform and encourage devs to help us build! Our vision is power rapid growth and development via community contributions, enabling us to build a gaming platform like no other. Yksinkertaisesti sanottuna DAO:t ovat tulevaisuutta. Näemme vain yhden tien tulla maailman johtavaksi GameFi-alustaksi ja se on rakentamalla yhdessä.
 
 ## Nifty League Mobile
 
@@ -75,11 +75,11 @@ Jatkossa kaikki pelimme ovat mobiiliyhteensopivia. Koska mobiilialustoja käytt�
 
 ## Pelin sisäinen chat
 
-Valmistauduttaessa NiftyVerseen aloitamme julkaisemalla pelin sisäisen chatin, jossa voit keskustella tai lähettää tekstiviestejä DEGEN-frensin kanssa. Koska pyyntö on suosittu – tämä saattaa tulla jopa aikaisemmin aikajanallamme, joten pysy kuulolla!
+Valmistauduttaessa NiftyVerseen aloitamme julkaisemalla pelin sisäisen chatin, jossa voit keskustella tai lähettää tekstiviestejä DEGEN-frensin kanssa. Being a popular request - there is a chance this may even be introduced earlier in our timeline - stay tuned!
 
 ## NiftyVerse
 
-Tervetuloa NiftyVerseen; maailma, joka on täynnä DEGENS- ja NFT-yhteisöjä, joilla on yhteinen visio pitää hauskaa ja rakentaa kukoistava peliyhteisö. Mikä tekee NiftyVersen muista metaversumeista erottuvan, p2e-pelimme ovat keskipiste. Kävele arcade-huoneeseemme, joka on täynnä hauskoja minipelejä, tai lähde kartalla oleviin kohteisiin hypätäksesi klassikkopeleihimme, kuten Nifty Smashers ja Nifty Kart.
+Welcome to the NiftyVerse - a world filled with DEGENS and NFT communities alike with a shared vision to have fun and build a thriving gaming community. Mikä tekee NiftyVersen muista metaversumeista erottuvan, p2e-pelimme ovat keskipiste. Kävele arcade-huoneeseemme, joka on täynnä hauskoja minipelejä, tai lähde kartalla oleviin kohteisiin hypätäksesi klassikkopeleihimme, kuten Nifty Smashers ja Nifty Kart.
 
 Maailma on keskittynyt kaupungin ympärille, joka muistuttaa suosittua Sushiswap-tasoamme Nifty Smashersissa. Asioiden vauhdittamiseksi järjestämme maakaupan, jossa on premium-vaihtoehtoja kaupungissa sekä halvempaa rakentamatonta maata kaupungin rajojen ulkopuolella. Ensiluokkaisen maan hankkiminen kaupungista, jossa kaikki toiminta tapahtuu, tuo lisäetuna, että sinulla on jo valmiina rakennuksia, jotka voit suunnitella haluamallasi tavalla.
 
@@ -101,6 +101,6 @@ On tärkeää huomata, että DAO äänestää kaikista myöhemmistä peleistä. 
 
 Vanhan koulun klassikot ovat pelitarjontamme ydin, sillä tunnistamme lapsuuden suosikkien uudelleenelämisen voiman Web3:n kierteellä. Omista hahmosi & mikroautoa ja valmistaudu kilpailemaan NFTL:stä!
 
-## Gen2 DEGENS
+## Gen2 DEGENs
 
 Alustamme kasvaessa ja kysynnän kasvaessa DEGENin vuokrakustannuksia – voimme harkita tulevaa NFT-myyntiä, jossa esitellään uusia heimoja. Huomaa, että DAO tekee lopullisen päätöksen tälle tielle.
