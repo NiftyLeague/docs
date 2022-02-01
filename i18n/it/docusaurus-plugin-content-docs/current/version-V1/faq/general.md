@@ -21,6 +21,7 @@ No, hai solo bisogno di un DEGEN per giocare.
 Semplice come firmare un messaggio per verificare la proprietà dei tuoi DEGEN nel tuo portafoglio crittografico quando avvii il gioco.
 
 ### **Ho bisogno di controller per giocare?**
+
 No, anche se pensiamo che sia più facile giocare con un controller (PS, Xbox o qualsiasi altro riconosciuto da PC/Mac) che con una tastiera.
 
 ### Perché la ridenominazione richiede più verifiche?
