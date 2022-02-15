@@ -1,12 +1,12 @@
 ---
-id: '~에 대한'
+id: 에 대한
 title: 에 대한
 sidebar_position: 1
 ---
 
-Nifty League의 주조 프로세스를 통해 주조자들은 커뮤니티가 절대적으로 사랑했던 Mint-O-Matic을 사용하여 자신만의 DEGEN을 설계할 수 있었습니다!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 DEGEN에는 유인원, 인간, 개, 개구리, 고양이, 외계인의 6개 부족이 있습니다.
 
