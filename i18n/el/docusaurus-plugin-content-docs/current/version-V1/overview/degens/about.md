@@ -1,12 +1,12 @@
 ---
-id: σχετικά με
+id: Σχετικά με
 title: Σχετικά με
 sidebar_position: 1
 ---
 
-Η διαδικασία κοπής για το Nifty League επέτρεψε στους εργάτες να σχεδιάσουν το δικό τους DEGEN χρησιμοποιώντας το Mint-O-Matic, το οποίο η κοινότητά μας αγαπούσε πολύ!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Υπάρχουν 6 φυλές DEGEN: πίθηκοι, άνθρωποι, σκύλοι, βάτραχοι, γάτες και εξωγήινοι.
 
