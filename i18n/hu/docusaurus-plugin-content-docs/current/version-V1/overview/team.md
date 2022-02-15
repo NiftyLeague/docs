@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Alapítók
 
-| Ügyes Andy                    | Snarfy               | Szép Spike               |
-| ----------------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)       | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| Web3 fejlesztő / játékelmélet | Lead Game Dev        | Kreatív igazgató         |
+| Ügyes Andy                | Snarfy                    | Szép Spike                |
+| ------------------------- | ------------------------- | ------------------------- |
+| ![](/img/NiftyAndy.png)   | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png)  |
+| <div align="center"> CEO </div> | <div align="center"> CTO </div> | <div align="center"> Kreatív igazgató </div> |
 
 ## Csapat
 
-| Ügyes Morgan              | Bolo Dave                     | Zoiby                 | Jeppe               |
-| ------------------------- | ----------------------------- | --------------------- | ------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)            | ![](/img/zoiby.png)   | ![](/img/jeppe.png) |
-| alelnöke                  | Program & Közösségi menedzser | Vezető szoftvermérnök | Marketing           |
+| Meghan Vita               | Koa                       | Bolo Dave                 | Zoiby                     | Michael                    | Jeppe                     |
+| ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------- | ------------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
+| <div align="center"> alelnöke </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
 
 ## Módok
 
-| Igazi üzlet McKeel     | Sacx               | DoomyDays           | Nárdus             | Koa               | Jordánia             |
-| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
-| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
+| <div align="center"> Igazi üzlet McKeel </div> | <div align="center"> Sacx </div> | <div align="center"> DoomyDays </div> | <div align="center"> Nárdus </div> | <div align="center"> Jordánia </div> |
+| ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| ![](/img/realdeal.png)    | ![](/img/sacx.png)         | ![](/img/doomy.png)        | ![](/img/nard.png)         | ![](/img/jordan.png)       |
