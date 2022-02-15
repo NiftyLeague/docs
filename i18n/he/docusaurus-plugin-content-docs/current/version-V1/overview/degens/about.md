@@ -4,9 +4,9 @@ title: על אודות
 sidebar_position: 1
 ---
 
-תהליך ההטבעה של Nifty League אפשר לטבענים את היכולת לעצב DEGEN משלהם באמצעות Mint-O-Matic שלנו, שהקהילה שלנו אהבה לחלוטין!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 ישנם 6 שבטים של DEGENs: קופי אדם, בני אדם, כלבים, צפרדעים, חתולים וחייזרים.
 
