@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Pendiri
 
-| Andy yang bagus              | Snarfy                   | Spike yang bagus         |
-| ---------------------------- | ------------------------ | ------------------------ |
-| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)     | ![](/img/NiftySpike.png) |
-| Pengembang Web3 / Teori Game | Memimpin Pengembang Game | Sutradara kreatif        |
+| Andy yang bagus              | Snarfy                       | Spike yang bagus                           |
+| ---------------------------- | ---------------------------- | ------------------------------------------ |
+| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)         | ![](/img/NiftySpike.png)                   |
+| <div align="center">CEO | <div align="center">CTO | <div align="center">Sutradara kreatif |
 
 ## Tim
 
-| Morgan yang bagus         | Bolo Dave                   | Zoiby                           | Jepang              |
-| ------------------------- | --------------------------- | ------------------------------- | ------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)          | ![](/img/zoiby.png)             | ![](/img/jeppe.png) |
-| Wakil Presiden Ops        | Program & Manajer Komunitas | Insinyur Perangkat Lunak Senior | Pemasaran           |
+| Meghan Vita                                 | Koa                                   | Bolo Dave                                            | Zoiby                                              | Michael                                 | Jepang                                     |
+| ------------------------------------------- | ------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- | --------------------------------------- | ------------------------------------------ |
+| ![](/img/NiftyMorgan.png)                   | ![](/img/koa.png)                     | ![](/img/bolo.png)                                   | ![](/img/zoiby.png)                                | ![](/img/NiftyMichael.png)              | ![](/img/jeppe.png)                        |
+| <div align="center">Wakil Presiden Ops | <div align="center">DAO Director | <div align="center">Program & Manajer Komunitas | <div align="center">Senior Software Developer | <div align="center">Web3 Developer | <div align="center">Marketing Manager |
 
 ## Mod
 
-| Kesepakatan Nyata McKeel | kantung            | hari kiamat         | Nard               | Koa               | Yordania             |
-| ------------------------ | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
-| ![](/img/realdeal.png)   | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
+| Kesepakatan Nyata McKeel | kantung            | hari kiamat         | Nard               | Yordania             |
+| ------------------------ | ------------------ | ------------------- | ------------------ | -------------------- |
+| ![](/img/realdeal.png)   | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/jordan.png) |
