@@ -21,8 +21,7 @@ No, you only need one DEGEN to play.
 As simple as signing a message to verify the ownership of your DEGENs in your crypto wallet when you launch the game.
 
 ### **Do I need controllers to play the game?**
-
-No, although we think it's easier to play with a controller (PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
+No, although we think it's easier to play with a controller(PS, Xbox, or any others recognized by PC/Mac) than a keyboard.
 
 ### Why is the rename asking for multiple verifications?
 
