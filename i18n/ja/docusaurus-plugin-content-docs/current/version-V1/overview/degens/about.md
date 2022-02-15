@@ -4,9 +4,9 @@ title: 約
 sidebar_position: 1
 ---
 
-ニフティリーグのミントプロセスにより、ミンターは、コミュニティが絶対に愛していたMint-O-Maticを使用して独自のDEGENを設計することができました。
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 類人猿、人間、犬、カエル、猫、エイリアンの6つのDEGENの部族があります。
 
