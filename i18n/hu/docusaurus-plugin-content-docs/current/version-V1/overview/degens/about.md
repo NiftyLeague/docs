@@ -1,12 +1,12 @@
 ---
-id: ról ről
+id: Ról ről
 title: Ról ről
 sidebar_position: 1
 ---
 
-A Nifty League pénzverési folyamata lehetővé tette a pénzverők számára, hogy saját DEGEN-t tervezzenek a Mint-O-Matic segítségével, amelyet közösségünk nagyon szeretett!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 A DEGEN-ek 6 törzse létezik: majmok, emberek, kutyák, békák, macskák és idegenek.
 
