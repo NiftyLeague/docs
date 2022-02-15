@@ -1,12 +1,12 @@
 ---
-id: o
+id: O
 title: O
 sidebar_position: 1
 ---
 
-Proces ražby pro Nifty League umožnil minerům navrhnout si vlastní DEGEN pomocí našeho Mint-O-Matic, který si naše komunita naprosto zamilovala!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Existuje 6 kmenů DEGENů: lidoopi, lidé, psi, žáby, kočky a mimozemšťané.
 
