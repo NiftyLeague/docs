@@ -1,23 +1,13 @@
 ---
 id: вступ
-title: Про Nifty League
+title: Що таке Nifty League?
 sidebar_position: 1
 ---
 
+Наша місія — створити провідну ігрову платформу NFT через управління та розвиток спільноти. Nifty League пишається тим, що є однією з перших платформ GameFi, що пропонує інтерактивні ігри, які можна заробляти, з настроюваними персонажами; не просто чергове падіння пфп... 🙃
+
 ![](/img/story.gif)
 
-Nifty League is bringing competitive gaming to web3 - moving away from play-to-earn (P2E) into a new era of play-and-earn (P&E) by offering a fun and engaging gaming ecosystem.
+Користувачі розробляють, виробляють і грають як особистих персонажів, щоб змагатися та заробляти винагороди в нашій спільноті, включаючи токен нашої екосистеми; NFTL. Придбання Ethereum DEGEN не тільки надає вам токени NFTL, але й розблокує багатокористувацькі режими в наших іграх, що дає вам доступ до публічних турнірів.
 
-The [Niftyverse](https://docs.niftyleague.com/overview/games/niftyverse), an online world for Nifty League gamers, is centered around nostalgia where builders, players, and owners spend time connecting, gaming, and earning in web3.
-
-Players can compete and earn rewards in the ecosystem’s token, [NFTL](https://docs.niftyleague.com/overview/nftl/overview), which can be used to purchase in-game items and bonuses, trade with other players, or ‘cash out’ of the ecosystem.
-
-Players must buy (with rentals launching in March 2022) a [DEGEN NFT](https://opensea.io/collection/niftydegen) in order to compete in our first game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers).
-
-DEGENs earn NFTL tokens through gaming, which gives you a piece of ownership in the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview), the ability to buy in-game assets via our marketplace, purchase land in the Niftyverse, and more.
-
-Our [team](https://docs.niftyleague.com/overview/team) strives to make our games highly competitive and packed full of nostalgia from the halcyon days of retro gaming! In September 2021, we released our first game Nifty Smashers - an NFT brawler where you battle it out with your DEGEN friends across 5 exciting levels. We've seen impressive in-game and community engagement, and are building additiohnal games in the Niftyverse. Learn more about what's in store by checking out [our roadmap](http://localhost:3000/overview/roadmap).
-
-The Nifty League DEGEN community has and will continue to play a key role in shaping our roadmap and games. We hope to see the platform expand into a fully decentralized DAO, with the support of developers in the community and indie gaming studios globally.
-
-Finally, we are excited to partner with some of the largest web3 gaming guilds in the world to expand our player community, drive our content growth loops, and fuel awareness and engagement across the Nifty League ecosystem.
+Наша команда прагне зробити наші ігри надзвичайно конкурентоспроможними та наповненими ностальгією за спокійними днями ретро-ігор! Під час запуску ми випустимо нашу першу гру Nifty Smashers; Сварка NFT для вас, щоб битися зі своїми друзями та Crypto Twitter! У нас є кілька майбутніх варіантів ігор, які ми розробимо на основі внеску спільноти, але в кінцевому підсумку сподіваємося, що зростання нашої платформи досягне меж, непомітних за підтримки розробників спільноти (докладніше нижче).
