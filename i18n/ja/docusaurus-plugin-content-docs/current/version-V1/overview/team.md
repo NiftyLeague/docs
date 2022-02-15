@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## 創設者
 
-| ニフティアンディ                  | Snarfy                    | ニフティスパイク                  |
-| ------------------------- | ------------------------- | ------------------------- |
-| ![](/img/NiftyAndy.png)   | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png)  |
-| <div align="center"> CEO </div> | <div align="center"> CTO </div> | <div align="center"> クリエイティブディレクター </div> |
+| ニフティアンディ                | Snarfy               | ニフティスパイク                 |
+| ----------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| Web3開発/ゲーム理論            | リードゲーム開発             | クリエイティブディレクター            |
 
 ## チーム
 
-| Meghan Vita               | コア                        | ボロデイブ                     | ゾイビー                      | Michael                    | ジェッペ                      |
-| ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------- | ------------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
-| <div align="center"> OpsのVP </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
+| ニフティモーガン                  | ボロデイブ                | ゾイビー                | ジェッペ                |
+| ------------------------- | -------------------- | ------------------- | ------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)   | ![](/img/zoiby.png) | ![](/img/jeppe.png) |
+| OpsのVP                    | プログラム & コミュニティマネージャー | シニアソフトウェアエンジニア      | マーケティング             |
 
 ## Mods
 
-| <div align="center"> リアルディールマッキール </div> | <div align="center"> Sacx </div> | <div align="center"> DoomyDays </div> | <div align="center"> ナード </div> | <div align="center"> ヨルダン </div> |
-| ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| ![](/img/realdeal.png)    | ![](/img/sacx.png)         | ![](/img/doomy.png)        | ![](/img/nard.png)         | ![](/img/jordan.png)       |
+| リアルディールマッキール           | Sacx               | DoomyDays           | ナード                | コア                | ヨルダン                 |
+| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
+| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
