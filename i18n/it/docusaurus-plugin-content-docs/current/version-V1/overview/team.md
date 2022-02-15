@@ -18,7 +18,7 @@ sidebar_position: 2
 | ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
 | <div align="center"> vicepresidente delle op </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
 
-## Mod
+## Community Moderators
 
 | <div align="center"> Un vero affare McKeel </div> | <div align="center"> Sacx </div> | <div align="center"> DoomyDays </div> | <div align="center"> Nardò </div> | <div align="center"> Giordania </div> |
 | ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
