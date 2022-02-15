@@ -1,12 +1,12 @@
 ---
-id: o
+id: O
 title: O
 sidebar_position: 1
 ---
 
-Proces wybijania w Nifty League umożliwił minterom zaprojektowanie własnego DEGENu za pomocą naszego Mint-O-Matic, które nasza społeczność absolutnie pokochała!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Istnieje 6 plemion DEGEN: małpy, ludzie, psy, żaby, koty i kosmici.
 
