@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Alapítók
 
-| Ügyes Andy                   | Snarfy                       | Szép Spike                                |
-| ---------------------------- | ---------------------------- | ----------------------------------------- |
-| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)         | ![](/img/NiftySpike.png)                  |
-| <div align="center">CEO | <div align="center">CTO | <div align="center">Kreatív igazgató |
+| Ügyes Andy                    | Snarfy               | Szép Spike               |
+| ----------------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)       | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| Web3 fejlesztő / játékelmélet | Lead Game Dev        | Kreatív igazgató         |
 
 ## Csapat
 
-| Meghan Vita                       | Koa                                   | Bolo Dave                                              | Zoiby                                              | Michael                                 | Jeppe                                      |
-| --------------------------------- | ------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | --------------------------------------- | ------------------------------------------ |
-| ![](/img/NiftyMorgan.png)         | ![](/img/koa.png)                     | ![](/img/bolo.png)                                     | ![](/img/zoiby.png)                                | ![](/img/NiftyMichael.png)              | ![](/img/jeppe.png)                        |
-| <div align="center">alelnöke | <div align="center">DAO Director | <div align="center">Program & Közösségi menedzser | <div align="center">Senior Software Developer | <div align="center">Web3 Developer | <div align="center">Marketing Manager |
+| Ügyes Morgan              | Bolo Dave                     | Zoiby                 | Jeppe               |
+| ------------------------- | ----------------------------- | --------------------- | ------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)            | ![](/img/zoiby.png)   | ![](/img/jeppe.png) |
+| alelnöke                  | Program & Közösségi menedzser | Vezető szoftvermérnök | Marketing           |
 
 ## Módok
 
-| Igazi üzlet McKeel     | Sacx               | DoomyDays           | Nárdus             | Jordánia             |
-| ---------------------- | ------------------ | ------------------- | ------------------ | -------------------- |
-| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/jordan.png) |
+| Igazi üzlet McKeel     | Sacx               | DoomyDays           | Nárdus             | Koa               | Jordánia             |
+| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
+| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
