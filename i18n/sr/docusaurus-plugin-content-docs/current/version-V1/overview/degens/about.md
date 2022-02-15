@@ -4,9 +4,9 @@ title: О томе
 sidebar_position: 1
 ---
 
-Процес ковања за Нифти Леагуе омогућио је ковачима могућност да дизајнирају сопствени ДЕГЕН користећи наш Минт-О-Матиц, који је наша заједница апсолутно волела!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Постоји 6 племена ДЕГЕН-а: мајмуни, људи, пси, жабе, мачке и ванземаљци.
 
