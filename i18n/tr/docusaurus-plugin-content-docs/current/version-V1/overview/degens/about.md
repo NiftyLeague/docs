@@ -1,12 +1,12 @@
 ---
-id: hakkında
+id: Hakkında
 title: Hakkında
 sidebar_position: 1
 ---
 
-Nifty League için basım süreci, madencilere, topluluğumuzun kesinlikle sevdiği Mint-O-Matic'imizi kullanarak kendi DEGEN'lerini tasarlama olanağı sağladı!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 6 DEGEN kabilesi vardır: maymunlar, insanlar, köpekler, kurbağalar, kediler ve uzaylılar.
 
