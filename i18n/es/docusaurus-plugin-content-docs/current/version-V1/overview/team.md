@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Fundadores
 
-| ingenioso andy            | Snarfy                    | Púa ingeniosa             |
-| ------------------------- | ------------------------- | ------------------------- |
-| ![](/img/NiftyAndy.png)   | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png)  |
-| <div align="center"> CEO </div> | <div align="center"> CTO </div> | <div align="center"> Director creativo </div> |
+| ingenioso andy              | Snarfy                        | Púa ingeniosa            |
+| --------------------------- | ----------------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)     | ![](/img/snarfy.png)          | ![](/img/NiftySpike.png) |
+| Web3 Dev / Teoría de juegos | Desarrollador líder de juegos | Director creativo        |
 
 ## Equipo
 
-| Meghan Vita               | Koa                       | Bolo Dave                 | zoiby                     | Michael                    | Jeppe                     |
-| ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------- | ------------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
-| <div align="center"> vicepresidente de operaciones </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
+| ingenioso morgan              | Bolo Dave                    | zoiby                              | Jeppe               |
+| ----------------------------- | ---------------------------- | ---------------------------------- | ------------------- |
+| ![](/img/NiftyMorgan.png)     | ![](/img/bolo.png)           | ![](/img/zoiby.png)                | ![](/img/jeppe.png) |
+| vicepresidente de operaciones | Programa & Community Manager | Ingeniero de programación superior | Márketing           |
 
 ## modificaciones
 
-| <div align="center"> Real Deal McKeel </div> | <div align="center"> Sacx </div> | <div align="center"> DoomyDays </div> | <div align="center"> Nardo </div> | <div align="center"> Jordán </div> |
-| ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| ![](/img/realdeal.png)    | ![](/img/sacx.png)         | ![](/img/doomy.png)        | ![](/img/nard.png)         | ![](/img/jordan.png)       |
+| Real Deal McKeel       | Sacx               | DoomyDays           | Nardo              | Koa               | Jordán               |
+| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
+| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
