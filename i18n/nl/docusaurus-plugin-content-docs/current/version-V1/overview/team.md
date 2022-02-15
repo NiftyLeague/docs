@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## oprichters
 
-| Handige Andy                 | Snarfy                       | Handige Spike                               |
-| ---------------------------- | ---------------------------- | ------------------------------------------- |
-| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)         | ![](/img/NiftySpike.png)                    |
-| <div align="center">CEO | <div align="center">CTO | <div align="center">Creatief directeur |
+| Handige Andy                    | Snarfy                | Handige Spike            |
+| ------------------------------- | --------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)         | ![](/img/snarfy.png)  | ![](/img/NiftySpike.png) |
+| Web3-ontwikkeling / Speltheorie | Hoofdspelontwikkelaar | Creatief directeur       |
 
 ## Team
 
-| Meghan Vita                         | Koa                                   | Bolo Dave                                              | Zoiby                                              | Michael                                 | Jeppe                                      |
-| ----------------------------------- | ------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | --------------------------------------- | ------------------------------------------ |
-| ![](/img/NiftyMorgan.png)           | ![](/img/koa.png)                     | ![](/img/bolo.png)                                     | ![](/img/zoiby.png)                                | ![](/img/NiftyMichael.png)              | ![](/img/jeppe.png)                        |
-| <div align="center">VP van Ops | <div align="center">DAO Director | <div align="center">Programma & Community Manager | <div align="center">Senior Software Developer | <div align="center">Web3 Developer | <div align="center">Marketing Manager |
+| Handige Morgan            | Bolo Dave                     | Zoiby                    | Jeppe               |
+| ------------------------- | ----------------------------- | ------------------------ | ------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)            | ![](/img/zoiby.png)      | ![](/img/jeppe.png) |
+| VP van Ops                | Programma & Community Manager | Senior Software Engineer | marketing           |
 
 ## Mod's
 
-| Real Deal McKeel       | Sacx               | DoomyDays           | Nardus             | Jordanië             |
-| ---------------------- | ------------------ | ------------------- | ------------------ | -------------------- |
-| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/jordan.png) |
+| Real Deal McKeel       | Sacx               | DoomyDays           | Nardus             | Koa               | Jordanië             |
+| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
+| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
