@@ -1,12 +1,12 @@
 ---
-id: handla om
+id: Handla om
 title: Handla om
 sidebar_position: 1
 ---
 
-Mintingprocessen för Nifty League gjorde det möjligt för myntverkare att designa sin egen DEGEN med vår Mint-O-Matic, som vårt community absolut älskade!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Det finns 6 stammar av DEGENs: apor, människor, hundar, grodor, katter och utomjordingar.
 
