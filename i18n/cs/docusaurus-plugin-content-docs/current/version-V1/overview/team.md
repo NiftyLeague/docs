@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Zakladatelé
 
-| Šikovný Andy            | Snarfy               | Šikovný Spike            |
-| ----------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| Web3 Dev / Teorie her   | Vedoucí hry Dev      | kreativní ředitel        |
+| Šikovný Andy              | Snarfy                    | Šikovný Spike             |
+| ------------------------- | ------------------------- | ------------------------- |
+| ![](/img/NiftyAndy.png)   | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png)  |
+| <div align="center"> CEO </div> | <div align="center"> CTO </div> | <div align="center"> kreativní ředitel </div> |
 
 ## tým
 
-| Šikovný Morgan            | Bolo Dave                  | Zoiby                     | Jeppe               |
-| ------------------------- | -------------------------- | ------------------------- | ------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)         | ![](/img/zoiby.png)       | ![](/img/jeppe.png) |
-| VP Ops                    | Program & Správce komunity | Senior softwarový inženýr | Marketing           |
+| Meghan Vita               | Koa                       | Bolo Dave                 | Zoiby                     | Michael                    | Jeppe                     |
+| ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------- | ------------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
+| <div align="center"> VP Ops </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
 
 ## Mods
 
-| Skutečná dohoda McKeel | Sacx               | DoomyDays           | Nard               | Koa               | Jordán               |
-| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
-| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
+| <div align="center"> Skutečná dohoda McKeel </div> | <div align="center"> Sacx </div> | <div align="center"> DoomyDays </div> | <div align="center"> Nard </div> | <div align="center"> Jordán </div> |
+| ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| ![](/img/realdeal.png)    | ![](/img/sacx.png)         | ![](/img/doomy.png)        | ![](/img/nard.png)         | ![](/img/jordan.png)       |
