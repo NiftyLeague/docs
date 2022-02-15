@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Fondatori
 
-| L'elegante Andy           | Sniffato                  | Spicca elegante           |
-| ------------------------- | ------------------------- | ------------------------- |
-| ![](/img/NiftyAndy.png)   | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png)  |
-| <div align="center"> CEO </div> | <div align="center"> CTO </div> | <div align="center"> Direttore creativo </div> |
+| L'elegante Andy                   | Sniffato             | Spicca elegante          |
+| --------------------------------- | -------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)           | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
+| Sviluppo Web3 / Teoria dei giochi | Lead Game Dev        | Direttore creativo       |
 
 ## Squadra
 
-| Meghan Vita               | Koa                       | Bolo Dave                 | Zoiby                     | Michael                    | Jeppe                     |
-| ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------- | ------------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
-| <div align="center"> vicepresidente delle op </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
+| Elegante Morgan           | Bolo Dave                     | Zoiby                    | Jeppe               |
+| ------------------------- | ----------------------------- | ------------------------ | ------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)            | ![](/img/zoiby.png)      | ![](/img/jeppe.png) |
+| vicepresidente delle op   | Programma & Community Manager | Senior Software Engineer | Marketing           |
 
-## Community Moderators
+## Mod
 
-| <div align="center"> Un vero affare McKeel </div> | <div align="center"> Sacx </div> | <div align="center"> DoomyDays </div> | <div align="center"> Nardò </div> | <div align="center"> Giordania </div> |
-| ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| ![](/img/realdeal.png)    | ![](/img/sacx.png)         | ![](/img/doomy.png)        | ![](/img/nard.png)         | ![](/img/jordan.png)       |
+| Un vero affare McKeel  | Sacx               | DoomyDays           | Nardò              | Koa               | Giordania            |
+| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
+| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
