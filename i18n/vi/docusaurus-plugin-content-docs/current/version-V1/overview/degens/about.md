@@ -4,9 +4,9 @@ title: Về
 sidebar_position: 1
 ---
 
-Quá trình đúc tiền cho Nifty League cho phép những người thợ đúc có khả năng thiết kế DEGEN của riêng họ bằng cách sử dụng Mint-O-Matic của chúng tôi, điều mà cộng đồng của chúng tôi vô cùng yêu thích!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Có 6 bộ tộc DEGENs: vượn, người, chó, ếch, mèo và người ngoài hành tinh.
 
