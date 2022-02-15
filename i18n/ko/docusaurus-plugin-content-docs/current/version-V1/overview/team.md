@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## 설립자
 
-| 멋진 앤디                   | 스나피                  | 멋진 스파이크                  |
-| ----------------------- | -------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png) | ![](/img/snarfy.png) | ![](/img/NiftySpike.png) |
-| Web3 개발 / 게임 이론         | 리드 게임 개발             | 크리에이티브 디렉터               |
+| 멋진 앤디                     | 스나피                       | 멋진 스파이크                   |
+| ------------------------- | ------------------------- | ------------------------- |
+| ![](/img/NiftyAndy.png)   | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png)  |
+| <div align="center"> CEO </div> | <div align="center"> CTO </div> | <div align="center"> 크리에이티브 디렉터 </div> |
 
 ## 팀
 
-| 니프티 모건                    | 볼로 데이브             | 조이비                 | 제페                  |
-| ------------------------- | ------------------ | ------------------- | ------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png) | ![](/img/zoiby.png) | ![](/img/jeppe.png) |
-| 운영 부사장                    | 프로그램 & 커뮤니티 관리자    | 수석 소프트웨어 엔지니어       | 마케팅                 |
+| Meghan Vita               | 코아                        | 볼로 데이브                    | 조이비                       | Michael                    | 제페                        |
+| ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------- | ------------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
+| <div align="center"> 운영 부사장 </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
 
-## 모드
+## Community Moderators
 
-| 리얼 딜 맥킬                | 삭스                 | 둠데이즈                | 나드                 | 코아                | 요르단                  |
-| ---------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
-| ![](/img/realdeal.png) | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
+| <div align="center"> 리얼 딜 맥킬 </div> | <div align="center"> 삭스 </div> | <div align="center"> 둠데이즈 </div> | <div align="center"> 나드 </div> | <div align="center"> 요르단 </div> |
+| ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| ![](/img/realdeal.png)    | ![](/img/sacx.png)         | ![](/img/doomy.png)        | ![](/img/nard.png)         | ![](/img/jordan.png)       |
