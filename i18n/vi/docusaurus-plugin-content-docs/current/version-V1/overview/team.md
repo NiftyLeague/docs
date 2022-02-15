@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Người đồng sáng lập
 
-| Nifty Andy                | Xác minh                  | Nifty Spike               |
-| ------------------------- | ------------------------- | ------------------------- |
-| ![](/img/NiftyAndy.png)   | ![](/img/snarfy.png)      | ![](/img/NiftySpike.png)  |
-| <div align="center"> CEO </div> | <div align="center"> CTO </div> | <div align="center"> Giám đốc sáng tạo </div> |
+| Nifty Andy                    | Xác minh                        | Nifty Spike              |
+| ----------------------------- | ------------------------------- | ------------------------ |
+| ![](/img/NiftyAndy.png)       | ![](/img/snarfy.png)            | ![](/img/NiftySpike.png) |
+| Web3 Dev / Lý thuyết trò chơi | Nhà phát triển trò chơi dẫn đầu | Giám đốc sáng tạo        |
 
 ## Đội
 
-| Meghan Vita               | Koa                       | Bolo Dave                 | Zoiby                     | Michael                    | Jeppe                     |
-| ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------- | ------------------------- |
-| ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
-| <div align="center"> VP of Ops </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
+| Nifty Morgan              | Bolo Dave                        | Zoiby                  | Jeppe               |
+| ------------------------- | -------------------------------- | ---------------------- | ------------------- |
+| ![](/img/NiftyMorgan.png) | ![](/img/bolo.png)               | ![](/img/zoiby.png)    | ![](/img/jeppe.png) |
+| VP of Ops                 | Quản lý cộng đồng Chương trình & | Kỹ sư phần mềm cao cấp | Tiếp thị            |
 
 ## Mods
 
-| <div align="center"> Thỏa thuận thực tế McKeel </div> | <div align="center"> Sacx </div> | <div align="center"> DoomyDays </div> | <div align="center"> Nard </div> | <div align="center"> Jordan </div> |
-| ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| ![](/img/realdeal.png)    | ![](/img/sacx.png)         | ![](/img/doomy.png)        | ![](/img/nard.png)         | ![](/img/jordan.png)       |
+| Thỏa thuận thực tế McKeel | Sacx               | DoomyDays           | Nard               | Koa               | Jordan               |
+| ------------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
+| ![](/img/realdeal.png)    | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
