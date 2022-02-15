@@ -1,12 +1,12 @@
 ---
-id: حول
+id: عن
 title: عن
 sidebar_position: 1
 ---
 
-سمحت عملية سك النقود الخاصة بـ Nifty League للمشتغلين بالقدرة على تصميم DEGEN الخاص بهم باستخدام Mint-O-Matic ، والتي أحبها مجتمعنا تمامًا!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 هناك 6 قبائل من DEGENs: القرود والبشر والكلاب والضفادع والقطط والأجانب.
 
