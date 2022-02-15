@@ -1,12 +1,12 @@
 ---
-id: про
+id: Про
 title: Про
 sidebar_position: 1
 ---
 
-Процес карбування для Nifty League дозволив майстрам створити власний DEGEN за допомогою Mint-O-Matic, який дуже сподобався нашій спільноті!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Існує 6 племен DEGEN: мавпи, люди, собаки, жаби, кішки та інопланетяни.
 
