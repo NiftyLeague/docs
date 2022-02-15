@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Założyciele
 
-| Sprytny Andy                 | Wściekły               | Fajny kolec              |
-| ---------------------------- | ---------------------- | ------------------------ |
-| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)   | ![](/img/NiftySpike.png) |
-| Web3 Deweloper / Teoria gier | Główny programista gry | Dyrektor kreatywny       |
+| Sprytny Andy                 | Wściekły                     | Fajny kolec                                 |
+| ---------------------------- | ---------------------------- | ------------------------------------------- |
+| ![](/img/NiftyAndy.png)      | ![](/img/snarfy.png)         | ![](/img/NiftySpike.png)                    |
+| <div align="center">CEO | <div align="center">CTO | <div align="center">Dyrektor kreatywny |
 
 ## Zespół
 
-| Sprytny Morgan              | Bolo Dave                       | Zoiby                           | Jeppe               |
-| --------------------------- | ------------------------------- | ------------------------------- | ------------------- |
-| ![](/img/NiftyMorgan.png)   | ![](/img/bolo.png)              | ![](/img/zoiby.png)             | ![](/img/jeppe.png) |
-| wiceprezes ds. operacyjnych | Program & Menedżer Społeczności | Starszy Inżynier Oprogramowania | Marketing           |
+| Meghan Vita                                          | Koa                                   | Bolo Dave                                                | Zoiby                                              | Michael                                 | Jeppe                                      |
+| ---------------------------------------------------- | ------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- | --------------------------------------- | ------------------------------------------ |
+| ![](/img/NiftyMorgan.png)                            | ![](/img/koa.png)                     | ![](/img/bolo.png)                                       | ![](/img/zoiby.png)                                | ![](/img/NiftyMichael.png)              | ![](/img/jeppe.png)                        |
+| <div align="center">wiceprezes ds. operacyjnych | <div align="center">DAO Director | <div align="center">Program & Menedżer Społeczności | <div align="center">Senior Software Developer | <div align="center">Web3 Developer | <div align="center">Marketing Manager |
 
 ## Mody
 
-| Prawdziwa oferta McKeel | Sacx               | DoomyDays           | Nard               | Koa               | Jordania             |
-| ----------------------- | ------------------ | ------------------- | ------------------ | ----------------- | -------------------- |
-| ![](/img/realdeal.png)  | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/koa.png) | ![](/img/jordan.png) |
+| Prawdziwa oferta McKeel | Sacx               | DoomyDays           | Nard               | Jordania             |
+| ----------------------- | ------------------ | ------------------- | ------------------ | -------------------- |
+| ![](/img/realdeal.png)  | ![](/img/sacx.png) | ![](/img/doomy.png) | ![](/img/nard.png) | ![](/img/jordan.png) |
