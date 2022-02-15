@@ -1,12 +1,12 @@
 ---
-id: cerca de
+id: Cerca de
 title: Cerca de
 sidebar_position: 1
 ---
 
-O processo de cunhagem da Nifty League permitiu aos minters a capacidade de projetar seu próprio DEGEN usando nosso Mint-O-Matic, que nossa comunidade adorou!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Existem 6 tribos de DEGENs: macacos, humanos, cães, sapos, gatos e alienígenas.
 
