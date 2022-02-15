@@ -1,12 +1,12 @@
 ---
-id: etwa
+id: Etwa
 title: Etwa
 sidebar_position: 1
 ---
 
-Der Prägeprozess für Nifty League ermöglichte es den Münzern, ihre eigenen DEGEN mit unserem Mint-O-Matic zu entwerfen, das unsere Community absolut liebte!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Es gibt 6 Stämme von DEGENs: Affen, Menschen, Hunde, Frösche, Katzen und Aliens.
 
