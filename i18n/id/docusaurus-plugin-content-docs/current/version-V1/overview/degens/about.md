@@ -1,12 +1,12 @@
 ---
-id: tentang
+id: Tentang
 title: Tentang
 sidebar_position: 1
 ---
 
-Proses pencetakan untuk Nifty League memungkinkan para pembuat desain untuk merancang DEGEN mereka sendiri menggunakan Mint-O-Matic kami, yang sangat disukai komunitas kami!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Ada 6 suku DEGEN: kera, manusia, anjing, katak, kucing, dan alien.
 
