@@ -4,9 +4,9 @@ title: 关于
 sidebar_position: 1
 ---
 
-Nifty League 的铸币过程使铸币者能够使用我们的 Mint-O-Matic 设计自己的 DEGEN，我们的社区非常喜欢！
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 DEGEN有6个部落：猿、人类、狗、青蛙、猫和外星人。
 
