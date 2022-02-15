@@ -1,12 +1,12 @@
 ---
-id: oor
+id: Oor
 title: Oor
 sidebar_position: 1
 ---
 
-Die muntproses vir Nifty League het munters die vermoë gegee om hul eie DEGEN te ontwerp met behulp van ons Mint-O-Matic, wat ons gemeenskap absoluut liefgehad het!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Daar is 6 stamme van DEGENs: ape, mense, honde, paddas, katte en aliens.
 
