@@ -1,12 +1,12 @@
 ---
-id: despre
+id: Despre
 title: Despre
 sidebar_position: 1
 ---
 
-Procesul de batere pentru Nifty League le-a permis monetrilor posibilitatea de a-și proiecta propriul DEGEN folosind Mint-O-Matic, pe care comunitatea noastră l-a îndrăgit absolut!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 Există 6 triburi de DEGEN: maimuțe, oameni, câini, broaște, pisici și extratereștri.
 
