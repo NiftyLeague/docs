@@ -18,7 +18,7 @@ sidebar_position: 2
 | ![](/img/NiftyMorgan.png) | ![](/img/koa.png)         | ![](/img/bolo.png)        | ![](/img/zoiby.png)       | ![](/img/NiftyMichael.png) | ![](/img/jeppe.png)       |
 | <div align="center"> вице-президент по операциям </div> | <div align="center"> DAO Director </div> | <div align="center"> Program & Community Manager </div> | <div align="center"> Senior Software Developer </div> | <div align="center"> Web3 Developer </div>  | <div align="center"> Marketing Manager </div> |
 
-## Моды
+## Community Moderators
 
 | <div align="center"> Реальная сделка Маккил </div> | <div align="center"> Сакс </div> | <div align="center"> DoomyDays </div> | <div align="center"> Нард </div> | <div align="center"> Иордания </div> |
 | ------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
