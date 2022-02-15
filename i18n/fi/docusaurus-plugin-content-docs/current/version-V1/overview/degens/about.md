@@ -1,12 +1,12 @@
 ---
-id: noin
+id: Noin
 title: Noin
 sidebar_position: 1
 ---
 
-Nifty Leaguen lyöntiprosessi antoi rahapajalle mahdollisuuden suunnitella oman DEGEN-tuotteensa Mint-O-Maticilla, jota yhteisömme rakasti!
-
 ![](/img/mintomatic.gif)
+
+Nifty League introduced a unique minting experience for the genesis drop in September 2021, which the community absolutely loved! People were able to design their own DEGEN NFTs using our Mint-O-Matic, with a set of traits of their choosing.
 
 DEGEN-heimoja on kuusi: apinat, ihmiset, koirat, sammakot, kissat ja muukalaiset.
 
