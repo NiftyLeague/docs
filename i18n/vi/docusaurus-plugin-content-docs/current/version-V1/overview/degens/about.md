@@ -1,6 +1,6 @@
 ---
 id: Về
-title: Về
+title: Tổng quat
 sidebar_position: 1
 ---
 
