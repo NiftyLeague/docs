@@ -1,6 +1,6 @@
 ---
 id: O
-title: O
+title: Przegląd
 sidebar_position: 1
 ---
 
