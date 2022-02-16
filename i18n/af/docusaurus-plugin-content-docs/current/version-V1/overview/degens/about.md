@@ -1,6 +1,6 @@
 ---
 id: Oor
-title: Oor
+title: Oorsig
 sidebar_position: 1
 ---
 
