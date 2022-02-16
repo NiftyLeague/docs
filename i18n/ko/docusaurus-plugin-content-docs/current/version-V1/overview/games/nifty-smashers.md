@@ -13,129 +13,85 @@ sidebar_position: 2
 
 ---
 
-# **일반 정보**
+# Game Overview
 
-싸울 준비를 하세요! **[Nifty Smashers](https://nifty-league.com/games)** 의 로컬 멀티플레이어 버전은 출시와 동시에 온라인 멀티플레이어로 출시되었습니다.
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! [Nifty Smashers](https://nifty-league.com/games) takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-커뮤니티에서 전투를 벌이고 가능한 한 많은 친구들에게 배트 봉크를 얻으십시오! Nifty Smashers는 고전 Super Smash Bros 게임에서 영감을 얻었습니다. 이 게임에서는 상대를 지도에서 밀어내서 점수를 얻는 것이 목표입니다.
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). You must have a [DEGEN NFT](https://docs.niftyleague.com/overview/degens/about) to play the game. Simply connect your crypto wallet holding your DEGEN, enter the game lobby, and select your DEGEN for battle.
 
-키보드 또는 기타 호환 컨트롤러(Playstation, Xbox 등)를 사용하여 게임을 할 수 있습니다. 게임 로비에 입장하고 전투를 위해 DEGEN을 선택하십시오.
+As background, the local-multiplayer version of Nifty Smashers was made available immediately during mint in September 2021, followed by the online multiplayer.
 
 ## 득점
 
-- DEGEN이 한 번 명중되고 죽으면(지도에서 떨어짐) 1점을 얻습니다.
-- DEGEN이 복구할 수 없이 여러 번 적중되면 DEGEN이 적중된 만큼 자주 점수를 얻습니다(이전 적중이 다른 DEGEN에 의해 수행되었는지 여부에 관계없이 - 따라서 마지막 메가 봉크를 착륙하여 지도에서 그들을 명중하고 주장하십시오. 라운드의 모든 포인트).
-- 상대방이 연속적으로 더 많이 찔릴수록 더 빠르게 튕기고 더 많은 점수를 얻습니다.
-- DEGEN을 죽이는 마지막 히트는 모든 콤보 포인트를 얻습니다.
-- 현재 DEGEN을 적중할 수 있는 횟수(콤보)에는 제한이 없지만 얻을 수 있는 포인트 수에는 제한이 있습니다(최대 3포인트: 2인 매치 / 최대 5포인트: 3&4인 매치 ).
-- 2인 플레이의 경우 라운드에서 승리하려면 5포인트가 필요합니다.
-- 3 & 4인 경기에서 라운드에서 승리하려면 10포인트가 필요합니다.
-- 경기는 5전 2선승제입니다.
-- 5라운드 이후에 동점인 경우 동점인 플레이어는 서든 데스 라운드로 이동하여 다른 플레이어가 사이드라인에서 지켜볼 수 있습니다.
+- If a DEGEN is hit once and dies (fall off the map) you earn 1 point
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round)
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking
+- The last hit that kills the DEGEN, gets all combo points
+- Currently there is no cap of how often a DEGEN can be hit ("combo’ed"), but there is a cap on the number of points you can get (max 3 points in a 2-player match, and max 5 points in a 3- & 4-player match)
+- A 2-player match require 5pts to win a round
+- 3- & 4-player matches require 10pts to win a round
+- Matches are best of 5 rounds
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline
 
 ## 지연
 
-- 지연 표시기는 연결의 지연(핑 속도)을 보여줍니다.
-- 지연은 일반적으로 핑 속도가 100ms 이상임을 나타냅니다.
-- 일반적으로 인터넷에서 플레이어 사이에 물리적 거리가 있을 때마다 지연이 항상 존재합니다. 거리가 멀수록 지연이 커집니다.
-- 개발자가 지연을 보상하고 숨기기 위해 사용하는 다양한 기술이 있습니다.
-- 우리는 가능한 최고의 경험을 위해 지연을 숨기는 이러한 지연 보상 기술을 구현했습니다.
-- 우리는 또한 가능한 한 지연을 최소화하기 위해 서로 가장 가까운 플레이어를 일치시킬 수 있도록 전 세계의 서버와 솔루션을 통합했습니다. 이러한 기술에 대해 자세히 알아보려면 Gabriel Gambetta의 Lag Compensation에 대한 [이 게시물](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html)
+- The lag indicator shows the lag (ping speed) of your connection
+- Lag tyipcally indicates your ping speed is above 100ms
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet (the greater the distance, the greater the lag)
+- There are different techniques that developers use to compensate and hide the lag
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible
+- If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta
 
 ## 커스텀 로비
 
-- 사용자 지정 로비를 사용하여 선택한 지역에서 경기를 열 수 있습니다. 로비 생성자는 로비 맵에서 다른 사람들과 공유할 수 있는 코드를 볼 수 있습니다.
-- 다른 degen이 로비에 참여하려면 먼저 올바른 지역을 선택한 다음 입력 상자에 로비 코드를 입력해야 합니다.
-- 사용자 지정 로비 코드를 사용하는 경우 지역이 자동으로 전환되어야 합니다.
+- A custom lobby can be used to open a match in a chosen region
+- 로비 생성자는 로비 맵에서 다른 사람과 공유할 수 있는 코드를 볼 수 있습니다.
+- If another Degen wants to join the lobby, they must first select the same region as the custom lobby, and then type the lobby code into the input box
 
 ## 지역 변경
 
-- Smasher는 대기 시간/핑이 중요한 빠른 진행 게임입니다. 선택한 지역이 플레이어의 위치에 가까울수록 핑이 낮아집니다.
-- Web-GL 또는 Desktop App에서 지역을 변경하면 현재 ping이 표시됩니다.
+- Nifty Smashers is a fast paced game where latency/ping is crucial
+- The closer the chosen region is to the player’s location, the lower the ping
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed
 
-# **전투 기본**
+<br></br>
 
-## 일반 조언
+# 전투 기본
 
-- 컨트롤러로 플레이하는 것이 좋습니다(Playstation, Xbox 또는 PC/Mac에서 인식되는 기타 컨트롤러).
+General information, advice, tips and tricks regarding battling in Nifty Smashers.
+
+## Controllers
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac)
 
 ## 박쥐 스윙
 
-- 방망이는 왼쪽, 오른쪽, 위, 아래, 대각선 등 가능한 모든 방향으로 휘두를 수 있습니다.
-- 공격 버튼을 클릭하면 배트를 휘두를 수 있습니다.
-- 버튼을 길게 누르면 배트가 더 세게 치게 됩니다.
-- 방망이는 서거나 달리거나 점프하는 동안 휘두를 수 있습니다.
-- 플레이어는 점프하는 동안 공격 버튼을 길게 누를 수 있습니다. 이것은 일반적으로 상대를 놀라게 하는 좋은 방법입니다.
+- The bat can be swung in all possible direction: left, right, up, down, diagonals
+- The bat can be swung by clicking the attack button
+- Longer button presses makes the bat hit harder
+- The bat can be swung while standing, running, or jumping
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s)
 
 ## 움직이는
 
-- 2D 게임으로 이동 방향은 왼쪽/오른쪽입니다.
-- 점프/텀블 중에 방향을 변경할 수 있습니다(컨트롤러를 사용하여 수행하는 것이 훨씬 쉽습니다).
+- As a 2D Game, moving directions are left/right
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller)
 
 ## 점프
 
-- 점프 버튼을 길게 누르면 점프 높이를 변경할 수 있습니다.
-- 점프/텀블 중 방향을 변경할 수 있습니다.
+- 점프 버튼을 누르고 있는 동안 점프 높이를 변경할 수 있습니다.
+- 점프/텀블 중 방향 변경 가능
 
 ## 플라잉 햄버거
 
-- 날아가는 햄버거를 잡으면 DEGEN의 방망이가 훨씬 강력해집니다. 이는 일반적으로 직접적인 사망으로 이어집니다.
-- 버거 버프 지속 시간을 시간 및/또는 처치로 제한하는 것을 고려하고 있습니다.
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill
+- We are considering limiting burger buff duration by time and/or kill
 
-# **부족 특성**
+# Tribe Specifics
 
-_모든 DEGEN 부족은 특수 능력("SA")을 가지고 있으며 이는 모든 Nifty League 게임(라이브 및 향후)에서 일관됩니다._
+All DEGEN tribes have a Special Ability (”SA”), which are consistent across all Nifty League games (live and future), including Nifty Smashers. Learn everytyhing you need to know about each tribe [here](http://localhost:3000/overview/degens/tribes).
 
-## 특수 능력 목록
+<br></br>
 
-- **원숭이** - 부메랑 바나나 던지기
-- **외계인** - 순간이동
-- **Cat** - 뛰어올라 일시적으로 배트 파워와 속도 부스트를 얻습니다.
-- **Frog** - 텅 그래플 훅
-- **Doge** - Doge 동전 롤
-- **인간** - 명령에 따라 폭발하는 다이너마이트 던지기
-
-## 외계인
-
-- SA 버튼을 누르면 Alien이 목표 방향(왼쪽, 오른쪽, 위, 아래, 대각선)으로 짧은 거리를 순간이동할 수 있습니다.
-- 순간이동한 위치에 에너지 폭발이 일어나 근처에 있는 적을 공격합니다.
-
-## 원숭이
-
-- SA 버튼을 누르면 상대에게 맞거나 맵 부분에 맞거나 맵에서 날아갈 때까지 목표 방향(왼쪽, 오른쪽, 위, 아래, 대각선)으로 바나나를 던집니다.
-- 다시 SA 버튼을 누르면 바나나가 DEGEN으로 날아가 다시 적을 때릴 수 있습니다.
-- 바나나는 방망이로 때리고 목표 방향으로 날 수 있습니다.
-
-## 고양이
-
-- SA를 누르면 고양이가 뛰어옵니다. 짧은 시간 동안 공격한 후 고양이는 힘을 얻습니다.
-- 강화된 배트 스윙은 배트가 더 세게 치는 것을 의미합니다.
-- 강화된 움직임은 고양이가 더 빨리 달린다는 것을 의미합니다.
-- 고양이는 이중 점프와 공중 점프를 할 수 있습니다.
-
-## 총독
-
-- SA 버튼을 길게 누르면 도지 롤이 수행됩니다.
-- 도지 롤로 상대를 때리면 롤 방향으로 위쪽으로 날아갑니다.
-- Doge는 목표 방향으로 플라이 롤합니다.
-- Doge Roll 동안 Doge Roll이 끝날 때까지 방향을 세 번 변경할 수 있습니다.
-- 도지 롤도 일정 시간이 지나면 종료됩니다.
-
-## 개구리
-
-- SA 버튼을 누르면 개구리가 혀를 쏩니다.
-- 혀가 상대를 때리면 그 상대는 개구리 방향으로 당겨져 조금 더 날아간다.
-- 혀가 지도 조각을 치면 개구리가 그 물체(예: 벽, 천장 등)로 몸을 당깁니다.
-- 혀는 조준 방향(좌,우,상,하,대각선)으로 쏠 수 있다.
-
-### 인간
-
-- SA 버튼을 누르면 목표 방향(왼쪽, 오른쪽, 위, 아래, 대각선)으로 폭탄을 던집니다.
-- 폭탄은 비행 곡선을 가지고 있으며 바나나처럼 똑바로 날지 않습니다(폭발되지 않으면 땅에 남아 있음).
-- 폭탄은 일정 시간 후 또는 SA 버튼을 두 번째로 누르면 폭발합니다.
-- 현재 폭탄은 적중하거나 폭발을 통해 적을 공격할 수 있습니다.
-- 폭탄은 폭발로 던지는 DEGEN 자체를 공격할 수 있는 유일한 SA입니다.
-- 폭탄은 방망이로 명중하고 목표 방향으로 날 수 있습니다.
-- 폭탄이 적과 접촉하는 즉시 폭발하도록 게임을 업데이트할 계획입니다. 적중당한 적이 없으면 자동으로 폭발하거나 SA 버튼을 두 번째로 누른 후 바닥에 남아 있습니다.
-
-**[Discord](https://discord.gg/niftyleague)** 에 가입하여 게임을 개선하고 게임을 다음 단계로 끌어올리는 방법에 대한 피드백과 아이디어를 제공하세요.
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level!
