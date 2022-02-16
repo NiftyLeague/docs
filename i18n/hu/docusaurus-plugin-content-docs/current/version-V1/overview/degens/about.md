@@ -1,6 +1,6 @@
 ---
 id: Ról ről
-title: Ról ről
+title: Áttekintés
 sidebar_position: 1
 ---
 
