@@ -4,4 +4,14 @@ title: Oversigt
 sidebar_position: 1
 ---
 
-NFTL fungerer som en måde at decentralisere vores økosystem ved at sikre, at vigtige beslutninger vedrørende retningen af Nifty League besluttes via Nifty DAO. Salget af vores karakterer startede den indledende distribution af vores økosystems oprindelige nytte- og styringstoken; NFTL. NFTL tjener et dobbelt formål, nemlig at give brugerne stemmerettigheder på kommende spil og turneringer samt at blive brugt til udgifter på hele platformen. Indtil videre inkluderer dette kun navngivning af karakterer, men kan udvides til at blive brugt til at købe yderligere genstande i spillet, samleobjekter eller endda potentielle fremtidige karakterer. Enhver NFTL, der bruges til at navngive karakterer, bliver straks brændt eller fjernet fra cirkulation. Hvis og når yderligere genstande i spillet introduceres, vil 90% af alle indtægter blive givet til Nifty DAO, mens de resterende 10% betales til vores hold.
+The sale of our characters kicked off the initial distribution of our ecosystem’s native utility and governance token, [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+
+NFTL is currently only available for trading and staking on [SushiSwap](https://sushi.com/).
+
+NFTL helps decentralize our ecosystem by ensuring important decisions regarding the direction of Nifty League are decided via the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview).
+
+NFTL serves a dual purpose of giving users voting rights on upcoming games and tournaments, as well paying for platform-wide expenses. For now, this only includes naming characters, but will soon be expanded to be used for purchasing additional in-game items and collectibles.
+
+Any NFTL used for naming characters is immediately burned (removed from circulation). When additional in-game items are introduced, 90% of all proceeds will be given to the Nifty League DAO, and the remaining 10% will be paid to the core team.
+
+NFTL will also be required to pay for Degen [Rentals](https://docs.niftyleague.com/guides/rentals/rental-overview), and to purchase land in the [Niftyverse](https://docs.niftyleague.com/overview/games/niftyverse).
