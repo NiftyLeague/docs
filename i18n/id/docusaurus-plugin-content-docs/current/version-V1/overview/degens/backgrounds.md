@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Latar belakang DEGEN ditetapkan secara acak saat dicetak yang menghasilkan latar belakang Umum atau salah satu dari tiga latar belakang khusus: **Rare**, **Meta**, atau **Legendary**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Selain terlihat keren, latar belakang hadir dengan fasilitas khusus seperti tampilan luar biasa dalam game dan pengganda penghasilan tambahan.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Pengganda Pendapatan
+## Earnings Multipliers
 
-- Langka: 1,5
-- Meta: 3
-- Legendaris: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
