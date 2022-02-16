@@ -1,19 +1,19 @@
 ---
 id: niftyverse
-title: NiftyVerse
+title: Niftyverse
 sidebar_position: 1
 ---
 
-### 🚧 Υπό ανάπτυξη για το 2ο τρίμηνο του 2022 🚧
+## 🚧 Under Development 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
 Η γη στο NiftyVerse θα βγει προς πώληση το 2022.
 
-Οποιοσδήποτε θα μπορεί να έχει γη και να χτίζει στο NiftyVerse.
+Anyone will be able to own land and build in the Niftyverse.
 
 Σχεδιάζουμε να συνεργαστούμε με indie στούντιο παιχνιδιών και καλλιτέχνες για να τους επιτρέψουμε να δημιουργήσουν παιχνίδια Nifty League στο NiftyVerse!
 
 Η πρώτη επανάληψη θα είναι ένας μετα-στίχος τέχνης pixel από πάνω προς τα κάτω, με το θέμα της αστικής τέχνης Sushi.
 
-Όλες οι αγορές γης στο Nifty Verse θα γίνουν χρησιμοποιώντας NFTL.
+All land purchases in the Nifty Verse will be done using our token, [NFTL](https://docs.niftyleague.com/overview/nftl/overview).
