@@ -1,6 +1,6 @@
 ---
 id: Acerca de
-title: Acerca de
+title: Descripción general
 sidebar_position: 1
 ---
 
