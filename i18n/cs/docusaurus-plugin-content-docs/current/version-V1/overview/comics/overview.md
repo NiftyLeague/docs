@@ -4,30 +4,45 @@ title: Přehled
 sidebar_position: 1
 ---
 
-Jako by pro vás náš proces ražby nebyl dostatečně zábavný... překvapili jsme komunitu speciální sbírkou komiksů Nifty League, která zahajuje vydání! Chtěli jsme vám poděkovat za vyražení naší sbírky a za to, že jste byli brzy 😁
+![](/img/NL_Comic_Burner.jpeg)
 
-Snímky pro komiksy byly pořízeny během procesu ražby pro první 4 stránky komiksu v následujících milnících: Strana 1 - 2500 | Strana 2 - 3500 | Strana 3 - 5000 | Strana 4 - 7500.
+During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
 
-Pravděpodobně se ptáte: „Co mám dělat s komiksy?“. No, budete mít několik možností, jak udělat, protože budou mít více nástrojů. Takže je tu hra ve hře, kde si můžete vybrat svou vlastní cestu.
+Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
 
-Komiksová sbírka Nifty League se skládá ze 6 stránek s komiksy 5 a 6, které ještě nevyjdou. K 31. 1. 2022 bude k dispozici snímek komiksu 5 uděleného všem držitelům DEGEN a komiksu 6 uděleného všem peněženkám obsahujícím všech 6 kmenů DEGEN. Všichni Meta pozadí DEGENS obdrží jednu komiksovou 6 a všichni Legendární pozadí DEGENS obdrží dvě komiksové 6! Tyto budou zpřístupněny prostřednictvím reklamace na našich webových stránkách.
+- Page 1 - 2500
+- Page 2 - 3500
+- Page 3 - 5000
+- Page 4 - 7500
 
-Každý komiks bude možné v budoucnu vypálit a výměnou za každou vypálenou stránku získat nositelné zařízení nebo zbraň ve hře. Toto vypalovací okno však nebude trvat věčně a každý držitel bude nucen učinit těžká rozhodnutí o budoucnosti své sbírky.
+Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
 
-Satoshi nám řekl, že má rád plné sbírek v téměř vše, co…, takže si dobře rozmyslí uděláte příliš mnoho rozhodnutí zde.
+The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
 
-**TL;DR**
+There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
+
+All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
+
+Každý komiks bude možné v budoucnu vypálit a výměnou za každou vypálenou stránku získat nositelné zařízení nebo zbraň ve hře. These items modify a DEGEN's P2E multiplier when worn.
+
+Stále přesně určujeme, kolik slotů lze zaplnit na DEGEN, ale pouze 1 z každého nositelného zařízení lze přiřadit na DEGEN NFT.
+
+Níže je vyobrazení nositelné síly multiplikátoru pro každé odpovídající nositelné zařízení. The exact rates are still being determined.
+
+**Comic 1**: 💪💪💪💪💪  
+**Comic 2**: 💪💪💪💪  
+**Comic 3**: 💪💪💪  
+**Comic 4**: 💪💪  
+**Comic 5**: 💪  
+**Comic 6**: 💪💪💪💪💪💪
+
+## Summary
 
 - Každý komiks lze vypálit na nositelný předmět ve hře
 - Tyto NFT budou ERC-1155
 - Předměty při nošení modifikují degenův P2E multiplikátor
 - Případně si můžete ponechat komiksy pro budoucí využití, které jsme ještě nezveřejnili
-- Všech 6 komiksů lze vypálit společně jako sadu pro speciální záhadný předmět
+- All 6 Comics can be burned together as a set for a special mystery item
 - Tato záhadná položka NEZMĚNÍ P2E multiplikátor
 
-Níže je vyobrazení nositelné síly multiplikátoru pro každé odpovídající nositelné zařízení. Přesné sazby budou teprve stanoveny.
-
-Komiks 1 💪💪💪💪💪\ Komiks 2 💪💪💪💪\ Komiks 3 💪💪💪\ Komiks 4 💪💪\ Komiks 5 💪💪💪\ Komiks 6 💪💪💪
-
-
-Stále přesně určujeme, kolik slotů lze zaplnit na DEGEN, ale pouze 1 z každého nositelného zařízení lze přiřadit na DEGEN NFT. 
+![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
