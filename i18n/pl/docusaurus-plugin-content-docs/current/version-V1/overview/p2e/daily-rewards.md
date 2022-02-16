@@ -1,21 +1,11 @@
 ---
 id: nagrody-dzienne
-title: Gameplay Rewards
+title: Codzienne nagrody
 sidebar_position: 1
 ---
 
-Players are able to earn [NFTL](https://docs.niftyleague.com/overview/nftl/overview) by gaming in Nifty Smashers - successfully landing hits on your opponent(s) and winning matches earn NFTL.
+![](/img/twitch-stream.png)
 
-The more you play and practice, the better you will play against your opponents, and the more NFLT you will earn by gaming.
+Im więcej grasz, tym większe masz szanse na zdobycie **żetonów NFTL** Więcej szczegółów zostanie ogłoszonych, gdy zdefiniujemy nasz model emisji dla każdej nowej gry. W ramach tego planujemy w przyszłości wdrożyć system progresji, aby awansować twoje postacie i zdobywać więcej nagród za twoje PD. To jest coś, na co chcemy poświęcić trochę czasu, aby upewnić się, że zdefiniowaliśmy najlepszy system nagród dla naszej platformy i złagodzić problem botów próbujących oszukać system.
 
-New details will be announced as we define our emission model for each new game. We plan to implement a progression system to level-up Degens and gain additional rewards with the goal to enhance the player experience.
-
-## Noob Player Earnings Bonus
-
-We added a Noob Player Earnings bonus in February 2022, which allows new players to accrue NFTL while learning to play [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers). The bonus is based on number of games played and is constantly being tested and tweaked to ensure new player activation, engagement and retention are optimal, while also controlling overall NFTL emissions. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
-
-## Double Bonks Earnings Bonus
-
-We added and enabled a special bonus period in February 2022, which allows all players to accrue 2x the NFTL during gameplay. The purpose of this earnings bonus was to reward our loyal community and increase player activity. Please note this bonus is promotional and will not remain enabled indefinitely. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
-
-_To create the most optimal reward system for our ecosystem, and mitigate the risk of bots and abuse, please note we will itereate with our gameplay reward model over time._
+Często nagradzamy użytkowników za aktywność w naszej społeczności, więc dołącz do naszego **[Discord](https://discord.gg/niftyleague)** , aby uzyskać dostęp do losowych wskazówek ****! Nieustannie obserwujemy i śledzimy użytkowników, którzy wnoszą największą wartość do naszej społeczności. Pomóż nam przyłączyć nowych członków, odpowiadając na pytania lub dzieląc się radami, a możesz znaleźć jeszcze więcej wskazówek! 🙌.
