@@ -1,6 +1,6 @@
 ---
 id: Om
-title: Om
+title: Oversikt
 sidebar_position: 1
 ---
 
