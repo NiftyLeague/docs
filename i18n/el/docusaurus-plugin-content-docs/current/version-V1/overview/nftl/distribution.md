@@ -1,17 +1,23 @@
 ---
 id: κατανομή
-title: Διανομή (Πρώτο έτος)
+title: Distribution (Year 1)
 sidebar_position: 2
 ---
 
-Επί του παρόντος δεν έχει καθοριστεί μέγιστο ανεφοδιασμό, αλλά αναμένουμε περίπου **1 δισεκατομμύριο NFTL** να διανεμηθούν τον επόμενο χρόνο.
+There is no max supply set currently, but we expect around 1 Billion NFTL to be distributed over the calendar year post-mint (through September 2022)
 
-**Δώρα κοινότητας**
+![](/img/NFTL_Distribution_Year_1_Nifty_League.png)
 
-Κάθε έργο χρειάζεται ποιοτικά μιμίδια! Εγγραφείτε στο **[Nifty League Discord](https://discord.gg/niftyleague)** για πρόσβαση σε δωρεάν διανομές NFTL σε μέλη της κοινότητας που μας κάνουν όλους να γελάμε ή να συμβάλλουμε περισσότερο σε συζητήσεις. Για να διευκολυνθεί αυτό, έχουμε διαμορφώσει ένα bot συμβουλών για την ομάδα και τους επόπτες μας να δίνουν συμβουλές στους χρήστες του Discord. Ξοδέψαμε συνολικά 7 εκατομμύρια NFTL μέσω του tip bot τους πρώτους δύο μήνες! Όπως αναφέρθηκε νωρίτερα, αυτές οι συμβουλές θα παραμείνουν διαθέσιμες για τα ενεργά μέλη του Discord στο μέλλον, αλλά το ποσοστό αναμένεται να είναι πολύ χαμηλότερο.
+## Community Giveaways
 
-**Αρχική Προμήθεια**
+Κάθε έργο χρειάζεται ποιοτικά μιμίδια! Join the [Nifty League Discord](https://discord.gg/niftyleague) for access to free NFTL distributions to community members who go above and beyond contributing to discussions. To facilitate this, we've configured a [Discord tip bot](https://tip.cc/) for our team and community moderators to tip Degens in the server. Please note, we spent a combined total of 7M NFTL via the tip bot over the first two months post-mint for marketing.
 
-Τον Σεπτέμβριο του 2021, αποφασίσαμε να κλείσουμε νωρίς τους κατόχους AXS airdrop και να ανταμείψουμε τους κατόχους DEGEN με 212,85 εκατομμύρια NFTL tokens συνολικά. Ένα μέρος αυτών των κουπονιών μπορούσε να διεκδικηθεί κατά την αγορά ενός DEGEN NFT και τα υπόλοιπα μεταφέρθηκαν στους κατόχους πριν από την πώληση με βάση ένα στιγμιότυπο που τραβήχτηκε στο **[Block #13360120](https://etherscan.io/block/13360120)**. Ενώ το συμβόλαιο airdrop AXS ήταν ανοιχτό, διεκδικήθηκαν συνολικά 256.000 NFTL.
+## Initial Supply
 
-100 εκατομμύρια NFTL διατέθηκαν για ένα ταμείο ανάπτυξης ομάδας το οποίο είναι χρονικά κλειδωμένο για 6 μήνες από **[Block #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**. Άλλα 100 εκατομμύρια NFTL παρασχέθηκαν στο **[Nifty DAO](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** για την υποστήριξη πρώιμων κοινοτικών σχεδίων, όπως κίνητρα ρευστότητας, ανταμοιβές τουρνουά ή δώρα. Αυτό ανεβάζει την αρχική προσφορά σε περίπου 420 εκατομμύρια με ημερήσιες εκπομπές για όλους τους κατόχους genesis NFT που ξεκινούν αμέσως μετά από κάθε πώληση χαρακτήρων.
+In September 2021, we decided to close our AXS holders airdrop early and reward our Degen holders with 212.85M NFTL in total. A portion of these tokens were claimable when purchasing a Degen NFT, and the rest were airdropped to holders prior to the sale based on a snapshot taken at [Block #13360120](https://etherscan.io/block/13360120). Please note, a total of 256K NFTL was claimed while the AXS airdrop contract was open.
+
+100M NFTL was allocated for a team development fund which is time-locked for 6 months from [Block #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf).
+
+100M NFTL was provided to the [Nifty League DAO Treasury](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1) to support early community plans such as liquidity incentives, tournament rewards, or giveaways.
+
+This brings the initial supply to around 420M with daily emissions for all genesis NFT owners starting immediately after each character sale.
