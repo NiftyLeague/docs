@@ -4,30 +4,45 @@ title: ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ
 sidebar_position: 1
 ---
 
-Λες και η διαδικασία κοπής δεν ήταν ήδη αρκετά διασκεδαστική για εσάς... εκπλήξαμε την κοινότητα με μια ειδική συλλογή κόμικ για το Nifty League! Αυτό ήταν να σας ευχαριστήσω που κάνατε τη συλλογή μας και που ήσασταν νωρίς 😁
+![](/img/NL_Comic_Burner.jpeg)
 
-Στιγμιότυπα για κόμικς λήφθηκαν κατά τη διάρκεια της διαδικασίας κοπής για τις πρώτες 4 σελίδες κόμικ στα ακόλουθα ορόσημα: Σελίδα 1 - 2500 | Σελίδα 2 - 3500 | Σελίδα 3 - 5000 | Σελίδα 4 - 7500.
+During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
 
-Πιθανότατα αναρωτιέστε, «Τι κάνω με τα κόμικ;». Λοιπόν, θα έχετε κάποιες επιλογές να κάνετε, καθώς θα έχουν πολλαπλά βοηθητικά προγράμματα. Έτσι, υπάρχει ένα παιχνίδι μέσα σε ένα παιχνίδι εδώ για να επιλέξετε το δικό σας μονοπάτι.
+Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
 
-Η συλλογή κόμικ του Nifty League αποτελείται από 6 σελίδες με τα κόμικς 5 και 6 να έχουν κυκλοφορήσει ακόμη. Θα υπάρξει ένα στιγμιότυπο στις 31/1/2022 για το comic 5 που θα απονεμηθεί σε όλους τους κατόχους DEGEN και το comic 6 θα απονεμηθεί σε όλα τα πορτοφόλια που περιέχουν και τις 6 φυλές DEGEN. Όλα τα Meta background DEGENS θα λάβουν ένα comic 6 και όλα τα Legendary background DEGENS θα λάβουν δύο comic 6! Αυτά θα διατίθενται μέσω αξίωσης στον ιστότοπό μας.
+- Page 1 - 2500
+- Page 2 - 3500
+- Page 3 - 5000
+- Page 4 - 7500
 
-Κάθε κόμικ θα μπορεί να εγγραφεί σε μια μελλοντική ημερομηνία για να λάβει ένα wearable ή όπλο εντός του παιχνιδιού σε αντάλλαγμα για κάθε σελίδα που καίγεται. Ωστόσο, αυτό το παράθυρο καύσης δεν θα είναι για πάντα και κάθε κάτοχος θα αναγκαστεί να πάρει κάποιες δύσκολες αποφάσεις για το μέλλον της συλλογής του.
+Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
 
-Ο Satoshi μας είπε ότι του αρέσουν οι πλήρεις συλλογές σχεδόν σε όλα…γι' αυτό σκεφτείτε δύο φορές πριν πάρετε πάρα πολλές αποφάσεις εδώ.
+The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
 
-**TL;DR**
+There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
+
+All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
+
+Κάθε κόμικ θα μπορεί να εγγραφεί σε μια μελλοντική ημερομηνία για να λάβει ένα wearable ή όπλο εντός του παιχνιδιού σε αντάλλαγμα για κάθε σελίδα που καίγεται. These items modify a DEGEN's P2E multiplier when worn.
+
+Εξακολουθούμε να προσδιορίζουμε ακριβώς πόσες θέσεις μπορούν να συμπληρωθούν ανά DEGEN, αλλά μόνο 1 από κάθε wearable μπορεί να εκχωρηθεί ανά DEGEN NFT.
+
+Ακολουθεί μια απεικόνιση της αντοχής του φορέσιμου πολλαπλασιαστή για κάθε αντίστοιχο wearable. The exact rates are still being determined.
+
+**Comic 1**: 💪💪💪💪💪  
+**Comic 2**: 💪💪💪💪  
+**Comic 3**: 💪💪💪  
+**Comic 4**: 💪💪  
+**Comic 5**: 💪  
+**Comic 6**: 💪💪💪💪💪💪
+
+## Summary
 
 - Κάθε κόμικ μπορεί να εγγραφεί για ένα φορετό αντικείμενο εντός του παιχνιδιού
 - Αυτά τα NFT θα είναι του ERC-1155
 - Τα είδη τροποποιούν τον πολλαπλασιαστή P2E ενός degen όταν φοριούνται
 - Εναλλακτικά, μπορείτε να κρατήσετε τα κόμικς για μελλοντική χρησιμότητα που δεν έχουμε ακόμη αποκαλύψει
-- Και τα 6 κόμικς μπορούν να καούν μαζί ως σετ για ένα ειδικό αντικείμενο μυστηρίου
+- All 6 Comics can be burned together as a set for a special mystery item
 - Αυτό το μυστικό αντικείμενο ΔΕΝ θα τροποποιήσει τον πολλαπλασιαστή P2E
 
-Ακολουθεί μια απεικόνιση της αντοχής του φορέσιμου πολλαπλασιαστή για κάθε αντίστοιχο wearable. Τα ακριβή ποσοστά δεν έχουν ακόμη καθοριστεί.
-
-Comic 1 💪💪💪💪💪\ Comic 2 💪💪💪💪\ Comic 3 💪💪💪\ Comic 4 💪💪\ Comic 5 💪\ Comic 6💪\ Comic 6
-
-
-Εξακολουθούμε να προσδιορίζουμε ακριβώς πόσες θέσεις μπορούν να συμπληρωθούν ανά DEGEN, αλλά μόνο 1 από κάθε wearable μπορεί να εκχωρηθεί ανά DEGEN NFT. 
+![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
