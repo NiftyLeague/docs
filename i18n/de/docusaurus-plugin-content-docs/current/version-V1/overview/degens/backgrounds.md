@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN-Hintergründe wurden beim Prägen zufällig zugewiesen, was entweder zu einem gemeinsamen Hintergrund oder einem von drei speziellen Hintergründen führte: **Selten**, **Meta**oder **Legendär**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Abgesehen davon, dass er cool aussieht, bietet der Hintergrund besondere Vorteile wie ein hervorragendes Aussehen im Spiel und zusätzliche Verdienstmultiplikatoren.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Gewinnmultiplikatoren
+## Earnings Multipliers
 
-- Selten: 1,5
-- Meta: 3
-- Legendär: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
