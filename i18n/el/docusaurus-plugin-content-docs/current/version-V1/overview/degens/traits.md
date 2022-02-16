@@ -6,4 +6,10 @@ sidebar_position: 4
 
 ![](/img/creation.png)
 
-Υπήρχαν συνολικά 1023 χαρακτηριστικά και 21 επιλέξιμες επιλογές μετά την επιλογή μιας φυλής, κάνοντας έναν σχεδόν άπειρο αριθμό συνδυασμών. Τα χαρακτηριστικά χαρακτήρων αφαιρέθηκαν τυχαία από το σύνολο των διαθέσιμων χαρακτηριστικών καθώς δημιουργήθηκαν περισσότεροι χαρακτήρες, καθιστώντας δύσκολο να γνωρίζουμε ποιες επιλογές θα κατέληγαν ως οι πιο σπάνιες. Ενώ οι τύποι υποβάθρου συνοδεύονται από ειδικά πλεονεκτήματα, τα χαρακτηριστικά είναι αυστηρά καλλυντικά. Ρίξτε μια ματιά [](https://opensea.io/collection/niftydegen) για να δείτε μερικές από τις εκπληκτικές δημιουργίες που δημιούργησε η κοινότητά μας!
+There were a total of 1,023 traits and 21 selectable options after choosing a tribe during our genesis minting experience, making an almost infinite number of DEGEN combinations.
+
+Character traits were randomly removed from the set of available traits as more charcters were created, making it difficult to know which options would end up as the rarest.
+
+**While [background types](https://docs.niftyleague.com/overview/degens/backgrounds) come with special benefits like earnings multipliers, character traits are strictly cosmetic.**
+
+Check out [OpenSea](https://opensea.io/collection/niftydegen) to see some of the amazing creations our community came up with while minting!
