@@ -4,23 +4,27 @@ title: Stammer
 sidebar_position: 2
 ---
 
-Vårt nåværende spill, Nifty Smashers, og alle fremtidige spill vil ha et spesielt trekk for hver karaktertype. Dette er listen over spesielle trekk i det første spillet:
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each tribe.
 
--![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)**Ape** - Kast bumerangbananer
+## Special Ability by tribe:
 
--![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)**Alien** - Teleport
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)**Ape**: throws boomerang bananas
 
--![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)**Katt** - Slå ned og få flaggermuskraft og fartsøkning midlertidig
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)**Alien**: teleports
 
--![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)**Frosk** - Tungegripekroken
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)**Cat**: pounces, has increased bat power, and temporary speed boost
 
--![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge myntrull
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)**Frog**: the tongue grapple hook
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Menneske** - Kast dynamitt som eksploderer på kommando
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge**: doge coin roll
 
-Lær mer om disse bevegelsessettene i vår [Smashers Guide](/guides/nifty-smashers/tribes)
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human**: throws dynamite that explodes on command
 
-I fremtiden ser vi for oss at nye "spesielle" stammer kan bli utgitt / reservert for skalerbarhet, nye spill, turneringsbelønninger og mer.
+<br></br>
+
+Learn more about these movesets in our [Smashers Guide](https://docs.niftyleague.com/guides/nifty-smashers/tribes).
+
+In the future, we envision introducing new "special" tribes may be released for scalability, new games, tournament rewards, and more.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
