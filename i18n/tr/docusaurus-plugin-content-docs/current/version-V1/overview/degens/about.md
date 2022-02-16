@@ -1,6 +1,6 @@
 ---
 id: Hakkında
-title: Hakkında
+title: genel bakış
 sidebar_position: 1
 ---
 
