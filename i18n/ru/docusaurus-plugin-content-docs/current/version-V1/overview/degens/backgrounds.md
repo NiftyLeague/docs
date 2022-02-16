@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Фоны DEGEN назначались случайным образом при чеканке, что приводило либо к общему фону, либо к одному из трех специальных фонов: **Редкий**, **Мета**или **Легендарный**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Помимо того, что фон выглядит круто, у него есть особые привилегии, такие как выдающийся внешний вид в игре и дополнительные множители заработка.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Мультипликаторы прибыли
+## Earnings Multipliers
 
-- Редкий: 1,5
-- Мета: 3
-- Легендарный: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
