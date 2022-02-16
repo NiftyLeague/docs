@@ -1,19 +1,19 @@
 ---
 id: bacana
-title: NiftyVerse
+title: Niftyverse
 sidebar_position: 1
 ---
 
-### 🚧 Em desenvolvimento para o segundo trimestre de 2022 🚧
+## 🚧 Under Development 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
 O terreno no NiftyVerse estará à venda em 2022.
 
-Qualquer um poderá possuir terras e construir no NiftyVerse.
+Anyone will be able to own land and build in the Niftyverse.
 
 Planejamos trabalhar com estúdios e artistas de jogos independentes para permitir que eles construam jogos da Nifty League no NiftyVerse!
 
 A primeira iteração será um metaverso de pixel art de cima para baixo, com o tema urbano de arte Sushi.
 
-Todas as compras de terrenos no Nifty Verse serão feitas usando NFTL.
+All land purchases in the Nifty Verse will be done using our token, [NFTL](https://docs.niftyleague.com/overview/nftl/overview).
