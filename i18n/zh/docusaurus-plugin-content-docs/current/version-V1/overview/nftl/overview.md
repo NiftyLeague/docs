@@ -4,14 +4,4 @@ title: 概述
 sidebar_position: 1
 ---
 
-The sale of our characters kicked off the initial distribution of our ecosystem’s native utility and governance token, [NFTL](https://www.coingecko.com/en/coins/nifty-league).
-
-NFTL is currently only available for trading and staking on [SushiSwap](https://sushi.com/).
-
-NFTL helps decentralize our ecosystem by ensuring important decisions regarding the direction of Nifty League are decided via the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview).
-
-NFTL serves a dual purpose of giving users voting rights on upcoming games and tournaments, as well paying for platform-wide expenses. For now, this only includes naming characters, but will soon be expanded to be used for purchasing additional in-game items and collectibles.
-
-Any NFTL used for naming characters is immediately burned (removed from circulation). When additional in-game items are introduced, 90% of all proceeds will be given to the Nifty League DAO, and the remaining 10% will be paid to the core team.
-
-NFTL will also be required to pay for Degen [Rentals](https://docs.niftyleague.com/guides/rentals/rental-overview), and to purchase land in the [Niftyverse](https://docs.niftyleague.com/overview/games/niftyverse).
+NFTL 通过确保有关 Nifty League 方向的重要决定由 Nifty DAO 决定，作为分散我们生态系统的一种方式。 出售我们的角色启动了我们生态系统的原生实用程序和治理令牌的初始分发；美国国家橄榄球联盟。 NFTL 具有双重目的，即赋予用户对即将到来的游戏和锦标赛的投票权以及用于平台范围内的开支。 目前，这仅包括命名角色，但可能会扩展到用于购买额外的游戏内物品、收藏品甚至潜在的未来角色。 任何用于命名字符的 NFTL 都会立即被烧毁或从流通中删除。 如果引入额外的游戏内物品，90% 的收益将捐给 Nifty DAO，剩下的 10% 支付给我们的团队。
