@@ -4,45 +4,56 @@ title: Heimo erityiskyvyt
 sidebar_position: 3
 ---
 
-Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
+**Nykyisessä pelissämme, Nifty Smashersissa, ja kaikissa tulevissa peleissämme on Special Ability ("SA") jokaiselle hahmotyypille.**
 
-![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
+### Luettelo erityiskyvyistä
+
+- **Ape** - Heitä bumerangibanaanit ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **Alien** - Teleport ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **Cat** - Hyppää ja saat mailan tehoa ja nopeutta väliaikaisesti ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **Sammakko** - kielikoukku ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **Doge** - Doge-kolikkorulla ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **Ihminen** - Heitä dynamiittia, joka räjähtää käskystä ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+
+### Ulkomaalainen
 
 - SA-painikkeen painaminen saa Alienin teleportaamaan lyhyen matkan haluttuun suuntaan (vasemmalle, oikealle, ylös, alas, diagonaalit)
 - Teleportoidussa paikassa tapahtuu energiaräjähdys, joka osuu lähellä seisoviin vastustajiin
 
-![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
+### Apina
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
-- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
+- SA-painikkeen painaminen heittää banaania kohdistettuun suuntaan (vasemmalle, oikealle, ylös, alas, diagonaalit), kunnes se **osuu vastustajaan**, osuu karttaosaan tai lentää pois kartalta
+- Painamalla SA-painiketta uudelleen, banaani lentää takaisin degeniin, jolloin vastustajaan on mahdollista lyödä uudelleen.
 - Banaaneja voi lyödä mailalla ja lentää haluttuun suuntaan
 
-![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
+### Kissa
 
-- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
-- Empored bat swing - bat hits harder
-- Empowered movement - cats run faster
-- Cats can double jump, jumping in mid-air
+- SA:n painaminen saa kissan pomppimaan. Lyhyen pommituksen jälkeen kissa saa voimaa.
+- Empored lepakon keinu: lepakko iskee kovemmin
+- Voimakas liike: kissat juoksevat nopeammin
+- Kissat voivat kaksinkertaisesti hypätä / hypätä ilmassa
 
-![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
+### Doge
 
-- Pressing and holding the SA button makes the doge roll
-- Hitting an opponent with doge roll makes them fly upwards in roll direction
+- Painamalla ja pitämällä SA-painiketta painettuna, doge rullaa.
+- Vastustajaa lyöminen doge-rullalla saa heidät lentämään hieman ylöspäin heiton suuntaan
 - Doge lennättää suunnattuun suuntaan
-- During doge roll, directions can be changed three times until the doge roll ends
+- Doge-rullan aikana suuntaa voidaan muuttaa kolme kertaa (ehkä kaksi kertaa päivityksen jälkeen), kunnes doge-rulla päättyy
+- Doge roll myös loppuu tietyn ajan kuluttua
 
-![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
+### Sammakko
 
-- Pressing the SA button makes the frog shoot his tongue
-- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
-- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
+- SA-painikkeen painaminen saa sammakon ampumaan kielensä
+- Kun kieli osuu vastustajaan, vastustaja vedetään sammakon suuntaan ja lentää hieman pidemmälle
+- Kun kieli osuu karttapalaan, sammakot vetäytyvät kyseiseen kohteeseen (esim. seinät, katto,...)
+- Kielellä voidaan ampua suunnattuun suuntaan (vasen, oikea, ylös, alas, diagonaalit)
 
-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
+### Ihmisen
 
 - SA-painikkeen painaminen heittää pommin kohdistettuun suuntaan (vasemmalle, oikealle, ylös, alas, diagonaalit)
-- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
-- The bomb explodes after some time or after the SA button is pressed a second time
-- Currently, the bomb can hit an opponent by hitting it or by explosion
+- Pommilla on lentävä kaarre, eikä se lennä suoraan kuin banaanit. Jos sitä ei räjäytä ennen ja pysyy maassa
+- Pommi räjähtää jonkin ajan kuluttua tai sen jälkeen, kun SA-painiketta painetaan toisen kerran
+- Tällä hetkellä pommi voi osua vastustajaan osumalla siihen tai räjähtämällä
+- Päivitetty suunnitelma: pommi räjähtää heti kontaktin jälkeen vastustajaan. Jos vastustajaa ei lyödä, se pysyy maassa, kunnes se räjähtää automaattisesti tai kun SA-painiketta on painettu toisen kerran
 - Pommit ovat ainoa SA, joka voi osua itse heittodegeniin räjähdyksellään
-- Bombs can also be hit with a bat and fly in the aimed direction
+- Pommeihin voidaan lyödä mailalla ja lentää kohdistettuun suuntaan
