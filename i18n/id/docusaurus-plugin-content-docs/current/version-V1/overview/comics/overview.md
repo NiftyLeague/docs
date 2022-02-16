@@ -4,30 +4,45 @@ title: Ringkasan
 sidebar_position: 1
 ---
 
-Seolah-olah proses pencetakan kami belum cukup menyenangkan untuk kalian... kami mengejutkan komunitas dengan koleksi komik peluncuran khusus Nifty League! Ini untuk mengucapkan terima kasih telah mencetak koleksi kami dan datang lebih awal 😁
+![](/img/NL_Comic_Burner.jpeg)
 
-Cuplikan untuk komik diambil selama proses pencetakan untuk 4 halaman komik pertama dengan pencapaian berikut: Halaman 1 - 2500 | Halaman 2 - 3500 | Halaman 3 - 5000 | Halaman 4 - 7500.
+During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
 
-Anda mungkin bertanya-tanya, "Apa yang harus saya lakukan dengan Komik?". Nah, Anda akan memiliki beberapa pilihan untuk dibuat karena mereka akan memiliki banyak utilitas. Jadi, ada permainan dalam permainan di sini bagi Anda untuk memilih jalan Anda sendiri.
+Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
 
-Koleksi Komik Liga Nifty terdiri dari 6 halaman dengan komik 5 dan 6 belum dirilis. Akan ada snapshot pada 1/31/2022 untuk komik 5 yang diberikan kepada semua pemegang DEGEN dan komik 6 diberikan kepada semua dompet yang berisi semua 6 suku DEGEN. Semua DEGEN latar belakang Meta akan menerima satu komik 6 dan semua DEGEN latar belakang Legendaris akan menerima dua komik 6! Ini akan tersedia melalui klaim di situs web kami.
+- Page 1 - 2500
+- Page 2 - 3500
+- Page 3 - 5000
+- Page 4 - 7500
 
-Setiap komik akan dapat dibakar di masa mendatang untuk menerima perangkat yang dapat dikenakan dalam game atau senjata sebagai ganti setiap halaman yang dibakar. Namun, jendela pembakaran ini tidak akan selamanya dan setiap pemegang akan dipaksa untuk membuat beberapa keputusan sulit untuk masa depan koleksi mereka.
+Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
 
-Satoshi memberi tahu kami bahwa dia menyukai koleksi lengkap di hampir semua hal…jadi pikirkan dua kali sebelum Anda membuat terlalu banyak keputusan di sini.
+The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
 
-**TL;DR**
+There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
+
+All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
+
+Setiap komik akan dapat dibakar di masa mendatang untuk menerima perangkat yang dapat dikenakan dalam game atau senjata sebagai ganti setiap halaman yang dibakar. These items modify a DEGEN's P2E multiplier when worn.
+
+Kami masih menentukan dengan tepat berapa banyak slot yang dapat diisi per DEGEN, tetapi hanya 1 dari setiap perangkat yang dapat dikenakan yang dapat ditetapkan per DEGEN NFT.
+
+Di bawah ini adalah penggambaran kekuatan pengganda yang dapat dikenakan untuk setiap perangkat yang dapat dikenakan terkait. The exact rates are still being determined.
+
+**Comic 1**: 💪💪💪💪💪  
+**Comic 2**: 💪💪💪💪  
+**Comic 3**: 💪💪💪  
+**Comic 4**: 💪💪  
+**Comic 5**: 💪  
+**Comic 6**: 💪💪💪💪💪💪
+
+## Summary
 
 - Setiap komik dapat dibakar untuk item yang dapat dipakai dalam game
 - NFT ini akan menjadi milik ERC-1155
 - Item memodifikasi pengganda P2E degen saat dipakai
 - Atau, Anda dapat menyimpan komik untuk utilitas masa depan yang belum kami ungkapkan
-- Semua 6 komik dapat dibakar bersama sebagai satu set untuk item misteri khusus
+- All 6 Comics can be burned together as a set for a special mystery item
 - Item misteri ini TIDAK akan mengubah pengganda P2E
 
-Di bawah ini adalah penggambaran kekuatan pengganda yang dapat dikenakan untuk setiap perangkat yang dapat dikenakan terkait. Tarif pastinya masih harus ditentukan.
-
-Komik 1 💪💪💪💪💪\ Komik 2 \ Komik 3 \ Komik 4 \ Komik 5 \ Komik 6
-
-
-Kami masih menentukan dengan tepat berapa banyak slot yang dapat diisi per DEGEN, tetapi hanya 1 dari setiap perangkat yang dapat dikenakan yang dapat ditetapkan per DEGEN NFT. 
+![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
