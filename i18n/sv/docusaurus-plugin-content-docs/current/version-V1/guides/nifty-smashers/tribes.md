@@ -4,45 +4,56 @@ title: Stams speciella förmågor
 sidebar_position: 3
 ---
 
-Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
+**Vårt nuvarande spel, Nifty Smashers, och alla framtida spel har en speciell förmåga (”SA”) för varje karaktärstyp.**
 
-![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
+### Lista över speciella förmågor
+
+- **Ape** - Kasta bumerangbananer ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **Alien** - Teleportera ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **Katt** - Släng och få fladdermuskraft och fartökning tillfälligt ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **Groda** - Tunggripkroken ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **Doge** - Doge myntrulle ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **Människan** - Kasta dynamit som exploderar på kommando ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+
+### Utomjording
 
 - Genom att trycka på SA-knappen kan Alien teleportera en kort sträcka i den riktade riktningen (vänster, höger, upp, ner, diagonaler)
 - Det är en energiexplosion på den teleporterade platsen och träffar motståndare som står nära
 
-![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
+### Apa
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
-- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
+- Att trycka på SA-knappen kastar en banan i den riktade riktningen (vänster, höger, upp, ner, diagonaler) tills den **träffar en motståndare**, träffar en kartdel eller flyger från kartan
+- Genom att trycka på SA-knappen igen får bananen att flyga tillbaka till degen, vilket gör det möjligt att träffa en motståndare igen.
 - Bananer kan slås med ett slagträ och flyga i den riktade riktningen
 
-![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
+### Katt
 
-- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
-- Empored bat swing - bat hits harder
-- Empowered movement - cats run faster
-- Cats can double jump, jumping in mid-air
+- Att trycka på SA får katten att kasta sig. Efter att ha slagit en kort stund får katten kraft.
+- Empored fladdermussving: fladdermus slår hårdare
+- Befogad rörelse: katter springer snabbare
+- Katter kan dubbelhoppa/hoppa i luften
 
-![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
+### Doge
 
-- Pressing and holding the SA button makes the doge roll
-- Hitting an opponent with doge roll makes them fly upwards in roll direction
+- Genom att trycka och hålla ner SA-knappen får dogen att rulla.
+- Att träffa en motståndare med doge roll får dem att flyga en bit uppåt i rollriktningen
 - Doge kommer att fly-rulla i den riktade riktningen
-- During doge roll, directions can be changed three times until the doge roll ends
+- Under doge roll kan riktningar ändras tre gånger (kanske två gånger efter uppdatering) tills doge roll tar slut
+- Doge roll slutar också efter en viss tid
 
-![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
+### Groda
 
-- Pressing the SA button makes the frog shoot his tongue
-- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
-- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
+- Genom att trycka på SA-knappen får grodan att skjuta med tungan
+- När tungan träffar en motståndare, dras den mot grodornas riktning och flyger lite längre
+- När tungan träffar en kartbit drar grodorna sig till det föremålet (t.ex. väggar, tak,...)
+- Tungan kan skjutas i den riktade riktningen (vänster, höger, upp, ner, diagonaler)
 
-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
+### Mänsklig
 
 - Ett tryck på SA-knappen kastar en bomb i den riktade riktningen (vänster, höger, upp, ner, diagonaler)
-- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
-- The bomb explodes after some time or after the SA button is pressed a second time
-- Currently, the bomb can hit an opponent by hitting it or by explosion
+- Bomben har en flygande kurva och flyger inte rakt som bananer. Om den inte detonerats innan och stannar på marken
+- Bomben exploderar efter en tid eller efter att SA-knappen trycks in en andra gång
+- För närvarande kan bomben träffa en motståndare genom att träffa den eller genom explosion
+- Uppdaterad plan: bomb detonerar direkt efter kontakt med en motståndare. Om ingen motståndare träffas, stannar den på marken tills den exploderar automatiskt eller efter att ha tryckt på SA-knappen andra gången
 - Bomber är den enda SA som kan träffa själva kastaren med sin explosion
-- Bombs can also be hit with a bat and fly in the aimed direction
+- Bomber kan slås med ett slagträ och flyga i den riktade riktningen
