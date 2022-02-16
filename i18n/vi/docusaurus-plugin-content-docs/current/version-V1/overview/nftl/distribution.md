@@ -1,17 +1,23 @@
 ---
 id: phân bổ
-title: Phân phối (Năm đầu tiên)
+title: Distribution (Year 1)
 sidebar_position: 2
 ---
 
-Hiện tại không có bộ nguồn cung tối đa nào, nhưng chúng tôi dự kiến khoảng **1 Tỷ NFTL** sẽ được phân phối trong năm tới.
+There is no max supply set currently, but we expect around 1 Billion NFTL to be distributed over the calendar year post-mint (through September 2022)
 
-**Quà tặng cộng đồng**
+![](/img/NFTL_Distribution_Year_1_Nifty_League.png)
 
-Mọi dự án đều cần những meme chất lượng! Tham gia **[Nifty League Discord](https://discord.gg/niftyleague)** để có quyền truy cập vào các bản phân phối NFTL miễn phí cho các thành viên cộng đồng, những người khiến tất cả chúng ta cười hoặc vượt lên trên và hơn thế nữa là đóng góp vào các cuộc thảo luận. Để tạo điều kiện thuận lợi cho việc này, chúng tôi đã định cấu hình một bot mẹo cho nhóm của chúng tôi và người kiểm duyệt để thu hút người dùng Discord. Chúng tôi đã chi tổng cộng 7 triệu NFTL thông qua bot tip trong hai tháng đầu tiên! Như đã lưu ý trước đó, những mẹo này sẽ vẫn có sẵn cho các thành viên Discord đang hoạt động trong tương lai nhưng tỷ lệ dự kiến sẽ thấp hơn nhiều.
+## Community Giveaways
 
-**Nguồn cung ban đầu**
+Mọi dự án đều cần những meme chất lượng! Join the [Nifty League Discord](https://discord.gg/niftyleague) for access to free NFTL distributions to community members who go above and beyond contributing to discussions. To facilitate this, we've configured a [Discord tip bot](https://tip.cc/) for our team and community moderators to tip Degens in the server. Please note, we spent a combined total of 7M NFTL via the tip bot over the first two months post-mint for marketing.
 
-Vào tháng 9 năm 2021, chúng tôi đã quyết định đóng airdrop sớm cho những người nắm giữ AXS của mình và thưởng cho những người nắm giữ DEGEN của chúng tôi tổng cộng 212,85 triệu mã thông báo NFTL. Một phần trong số các mã thông báo này có thể được xác nhận khi mua DEGEN NFT và phần còn lại đã được chuyển phát nhanh cho người nắm giữ trước khi bán dựa trên ảnh chụp nhanh được chụp tại **[Block # 13360120](https://etherscan.io/block/13360120)**. Trong khi hợp đồng airdrop AXS được mở, tổng cộng 256 nghìn NFTL đã được yêu cầu.
+## Initial Supply
 
-100 triệu NFTL đã được phân bổ cho quỹ phát triển nhóm có thời hạn 6 tháng kể từ **[Block # 13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf)**. 100 triệu NFTL khác đã được cung cấp cho kho bạc **[](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1)** để hỗ trợ các kế hoạch cộng đồng ban đầu như khuyến khích thanh khoản, phần thưởng giải đấu hoặc quà tặng. Điều này đưa nguồn cung ban đầu lên khoảng 420M với lượng phát thải hàng ngày cho tất cả các chủ sở hữu NFT nguồn gốc bắt đầu ngay sau mỗi lần bán nhân vật.
+In September 2021, we decided to close our AXS holders airdrop early and reward our Degen holders with 212.85M NFTL in total. A portion of these tokens were claimable when purchasing a Degen NFT, and the rest were airdropped to holders prior to the sale based on a snapshot taken at [Block #13360120](https://etherscan.io/block/13360120). Please note, a total of 256K NFTL was claimed while the AXS airdrop contract was open.
+
+100M NFTL was allocated for a team development fund which is time-locked for 6 months from [Block #13228502](https://etherscan.io/tx/0x3649b00464903b78608f8de9308aec339ecd7446f1dc2de26a9913d2d5468ecf).
+
+100M NFTL was provided to the [Nifty League DAO Treasury](https://etherscan.io/address/0xd06ae6fb7eade890f3e295d69a6679380c9456c1) to support early community plans such as liquidity incentives, tournament rewards, or giveaways.
+
+This brings the initial supply to around 420M with daily emissions for all genesis NFT owners starting immediately after each character sale.
