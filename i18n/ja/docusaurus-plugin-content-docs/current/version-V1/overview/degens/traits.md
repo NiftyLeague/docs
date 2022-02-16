@@ -6,4 +6,10 @@ sidebar_position: 4
 
 ![](/img/creation.png)
 
-部族を選択した後、合計1023の特性と21の選択可能なオプションがあり、ほぼ無限の数の組み合わせを作成しました。 より多くのキャラクターが作成されるにつれて、キャラクターの特性は利用可能な特性のセットからランダムに削除され、どのオプションが最も希少になるかを知ることが困難になりました。 背景タイプには特別な利点がありますが、特性は厳密に表面的なものです。 [OpenSea](https://opensea.io/collection/niftydegen) をチェックして、私たちのコミュニティが思いついた素晴らしい作品のいくつかを見てください！
+There were a total of 1,023 traits and 21 selectable options after choosing a tribe during our genesis minting experience, making an almost infinite number of DEGEN combinations.
+
+Character traits were randomly removed from the set of available traits as more charcters were created, making it difficult to know which options would end up as the rarest.
+
+**While [background types](https://docs.niftyleague.com/overview/degens/backgrounds) come with special benefits like earnings multipliers, character traits are strictly cosmetic.**
+
+Check out [OpenSea](https://opensea.io/collection/niftydegen) to see some of the amazing creations our community came up with while minting!
