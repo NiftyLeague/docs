@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Nền DEGEN được chỉ định ngẫu nhiên khi đúc tiền dẫn đến nền Chung hoặc một trong ba nền đặc biệt: **Hiếm**, **Meta**hoặc **Huyền thoại**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Ngoài vẻ ngoài bắt mắt, nền còn đi kèm với các đặc quyền như giao diện nổi bật trong trò chơi và hệ số thu nhập ngoại hối.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Hệ số thu nhập
+## Earnings Multipliers
 
-- Hiếm: 1,5
-- Meta: 3
-- Huyền thoại: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
