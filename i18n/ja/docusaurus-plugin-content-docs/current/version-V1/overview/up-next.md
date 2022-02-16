@@ -1,105 +1,105 @@
 ---
 id: ロードマップ
-title: 次へ➡️
+title: ロードマップ
 sidebar_position: 9
 ---
 
-追加のゲームに加えて、プラットフォームを成長させ続けるためのいくつかのアイデアが用意されています。 私たちの主な目標の1つは、NFTマーケットプレイスを立ち上げたり、提携したりして、ゲーム用の車や特殊な武器などの再利用可能なNFTを収集できるようにすることです。 これらのスマートコントラクトは、ERC-1155イーサリアムマルチトークン標準を拡張して、それぞれの可用性に制限が設定された代替不可能なアイテムを作成します。 ゲームをプレイするためのボーナスとして、ここで購入できるアイテムを、販売したりゲーム内で使用したりできるプレーヤーに授与したいと思います。 私たちが検討しているもう1つのオプションは、燃やして内部の収集品を明らかにすることができる宝箱などのリリースされたNFTを授与することです。
-
 ![](/img/nifty_roadmap.png)
 
-## デゲンミンティング
+追加のゲームに加えて、プラットフォームを成長させ続けるためのいくつかのアイデアが用意されています。 私たちの主な目標の1つは、ゲーム用の車、特殊な武器、ウェアラブルなどの再利用可能なNFTを収集できるマーケットプレイスを立ち上げることです。 これらのスマートコントラクトは、ERC-1155イーサリアムマルチトークン標準を拡張して、それぞれの可用性に制限が設定された代替不可能なアイテムを作成します。 ゲームをプレイするためのボーナスとして、ここで購入できるアイテムを、販売したりゲーム内で使用したりできるプレーヤーに授与したいと思います。 私たちが検討しているもう1つのオプションは、燃やして内部の収集品を明らかにすることができる宝箱などのリリースされたNFTを授与することです。
 
-Nifty League DEGEN NFTは、2021年9月末に私たちのコミュニティによって実現されました。 [Mint-O-Matic **を使用して、ミンターが独自のDEGENを設計できるようにするユニークな光景でした。](https://niftyleague.com/mint-o-matic)
+## デゲンミンティング✅
 
-## ニフティスマッシャーズアルファ
+Nifty League DEGEN NFTは、2021年9月末に私たちのコミュニティによって実現されました。 [Mint-O-Matic](https://niftyleague.com/mint-o-matic)を使用して、ミンターが独自のDEGENを設計できるようにするユニークな光景でした。
 
-私たちのNFTの打ち上げは、多くのゲームの私たちの最初の当面の空室状況と一致**[ニフティSmashers](http://localhost:3000/games)**。 <div>
+## ニフティスマッシャーズアルファローンチ✅
+
+Our NFT launch coincided with the immediate availability of our first of many games, [Nifty Smashers](http://localhost:3000/games). <div>
   <video width="100%" height="100%" playsInline controls loop>
   <source src="https://www.youtube.com/watch?v=WWLqE1tnf6U&feature=youtu.be" />
   お使いのブラウザはビデオタグをサポートしていません。
   </video>
   </div>
 
-## デスクトップアプリ
+## デスクトップアプリ✅
 
-**[デスクトップのApp](https://niftyleague.com/games)**Windowsユーザーのために今生きています！ *（MacOSはもうすぐです）*
+The [Desktop App](https://niftyleague.com/games) is now live for Windows users! MacOS is right around the corner.
 
-以前のWebGLビルドでのブラウザーの制限を考慮して、すべてのゲームを格納し、Discord統合を含めるランチャーの作成に当面の努力を集中することにしました。 メモリ制限が問題にならないようになったので、追加のアニメーション、ムーブセット、その他のNFTプロジェクトを自由に導入できますが、ユーザーのpingは大幅に改善されます。
+以前のWebGLビルドでのブラウザーの制限を考慮して、すべてのゲームを収容し、Discordソーシャル統合を含めるためのランチャーの作成に当面の努力を集中することに重点を置きました。 メモリ制限が問題にならないようになったので、追加のアニメーション、ムーブセット、およびその他のNFTプロジェクトを自由に導入できます。その一方で、ユーザーのpingを大幅に改善します。
+
+## Play-and-earn ✅
+
+あなたが実際に楽しんでいるゲームをプレイしながらお金を稼ぐのはどれほどクールですか？ With the rollout of our P&E system you can accumulate NFTL through casual matches in Nifty Smashers. 最大の賞金は、試合で1位を獲得した人に贈られますが、得点と勝利ラウンドを通じてNFTLを獲得することもできます。 潜在的な収益からペナルティが差し引かれるので、マップから落ちないように注意してください！
+
+## Merchandise ✅
+
+私たちのコミュニティは、彼らのクールなDEGENSを路上で披露するのを待ちきれません！ 2つの衣料品ラインを含む商品市場を発表できることを嬉しく思います。 The first having a strong gaming slant similar to Pokémon, while the other will be focused on a rad streetwear aesthetic.
+
+## 漫画
+
+Our team has been slowly hinting at the upcoming utilities for comics - as you may already be aware you will be able to burn each page for special in-game items that increase your DEGEN's NFTL multiplier.
+
+We previously airdropped our initial 4 Comic pages to minters and still have 2 pages remaining for DEGEN holders. Word from Satoshi - securing a full collection is highly recommended.
+
+## レンタル
+
+私たちのプレイヤーベースは現在、ユニークなDEGENNFTホルダーの数に制限されています。 私たちは、私たちのエコシステムの中心に立つ私たちの起源であるDEGEN部族を切り下げずに、プラットフォームを可能な限り拡張したいと考えています。
+
+Rather than inflating the character supply, we are introducing a bespoke rental system allowing DEGEN holders to earn NFTL daily through fees. 各DEGENは無期限に借りることができますが、そうするためのコストは、追加のレンタルごとに指数関数的に増加します。 これにより、貴重なアイテム、ウェアラブル、または背景を備えたものの方がNFTL乗数によって収益率が高くなるため、市場は各DEGENの価格を個別に決定し、レンタルを全面的に分散させることができます。
 
 ## リーダーボード
 
-私たちのゲームは競争力があることを目的としています。 FVSVYのようなスタープレーヤーがトップにいるリーダーボードよりも、これを紹介するためのより良い方法はありますか？ NiftyVerseのすべてのゲームについて、毎日、毎週、毎月、そしてもちろん常にリーダーのゲーム統計を含めます。
-
-## Play-2-Earn
-
-あなたが実際に楽しんでいるゲームをプレイしながらお金を稼ぐのはどれほどクールですか？ P2Eシステムの展開により、NiftySmashersでのカジュアルな試合を通じてNFTLの蓄積を開始できるようになります。 最大の賞金は、試合で1位を獲得した人に贈られますが、得点と勝利ラウンドを通じてNFTLを獲得することもできます。 潜在的な収益からペナルティが差し引かれるので、マップから落ちないように注意してください！
+私たちのゲームは競争力があることを目的としています。 FVSVYのようなスタープレーヤーがトップにいるリーダーボードよりも、これを紹介するためのより良い方法はありますか？ We'll include game stats for daily, weekly, monthly, and of course all-time leaders for all of our games in the Niftyverse.
 
 ## ニフティスマッシャーズベータ
 
 開発の初期段階からでも非常に有望に見える新しいネットコードソリューションを実装しています。 これによりラグが大幅に改善されるだけでなく、ライブゲームのブロードキャストや、アーカイブからリプレイをすぐに利用できるようにするなど、いくつかの優れた機能が期待できます。
 
-## Degenレンタル
+## Free-to-play
 
-私たちのプレイヤーベースは現在、ユニークなDEGENNFTホルダーの数に制限されています。 私たちは、私たちのエコシステムの中心に立つ私たちの起源であるDEGEN部族を切り下げずに、プラットフォームを可能な限り拡張したいと考えています。
-
-一部のプロジェクトのようにキャラクターの供給を増やすのではなく、DEGEN保有者が手数料を通じて毎日NFTLを獲得できるようにする特注のレンタルシステムを導入しています。 各DEGENは無期限に借りることができますが、そうするためのコストは、追加のレンタルごとに指数関数的に増加します。 これにより、貴重なアイテム、ウェアラブル、または背景を備えたものの方がNFTL乗数によって収益率が高くなるため、市場は各DEGENの価格を個別に決定し、レンタルを全面的に分散させることができます。
-
-## 無料-2-プレイ
-
-最後のポイントを読むと、プラットフォームのスケーリングが優先度が高いことがわかります。 このプロセスの一部は、DEGENを所有またはレンタルする余裕がない可能性のある新規ユーザーのオンボーディングです。 私たちの無料2プレイオプションでは、新しいユーザーが一般的なキャラクターを使用して試合に参加できるようになります。これにより、各部族の特別な動きを試すことができますが、さらに重要なのは、レンタル料金を支払うのに十分なNFTLが得られるまでそれを粉砕することです。
-
-## マーチ
-
-私たちのコミュニティは、彼らのクールなDEGENSを路上で披露するのを待ちきれません！ 2つの衣料品ラインを含む商品市場を発表できることを嬉しく思います。 **ポケモンに似た強いゲームの傾斜を持っており** つはラッドストリートウェアの美学に焦点を当てています。
-
-## 漫画
-
-私たちのチームは、コミックの今後のユーティリティをゆっくりとほのめかしています-すでに知っているかもしれませんが、DEGENのNFTL乗数を増やす特別なゲーム内アイテムのために各ページを焼き付けることができます...しかし、楽しみはそれだけではありません！！
-
-私たちは以前、最初の4つのコミックページをミンターに空中投下しましたが、2022年の初めにまだ2ページがDEGEN保有者のために残っています。 Wordは智から-フルコレクションを確保するか、2がある _の高い_ お勧めします。
+Scaling our platform is a high priority. このプロセスの一部は、DEGENを所有またはレンタルする余裕がない可能性のある新規ユーザーのオンボーディングです。 Our free-2-play option will allow new users to join matches using a generic character that allows them to test out each tribe’s special move, but more importantly - grind it out until they have enough NFTL to pay for a rental.
 
 ## アイテムマーケットプレイス
 
-私たちはImmutableXチームと協力して、来年初めにアイテムマーケットプレイスを立ち上げています。 ゲーム内のDEGENSを強化するために、クールなスキン、武器、消耗品などが提供されます。 いくつかのアイテムはクールな化粧品の追加かもしれませんが、多くはプレイ2獲得のためのNFTL乗数を含みます。
+私たちはImmutableXチームと協力して、2022年初頭にアイテムマーケットプレイスを立ち上げています。 Offerings will include skins, weapons, consumable items, and more to enhance your DEGENS in-game. いくつかのアイテムは化粧品の追加であるかもしれませんが、多くは遊びと稼ぎのためのNFTL乗数を含みます。
 
 アイテムはNFTLを介して数量限定で販売されます。 すべての収益の70％が燃やされ、残りは最初の収入源としてDAOに送られます。
 
-## DAO
+## Nifty League DAO
 
-プラットフォームを分散化し、開発者に構築を支援するために、NiftyLeagueの所有権をDAOに徐々に譲渡します。 私たちのビジョンは、コミュニティの貢献を通じて急速な成長と発展を促進し、他に類を見ないゲームプラットフォームを構築できるようにすることです。 簡単に言えば、DAOは未来です。 世界をリードするGameFiプラットフォームになるための唯一の道は、一緒に構築することです。 💜
+プラットフォームを分散化し、開発者に構築を支援するために、NiftyLeagueの所有権をDAOに徐々に譲渡します。 私たちのビジョンは、コミュニティの貢献を通じて急速な成長と発展を促進し、他に類を見ないゲームプラットフォームを構築できるようにすることです。 簡単に言えば、DAOは未来です。 世界をリードするGameFiプラットフォームになるための唯一の道は、一緒に構築することです。
 
-## ニフティリーグモバイル
+## Mobile
 
 今後、すべてのゲームはモバイル対応になります。 モバイルプラットフォームを使用するゲーマーが集中しているため、このリリースはプロジェクトにとって極めて重要であると考えています。
 
 ## ゲーム内チャット
 
-NiftyVerseの準備として、ゲーム内チャットをリリースして、DEGENフレンズと話したりテキストを送信したりすることから始めます。 人気のあるリクエストであるため、これはタイムラインの早い段階で導入される可能性もありますので、ご期待ください。
+In preparation for the Niftyverse we will start by releasing an in-game chat for you to talk or text with DEGEN frens. 人気のあるリクエストであるため、これはタイムラインの早い段階で導入される可能性もありますので、ご期待ください。
 
-## NiftyVerse
+## Niftyverse
 
-NiftyVerseへようこそ。楽しみながら繁栄するゲームコミュニティを構築するという共通のビジョンを持った、DEGENSとNFTのコミュニティで満たされた世界。 NiftyVerseを他のメタバースと一線を画すのは、p2eゲームが目玉であるということです。 楽しいミニゲームでいっぱいのアーケードルームに足を踏み入れたり、マップ上の目的地に足を踏み入れて、NiftySmashersやNiftyKartなどのクラシックなタイトルに飛び込んでください。
+Welcome to the Niftyverse - a world filled with DEGENS and NFT communities alike with a shared vision to have fun and build a thriving gaming community. What makes the Niftyverse stand apart from other metaverses is our P&E games being the centerpiece. 楽しいミニゲームでいっぱいのアーケードルームに足を踏み入れたり、マップ上の目的地に足を踏み入れて、NiftySmashersやNiftyKartなどのクラシックなタイトルに飛び込んでください。
 
-世界は、ニフティスマッシャーで人気のSushiswapレベルを彷彿とさせる都市を中心にしています。 物事を開始するために、私たちは市内でプレミアムオプション付きの土地販売と、市域外のより安価な未開発の土地を開催します。 すべての行動が行われる都市でプレミアムな土地を取得することには、適切と思われる方法で設計できる建物がすでに設置されているという追加の利点があります。
+The world is centered around a city reminiscent of our popular SushiSwap level in Nifty Smashers. 物事を開始するために、私たちは市内でプレミアムオプション付きの土地販売と、市域外のより安価な未開発の土地を開催します。 すべての行動が行われる都市でプレミアムな土地を取得することには、適切と思われる方法で設計できる建物がすでに設置されているという追加の利点があります。
 
-クリエイティブタイプの方は、この機会をお見逃しなく。建物や樹木などのアセットを設計し、定義された制限と価格に基づいて販売用にリストするためのアセットストアを用意しています。 クールなDEGENテーマパークまたはCyberKongzミートアップが必要ですか？ あなたの心が望むものにNiftyVerseを構築してください！
+クリエイティブタイプの方は、この機会をお見逃しなく。建物や樹木などのアセットを設計し、定義された制限と価格に基づいて販売用にリストするためのアセットストアを用意しています。 クールなDEGENテーマパークまたはCyberKongzミートアップが必要ですか？ Build out the Niftyverse to whatever your heart desires!
 
-ああ...そして、土地と資産はNFTL（その一部は燃やされる）で販売されるので、p2eの収益を抑える価値があるかもしれないことに注意する価値があります。
+The land and assets will be sold with NFTL (a portion of which will be burned).
 
 ## ペット
 
-NiftyVerseの発売に続いて、DEGENSにクールなペットを紹介します！ 多くのコミュニティメンバーから、サトシの **[Mint-O-Matic](https://niftyleague.com/mint-o-matic)**捨てて持ち帰るように言われましたが、これ以上同意することはできませんでした。
+Following our Niftyverse launch we will introduce cool pets for your DEGENS! 多くのコミュニティメンバーから、サトシの **[Mint-O-Matic](https://niftyleague.com/mint-o-matic)**捨てて持ち帰るように言われましたが、これ以上同意することはできませんでした。
 
 DEGEN NFTの所有者は、ホワイトリストスポットを受け取り、コミュニティが自由にペットを作成できるようにします。 残りのペットについては公募が続きます。 最初の鋳造体験を逃した場合は、これをカレンダーに残しておいてください！
 
 ## ニフティロワイヤル
 
-それ以降のゲームはDAOによって投票されることに注意することが重要です。 最初に紹介したいゲームの1つは、NiftyVerseをベースにした楽しいバトルロワイヤルです。
+それ以降のゲームはDAOによって投票されることに注意することが重要です。 One of the first games we'd like to introduce is a fun battle royale based in the Niftyverse.
 
 ## ニフティカート
 
-Web3のひねりを加えて子供の頃のお気に入りを追体験する力を認識しているため、オールドスクールのクラシックは私たちのゲーム提供の中核です。 & カート所有し、NFTLのレースに備えましょう！
+Old school classics are core to our game offerings as we recognize the power of reliving childhood favorites with a web3 twist. & カート所有し、NFTLのレースに備えましょう！
 
 ## Gen2DEGENS
 
