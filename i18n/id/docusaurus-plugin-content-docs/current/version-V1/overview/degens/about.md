@@ -1,6 +1,6 @@
 ---
 id: Tentang
-title: Tentang
+title: Ringkasan
 sidebar_position: 1
 ---
 
