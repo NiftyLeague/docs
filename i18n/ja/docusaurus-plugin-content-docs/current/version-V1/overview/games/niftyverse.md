@@ -1,19 +1,19 @@
 ---
 id: 気の利いた
-title: NiftyVerse
+title: Niftyverse
 sidebar_position: 1
 ---
 
-### 🚧2022年第2四半期に開発中🚧
+## 🚧 Under Development 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
 NiftyVerseの土地は2022年に売りに出されます。
 
-誰でも土地を所有し、NiftyVerseに建てることができます。
+Anyone will be able to own land and build in the Niftyverse.
 
 インディーゲームスタジオやアーティストと協力して、NiftyVerseでNiftyリーグゲームを構築できるようにする予定です。
 
 最初のイテレーションは、都会の寿司アートをテーマにしたトップダウンのピクセルアートメタバースです。
 
-Nifty Verseでの土地購入はすべて、NFTLを使用して行われます。
+All land purchases in the Nifty Verse will be done using our token, [NFTL](https://docs.niftyleague.com/overview/nftl/overview).
