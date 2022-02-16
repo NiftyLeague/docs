@@ -1,6 +1,6 @@
 ---
 id: 約
-title: 約
+title: 概要
 sidebar_position: 1
 ---
 
