@@ -6,4 +6,10 @@ sidebar_position: 4
 
 ![](/img/creation.png)
 
-Всего было 1023 черты и 21 выбираемый вариант после выбора племени, что составляло почти бесконечное количество комбинаций. Черты характера были случайным образом удалены из набора доступных черт по мере создания большего количества персонажей, что затрудняло определение того, какие варианты окажутся самыми редкими. В то время как типы фона имеют особые преимущества, черты носят чисто косметический характер. Посетите [OpenSea](https://opensea.io/collection/niftydegen) чтобы увидеть некоторые из удивительных творений, которые придумало наше сообщество!
+There were a total of 1,023 traits and 21 selectable options after choosing a tribe during our genesis minting experience, making an almost infinite number of DEGEN combinations.
+
+Character traits were randomly removed from the set of available traits as more charcters were created, making it difficult to know which options would end up as the rarest.
+
+**While [background types](https://docs.niftyleague.com/overview/degens/backgrounds) come with special benefits like earnings multipliers, character traits are strictly cosmetic.**
+
+Check out [OpenSea](https://opensea.io/collection/niftydegen) to see some of the amazing creations our community came up with while minting!
