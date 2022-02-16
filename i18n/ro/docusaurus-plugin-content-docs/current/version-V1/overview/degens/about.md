@@ -1,6 +1,6 @@
 ---
 id: Despre
-title: Despre
+title: Prezentare generală
 sidebar_position: 1
 ---
 
