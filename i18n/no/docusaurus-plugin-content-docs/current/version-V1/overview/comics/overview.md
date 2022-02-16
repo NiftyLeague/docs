@@ -4,45 +4,30 @@ title: Oversikt
 sidebar_position: 1
 ---
 
-![](/img/NL_Comic_Burner.jpeg)
+Som om pregeprosessen vår ikke allerede var morsom nok for dere... vi overrasket fellesskapet med en spesiell Nifty League-lanseringsseriekolleksjon! Dette var for å si takk for at du preget samlingen vår og for at du var tidlig ute 😁
 
-During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
+Øyeblikksbilder for tegneserier ble tatt gjennom pregeprosessen for de første 4 tegneseriesidene ved følgende milepæler: Side 1 - 2500 | Side 2 - 3500 | Side 3 - 5000 | Side 4 - 7500.
 
-Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
+Du lurer sikkert på: "Hva gjør jeg med tegneseriene?". Vel, du kommer til å ha noen valg å gjøre, da de vil ha flere verktøy. Så det er et spill i et spill her for deg å velge din egen vei.
 
-- Page 1 - 2500
-- Page 2 - 3500
-- Page 3 - 5000
-- Page 4 - 7500
+Nifty League Comic Collection består av 6 sider med tegneserier 5 og 6 som ennå ikke er utgitt. Det vil være et øyeblikksbilde 31.1.2022 for tegneserie 5 tildelt alle DEGEN-innehavere og tegneserie 6 tildelt alle lommebøker som inneholder alle 6 DEGEN-stammer. Alle metabakgrunnsDEGENS vil motta en tegneserie 6 og alle legendariske bakgrunnsDEGENS vil motta to tegneserier! Disse vil bli gjort tilgjengelig via et krav på vår nettside.
 
-Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
+Hver tegneserie vil være brennbar på en fremtidig dato for å motta en bærbar eller våpen i spillet i bytte for hver side som brennes. Imidlertid vil dette brennevinduet ikke vare for alltid, og hver innehaver vil bli tvunget til å ta noen tøffe avgjørelser for fremtiden for samlingen deres.
 
-The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
+Satoshi fortalte oss at han elsker fulle samlinger i omtrent alt…så tenk deg om to ganger før du tar for mange avgjørelser her.
 
-There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
-
-All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
-
-Hver tegneserie vil være brennbar på en fremtidig dato for å motta en bærbar eller våpen i spillet i bytte for hver side som brennes. These items modify a DEGEN's P2E multiplier when worn.
-
-Vi bestemmer fortsatt nøyaktig hvor mange plasser som kan fylles per DEGEN, men bare 1 av hver wearable kan tilordnes per DEGEN NFT.
-
-Nedenfor er en skildring av bærbar multiplikatorstyrke for hver tilsvarende wearable. The exact rates are still being determined.
-
-**Comic 1**: 💪💪💪💪💪  
-**Comic 2**: 💪💪💪💪  
-**Comic 3**: 💪💪💪  
-**Comic 4**: 💪💪  
-**Comic 5**: 💪  
-**Comic 6**: 💪💪💪💪💪💪
-
-## Summary
+**TL;DR**
 
 - Hver tegneserie kan brennes for en gjenstand i spillet
 - Disse NFT-ene vil være ERC-1155-er
 - Elementer endrer en degens P2E-multiplikator når de bæres
 - Alternativt kan du holde tegneseriene for fremtidig bruk som vi ennå ikke har avslørt
-- All 6 Comics can be burned together as a set for a special mystery item
+- Alle 6 tegneseriene kan brennes sammen som et sett for en spesiell mystisk gjenstand
 - Dette mystiske elementet vil IKKE endre P2E-multiplikatoren
 
-![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
+Nedenfor er en skildring av bærbar multiplikatorstyrke for hver tilsvarende wearable. De nøyaktige satsene skal fortsatt fastsettes.
+
+Tegneserie 1 💪💪💪💪💪\ Tegneserie 2 💪💪💪💪\ Tegneserie 3 💪💪💪\ Tegneserie 4 💪💪\ Tegneserie 5 💪\ Tegneserie 6 💪💪💪💪
+
+
+Vi bestemmer fortsatt nøyaktig hvor mange plasser som kan fylles per DEGEN, men bare 1 av hver wearable kan tilordnes per DEGEN NFT. 
