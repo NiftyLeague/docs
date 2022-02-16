@@ -4,4 +4,14 @@ title: Yleiskatsaus
 sidebar_position: 1
 ---
 
-NFTL toimii tapana hajauttaa ekosysteemiämme varmistamalla, että tärkeät Nifty Leaguen suuntaa koskevat päätökset tehdään Nifty DAO:n kautta. Hahmoidemme myynti aloitti ekosysteemimme alkuperäisen hyödyllisyys- ja hallintotunnuksen alkuperäisen jakelun; NFTL. NFTL:llä on kaksi tarkoitusta: antaa käyttäjille äänioikeus tulevissa peleissä ja turnauksissa sekä sitä käytetään alustanlaajuisiin kuluihin. Toistaiseksi tämä sisältää vain hahmojen nimeämisen, mutta sitä voidaan laajentaa käytettäväksi lisäpelien sisäisten esineiden, keräilyesineiden tai jopa mahdollisten tulevien hahmojen ostamiseen. Mikä tahansa merkkien nimeämiseen käytetty NFTL poltetaan välittömästi tai poistetaan käytöstä. Jos ja kun uusia pelin sisäisiä esineitä tuodaan esille, 90% kaikista tuotoista annetaan Nifty DAO:lle ja loput 10% maksetaan tiimillemme.
+The sale of our characters kicked off the initial distribution of our ecosystem’s native utility and governance token, [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+
+NFTL is currently only available for trading and staking on [SushiSwap](https://sushi.com/).
+
+NFTL helps decentralize our ecosystem by ensuring important decisions regarding the direction of Nifty League are decided via the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview).
+
+NFTL serves a dual purpose of giving users voting rights on upcoming games and tournaments, as well paying for platform-wide expenses. For now, this only includes naming characters, but will soon be expanded to be used for purchasing additional in-game items and collectibles.
+
+Any NFTL used for naming characters is immediately burned (removed from circulation). When additional in-game items are introduced, 90% of all proceeds will be given to the Nifty League DAO, and the remaining 10% will be paid to the core team.
+
+NFTL will also be required to pay for Degen [Rentals](https://docs.niftyleague.com/guides/rentals/rental-overview), and to purchase land in the [Niftyverse](https://docs.niftyleague.com/overview/games/niftyverse).
