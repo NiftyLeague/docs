@@ -13,129 +13,85 @@ sidebar_position: 2
 
 ---
 
-# **一般的な情報**
+# Game Overview
 
-乱闘する準備をしなさい！ ローカルマルチバージョン **[ニフティSmashers](https://nifty-league.com/games)** オンラインマルチ続い起動時にすぐに利用できるようになりました。
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! [Nifty Smashers](https://nifty-league.com/games) takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-コミュニティ内で戦い、友達にできるだけ多くのコウモリのボンクを入れましょう！ ニフティスマッシャーズは、大乱闘スマッシュブラザーズの古典的なゲームからインスピレーションを得ています。このゲームの目的は、対戦相手をマップからノックアウトしてポイントを獲得することです。
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). You must have a [DEGEN NFT](https://docs.niftyleague.com/overview/degens/about) to play the game. Simply connect your crypto wallet holding your DEGEN, enter the game lobby, and select your DEGEN for battle.
 
-キーボードまたはその他の互換性のあるコントローラー（プレイステーション、Xboxなど）を使用してプレイできます。 ゲームロビーに入り、戦闘用のDEGENを選択します。
+As background, the local-multiplayer version of Nifty Smashers was made available immediately during mint in September 2021, followed by the online multiplayer.
 
 ## スコアリング
 
-- DEGENが1回ヒットして死んだ場合（マップから外れた場合）、1ポイントを獲得します。
-- 回復できずにDEGENが複数回ヒットした場合、DEGENがヒットしたのと同じ頻度でポイントを獲得します（以前のヒットが別のDEGENによって行われたかどうかに関係なく、最後のメガボンクを着陸させてマップからヒットし、主張しますラウンドのすべてのポイント）。
-- 対戦相手が連続してボンキングされるほど、バウンドが速くなり、ボンキングで獲得できるポイントが増えます。
-- DEGENを殺す最後のヒットは、すべてのコンボポイントを獲得します。
-- 現在、DEGENをヒット（コンボ）できる頻度に上限はありませんが、獲得できるポイント数には上限があります（最大3ポイント：2プレイヤーマッチ/最大5ポイント：3&プレイヤーマッチ） ）。
-- 2人の対戦では、ラウンドに勝つために5ポイントが必要です。
-- 3 & 4プレイヤーの試合では、ラウンドに勝つために10ポイントが必要です。
-- 試合は5ラウンドのベストです。
-- 第5ラウンド後に同点の場合、同点のプレーヤーは突然の死のラウンドに移行し、他のプレーヤーはサイドラインから見ることができます。
+- If a DEGEN is hit once and dies (fall off the map) you earn 1 point
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round)
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking
+- The last hit that kills the DEGEN, gets all combo points
+- Currently there is no cap of how often a DEGEN can be hit ("combo’ed"), but there is a cap on the number of points you can get (max 3 points in a 2-player match, and max 5 points in a 3- & 4-player match)
+- A 2-player match require 5pts to win a round
+- 3- & 4-player matches require 10pts to win a round
+- Matches are best of 5 rounds
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline
 
 ## 遅れ
 
-- ラグインジケータは、接続のラグ（ping速度）を示します。
-- ラグは、通常、ping速度が100msを超えていることを示します。
-- 一般的に言えば、インターネット上のプレーヤー間に物理的な距離がある場合は常にラグが存在します。 距離が大きいほど、ラグが大きくなります。
-- 開発者がラグを補正して隠すために使用するさまざまな手法があります。
-- 可能な限り最高のエクスペリエンスを実現するために、ラグを覆い隠すこれらのラグ補正手法をいくつか実装しました。
-- また、世界中のサーバーにソリューションを組み込んでいるため、最も近いプレーヤーを一致させて、ラグを可能な限り最小限に抑えることができます。 あなたはより多くのこれらの技術について学ぶことに興味を持っている場合は、チェックアウト [このポスト](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) ガブリエル・ガンベッタによって、我々は遅れ補償に愛を。
+- The lag indicator shows the lag (ping speed) of your connection
+- Lag tyipcally indicates your ping speed is above 100ms
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet (the greater the distance, the greater the lag)
+- There are different techniques that developers use to compensate and hide the lag
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible
+- If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta
 
 ## カスタムロビー
 
-- カスタムロビーを使用して、選択した地域で試合を開くことができます。 ロビーの作成者は、他の人と共有できるロビーマップのコードを見ることができます。
-- 別のdegenがロビーに参加したい場合は、最初に正しい地域を選択してから、入力ボックスにロビーコードを入力する必要があります。
-- カスタムロビーコードを使用する場合、リージョンは自動的に切り替えられる必要があります。
+- A custom lobby can be used to open a match in a chosen region
+- ロビーの作成者は、他の人と共有できるロビーマップのコードを見ることができます
+- If another Degen wants to join the lobby, they must first select the same region as the custom lobby, and then type the lobby code into the input box
 
 ## 地域の変化
 
-- Smasherは、レイテンシー/ pingが重要なペースの速いゲームです。 選択した領域がプレーヤーの場所に近いほど、pingは低くなります。
-- Web-GLまたはデスクトップアプリでリージョンを変更すると、現在のpingが表示されます。
+- Nifty Smashers is a fast paced game where latency/ping is crucial
+- The closer the chosen region is to the player’s location, the lower the ping
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed
 
-# **バトルの基本**
+<br></br>
 
-## 一般的なアドバイス
+# バトルの基本
 
-- 強く推奨されるコントローラー（プレイステーション、Xbox、またはPC / Macで認識されるその他のコントローラー）で遊ぶ。
+General information, advice, tips and tricks regarding battling in Nifty Smashers.
+
+## Controllers
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac)
 
 ## コウモリのブランコ
 
-- バットは、左、右、上、下、対角線のすべての可能な方向に振ることができます。
-- 攻撃ボタンをクリックすることでバットを振ることができます。
-- ボタンを長く押すと、バットの打撃が難しくなります。
-- バットは、立ったり、走ったり、ジャンプしたりしながら振ることができます。
-- プレイヤーはジャンプ中に攻撃ボタンを長押しすることがあります。これは通常、対戦相手を驚かせる良い方法です。
+- The bat can be swung in all possible direction: left, right, up, down, diagonals
+- The bat can be swung by clicking the attack button
+- Longer button presses makes the bat hit harder
+- The bat can be swung while standing, running, or jumping
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s)
 
 ## 引っ越し
 
-- 2Dゲームとして、移動方向は左右です。
-- 方向はジャンプ/タンブル中に変更できます（これはコントローラーを使用して行うのがはるかに簡単です）。
+- As a 2D Game, moving directions are left/right
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller)
 
 ## ジャンピング
 
 - ジャンプボタンを押し続けると、ジャンプの高さを変更できます。
-- ジャンプ/タンブル中に方向を変更できます。
+- ジャンプ/タンブル中に方向を変更できます
 
 ## フライングハンブルガー
 
-- 飛んでいるハンブルガーを捕まえると、DEGENのバットヒットがはるかに強くなります。これは通常、直接キルになります。
-- 時間やキルによってハンバーガーバフの持続時間を制限することを検討しています。
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill
+- We are considering limiting burger buff duration by time and/or kill
 
-# **部族の詳細**
+# Tribe Specifics
 
-_すべてのDEGEN部族には特殊能力（「SA」）があり、これはすべてのニフティリーグゲーム（ライブおよび将来）で一貫しています。_
+All DEGEN tribes have a Special Ability (”SA”), which are consistent across all Nifty League games (live and future), including Nifty Smashers. Learn everytyhing you need to know about each tribe [here](http://localhost:3000/overview/degens/tribes).
 
-## 特殊能力のリスト
+<br></br>
 
-- **類人猿** ブーメランバナナを投げる
-- **エイリアン** テレポート
-- **猫** パウンドしてバットパワーとスピードブーストを一時的に取得
-- **カエル** タングラップルフック
-- **ドージ** ドージコインロール
-- **人間** コマンドで爆発するダイナマイトを投げる
-
-## エイリアン
-
-- SAボタンを押すと、エイリアンは目的の方向（左、右、上、下、対角線）に短い距離でテレポートできます。
-- テレポートされた場所でエネルギー爆発があり、近くに立っている敵を攻撃します。
-
-## 類人猿
-
-- SAボタンを押すと、バナナが敵に当たる、マップパーツに当たる、またはマップから飛び出すまで、目的の方向（左、右、上、下、対角線）にバナナが投げられます。
-- SAボタンをもう一度押すと、バナナがDEGENに戻り、相手を再び攻撃できるようになります。
-- バナナはコウモリで殴られ、狙った方向に飛ぶことができます。
-
-## ネコ
-
-- SAを押すと、猫が飛び跳ねます。 短時間パウンドした後、猫は力を与えられました。
-- 強化されたバットスイングは、バットがより強く打つことを意味します。
-- 力を与えられた動きは猫がより速く走ることを意味します。
-- 猫は空中でダブルジャンプしたりジャンプしたりできます。
-
-## ドージ
-
-- SAボタンを押し続けると、ドージェが回転します。
-- ドージロールで相手を叩くと、ロール方向に上向きに飛んでいきます。
-- ドージは狙った方向にフライロールします。
-- ドージロール中、ドージロールが終了するまで方向を3回変更できます。
-- ドージロールも一定時間後に終了します。
-
-## カエル
-
-- SAボタンを押すと、カエルは舌を撃ちます。
-- 舌が相手に当たると、その相手はカエルの方向に引っ張られ、少し遠くまで飛んでいきます。
-- 舌がマップピースに当たると、カエルはそのオブジェクト（壁、天井など）に自分自身を引き寄せます。
-- 舌は狙った方向（左、右、上、下、対角線）に撃つことができます。
-
-### 人間
-
-- SAボタンを押すと、目的の方向（左、右、上、下、対角線）に爆弾が投下されます。
-- 爆弾には飛行曲線があり、バナナのように真っ直ぐに飛行することはありません（爆発しない場合は地面にとどまります）。
-- 爆弾は、しばらくすると、またはSAボタンを2回押した後に爆発します。
-- 現在、爆弾はそれを打つことによって、または爆発によって敵を打つことができます。
-- 爆弾は、その爆発で投げるDEGEN自体を攻撃できる唯一のSAです。
-- 爆弾はコウモリで攻撃され、狙った方向に飛ぶことができます。
-- 対戦相手と接触した直後に爆弾が爆発するようにゲームを更新する予定です。 敵がヒットしなかった場合、自動的に爆発するまで、またはSAボタンを2回押した後、地面にとどまります。
-
-**[Discord](https://discord.gg/niftyleague)** に参加して、ゲームを改善し、次のレベルに引き上げる方法についてのフィードバックやアイデアを提供してください。
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level!
