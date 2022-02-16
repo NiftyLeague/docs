@@ -4,45 +4,56 @@ title: יכולות מיוחדות של שבט
 sidebar_position: 3
 ---
 
-Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
+**למשחק הנוכחי שלנו, Nifty Smashers, ולכל המשחקים העתידיים יש יכולת מיוחדת ("SA") לכל סוג דמות.**
 
-![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
+### רשימת יכולות מיוחדות
+
+- **קוף** - לזרוק בננות בומרנג ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **חייזר** - טלפורט ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **חתול** - התנפל וקבל כוח מחבט והגברת מהירות זמנית ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **צפרדע** - קרס האחיזה בלשון ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **Doge** - גלגול מטבעות Doge ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **אדם** - זרוק דינמיטים שמתפוצצים בפקודה ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+
+### חייזר
 
 - לחיצה על כפתור ה-SA גורמת ל-Alien טלפורטציה למרחק קצר בכיוון המכוון (שמאלה, ימין, למעלה, למטה, אלכסונים)
 - יש פיצוץ אנרגיה במיקום הטלפורטי, ופוגע ביריבים שעומדים ליד
 
-![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
+### קוֹף
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
-- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
+- לחיצה על כפתור SA זורקת בננה לכיוון המכוון (שמאלה, ימין, למעלה, למטה, אלכסונים) עד שהיא **פוגעת ביריב**, פוגעת בחלק מפה או עפה מהמפה
+- לחיצה נוספת על כפתור ה-SA גורמת לבננה לעוף בחזרה לדגן, מה שמאפשר להכות שוב ביריב.
 - ניתן לפגוע בבננות עם מחבט ולעוף בכיוון המכוון
 
-![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
+### חתול
 
-- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
-- Empored bat swing - bat hits harder
-- Empowered movement - cats run faster
-- Cats can double jump, jumping in mid-air
+- לחיצה על ה-SA גורמת לחתול להסתער. לאחר התנפלות למשך זמן קצר, החתול מקבל כוח.
+- הנפת עטלף אמפורד: עטלף מכה חזק יותר
+- תנועה מועצמת: חתולים רצים מהר יותר
+- חתולים יכולים לקפוץ פעמיים / לקפוץ באוויר
 
-![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
+### דוג'ה
 
-- Pressing and holding the SA button makes the doge roll
-- Hitting an opponent with doge roll makes them fly upwards in roll direction
+- לחיצה ממושכת על כפתור ה-SA גורמת לדוג' להתגלגל.
+- פגיעה ביריב עם דוג רול גורמת לו לעוף מעט כלפי מעלה בכיוון הרול
 - דוג'ה יתגלגל לכיוון המכוון
-- During doge roll, directions can be changed three times until the doge roll ends
+- במהלך ה-doge roll ניתן לשנות את כיווני ה-doge שלוש פעמים (אולי פעמיים לאחר העדכון) עד ש-doge roll מסתיים
+- גם רול הדוג'ה מסתיים לאחר זמן מסוים
 
-![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
+### צְפַרְדֵעַ
 
-- Pressing the SA button makes the frog shoot his tongue
-- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
-- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
+- לחיצה על כפתור ה-SA גורמת לצפרדע לירות בלשונו
+- כאשר הלשון פוגעת ביריב, היריב הזה נמשך לכיוון הצפרדעים ועף עוד קצת
+- כאשר הלשון פוגעת בחתיכת מפה, הצפרדעים מושכות את עצמו אל אותו חפץ (למשל קירות, תקרות,...)
+- ניתן לירות את הלשון בכיוון המכוון (שמאלה, ימין, למעלה, למטה, אלכסונים)
 
-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
+### בן אנוש
 
 - לחיצה על כפתור SA זורקת פצצה לכיוון המכוון (שמאלה, ימין, למעלה, למטה, אלכסונים)
-- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
-- The bomb explodes after some time or after the SA button is pressed a second time
-- Currently, the bomb can hit an opponent by hitting it or by explosion
+- לפצצה יש עקומה מעופפת ואינה עפה ישר כמו בננות. אם לא פוצץ קודם ונשאר על הקרקע
+- הפצצה מתפוצצת לאחר זמן מה או לאחר לחיצה שנייה על כפתור SA
+- נכון לעכשיו הפצצה יכולה לפגוע ביריב על ידי פגיעה בו או על ידי פיצוץ
+- תוכנית מעודכנת: פצצה מתפוצצת מיד לאחר מגע עם יריב. אם אף יריב לא נפגע, הוא נשאר על הקרקע עד שהוא מתפוצץ אוטומטית או לאחר לחיצה על כפתור SA בפעם השנייה
 - פצצות הן ה-SA היחיד שיכול לפגוע בדגן לזרוק עצמו עם הפיצוץ שלו
-- Bombs can also be hit with a bat and fly in the aimed direction
+- ניתן לפגוע בפצצות עם מחבט ולעוף לכיוון המכוון
