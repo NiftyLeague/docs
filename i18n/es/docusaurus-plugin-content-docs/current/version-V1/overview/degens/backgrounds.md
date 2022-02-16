@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Los fondos DEGEN se asignaron aleatoriamente al acuñarlos, lo que resultó en un fondo común o uno de los tres fondos especiales: **Raro**, **Meta**o **Legendario**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Además de verse genial, el fondo viene con ventajas especiales, como una apariencia distinguida en el juego y multiplicadores de ganancias adicionales.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Multiplicadores de ganancias
+## Earnings Multipliers
 
-- Raro: 1.5
-- Meta: 3
-- Legendario: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
