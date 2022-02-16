@@ -4,45 +4,56 @@ title: Stammes-Spezialfähigkeiten
 sidebar_position: 3
 ---
 
-Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
+**Unser aktuelles Spiel, Nifty Smashers, und alle zukünftigen Spiele haben eine Spezialfähigkeit („SA“) für jeden Charaktertyp.**
 
-![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
+### Liste der besonderen Fähigkeiten
+
+- **Ape** - Bumerang-Bananen werfen ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **Außerirdischer** - Teleportieren ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **Cat** - Stürzen Sie sich und erhalten Sie vorübergehend Schlagkraft und Geschwindigkeitsschub ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **Frosch** - Der Zungenhaken ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **Doge** - Doge-Münzwurf ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **Mensch** - Wirf Dynamite, die auf Befehl explodieren ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+
+### Außerirdischer
 
 - Durch Drücken der SA-Taste kann Alien eine kurze Distanz in die Zielrichtung teleportieren (links, rechts, oben, unten, diagonal)
 - Am teleportierten Ort gibt es eine Energieexplosion, die Gegner trifft, die in der Nähe stehen
 
-![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
+### Affe
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
-- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
+- Durch Drücken der SA-Taste wird eine Banane in die gewünschte Richtung (links, rechts, oben, unten, diagonal) geworfen, bis sie **einen Gegner**, einen Kartenteil trifft oder von der Karte fliegt
+- Durch erneutes Drücken der SA-Taste fliegt die Banane zurück zum Degen, wodurch es möglich ist, einen Gegner erneut zu treffen.
 - Bananen können mit einem Schläger getroffen werden und in die gewünschte Richtung fliegen
 
-![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
+### Katze
 
-- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
-- Empored bat swing - bat hits harder
-- Empowered movement - cats run faster
-- Cats can double jump, jumping in mid-air
+- Durch Drücken der SA springt die Katze. Nach einem kurzen Sprung wird die Katze ermächtigt.
+- Empored Bat Swing: Schläger trifft härter
+- Kraftvolle Bewegung: Katzen laufen schneller
+- Katzen können doppelt springen / in der Luft springen
 
-![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
+### Doge
 
-- Pressing and holding the SA button makes the doge roll
-- Hitting an opponent with doge roll makes them fly upwards in roll direction
+- Durch Drücken und Halten der SA-Taste rollt der Doge.
+- Wenn Sie einen Gegner mit einer Doge-Rolle treffen, fliegen Sie ein wenig nach oben in Rollrichtung
 - Doge rollt in die gewünschte Richtung
-- During doge roll, directions can be changed three times until the doge roll ends
+- Während der Doge-Rolle können die Richtungen dreimal geändert werden (vielleicht zwei Mal nach dem Update), bis die Doge-Rolle endet
+- Doge Roll endet auch nach einer bestimmten Zeit
 
-![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
+### Frosch
 
-- Pressing the SA button makes the frog shoot his tongue
-- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
-- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
+- Durch Drücken der SA-Taste schießt der Frosch mit der Zunge
+- Wenn die Zunge einen Gegner trifft, wird dieser in die Froschrichtung gezogen und fliegt etwas weiter
+- Wenn die Zunge auf ein Kartenstück trifft, zieht sich der Frosch zu diesem Objekt (zB Wände, Decken, ...)
+- Die Zunge kann in die gewünschte Richtung geschossen werden (links, rechts, oben, unten, diagonal)
 
-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
+### Menschlich
 
 - Durch Drücken der SA-Taste wird eine Bombe in die gewünschte Richtung geworfen (links, rechts, oben, unten, diagonal)
-- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
-- The bomb explodes after some time or after the SA button is pressed a second time
-- Currently, the bomb can hit an opponent by hitting it or by explosion
+- Die Bombe hat eine Flugkurve und fliegt nicht gerade wie Bananen. Wenn nicht vorher gezündet und am Boden bleibt
+- Die Bombe explodiert nach einiger Zeit oder nachdem die SA-Taste ein zweites Mal gedrückt wurde
+- Derzeit kann die Bombe einen Gegner treffen, indem sie sie trifft oder durch Explosion
+- Aktualisierter Plan: Bombe explodiert sofort nach Kontakt mit einem Gegner. Wenn kein Gegner getroffen wird, bleibt es am Boden, bis es automatisch explodiert oder nach dem zweiten Drücken der SA-Taste
 - Bomben sind die einzige SA, die mit ihrer Explosion den Wurfdegen selbst treffen kann
-- Bombs can also be hit with a bat and fly in the aimed direction
+- Bomben können mit einem Schläger getroffen werden und in die gewünschte Richtung fliegen
