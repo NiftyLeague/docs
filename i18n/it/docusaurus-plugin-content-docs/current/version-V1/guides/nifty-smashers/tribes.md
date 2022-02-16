@@ -4,56 +4,45 @@ title: Abilità speciali della tribù
 sidebar_position: 3
 ---
 
-**Il nostro gioco attuale, Nifty Smashers, e tutti i giochi futuri hanno un'abilità speciale ("SA") per ogni tipo di personaggio.**
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
 
-### Elenco delle abilità speciali
-
-- **Scimmia** - Lancia banane boomerang ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
-- **Alieno** - Teletrasporto ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
-- **Cat** - Balza e ottieni temporaneamente potenza del pipistrello e aumento della velocità ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
-- **Rana** - Il rampino a lingua ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
-- **Doge** - Rotolo di monete del Doge ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
-- **Umano** - Lancia dinamite che esplodono a comando ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
-
-### Alieno
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
 
 - Premendo il pulsante SA, Alien può teletrasportarsi per una breve distanza nella direzione mirata (sinistra, destra, su, giù, diagonali)
 - C'è un'esplosione di energia nella posizione del teletrasporto, colpendo gli avversari vicini
 
-### Scimmia
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
 
-- Premendo il pulsante SA si lancia una banana nella direzione mirata (sinistra, destra, su, giù, diagonali) finché **colpisce un avversario**, colpisce una parte della mappa o vola fuori mappa
-- Premendo nuovamente il pulsante SA, la banana torna al degen, rendendo possibile colpire di nuovo un avversario.
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
+- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
 - Le banane possono essere colpite con una mazza e volare nella direzione mirata
 
-### Gatto
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
 
-- Premendo il SA fa balzare il gatto. Dopo aver balzato per un breve periodo, il gatto ottiene il potere.
-- Altalena del pipistrello Empored: il pipistrello colpisce più forte
-- Movimento potenziato: i gatti corrono più veloci
-- I gatti possono fare un doppio salto / saltare a mezz'aria
+- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
+- Empored bat swing - bat hits harder
+- Empowered movement - cats run faster
+- Cats can double jump, jumping in mid-air
 
-### Doge
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
 
-- Premendo e tenendo premuto il pulsante SA, il doge roll.
-- Colpire un avversario con un doge roll lo fa volare un po' verso l'alto in direzione di rollio
+- Pressing and holding the SA button makes the doge roll
+- Hitting an opponent with doge roll makes them fly upwards in roll direction
 - Doge volerà-rotolare nella direzione mirata
-- Durante il doge roll le direzioni possono essere cambiate tre volte (forse due volte dopo l'aggiornamento) fino al termine del doge roll
-- Anche il Doge roll termina dopo un certo tempo
+- During doge roll, directions can be changed three times until the doge roll ends
 
-### Rana
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
 
-- Premendo il pulsante SA, la Rana spara con la lingua
-- Quando la lingua colpisce un avversario, quell'avversario viene tirato nella direzione delle rane e vola un po' più lontano
-- Quando la lingua colpisce un pezzo di mappa, le rane si avvicinano a quell'oggetto (es. pareti, soffitti,...)
-- La lingua può essere sparata nella direzione mirata (sinistra, destra, su, giù, diagonali)
+- Pressing the SA button makes the frog shoot his tongue
+- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
+- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
 
-### Umano
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
 
 - Premendo il pulsante SA si lancia una bomba nella direzione mirata (sinistra, destra, su, giù, diagonali)
-- La bomba ha una curva volante e non vola dritta come le banane. Se non fatto esplodere prima e rimane a terra
-- La bomba esplode dopo un po' di tempo o dopo che il pulsante SA è stato premuto una seconda volta
-- Attualmente la bomba può colpire un avversario colpendolo o per esplosione
-- Piano aggiornato: la bomba esplode subito dopo il contatto con un avversario. Se nessun avversario viene colpito, rimane a terra finché non esplode automaticamente o dopo aver premuto il pulsante SA una seconda volta
+- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
+- The bomb explodes after some time or after the SA button is pressed a second time
+- Currently, the bomb can hit an opponent by hitting it or by explosion
 - Le bombe sono le uniche SA in grado di colpire il degen di lancio stesso con la sua esplosione
-- Le bombe possono essere colpite con una mazza e volare nella direzione mirata
+- Bombs can also be hit with a bat and fly in the aimed direction
