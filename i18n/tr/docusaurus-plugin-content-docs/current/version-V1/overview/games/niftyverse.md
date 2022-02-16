@@ -1,19 +1,19 @@
 ---
 id: güzel evren
-title: NiftyVerse
+title: Niftyverse
 sidebar_position: 1
 ---
 
-### 🚧 Q2 2022 için geliştirme aşamasında 🚧
+## 🚧 Under Development 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
 NiftyVerse'deki arazi 2022'de satışa çıkacak.
 
-NiftyVerse'de herkes arazi sahibi olabilecek ve inşaat yapabilecek.
+Anyone will be able to own land and build in the Niftyverse.
 
 NiftyVerse'de Nifty League oyunları oluşturmalarına izin vermek için bağımsız oyun stüdyoları ve sanatçılarla birlikte çalışmayı planlıyoruz!
 
 İlk yineleme, kentsel Sushi sanatı temasıyla yukarıdan aşağıya, piksel sanatı meta ayeti olacak.
 
-Nifty Verse'deki tüm arazi alımları NFTL kullanılarak yapılacaktır.
+All land purchases in the Nifty Verse will be done using our token, [NFTL](https://docs.niftyleague.com/overview/nftl/overview).
