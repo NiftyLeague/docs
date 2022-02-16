@@ -4,10 +4,8 @@ title: Fellesskapsutviklere
 sidebar_position: 6
 ---
 
-Målet vårt er å utvide plattformen vår med så mange morsomme og spennende spill som mulig, som vi tror kun er mulig ved hjelp av DEGEN-fellesskapet vårt!
+Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community, including indie gaming studios.
 
-Vi oppfordrer utviklere til å lage spill ved å bruke karakterene våre som – hvis valgt – vil gå live på plattformen vår, og til gjengjeld vil utviklere bli belønnet fra Nifty DAO for deres bidrag.
+We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the [Nifty League DAO](http://localhost:3000/overview/nifty-dao/overview) for their contributions. Please share game ideas in our [Discord](https://discord.gg/niftyleague). If your game shows promise and viability we’d love to share it with the community.
 
-Vær kreativ og send oss ideene dine i **[Discord](https://discord.gg/niftyleague)**!
-
-Hvis spillet ditt viser løfter og levedyktighet, vil vi gjerne dele det med fellesskapet.
+We are building a more formal process for indie gaming studios and artists to utilize the Nifty League art and branding while building games for Niftyverse - stay tuned.
