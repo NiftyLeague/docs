@@ -1,11 +1,21 @@
 ---
 id: dagliga belöningar
-title: Dagliga belöningar
+title: Gameplay Rewards
 sidebar_position: 1
 ---
 
-![](/img/twitch-stream.png)
+Players are able to earn [NFTL](https://docs.niftyleague.com/overview/nftl/overview) by gaming in Nifty Smashers - successfully landing hits on your opponent(s) and winning matches earn NFTL.
 
-Ju mer du spelar desto bättre är dina chanser att tjäna **NFTL** tokens! Mer detaljer kommer att meddelas när vi definierar vår emissionsmodell för varje nytt spel. Som en del av detta planerar vi att implementera ett progressionssystem i framtiden för att höja dina karaktärer och få fler belöningar för din XP. Detta är något vi vill ta vår tid med för att säkerställa att vi definierar det bästa belöningssystemet för vår plattform och mildrar problemet med botar som försöker spela systemet.
+The more you play and practice, the better you will play against your opponents, and the more NFLT you will earn by gaming.
 
-Vi kommer ofta att belöna användare för att de håller sig aktiva inom vår community, så se till att gå med i vår **[Discord](https://discord.gg/niftyleague)** server för att få tillgång till slumpmässiga **NFTL** tips! Vi tittar alltid på och håller reda på användare som ger mest värde för vår community. Hjälp oss ombord på nya medlemmar genom att svara på frågor eller dela med dig av råd så kan du få ännu fler tips på väg! 🙌
+New details will be announced as we define our emission model for each new game. We plan to implement a progression system to level-up Degens and gain additional rewards with the goal to enhance the player experience.
+
+## Noob Player Earnings Bonus
+
+We added a Noob Player Earnings bonus in February 2022, which allows new players to accrue NFTL while learning to play [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers). The bonus is based on number of games played and is constantly being tested and tweaked to ensure new player activation, engagement and retention are optimal, while also controlling overall NFTL emissions. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
+
+## Double Bonks Earnings Bonus
+
+We added and enabled a special bonus period in February 2022, which allows all players to accrue 2x the NFTL during gameplay. The purpose of this earnings bonus was to reward our loyal community and increase player activity. Please note this bonus is promotional and will not remain enabled indefinitely. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
+
+_To create the most optimal reward system for our ecosystem, and mitigate the risk of bots and abuse, please note we will itereate with our gameplay reward model over time._
