@@ -4,10 +4,8 @@ title: Dezvoltatorii comunității
 sidebar_position: 6
 ---
 
-Scopul nostru este să ne extindem platforma cu cât mai multe jocuri distractive și interesante, ceea ce credem că este posibil doar cu ajutorul comunității noastre DEGEN!
+Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community, including indie gaming studios.
 
-Încurajăm dezvoltatorii să creeze jocuri folosind personajele noastre, care, dacă sunt selectate, vor fi disponibile pe platforma noastră și, în schimb, dezvoltatorii vor fi recompensați de la Nifty DAO pentru contribuțiile lor.
+We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the [Nifty League DAO](http://localhost:3000/overview/nifty-dao/overview) for their contributions. Please share game ideas in our [Discord](https://discord.gg/niftyleague). If your game shows promise and viability we’d love to share it with the community.
 
-Fii creativ și trimite-ne ideile tale în **[Discord](https://discord.gg/niftyleague)**!
-
-Dacă jocul tău este promițător și viabil, ne-ar plăcea să îl împărtășim comunității.
+We are building a more formal process for indie gaming studios and artists to utilize the Nifty League art and branding while building games for Niftyverse - stay tuned.
