@@ -4,23 +4,27 @@ title: Stämme
 sidebar_position: 2
 ---
 
-Unser aktuelles Spiel Nifty Smashers und alle zukünftigen Spiele werden für jeden Charaktertyp einen speziellen Zug haben. Dies ist unsere Liste der Spezialbewegungen im ersten Spiel:
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each tribe.
 
--![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)**Ape** - Bumerang-Bananen werfen
+## Special Ability by tribe:
 
--![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)**Außerirdischer** - Teleportieren
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)**Ape**: throws boomerang bananas
 
--![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)**Cat** - Stürzen Sie sich und erhalten Sie vorübergehend Schlagkraft und Geschwindigkeitsschub
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)**Alien**: teleports
 
--![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)**Frosch** - Der Zungenhaken
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)**Cat**: pounces, has increased bat power, and temporary speed boost
 
--![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge-Münzwurf
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)**Frog**: the tongue grapple hook
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Mensch** - Wirf Dynamit, das auf Befehl explodiert
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge**: doge coin roll
 
-Erfahre mehr über diese Movesets in unserem [Smashers Guide](/guides/nifty-smashers/tribes)
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human**: throws dynamite that explodes on command
 
-Für die Zukunft stellen wir uns vor, dass neue „besondere“ Tribes für Skalierbarkeit, neue Spiele, Turnierbelohnungen und mehr veröffentlicht/reserviert werden.
+<br></br>
+
+Learn more about these movesets in our [Smashers Guide](https://docs.niftyleague.com/guides/nifty-smashers/tribes).
+
+In the future, we envision introducing new "special" tribes may be released for scalability, new games, tournament rewards, and more.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
