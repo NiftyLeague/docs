@@ -4,10 +4,8 @@ title: Community-ontwikkelaars
 sidebar_position: 6
 ---
 
-Ons doel is om ons platform uit te breiden met zoveel mogelijk leuke en spannende spellen, wat volgens ons alleen mogelijk is met de hulp van onze DEGEN-community!
+Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community, including indie gaming studios.
 
-We moedigen ontwikkelaars aan om games te maken met behulp van onze personages die - indien geselecteerd - live op ons platform zullen gaan, en in ruil daarvoor zullen ontwikkelaars worden beloond door de Nifty DAO voor hun bijdragen.
+We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the [Nifty League DAO](http://localhost:3000/overview/nifty-dao/overview) for their contributions. Please share game ideas in our [Discord](https://discord.gg/niftyleague). If your game shows promise and viability we’d love to share it with the community.
 
-Wees creatief en stuur ons uw ideeën in **[Discord](https://discord.gg/niftyleague)**!
-
-Als je spel veelbelovend en levensvatbaar is, willen we het graag delen met de community.
+We are building a more formal process for indie gaming studios and artists to utilize the Nifty League art and branding while building games for Niftyverse - stay tuned.
