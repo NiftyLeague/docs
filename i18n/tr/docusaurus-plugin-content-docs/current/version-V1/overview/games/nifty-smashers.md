@@ -13,129 +13,85 @@ sidebar_position: 2
 
 ---
 
-# **Genel Bilgi**
+# Game Overview
 
-Kavga etmeye hazır olun! **[Nifty Smashers](https://nifty-league.com/games)** yerel çok oyunculu versiyonu, lansman sırasında hemen kullanıma sunuldu ve ardından çevrimiçi çok oyunculu oldu.
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! [Nifty Smashers](https://nifty-league.com/games) takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-Topluluk arasında savaşın ve arkadaşlarınıza mümkün olduğunca çok yarasa şakası yapın! Nifty Smashers, amacın rakiplerinizi haritadan atarak puan kazanmak olduğu klasik Super Smash Bros oyunundan ilham alıyor.
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). You must have a [DEGEN NFT](https://docs.niftyleague.com/overview/degens/about) to play the game. Simply connect your crypto wallet holding your DEGEN, enter the game lobby, and select your DEGEN for battle.
 
-Klavyenizi veya herhangi bir uyumlu denetleyiciyi (Playstation, Xbox, vb.) kullanarak oynayabilirsiniz. Oyun lobisine girin ve savaş için DEGEN'inizi seçin.
+As background, the local-multiplayer version of Nifty Smashers was made available immediately during mint in September 2021, followed by the online multiplayer.
 
 ## puanlama
 
-- Bir DEGEN'e bir kez vurulur ve ölürse (haritadan düşerse) 1 puan alırsınız.
-- Bir DEGEN, kurtarılamadan birden çok kez vurulursa, DEGEN'in vurulduğu sıklıkta puan alırsınız (önceki isabetlerin başka bir DEGEN tarafından yapılıp yapılmadığına bakılmaksızın - bu nedenle, onları haritadan çıkarmak için son mega-bonk'u indirin ve hak talebinde bulunun tur için tüm puanlar).
-- Rakibiniz art arda ne kadar çok zıplarsa, o kadar hızlı zıplarlar ve bonking için o kadar çok puan alırsınız.
-- DEGEN'i öldüren son vuruş tüm kombo puanlarını alır.
-- Şu anda bir DEGEN'in ne sıklıkla vurulabileceğine (birleşik) ilişkin bir sınır yoktur, ancak alabileceğiniz puan sayısına ilişkin bir sınır vardır (maksimum 3 puan: 2 oyunculu maç / maksimum 5 puan: 3&4 oyunculu maç ).
-- 2 oyunculu bir maç, bir tur kazanmak için 5 puan gerektirir.
-- 3 & 4 oyunculu maçlar bir tur kazanmak için 10 puan gerektirir.
-- Maçlar en iyi 5 turdur.
-- 5. raunttan sonra bir beraberlik varsa, berabere kalan oyuncular, diğer oyuncuların kenar çizgiden izleyeceği ani bir ölüm turuna geçerler.
+- If a DEGEN is hit once and dies (fall off the map) you earn 1 point
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round)
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking
+- The last hit that kills the DEGEN, gets all combo points
+- Currently there is no cap of how often a DEGEN can be hit ("combo’ed"), but there is a cap on the number of points you can get (max 3 points in a 2-player match, and max 5 points in a 3- & 4-player match)
+- A 2-player match require 5pts to win a round
+- 3- & 4-player matches require 10pts to win a round
+- Matches are best of 5 rounds
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline
 
 ## gecikme
 
-- Gecikme göstergesi, bağlantınızın gecikmesini (ping hızı) gösterir.
-- Gecikme tipik olarak ping hızınızın 100ms'nin üzerinde olduğunu gösterir.
-- Genel olarak konuşursak, internette oyuncular arasında fiziksel mesafe olduğunda gecikme her zaman mevcuttur. Mesafe ne kadar büyük olursa, gecikme o kadar büyük olur.
-- Geliştiricilerin gecikmeyi telafi etmek ve gizlemek için kullandıkları farklı teknikler vardır.
-- Mümkün olan en iyi deneyim için gecikmeyi gizleyen bu gecikme telafisi tekniklerinden birkaçını uyguladık.
-- Ayrıca, gecikmeyi mümkün olduğunca en aza indirmek için birbirine en yakın oyuncuları eşleştirebilmemiz için dünyanın her yerindeki sunucularla çözümler ekledik. Bu teknikler hakkında daha fazla bilgi edinmekle ilgileniyorsanız, [bu](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) Gabriel Gambetta'nın Gecikme Telafisi'ni seviyoruz.
+- The lag indicator shows the lag (ping speed) of your connection
+- Lag tyipcally indicates your ping speed is above 100ms
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet (the greater the distance, the greater the lag)
+- There are different techniques that developers use to compensate and hide the lag
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible
+- If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta
 
 ## Özel Lobi
 
-- Seçilen bir bölgede bir maç açmak için özel bir lobi kullanılabilir. Lobinin yaratıcısı, lobi haritasında başkalarıyla paylaşılabilecek bir kod görebilir.
-- Başka bir degen lobiye katılmak isterse, önce doğru bölgeyi seçmesi ve ardından giriş kutusuna lobi kodunu yazması gerekir.
-- Özel bir lobi kodu kullanırken, bölge otomatik olarak değiştirilmelidir.
+- A custom lobby can be used to open a match in a chosen region
+- Lobinin yaratıcısı, lobi haritasında başkalarıyla paylaşılabilecek bir kod görebilir.
+- If another Degen wants to join the lobby, they must first select the same region as the custom lobby, and then type the lobby code into the input box
 
 ## Bölgeleri Değiştirme
 
-- Smasher, gecikme/ping'in çok önemli olduğu hızlı tempolu bir oyundur. Seçilen bölge oyuncunun konumuna ne kadar yakınsa, ping o kadar düşük olur.
-- Web-GL veya Masaüstü Uygulamasında bölgeyi değiştirdikten sonra mevcut ping görüntülenir.
+- Nifty Smashers is a fast paced game where latency/ping is crucial
+- The closer the chosen region is to the player’s location, the lower the ping
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed
 
-# **Savaş Temelleri**
+<br></br>
 
-## Genel tavsiye
+# Savaş Temelleri
 
-- Şiddetle tavsiye edilen bir oyun kumandası (Playstation, Xbox veya PC/Mac'iniz tarafından tanınan diğer herhangi bir kumanda) ile oynamak.
+General information, advice, tips and tricks regarding battling in Nifty Smashers.
+
+## Controllers
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac)
 
 ## Yarasa salıncakları
 
-- Yarasa mümkün olan her yöne sallanabilir: sola, sağa, yukarı, aşağı, köşegenler.
-- Yarasa, saldırı düğmesine tıklayarak sallanabilir.
-- Düğmeye daha uzun basışlar, sopanın daha sert vurmasını sağlar.
-- Yarasa ayakta dururken, koşarken veya zıplarken sallanabilir.
-- Oyuncular atlamalar sırasında saldırı düğmesine uzun süre basabilirler - bu genellikle rakiplerinizi şaşırtmak için iyi bir yoldur.
+- The bat can be swung in all possible direction: left, right, up, down, diagonals
+- The bat can be swung by clicking the attack button
+- Longer button presses makes the bat hit harder
+- The bat can be swung while standing, running, or jumping
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s)
 
 ## Hareketli
 
-- 2D Oyun olarak, hareket yönleri sol/sağdır.
-- Atlamalar/taklanma sırasında yönler değiştirilebilir (bunu bir kontrolör kullanarak gerçekleştirmek çok daha kolaydır).
+- As a 2D Game, moving directions are left/right
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller)
 
 ## Atlama
 
-- Atlama yüksekliği, atlama düğmesine basma süresi ile değiştirilebilir.
-- Atlamalar/takılma sırasında yönler değiştirilebilir.
+- Atlama yüksekliği, atlama düğmesine basma süresi ile değiştirilebilir
+- Atlamalar/takla sırasında yönler değiştirilebilir
 
 ## uçan hamburger
 
-- Uçan hamburgeri yakalamak DEGEN'inizin sopasını çok daha güçlü hale getirecektir - bu genellikle doğrudan bir öldürme ile sonuçlanır.
-- Burger buff süresini zamana ve/veya öldürmeye göre sınırlamayı düşünüyoruz.
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill
+- We are considering limiting burger buff duration by time and/or kill
 
-# **Kabile Özellikleri**
+# Tribe Specifics
 
-_Tüm DEGEN kabilelerinin, tüm Nifty League oyunlarında (canlı ve gelecekteki) tutarlı olacak bir Özel Yeteneği ("SA") vardır._
+All DEGEN tribes have a Special Ability (”SA”), which are consistent across all Nifty League games (live and future), including Nifty Smashers. Learn everytyhing you need to know about each tribe [here](http://localhost:3000/overview/degens/tribes).
 
-## Özel Yetenekler Listesi
+<br></br>
 
-- **Maymun** - Bumerang muzları atın
-- **Uzaylı** - Işınlanma
-- **Cat** - Atla ve geçici olarak yarasa gücü ve hız artışı elde et
-- **Kurbağa** - Dil kıskaçlı kanca
-- **Doge** - Doge madeni para rulosu
-- **İnsan** - Komut verildiğinde patlayan dinamitleri fırlat
-
-## Yabancı
-
-- SA düğmesine basmak, Alien'in hedeflenen yönde (sol, sağ, yukarı, aşağı, köşegenler) kısa bir mesafe ışınlanmasını sağlar.
-- Işınlanan konumda bir enerji patlaması olur ve yakındaki rakipleri vurur.
-
-## Maymun
-
-- SA düğmesine basmak, bir muz bir rakibe çarpana, bir harita parçasına çarpana veya haritadan uçup gidene kadar hedeflenen yöne (sol, sağ, yukarı, aşağı, köşegenler) fırlatır.
-- SA düğmesine tekrar basmak, muzun DEGEN'e geri uçmasını sağlayarak bir rakibe tekrar vurmayı mümkün kılar.
-- Muzlar bir sopayla vurulabilir ve hedeflenen yöne uçabilir.
-
-## Kedi
-
-- SA'ya basmak kedinin zıplamasını sağlar. Kısa bir süre zıpladıktan sonra kedi güçlenir.
-- Güçlendirilmiş yarasa vuruşu, yarasanın daha sert vurduğu anlamına gelir.
-- Güçlendirilmiş hareket, kedinin daha hızlı koştuğu anlamına gelir.
-- Kediler havada çift zıplayabilir ve zıplayabilir.
-
-## doge
-
-- SA düğmesini basılı tutmak, doge rulosunu yapar.
-- Bir rakibe doge roll ile vurmak, onların yuvarlanma yönünde yukarı doğru uçmasını sağlar.
-- Doge amaçlanan yönde uçacak.
-- Doge roll sırasında, doge roll bitene kadar yönler üç kez değiştirilebilir.
-- Doge roll da belli bir süre sonra sona eriyor.
-
-## Kurbağa
-
-- SA düğmesine basmak, Kurbağa'nın dilini vurmasını sağlar.
-- Dil bir rakibe çarptığında, o rakip kurbağa yönüne çekilir ve biraz daha uzağa uçar.
-- Dil bir harita parçasına çarptığında, kurbağalar kendini o nesneye çeker (örn. duvarlar, tavanlar vb.)
-- Dil hedeflenen yönde (sol, sağ, yukarı, aşağı, köşegenler) vurulabilir.
-
-### İnsan
-
-- SA düğmesine basmak, hedeflenen yöne (sol, sağ, yukarı, aşağı, köşegenler) bir bomba atar.
-- Bombanın uçuş eğrisi vardır ve muz gibi dümdüz uçmaz (patlatılmazsa yerde kalır).
-- Bir süre sonra veya SA düğmesine ikinci kez basıldıktan sonra bomba patlıyor.
-- Şu anda bomba, vurarak veya patlama yoluyla bir rakibe çarpabilir.
-- Bombalar, patlamasıyla fırlatan DEGEN'in kendisini vurabilen tek SA'dır.
-- Bombalar bir sopayla vurulabilir ve hedeflenen yönde uçabilir.
-- Oyunu güncellemeyi planlıyoruz, böylece bomba bir rakiple temas ettikten hemen sonra patlayacak. Hiçbir rakibe vurulmazsa, otomatik olarak patlayana kadar veya SA düğmesine ikinci kez bastıktan sonra yerde kalır.
-
-Oyunu nasıl geliştirebileceğimize ve bir sonraki seviyeye taşıyabileceğimize dair geri bildirim ve fikir sağlamak için lütfen **[Discord](https://discord.gg/niftyleague)**
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level!
