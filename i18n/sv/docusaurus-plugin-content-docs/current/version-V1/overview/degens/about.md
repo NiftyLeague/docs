@@ -1,6 +1,6 @@
 ---
 id: Handla om
-title: Handla om
+title: Översikt
 sidebar_position: 1
 ---
 
