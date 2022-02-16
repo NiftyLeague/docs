@@ -4,6 +4,12 @@ title: Giải đấu
 sidebar_position: 2
 ---
 
-**Giải đấu 🏆**
+Improve your gameplay skills, meet members of the community, and earn NFTL and other prizes by playing in a Nifty Smashers tournament!
 
-Tham gia vào niềm vui trong các giải đấu hàng tuần hoặc hàng tháng! Tất cả các giải đấu có thể được khuyến khích bằng phần thưởng từ quỹ kho bạc cộng đồng của chúng tôi **Nifty DAO** thông qua biểu quyết mã thông báo. Một số nhà vô địch giải đấu thậm chí có thể ra đi với phiên bản đặc biệt Chìa khóa đến Hoàng thành 🗝️ NFT ... Đối với bất kỳ hoạt động nào khác mà bạn muốn thấy đã được triển khai, vui lòng liên hệ với nhóm của chúng tôi!
+Tournaments may be incentivized by rewards from our community treasury fund at the [Nifty League DAO](http://localhost:3000/overview/nifty-dao/overview)'s discretion via token voting. Some tournament champions may even walk away with a special prizes, like a key to the Citadel in Niftyverse!
+
+Tournaments are announced via [Twitter](https://twitter.com/NiftyLeague) and [Discord](https://discord.gg/niftyleague), and managed by Nifty League [Community Moderators](https://docs.niftyleague.com/overview/team).
+
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
+
+![](/img/twitch-stream.png)
