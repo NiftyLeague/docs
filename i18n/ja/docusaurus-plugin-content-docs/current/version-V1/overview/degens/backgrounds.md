@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-：DEGEN背景をランダムにどちらかの共通の背景または3つの特殊な背景のいずれかをもたらし鋳造時に割り当てられた **レア**、 **メタ**、または **伝説**。
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-かっこよく見えることに加えて、背景には、ゲームの際立った外観やエクスタ獲得乗数などの特別な特典があります。
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### 収益乗数
+## Earnings Multipliers
 
-- レア：1.5
-- メタ：3
-- 伝説：6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
