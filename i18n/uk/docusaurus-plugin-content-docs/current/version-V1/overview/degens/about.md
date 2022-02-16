@@ -1,6 +1,6 @@
 ---
 id: Про
-title: Про
+title: Огляд
 sidebar_position: 1
 ---
 
