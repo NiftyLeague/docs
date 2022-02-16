@@ -8,12 +8,12 @@ sidebar_position: 3
 
 ### قائمة القدرات الخاصة
 
-- **القرد** - رمي الموز بوميرانج ![https://cdn.discordapp.com/emojis/876605610165157968.png؟size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
-- **الغريبة** - النقل الفضائي ![https://cdn.discordapp.com/emojis/876655147634294794.png؟](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
-- **Cat** - اقفز واحصل على قوة الخفاش وزيادة السرعة مؤقتًا ![https://cdn.discordapp.com/emojis/876655087869644830.png؟size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
-- **الضفدع** - خطاف كلاب اللسان ![https://cdn.discordapp.com/emojis/876655119817670686.png؟](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
-- **دوجي** - لفة عملة دوجي ![https://cdn.discordapp.com/emojis/876600985819164764.png؟size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
-- **الإنسان** - رمي الديناميات التي تنفجر عند الأمر ![https://cdn.discordapp.com/emojis/876604536784052274.png؟](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+- **القرد** - رمي الموز بوميرانج ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **الغريبة** - النقل الفضائي ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **Cat** - اقفز واحصل على قوة الخفاش وزيادة السرعة مؤقتًا ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **الضفدع** - خطاف كلاب اللسان ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **دوجي** - لفة عملة دوجي ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **الإنسان** - رمي الديناميات التي تنفجر عند الأمر ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
 
 ### كائن فضائي
 
