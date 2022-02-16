@@ -4,45 +4,30 @@ title: Panoramica
 sidebar_position: 1
 ---
 
-![](/img/NL_Comic_Burner.jpeg)
+Come se il nostro processo di conio non fosse già abbastanza divertente per voi ragazzi... abbiamo sorpreso la community con una speciale collezione di fumetti di lancio di Nifty League! Questo per ringraziarti per aver coniato la nostra collezione e per essere stato in anticipo 😁
 
-During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
+Sono state scattate istantanee per i fumetti durante il processo di conio per le prime 4 pagine di fumetti alle seguenti tappe fondamentali: Pagina 1 - 2500 | Pagina 2 - 3500 | Pagina 3 - 5000 | Pagina 4 - 7500.
 
-Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
+Probabilmente ti starai chiedendo: "Cosa ci faccio con i fumetti?". Bene, avrai alcune scelte da fare poiché avranno più utilità. Quindi, c'è un gioco all'interno di un gioco qui in cui puoi scegliere il tuo percorso.
 
-- Page 1 - 2500
-- Page 2 - 3500
-- Page 3 - 5000
-- Page 4 - 7500
+La Nifty League Comic Collection è composta da 6 pagine con i fumetti 5 e 6 ancora da pubblicare. Ci sarà un'istantanea il 31/01/2022 per il fumetto 5 assegnato a tutti i possessori di DEGEN e il fumetto 6 assegnato a tutti i portafogli contenenti tutte le 6 tribù DEGEN. Tutti i DEGENS di sfondo Meta riceveranno un fumetto 6 e tutti i DEGENS di sfondo leggendari riceveranno due fumetti 6! Questi saranno resi disponibili tramite un reclamo sul nostro sito web.
 
-Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
+Ogni fumetto sarà masterizzabile in una data futura per ricevere un indossabile o un'arma in-game in cambio di ogni pagina bruciata. Tuttavia, questa finestra di masterizzazione non sarà per sempre e ogni titolare sarà costretto a prendere alcune decisioni difficili per il futuro della propria collezione.
 
-The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
+Satoshi ci ha detto che ama le collezioni complete in quasi tutto…quindi pensaci due volte prima di prendere troppe decisioni qui.
 
-There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
-
-All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
-
-Ogni fumetto sarà masterizzabile in una data futura per ricevere un indossabile o un'arma in-game in cambio di ogni pagina bruciata. These items modify a DEGEN's P2E multiplier when worn.
-
-Stiamo ancora determinando esattamente quanti slot possono essere riempiti per DEGEN, ma solo 1 di ogni indossabile è assegnabile per DEGEN NFT.
-
-Di seguito è riportata una rappresentazione della forza del moltiplicatore indossabile per ogni indossabile corrispondente. The exact rates are still being determined.
-
-**Comic 1**: 💪💪💪💪💪  
-**Comic 2**: 💪💪💪💪  
-**Comic 3**: 💪💪💪  
-**Comic 4**: 💪💪  
-**Comic 5**: 💪  
-**Comic 6**: 💪💪💪💪💪💪
-
-## Summary
+**TL; DR**
 
 - Ogni fumetto può essere bruciato per un oggetto indossabile nel gioco
 - Questi NFT saranno ERC-1155
 - Gli oggetti modificano il moltiplicatore P2E di un degen quando indossati
 - In alternativa, puoi tenere i fumetti per utilità futura che non abbiamo ancora rivelato
-- All 6 Comics can be burned together as a set for a special mystery item
+- Tutti e 6 i fumetti possono essere bruciati insieme come set per uno speciale oggetto misterioso
 - Questo oggetto misterioso NON modificherà il moltiplicatore P2E
 
-![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
+Di seguito è riportata una rappresentazione della forza del moltiplicatore indossabile per ogni indossabile corrispondente. Le tariffe esatte sono ancora da definire.
+
+Fumetti 1 💪💪💪💪💪\ Fumetti 2 💪💪💪💪\ Fumetti 3 💪💪💪\ Fumetti 4 💪💪\ Fumetti 5 💪\ Fumetti 6 💪💪💪💪💪💪
+
+
+Stiamo ancora determinando esattamente quanti slot possono essere riempiti per DEGEN, ma solo 1 di ogni indossabile è assegnabile per DEGEN NFT. 
