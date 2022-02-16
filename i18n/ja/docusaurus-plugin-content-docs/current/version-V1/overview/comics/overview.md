@@ -4,45 +4,30 @@ title: 概要
 sidebar_position: 1
 ---
 
-![](/img/NL_Comic_Burner.jpeg)
+まるで私たちの鋳造プロセスがあなたたちにとってまだ十分に楽しくなかったかのように...私たちは特別なニフティリーグのローンチコミックコレクションでコミュニティを驚かせました！ これは、私たちのコレクションを作成してくれて、早くしてくれてありがとうと言っていました😁
 
-During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
+コミックのスナップショットは、次のマイルストーンで最初の4つのコミックページの作成プロセス全体で取得されました。ページ2-3500 |ページ3-5000 |ページ4-7500。
 
-Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
+あなたはおそらく「コミックで何をするのか」と疑問に思っているでしょう。 ええと、彼らは複数のユーティリティを持っているので、あなたはいくつかの選択をするつもりです。 だから、あなたがあなた自身の道を選ぶためにここのゲームの中にゲームがあります。
 
-- Page 1 - 2500
-- Page 2 - 3500
-- Page 3 - 5000
-- Page 4 - 7500
+ニフティリーグコミックコレクションは6ページで構成されており、コミック5と6はまだリリースされていません。 2022年1月31日に、すべてのDEGEN保有者に授与されるコミック5と、6つのDEGEN部族すべてを含むすべてのウォレットに授与されるコミック6のスナップショットがあります。 すべてのメタ背景DEGENSは1つのコミック6を受け取り、すべての伝説的な背景DEGENSは2つのコミック6を受け取ります！ これらは、当社のWebサイトの請求を通じて利用可能になります。
 
-Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
+各コミックは、燃やされた各ページと引き換えにゲーム内のウェアラブルまたは武器を受け取るために、将来的に燃やされる予定です。 ただし、この書き込みウィンドウは永遠ではなく、各所有者はコレクションの将来のためにいくつかの難しい決定を行うことを余儀なくされます。
 
-The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
+聡は、彼がちょうど約すべてにフルコレクションを愛している私たちに語った…ですから、ここであまりにも多くの決定を下す前に二度考えます。
 
-There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
-
-All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
-
-各コミックは、燃やされた各ページと引き換えにゲーム内のウェアラブルまたは武器を受け取るために、将来的に燃やされる予定です。 These items modify a DEGEN's P2E multiplier when worn.
-
-現在、DEGENごとに埋めることができるスロットの正確な数を決定していますが、DEGENNFTごとに割り当て可能なウェアラブルは1つだけです。
-
-以下は、対応する各ウェアラブルのウェアラブル乗数の強さの描写です。 The exact rates are still being determined.
-
-**Comic 1**: 💪💪💪💪💪  
-**Comic 2**: 💪💪💪💪  
-**Comic 3**: 💪💪💪  
-**Comic 4**: 💪💪  
-**Comic 5**: 💪  
-**Comic 6**: 💪💪💪💪💪💪
-
-## Summary
+**TL; DR**
 
 - 各コミックは、ゲーム内のウェアラブルアイテムに書き込むことができます
 - これらのNFTはERC-1155になります
 - アイテムは着用時にdegenのP2E乗数を変更します
 - または、まだ公開していない将来のユーティリティのためにコミックを保持することもできます
-- All 6 Comics can be burned together as a set for a special mystery item
+- 6つのコミックすべてを特別なミステリーアイテムのセットとして一緒に燃やすことができます
 - このミステリーアイテムはP2E乗数を変更しません
 
-![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
+以下は、対応する各ウェアラブルのウェアラブル乗数の強さの描写です。 正確なレートはまだ決定されていません。
+
+コミック1💪💪💪💪💪\コミック2💪💪💪💪\コミック3💪💪💪\コミック4💪💪\コミック5💪\コミック6💪💪
+
+
+現在、DEGENごとに埋めることができるスロットの正確な数を決定していますが、DEGENNFTごとに割り当て可能なウェアラブルは1つだけです。 
