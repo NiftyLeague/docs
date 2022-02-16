@@ -4,14 +4,14 @@ title: Näppärä tennis
 sidebar_position: 3
 ---
 
-### 🚧 Kehitellään vuodelle 2022 🚧
+## 🚧 Kehitellään vuodelle 2022 🚧
 
 ![](/img/NiftyTennis.jpeg)
 
-- 1-4 pelaajan paikallis- ja verkkomoninpeli, kaksinpeli tai nelinpeli.
-- Valitse linjatuomari ja soita tärkeitä puheluita.
-- Ole yleisön jäsen ja vaikuta joukosta.
-- Discord-äänen integraatio sekä pelaajille että yleisölle.
-- Pelaa erilaisilla kenttäpinnoilla ainutlaatuisissa vaiheissa.
-- Varusta eri mailat & tuotetta tilapäisen taktisen edun saamiseksi.
-- Kilpaile _Nifty League Grand Slam Cupista_.
+- 1-4 players local and online multiplayer, singles or doubles
+- Choose to be the line umpire and make important calls
+- Be an audience member and emote from the crowd
+- Discord voice integration for both players and audience
+- Play on a variety of court surfaces in unique stages
+- Equip different racquets & items for a temporary tactical advantage
+- Compete for the Nifty League Grand Slam Cup
