@@ -4,6 +4,12 @@ title: Turneringer
 sidebar_position: 2
 ---
 
-**Turneringer 🏆**
+Improve your gameplay skills, meet members of the community, and earn NFTL and other prizes by playing in a Nifty Smashers tournament!
 
-Deltag i det sjove i ugentlige eller månedlige turneringer! Alle turneringer kan blive tilskyndet af belønninger fra vores fællesskabsfond efter **Nifty DAO's** skøn via token-afstemning. Nogle turneringsmestre kan endda gå væk med en specialudgave Key to the Citadel 🗝️ NFT... For andre aktiviteter, du gerne vil se implementeret, bedes du kontakte vores team!
+Tournaments may be incentivized by rewards from our community treasury fund at the [Nifty League DAO](http://localhost:3000/overview/nifty-dao/overview)'s discretion via token voting. Some tournament champions may even walk away with a special prizes, like a key to the Citadel in Niftyverse!
+
+Tournaments are announced via [Twitter](https://twitter.com/NiftyLeague) and [Discord](https://discord.gg/niftyleague), and managed by Nifty League [Community Moderators](https://docs.niftyleague.com/overview/team).
+
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
+
+![](/img/twitch-stream.png)
