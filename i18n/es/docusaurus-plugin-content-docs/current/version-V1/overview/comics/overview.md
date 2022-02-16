@@ -4,30 +4,45 @@ title: Descripción general
 sidebar_position: 1
 ---
 
-Como si nuestro proceso de acuñación no fuera lo suficientemente divertido para ustedes... ¡sorprendimos a la comunidad con una colección especial de cómics de lanzamiento de Nifty League! Esto fue para decir gracias por acuñar nuestra colección y por llegar temprano 😁
+![](/img/NL_Comic_Burner.jpeg)
 
-Se tomaron instantáneas de los cómics a lo largo del proceso de acuñación de las primeras 4 páginas de cómics en los siguientes hitos: Página 1 - 2500 | Página 2 - 3500 | Página 3 - 5000 | Página 4 - 7500.
+During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
 
-Probablemente te estés preguntando, “¿Qué hago con los cómics?”. Bueno, tendrá que tomar algunas decisiones, ya que tendrán múltiples utilidades. Entonces, aquí hay un juego dentro de un juego para que elijas tu propio camino.
+Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
 
-La colección de cómics de Nifty League consta de 6 páginas con los cómics 5 y 6 aún por publicar. Habrá una instantánea el 31/1/2022 para el cómic 5 otorgado a todos los titulares de DEGEN y el cómic 6 otorgado a todas las billeteras que contienen las 6 tribus DEGEN. ¡Todos los DEGENS de fondo meta recibirán un cómic 6 y todos los DEGENS de fondo legendarios recibirán dos cómics 6! Estos estarán disponibles a través de un reclamo en nuestro sitio web.
+- Page 1 - 2500
+- Page 2 - 3500
+- Page 3 - 5000
+- Page 4 - 7500
 
-Cada cómic se podrá quemar en una fecha futura para recibir un dispositivo portátil o un arma en el juego a cambio de cada página quemada. Sin embargo, esta ventana de quemado no será para siempre y cada poseedor se verá obligado a tomar algunas decisiones difíciles para el futuro de su colección.
+Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
 
-Satoshi nos dijo que ama colecciones completas en casi todo…por lo que pensar dos veces antes de tomar demasiadas decisiones aquí.
+The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
 
-**TL;RD**
+There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
+
+All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
+
+Cada cómic se podrá quemar en una fecha futura para recibir un dispositivo portátil o un arma en el juego a cambio de cada página quemada. These items modify a DEGEN's P2E multiplier when worn.
+
+Todavía estamos determinando exactamente cuántos espacios se pueden llenar por DEGEN, pero solo se puede asignar 1 de cada dispositivo portátil por DEGEN NFT.
+
+A continuación se muestra una representación de la fuerza del multiplicador portátil para cada dispositivo portátil correspondiente. The exact rates are still being determined.
+
+**Comic 1**: 💪💪💪💪💪  
+**Comic 2**: 💪💪💪💪  
+**Comic 3**: 💪💪💪  
+**Comic 4**: 💪💪  
+**Comic 5**: 💪  
+**Comic 6**: 💪💪💪💪💪💪
+
+## Summary
 
 - Cada cómic se puede quemar para obtener un artículo portátil en el juego.
 - Estos NFT serán ERC-1155
 - Los elementos modifican el multiplicador P2E de un degen cuando se usan
 - Alternativamente, puede guardar los cómics para una utilidad futura que aún no hemos revelado.
-- Los 6 cómics se pueden quemar juntos como un conjunto para un elemento misterioso especial
+- All 6 Comics can be burned together as a set for a special mystery item
 - Este artículo misterioso NO modificará el multiplicador P2E
 
-A continuación se muestra una representación de la fuerza del multiplicador portátil para cada dispositivo portátil correspondiente. Las tarifas exactas aún están por determinarse.
-
-Comic 1 💪💪💪💪💪\ Comic 2 💪💪💪💪\ Comic 3 💪💪💪\ Comic 4 💪💪\ Comic 5 💪\ Comic 6 💪💪💪💪💪💪
-
-
-Todavía estamos determinando exactamente cuántos espacios se pueden llenar por DEGEN, pero solo se puede asignar 1 de cada dispositivo portátil por DEGEN NFT. 
+![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
