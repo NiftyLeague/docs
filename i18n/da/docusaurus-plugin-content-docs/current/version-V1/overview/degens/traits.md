@@ -6,4 +6,10 @@ sidebar_position: 4
 
 ![](/img/creation.png)
 
-Der var i alt 1023 træk og 21 valgbare muligheder efter at have valgt en stamme, hvilket lavede et næsten uendeligt antal kombinationer. Karaktertræk blev tilfældigt fjernet fra sættet af tilgængelige karaktertræk, efterhånden som flere karakterer blev skabt, hvilket gjorde det svært at vide, hvilke muligheder der ville ende som de sjældneste. Mens baggrundstyper har særlige fordele, er egenskaber strengt kosmetiske. Tjek [OpenSea](https://opensea.io/collection/niftydegen) at se nogle af de fantastiske kreationer, vores fællesskab fandt på!
+There were a total of 1,023 traits and 21 selectable options after choosing a tribe during our genesis minting experience, making an almost infinite number of DEGEN combinations.
+
+Character traits were randomly removed from the set of available traits as more charcters were created, making it difficult to know which options would end up as the rarest.
+
+**While [background types](https://docs.niftyleague.com/overview/degens/backgrounds) come with special benefits like earnings multipliers, character traits are strictly cosmetic.**
+
+Check out [OpenSea](https://opensea.io/collection/niftydegen) to see some of the amazing creations our community came up with while minting!
