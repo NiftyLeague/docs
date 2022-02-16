@@ -6,4 +6,10 @@ sidebar_position: 4
 
 ![](/img/creation.png)
 
-Po wybraniu plemienia było w sumie 1023 cech i 21 opcji do wyboru, tworząc niemal nieskończoną liczbę kombinacji. Cechy postaci były losowo usuwane z zestawu dostępnych cech, gdy tworzono więcej postaci, co utrudniało określenie, które opcje będą najrzadsze. Podczas gdy typy tła mają szczególne zalety, cechy są czysto kosmetyczne. Sprawdź [OpenSea](https://opensea.io/collection/niftydegen) aby zobaczyć niesamowite kreacje, które wymyśliła nasza społeczność!
+There were a total of 1,023 traits and 21 selectable options after choosing a tribe during our genesis minting experience, making an almost infinite number of DEGEN combinations.
+
+Character traits were randomly removed from the set of available traits as more charcters were created, making it difficult to know which options would end up as the rarest.
+
+**While [background types](https://docs.niftyleague.com/overview/degens/backgrounds) come with special benefits like earnings multipliers, character traits are strictly cosmetic.**
+
+Check out [OpenSea](https://opensea.io/collection/niftydegen) to see some of the amazing creations our community came up with while minting!
