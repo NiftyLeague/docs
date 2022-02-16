@@ -4,6 +4,10 @@ title: 排放
 sidebar_position: 3
 ---
 
-**250M NFTL** 将在前 **3 年** 每年分发给所有 Genesis **DEGEN** NFT 所有者。 无需质押您的 NFT；只需坐下来观看您 **NFTL** ，您可以随时在我们的网站上的 [钱包页面](https://nifty-league.com/wallet)上申领。
+250M NFTL will be distributed annually over the first 3 years to all genesis Degen NFT owners at a rate of **68.5 NFTL per day**.
 
-任何剩余的未来排放将用于每日游戏内奖励或为 **Nifty DAO**提供资金。 在我们获得至少 **7 个签名者** 控制多重签名钱包后，我们将授予 **Nifty DAO** 在第一年铸造多达 **330M NFTL** 我们预计这些代币中的大部分将用于社区贡献者以及用于竞赛奖励，但最终 DAO 将在时机成熟时做出决定。
+**There is no need to stake your Degen NFT to earn daily NFTL.**
+
+Degen owners may claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet). NFTL is associated with your Degen automatically, regardless of if it is claimed. Claiming your Degen's earned NFTL means moving the token to your preferred crypto wallet (gas must be paid to perform this action).
+
+Any remaining future emissions will either be for daily in-game rewards or funding the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview). We will grant the Nifty League DAO the ability to mint up to 330M NFTL over the first year after we receive a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors, as being used for competition rewards, but ultimately the DAO will decide.
