@@ -4,56 +4,45 @@ title: Особливі здібності племені
 sidebar_position: 3
 ---
 
-**Наша поточна гра Nifty Smashers і всі майбутні ігри мають спеціальні здібності ("SA") для кожного типу персонажів.**
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
 
-### Список особливих здібностей
-
-- **Ape** - Киньте банани-бумеранг ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
-- **Чужий** - Телепорт ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
-- **Cat** - Накинься й отримай тимчасове збільшення сили та швидкості біта ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
-- **Жаба** - Язиковий гачок ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
-- **Doge** - Дож кидає монету ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
-- **Людина** - Кидайте динаміти, які вибухають за командою ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
-
-### Інопланетянин
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
 
 - Натискання кнопки SA дозволяє інопланетянину телепортуватися на коротку відстань у цільовому напрямку (ліворуч, праворуч, вгору, вниз, по діагоналі)
 - У телепортованому місці відбувається енергетичний вибух, який вражає супротивників, які стоять поруч
 
-### мавпа
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
 
-- Натискання кнопки SA кидає банан у цільовому напрямку (ліворуч, праворуч, вгору, вниз, по діагоналі), доки він **вдарить супротивника**, не влучить у частину карти або не відлетить від карти
-- Повторне натискання кнопки SA змушує банан летіти назад у деген, що дає можливість знову вразити супротивника.
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
+- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
 - Банани можна вдарити битою і летіти в прицільному напрямку
 
-### кіт
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
 
-- Натискання на SA змушує кота кидатися. Після короткого кидка кішка отримує силу.
-- Empore bat swing: кажан б'є сильніше
-- Посилені рухи: кішки бігають швидше
-- Кішки можуть подвійно стрибати / стрибати в повітрі
+- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
+- Empored bat swing - bat hits harder
+- Empowered movement - cats run faster
+- Cats can double jump, jumping in mid-air
 
-### дож
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
 
-- Натискання та утримування кнопки SA змушує дожа кидатися.
-- Ударивши суперника кидком дожів, він трохи летить вгору в напрямку перекидання
+- Pressing and holding the SA button makes the doge roll
+- Hitting an opponent with doge roll makes them fly upwards in roll direction
 - Дож полетить у цільовому напрямку
-- Під час розіграшу додж-ролу напрямки можна змінити тричі (можливо, два рази після оновлення), доки не закінчиться перебіг.
-- Дож рол також закінчується через певний час
+- During doge roll, directions can be changed three times until the doge roll ends
 
-### жаба
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
 
-- Натискання кнопки SA змушує Жабу стріляти язиком
-- Коли язик вдаряється в супротивника, його тягнуть у напрямку жаб і летить трохи далі
-- Коли язик торкається фрагмента карти, жаби тягнуться до цього об'єкта (наприклад, стіни, стелі,...)
-- Язиком можна стріляти в прицільному напрямку (ліворуч, праворуч, вгору, вниз, по діагоналі)
+- Pressing the SA button makes the frog shoot his tongue
+- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
+- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
 
-### Людський
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
 
 - Натискання кнопки SA кидає бомбу в приціленому напрямку (ліворуч, праворуч, вгору, вниз, по діагоналі)
-- Бомба має вигин і не летить прямо, як банани. Якщо раніше не підірвався і залишиться на землі
-- Бомба вибухає через деякий час або після другого натискання кнопки SA
-- Зараз бомба може вразити супротивника, влучивши в нього або вибухнувши
-- Оновлений план: бомба вибухає відразу після зіткнення з супротивником. Якщо жоден суперник не вражений, він залишається на землі, поки не вибухне автоматично або після другого натискання кнопки SA
+- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
+- The bomb explodes after some time or after the SA button is pressed a second time
+- Currently, the bomb can hit an opponent by hitting it or by explosion
 - Бомби є єдиною СА, яка може вразити сам метальний деген своїм вибухом
-- Бомби можна бити битою і летіти в приціленому напрямку
+- Bombs can also be hit with a bat and fly in the aimed direction
