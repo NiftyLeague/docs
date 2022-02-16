@@ -4,7 +4,9 @@ title: Juegos futuros
 sidebar_position: 7
 ---
 
-Tenemos varias ideas filtrándose y planeamos expandirlas una vez que tengamos **[Nifty Smashers](https://nifty-league.com/games)** funcionando tan bien como nos gustaría. Ya se han anunciado algunos títulos próximos, pero estén atentos a nuestro **[Discord](https://discord.gg/niftyleague)** para obtener más detalles… 😈 El orden de los próximos juegos se someterá a votación de la comunidad.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
