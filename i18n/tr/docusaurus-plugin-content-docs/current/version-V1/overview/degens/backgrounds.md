@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN arka planları, bir Ortak arka plan veya üç özel arka plandan biriyle sonuçlanan, basım üzerine rastgele atandı: **Nadir**, **Meta**veya **Efsanevi**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Havalı görünmenin yanı sıra arka plan, oyunda seçkin bir görünüm ve ekstra kazanç çarpanları gibi özel avantajlarla birlikte gelir.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Kazanç Çarpanları
+## Earnings Multipliers
 
-- Nadir: 1.5
-- Meta: 3
-- Efsanevi: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
