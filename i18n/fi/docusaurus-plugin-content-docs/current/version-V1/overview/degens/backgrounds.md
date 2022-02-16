@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN-taustat jaettiin satunnaisesti lyönnin yhteydessä, mikä johti joko yhteiseen taustaan tai johonkin kolmesta erityistaustasta: **Harvinainen**, **Meta**tai **Legendaarinen**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Sen lisäksi, että se näyttää siistiltä, taustalla on erityisetuja, kuten erottuva ulkonäkö pelissä ja lisätulokertoimet.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Tulojen kertoimet
+## Earnings Multipliers
 
-- Harvinainen: 1.5
-- Meta: 3
-- Legendaarinen: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
