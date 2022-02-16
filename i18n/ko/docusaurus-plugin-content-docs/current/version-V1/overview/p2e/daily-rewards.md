@@ -1,11 +1,21 @@
 ---
 id: 일일 보상
-title: 일일 보상
+title: Gameplay Rewards
 sidebar_position: 1
 ---
 
-![](/img/twitch-stream.png)
+Players are able to earn [NFTL](https://docs.niftyleague.com/overview/nftl/overview) by gaming in Nifty Smashers - successfully landing hits on your opponent(s) and winning matches earn NFTL.
 
-**NFTL** 토큰을 얻을 확률이 높아집니다! 자세한 내용은 새 게임마다 방출 모델을 정의할 때 발표될 것입니다. 그 일환으로 향후 진행 시스템을 구현하여 캐릭터의 레벨을 높이고 XP에 대한 더 많은 보상을 얻을 계획입니다. 이것은 우리 플랫폼에 가장 적합한 보상 시스템을 정의하고 시스템을 게임하려는 봇의 문제를 완화하기 위해 시간을 할애하고자 하는 것입니다.
+The more you play and practice, the better you will play against your opponents, and the more NFLT you will earn by gaming.
 
-우리는 커뮤니티 내에서 활발하게 활동하는 사용자에게 자주 보상할 것이므로 **[Discord](https://discord.gg/niftyleague)** 서버에 **NFTL** 팁에 액세스하십시오! 우리는 커뮤니티에 가장 큰 가치를 제공하는 사용자를 항상 관찰하고 추적합니다. 질문에 답하거나 조언을 공유하여 새로운 회원을 온보딩하는 데 도움을 주세요. 그러면 더 많은 팁을 찾을 수 있을 것입니다! 🙌
+New details will be announced as we define our emission model for each new game. We plan to implement a progression system to level-up Degens and gain additional rewards with the goal to enhance the player experience.
+
+## Noob Player Earnings Bonus
+
+We added a Noob Player Earnings bonus in February 2022, which allows new players to accrue NFTL while learning to play [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers). The bonus is based on number of games played and is constantly being tested and tweaked to ensure new player activation, engagement and retention are optimal, while also controlling overall NFTL emissions. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
+
+## Double Bonks Earnings Bonus
+
+We added and enabled a special bonus period in February 2022, which allows all players to accrue 2x the NFTL during gameplay. The purpose of this earnings bonus was to reward our loyal community and increase player activity. Please note this bonus is promotional and will not remain enabled indefinitely. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
+
+_To create the most optimal reward system for our ecosystem, and mitigate the risk of bots and abuse, please note we will itereate with our gameplay reward model over time._
