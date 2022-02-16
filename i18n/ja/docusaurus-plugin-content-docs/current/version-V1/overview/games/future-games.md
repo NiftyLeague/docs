@@ -4,7 +4,9 @@ title: フューチャーゲーム
 sidebar_position: 7
 ---
 
-いくつかのアイデアが浸透しており、 **[Nifty Smashers](https://nifty-league.com/games)** が正常に機能するようになったら、それらを拡張する予定です。 いくつかの今後のタイトルがすでに発表されているが、滞在は、私たちにチューニング **[確執](https://discord.gg/niftyleague)** 詳細… 😈今後のゲームの順序は、コミュニティの投票にかけられます。
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
