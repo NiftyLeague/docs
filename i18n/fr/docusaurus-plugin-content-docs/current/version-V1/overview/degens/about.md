@@ -1,6 +1,6 @@
 ---
 id: Sur
-title: Sur
+title: Aperçu
 sidebar_position: 1
 ---
 
