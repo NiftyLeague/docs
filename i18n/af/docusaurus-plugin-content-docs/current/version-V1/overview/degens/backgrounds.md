@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-DEGEN-agtergronde is lukraak toegeken tydens slaan wat óf gelei het tot 'n gemeenskaplike agtergrond óf een van drie spesiale agtergronde: **Skaars**, **Meta**, of **Legendaries**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Behalwe dat dit koel lyk, kom agtergrond met spesiale byvoordele soos 'n uitstekende voorkoms in speletjie en vermenigvuldigers wat ekstra verdien.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Verdienstevermenigvuldigers
+## Earnings Multipliers
 
-- Skaars: 1,5
-- Meta: 3
-- Legendaries: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
