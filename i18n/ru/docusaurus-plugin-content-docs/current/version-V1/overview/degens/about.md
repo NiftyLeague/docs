@@ -1,6 +1,6 @@
 ---
 id: О
-title: О
+title: Обзор
 sidebar_position: 1
 ---
 
