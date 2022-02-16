@@ -6,4 +6,10 @@ sidebar_position: 4
 
 ![](/img/creation.png)
 
-Au existat un total de 1023 de trăsături și 21 de opțiuni selectabile după selectarea unui trib, făcând un număr aproape infinit de combinații. Trăsăturile de caractere au fost eliminate aleatoriu din setul de trăsături disponibile pe măsură ce au fost create mai multe caractere, ceea ce face dificil de a ști care opțiuni ar ajunge să fie cele mai rare. În timp ce tipurile de fundal vin cu beneficii speciale, trăsăturile sunt strict cosmetice. Consultați [OpenSea](https://opensea.io/collection/niftydegen) pentru a vedea câteva dintre creațiile uimitoare cu care a venit comunitatea noastră!
+There were a total of 1,023 traits and 21 selectable options after choosing a tribe during our genesis minting experience, making an almost infinite number of DEGEN combinations.
+
+Character traits were randomly removed from the set of available traits as more charcters were created, making it difficult to know which options would end up as the rarest.
+
+**While [background types](https://docs.niftyleague.com/overview/degens/backgrounds) come with special benefits like earnings multipliers, character traits are strictly cosmetic.**
+
+Check out [OpenSea](https://opensea.io/collection/niftydegen) to see some of the amazing creations our community came up with while minting!
