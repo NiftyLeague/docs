@@ -4,30 +4,45 @@ title: Prezentare generală
 sidebar_position: 1
 ---
 
-De parcă procesul nostru de batere nu a fost deja suficient de distractiv pentru voi, băieți... am surprins comunitatea cu o colecție specială de benzi desenate de lansare a Nifty League! Aceasta era pentru a vă mulțumi pentru că ați creat colecția noastră și pentru că ați fost devreme 😁
+![](/img/NL_Comic_Burner.jpeg)
 
-Instantanee pentru benzi desenate au fost realizate pe parcursul procesului de batere pentru primele 4 pagini de benzi desenate la următoarele etape: Pagina 1 - 2500 | Pagina 2 - 3500 | Pagina 3 - 5000 | Pagina 4 - 7500.
+During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
 
-Probabil vă întrebați: „Ce fac cu benzile desenate?”. Ei bine, veți avea câteva alegeri de făcut, deoarece vor avea mai multe utilități. Deci, există un joc într-un joc aici pentru ca tu să-ți alegi propriul drum.
+Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
 
-Colecția de benzi desenate Nifty League constă din 6 pagini, cu benzile desenate 5 și 6 care nu au fost încă lansate. Pe 31.1.2022 va exista un instantaneu pentru benzi desenate 5 acordate tuturor deținătorilor DEGEN și benzi desenate 6 acordate tuturor portofelelor care conțin toate cele 6 triburi DEGEN. Toți fundalul meta DEGENS vor primi o benzi desenate 6 și toți fundalul legendar DEGENS vor primi două benzi desenate 6! Acestea vor fi disponibile printr-o revendicare pe site-ul nostru.
+- Page 1 - 2500
+- Page 2 - 3500
+- Page 3 - 5000
+- Page 4 - 7500
 
-Fiecare benzi desenate va putea fi inscripționată la o dată viitoare pentru a primi un purtabil sau o armă în joc în schimbul fiecărei pagini arse. Cu toate acestea, această fereastră de ardere nu va fi pentru totdeauna și fiecare deținător va fi obligat să ia niște decizii grele pentru viitorul colecției sale.
+Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
 
-Satoshi ne -a spus că iubește colecții complete în doar despre orice…, astfel cred că de două ori înainte de a face prea multe decizii aici.
+The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
 
-**TL;DR**
+There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
+
+All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
+
+Fiecare benzi desenate va putea fi inscripționată la o dată viitoare pentru a primi un purtabil sau o armă în joc în schimbul fiecărei pagini arse. These items modify a DEGEN's P2E multiplier when worn.
+
+Încă determinăm exact câte spații pot fi ocupate pe DEGEN, dar numai 1 din fiecare purtabil poate fi atribuit pe DEGEN NFT.
+
+Mai jos este o reprezentare a puterii multiplicatorului purtabile pentru fiecare purtabil corespunzător. The exact rates are still being determined.
+
+**Comic 1**: 💪💪💪💪💪  
+**Comic 2**: 💪💪💪💪  
+**Comic 3**: 💪💪💪  
+**Comic 4**: 💪💪  
+**Comic 5**: 💪  
+**Comic 6**: 💪💪💪💪💪💪
+
+## Summary
 
 - Fiecare benzi desenate poate fi inscripționată pentru un articol care poate fi purtat în joc
 - Aceste NFT vor fi ERC-1155
 - Articolele modifică multiplicatorul P2E al unui degen atunci când sunt purtate
 - Alternativ, puteți păstra benzile desenate pentru utilitate viitoare pe care nu le-am dezvăluit încă
-- Toate cele 6 benzi desenate pot fi arse împreună ca un set pentru un articol mister special
+- All 6 Comics can be burned together as a set for a special mystery item
 - Acest element misterios NU va modifica multiplicatorul P2E
 
-Mai jos este o reprezentare a puterii multiplicatorului purtabile pentru fiecare purtabil corespunzător. Tarifele exacte sunt încă de stabilit.
-
-Benzi desenate 1 💪💪💪💪💪\ Benzi desenate 2 💪💪💪💪\ Benzi desenate 3 💪💪💪\ Benzi desenate 4 💪💪\ Benzi desenate 5 💪\ Benzi desenate 6 💪💪💪💪💪💪💪💪
-
-
-Încă determinăm exact câte spații pot fi ocupate pe DEGEN, dar numai 1 din fiecare purtabil poate fi atribuit pe DEGEN NFT. 
+![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
