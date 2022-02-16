@@ -4,7 +4,9 @@ title: Jövőbeli játékok
 sidebar_position: 7
 ---
 
-Számos ötletünk van, és azt tervezzük, hogy kibővítjük őket, amint a **[Nifty Smashers](https://nifty-league.com/games)** működik, ahogyan szeretnénk. Néhány soron következő címet már bejelentettek, de maradjon velünk **[Discord](https://discord.gg/niftyleague)** további részletekért… 😈 A következő játékok sorrendje közösségi szavazásra kerül.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
