@@ -4,56 +4,45 @@ title: Stamme særlige evner
 sidebar_position: 3
 ---
 
-**Vores nuværende spil, Nifty Smashers, og alle de fremtidige spil har en speciel evne ("SA") for hver karaktertype.**
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
 
-### Liste over særlige evner
-
-- **Ape** - Kast boomerangbananer ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
-- **Alien** - Teleport ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
-- **Kat** - Kast og få flagermusstyrke og hastighedsboost midlertidigt ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
-- **Frø** - Tungegribekrogen ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
-- **Doge** - Doge møntrulle ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
-- **Menneske** - Kast dynamitter, der eksploderer på kommando ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
-
-### Alien
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
 
 - Ved at trykke på SA-knappen kan Alien teleportere en kort afstand i den tilsigtede retning (venstre, højre, op, ned, diagonaler)
 - Der er en energieksplosion på det teleporterede sted, der rammer modstandere, der står i nærheden
 
-### Abe
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
 
-- Et tryk på SA-knappen kaster en banan i den sigtede retning (venstre, højre, op, ned, diagonaler), indtil den **rammer en modstander**, rammer en kortdel eller flyver væk fra kortet
-- Tryk på SA-knappen igen, får bananen til at flyve tilbage til degen, hvilket gør det muligt at ramme en modstander igen.
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
+- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
 - Bananer kan slås med et flagermus og flyve i den tilsigtede retning
 
-### Kat
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
 
-- Et tryk på SA får katten til at kaste sig. Efter at have slået i en kort periode, får katten magt.
-- Empored flagermus swing: flagermus slår hårdere
-- Styrket bevægelse: katte løber hurtigere
-- Katte kan dobbeltspringe/springe i luften
+- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
+- Empored bat swing - bat hits harder
+- Empowered movement - cats run faster
+- Cats can double jump, jumping in mid-air
 
-### Doge
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
 
-- Ved at trykke på SA-knappen og holde den nede får dogen til at rulle.
-- At ramme en modstander med doge roll får dem til at flyve lidt opad i roll retning
+- Pressing and holding the SA button makes the doge roll
+- Hitting an opponent with doge roll makes them fly upwards in roll direction
 - Doge vil fly-rulle i den tilsigtede retning
-- Under doge roll retninger kan ændres tre gange (måske to gange efter opdatering), indtil doge roll slutter
-- Doge roll slutter også efter en vis tid
+- During doge roll, directions can be changed three times until the doge roll ends
 
-### Frø
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
 
-- Et tryk på SA-knappen får frøen til at skyde med tungen
-- Når tungen rammer en modstander, trækkes denne modstander til frøernes retning og flyver lidt længere
-- Når tungen rammer et kortstykke, trækker frøerne sig til det objekt (f.eks. vægge, lofter,...)
-- Tungen kan skydes i den sigtede retning (venstre, højre, op, ned, diagonaler)
+- Pressing the SA button makes the frog shoot his tongue
+- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
+- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
 
-### Human
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
 
 - Et tryk på SA-knappen kaster en bombe i den sigtede retning (venstre, højre, op, ned, diagonaler)
-- Bomben har en flyvende kurve og flyver ikke lige som bananer. Hvis den ikke er detoneret før og bliver på jorden
-- Bomben eksploderer efter et stykke tid, eller efter at der trykkes på SA-knappen endnu en gang
-- I øjeblikket kan bomben ramme en modstander ved at ramme den eller ved eksplosion
-- Opdateret plan: bombe detonerer umiddelbart efter kontakt med en modstander. Hvis ingen modstander bliver ramt, bliver den på jorden, indtil den eksploderer automatisk eller efter at have trykket på SA-knappen anden gang
+- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
+- The bomb explodes after some time or after the SA button is pressed a second time
+- Currently, the bomb can hit an opponent by hitting it or by explosion
 - Bomber er den eneste SA, der kan ramme selve kastedegenet med sin eksplosion
-- Bomber kan slås med et bat og flyve i den tilsigtede retning
+- Bombs can also be hit with a bat and fly in the aimed direction
