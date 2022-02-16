@@ -4,14 +4,4 @@ title: Преглед
 sidebar_position: 1
 ---
 
-The sale of our characters kicked off the initial distribution of our ecosystem’s native utility and governance token, [NFTL](https://www.coingecko.com/en/coins/nifty-league).
-
-NFTL is currently only available for trading and staking on [SushiSwap](https://sushi.com/).
-
-NFTL helps decentralize our ecosystem by ensuring important decisions regarding the direction of Nifty League are decided via the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview).
-
-NFTL serves a dual purpose of giving users voting rights on upcoming games and tournaments, as well paying for platform-wide expenses. For now, this only includes naming characters, but will soon be expanded to be used for purchasing additional in-game items and collectibles.
-
-Any NFTL used for naming characters is immediately burned (removed from circulation). When additional in-game items are introduced, 90% of all proceeds will be given to the Nifty League DAO, and the remaining 10% will be paid to the core team.
-
-NFTL will also be required to pay for Degen [Rentals](https://docs.niftyleague.com/guides/rentals/rental-overview), and to purchase land in the [Niftyverse](https://docs.niftyleague.com/overview/games/niftyverse).
+НФТЛ делује као начин за децентрализацију нашег екосистема тако што обезбеђује да се важне одлуке у вези са правцем Нифти лиге доносе путем Нифти ДАО-а. Продаја наших ликова покренула је почетну дистрибуцију изворног токена корисности и управљања нашег екосистема; НФТЛ. НФТЛ има двоструку сврху дајући корисницима право гласа на предстојећим играма и турнирима, као и да се користи за трошкове целе платформе. За сада, ово укључује само именовање ликова, али се може проширити да се користи за куповину додатних предмета у игри, колекционарских предмета или чак потенцијалних будућих ликова. Сваки НФТЛ који се користи за именовање знакова одмах се спаљује или уклања из промета. Ако и када се уведу додатни предмети у игри, 90% свих прихода биће дато Нифти ДАО-у, а преосталих 10% плаћено нашем тиму.
