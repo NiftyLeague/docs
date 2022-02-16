@@ -1,6 +1,6 @@
 ---
 id: Etwa
-title: Etwa
+title: Überblick
 sidebar_position: 1
 ---
 
