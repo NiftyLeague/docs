@@ -4,10 +4,8 @@ title: 커뮤니티 개발자
 sidebar_position: 6
 ---
 
-우리의 목표는 가능한 한 많은 재미 있고 흥미진진한 게임으로 플랫폼을 확장하는 것입니다. 이는 DEGEN 커뮤니티의 도움이 있어야만 가능하다고 믿습니다!
+Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community, including indie gaming studios.
 
-우리는 개발자들이 우리의 캐릭터를 활용하여 게임을 만들도록 권장합니다. 이 게임은 선택될 경우 플랫폼에 게시되며, 그 대가로 개발자는 기여에 대해 Nifty DAO로부터 보상을 받게 됩니다.
+We encourage developers to create games utilizing our characters which - if selected - will go live on our platform, and in return developers will be rewarded from the [Nifty League DAO](http://localhost:3000/overview/nifty-dao/overview) for their contributions. Please share game ideas in our [Discord](https://discord.gg/niftyleague). If your game shows promise and viability we’d love to share it with the community.
 
-**[Discord](https://discord.gg/niftyleague)**에서 아이디어를 보내주세요!
-
-게임이 가능성과 실행 가능성을 보여준다면 커뮤니티와 공유하고 싶습니다.
+We are building a more formal process for indie gaming studios and artists to utilize the Nifty League art and branding while building games for Niftyverse - stay tuned.
