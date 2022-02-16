@@ -4,6 +4,10 @@ title: Utslipp
 sidebar_position: 3
 ---
 
-**250M NFTL** vil bli distribuert årlig over de første **3 årene** til alle Genesis **DEGEN** NFT eiere. Det er ikke nødvendig å satse din NFT; bare len deg tilbake og se at **** akkumuleres daglig som du kan gjøre krav på på nettsiden vår når som helst på din [lommebok side](https://nifty-league.com/wallet).
+250M NFTL will be distributed annually over the first 3 years to all genesis Degen NFT owners at a rate of **68.5 NFTL per day**.
 
-Eventuelle gjenværende fremtidige utslipp vil enten være for daglige belønninger i spillet eller finansiering for **Nifty DAO**. Vi vil gi **Nifty DAO** muligheten til å lage opptil **330M NFTL** løpet av det første året etter at vi får minimum **7 underskrivere** kontrollerer multi-sig-lommeboken. Vi forutser at de fleste av disse tokenene vil gå til bidragsytere fra fellesskapet i tillegg til å bli brukt til konkurransebelønninger, men til syvende og sist vil DAO ta den avgjørelsen når den tid kommer.
+**There is no need to stake your Degen NFT to earn daily NFTL.**
+
+Degen owners may claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet). NFTL is associated with your Degen automatically, regardless of if it is claimed. Claiming your Degen's earned NFTL means moving the token to your preferred crypto wallet (gas must be paid to perform this action).
+
+Any remaining future emissions will either be for daily in-game rewards or funding the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview). We will grant the Nifty League DAO the ability to mint up to 330M NFTL over the first year after we receive a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors, as being used for competition rewards, but ultimately the DAO will decide.
