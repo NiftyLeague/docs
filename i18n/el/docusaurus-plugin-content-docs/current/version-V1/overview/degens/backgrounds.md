@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Τα υπόβαθρα DEGEN ανατέθηκαν τυχαία κατά την κοπή, τα οποία είτε οδήγησαν σε ένα Κοινό φόντο είτε σε ένα από τα τρία ειδικά υπόβαθρα: **Σπάνιο**, **Meta**ή **Θρυλικό**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Εκτός από το ότι φαίνεται ωραίο, το φόντο συνοδεύεται από ειδικά προνόμια, όπως μια ξεχωριστή εμφάνιση στο παιχνίδι και πολλαπλασιαστές έξτρα κερδών.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Πολλαπλασιαστές κερδών
+## Earnings Multipliers
 
-- Σπάνιες: 1,5
-- Meta: 3
-- Θρυλικό: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
