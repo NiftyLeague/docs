@@ -4,56 +4,45 @@ title: القدرات الخاصة للقبيلة
 sidebar_position: 3
 ---
 
-**تتميز لعبتنا الحالية ، Nifty Smashers ، وجميع الألعاب المستقبلية بقدرة خاصة ("SA") لكل نوع من الشخصيات.**
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
 
-### قائمة القدرات الخاصة
-
-- **القرد** - رمي الموز بوميرانج ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
-- **الغريبة** - النقل الفضائي ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
-- **Cat** - اقفز واحصل على قوة الخفاش وزيادة السرعة مؤقتًا ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
-- **الضفدع** - خطاف كلاب اللسان ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
-- **دوجي** - لفة عملة دوجي ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
-- **الإنسان** - رمي الديناميات التي تنفجر عند الأمر ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
-
-### كائن فضائي
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
 
 - يؤدي الضغط على زر SA إلى جعل الكائن الفضائي قادرًا على الانتقال الفوري مسافة قصيرة في الاتجاه المستهدف (يسار ، يمين ، أعلى ، أسفل ، أقطار)
 - هناك انفجار للطاقة في الموقع المنقولة عن بعد ، مما أصاب المعارضين الذين يقفون بالقرب منه
 
-### قرد
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
 
-- يؤدي الضغط على زر SA إلى إلقاء موزة في الاتجاه المستهدف (يسار ، يمين ، أعلى ، أسفل ، أقطار) حتى تصل إلى ****، أو تصطدم بجزء من الخريطة أو تطير خارج الخريطة
-- الضغط على زر SA مرة أخرى ، يجعل الموز يعود إلى الانحطاط ، مما يجعل من الممكن ضرب الخصم مرة أخرى.
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
+- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
 - يمكن ضرب الموز بمضرب ويطير في الاتجاه المستهدف
 
-### قط
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
 
-- الضغط على SA يجعل القطة تنقض. بعد الانقضاض لفترة قصيرة ، يتم تمكين القط.
-- أرجوحة الخفافيش الممطرة: يضرب الخفاش بقوة أكبر
-- تمكين الحركة: القطط تعمل بشكل أسرع
-- يمكن للقطط مضاعفة القفز / القفز في الهواء
+- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
+- Empored bat swing - bat hits harder
+- Empowered movement - cats run faster
+- Cats can double jump, jumping in mid-air
 
-### دوجي
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
 
-- الضغط مع الاستمرار على زر SA يجعل لفة الدوج.
-- ضرب الخصم مع دحرجة دوج يجعله يطير للأعلى قليلاً في اتجاه التدحرج
+- Pressing and holding the SA button makes the doge roll
+- Hitting an opponent with doge roll makes them fly upwards in roll direction
 - سوف دوجي يطير في الاتجاه المستهدف
-- خلال دوج رول يمكن تغيير الاتجاهات ثلاث مرات (ربما مرتين بعد التحديث) حتى نهاية دوجي رول
-- دوجي رول ينتهي أيضًا بعد وقت معين
+- During doge roll, directions can be changed three times until the doge roll ends
 
-### ضفدع
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
 
-- الضغط على زر SA يجعل الضفدع يطلق لسانه
-- عندما يضرب اللسان خصمًا ، يتم سحب هذا الخصم إلى اتجاه الضفادع ويطير قليلاً
-- عندما يضرب اللسان قطعة من الخريطة ، تسحب الضفادع نفسها إلى هذا الشيء (مثل الجدران والسقوف ...)
-- يمكن إطلاق اللسان في الاتجاه المستهدف (يسار ، يمين ، أعلى ، أسفل ، قطري)
+- Pressing the SA button makes the frog shoot his tongue
+- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
+- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
 
-### بشر
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
 
 - يؤدي الضغط على زر SA إلى إلقاء قنبلة في الاتجاه المستهدف (يسار ، يمين ، أعلى ، أسفل ، قطري)
-- القنبلة لها منحنى طائر ولا تطير بشكل مستقيم مثل الموز. إذا لم يتم تفجيره مسبقًا ويبقى على الأرض
-- تنفجر القنبلة بعد بعض الوقت أو بعد الضغط على زر SA مرة ثانية
-- حاليا يمكن للقنبلة أن تصيب الخصم بضربه أو عن طريق الانفجار
-- الخطة المحدثة: تنفجر القنبلة على الفور بعد الاتصال بالخصم. إذا لم يتم إصابة أي خصم ، فسيظل على الأرض حتى ينفجر تلقائيًا أو بعد الضغط على زر SA مرة ثانية
+- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
+- The bomb explodes after some time or after the SA button is pressed a second time
+- Currently, the bomb can hit an opponent by hitting it or by explosion
 - القنابل هي الوحيدة التي يمكن أن تضرب SA التي ترمي نفسها بانفجارها
-- يمكن أن تضرب القنابل بمضرب وتطير في الاتجاه المستهدف
+- Bombs can also be hit with a bat and fly in the aimed direction
