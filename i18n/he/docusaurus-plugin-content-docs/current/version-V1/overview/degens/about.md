@@ -1,6 +1,6 @@
 ---
 id: על אודות
-title: על אודות
+title: סקירה כללית
 sidebar_position: 1
 ---
 
