@@ -1,6 +1,6 @@
 ---
 id: Σχετικά με
-title: Σχετικά με
+title: ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ
 sidebar_position: 1
 ---
 
