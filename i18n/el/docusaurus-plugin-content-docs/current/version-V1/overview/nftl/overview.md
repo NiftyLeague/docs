@@ -4,4 +4,14 @@ title: ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ
 sidebar_position: 1
 ---
 
-Το NFTL λειτουργεί ως τρόπος αποκέντρωσης του οικοσυστήματος μας διασφαλίζοντας ότι σημαντικές αποφάσεις σχετικά με την κατεύθυνση του Nifty League λαμβάνονται μέσω του Nifty DAO. Η πώληση των χαρακτήρων μας ξεκίνησε την αρχική διανομή της εγγενούς χρησιμότητας και διακυβέρνησης του οικοσυστήματος μας. NFTL. Το NFTL εξυπηρετεί διττό σκοπό να παρέχει στους χρήστες δικαιώματα ψήφου σε επερχόμενα παιχνίδια και τουρνουά, καθώς και να χρησιμοποιείται για έξοδα σε ολόκληρη την πλατφόρμα. Προς το παρόν, αυτό περιλαμβάνει μόνο την ονομασία χαρακτήρων, αλλά μπορεί να επεκταθεί για να χρησιμοποιηθεί για την αγορά πρόσθετων αντικειμένων εντός του παιχνιδιού, συλλεκτικών ή ακόμη και πιθανών μελλοντικών χαρακτήρων. Κάθε NFTL που χρησιμοποιείται για την ονομασία χαρακτήρων καίγεται αμέσως ή αφαιρείται από την κυκλοφορία. Εάν και όταν εισαχθούν πρόσθετα στοιχεία εντός του παιχνιδιού, το 90% όλων των εσόδων θα δοθεί στο Nifty DAO με το υπόλοιπο 10% να καταβάλλεται στην ομάδα μας.
+The sale of our characters kicked off the initial distribution of our ecosystem’s native utility and governance token, [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+
+NFTL is currently only available for trading and staking on [SushiSwap](https://sushi.com/).
+
+NFTL helps decentralize our ecosystem by ensuring important decisions regarding the direction of Nifty League are decided via the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview).
+
+NFTL serves a dual purpose of giving users voting rights on upcoming games and tournaments, as well paying for platform-wide expenses. For now, this only includes naming characters, but will soon be expanded to be used for purchasing additional in-game items and collectibles.
+
+Any NFTL used for naming characters is immediately burned (removed from circulation). When additional in-game items are introduced, 90% of all proceeds will be given to the Nifty League DAO, and the remaining 10% will be paid to the core team.
+
+NFTL will also be required to pay for Degen [Rentals](https://docs.niftyleague.com/guides/rentals/rental-overview), and to purchase land in the [Niftyverse](https://docs.niftyleague.com/overview/games/niftyverse).
