@@ -4,7 +4,9 @@ title: Framtida spel
 sidebar_position: 7
 ---
 
-Vi har flera idéer på väg och planerar att utöka dem när vi har **[Nifty Smashers](https://nifty-league.com/games)** fungerar så bra som vi vill. Några kommande titlar har redan annonserats men håll utkik i vår **[Discord](https://discord.gg/niftyleague)** för mer information… 😈 Ordningen för eventuella kommande spel kommer att läggas upp till en omröstning i samhället.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
