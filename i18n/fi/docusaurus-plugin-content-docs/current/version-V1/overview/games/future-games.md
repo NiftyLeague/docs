@@ -4,7 +4,9 @@ title: Tulevaisuuden pelit
 sidebar_position: 7
 ---
 
-Meillä on useita ideoita, ja aiomme laajentaa niitä, kun saamme **[Nifty Smashers](https://nifty-league.com/games)** toimimaan niin hyvin kuin haluaisimme. Joitakin tulevia nimikkeitä on jo ilmoitettu, mutta pysy kuulolla **[Discordissa](https://discord.gg/niftyleague)** saadaksesi lisätietoja… 😈 Mahdollisten tulevien pelien järjestys asetetaan yhteisön äänestykseen.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
