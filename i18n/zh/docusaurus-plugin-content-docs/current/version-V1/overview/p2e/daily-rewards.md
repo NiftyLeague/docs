@@ -1,21 +1,11 @@
 ---
 id: 每日奖励
-title: Gameplay Rewards
+title: 每日奖励
 sidebar_position: 1
 ---
 
-Players are able to earn [NFTL](https://docs.niftyleague.com/overview/nftl/overview) by gaming in Nifty Smashers - successfully landing hits on your opponent(s) and winning matches earn NFTL.
+![](/img/twitch-stream.png)
 
-The more you play and practice, the better you will play against your opponents, and the more NFLT you will earn by gaming.
+您玩得越多，获得 **NFTL** 代币的机会就越大！ 当我们为每款新游戏定义排放模型时，将会公布更多细节。 作为其中的一部分，我们计划在未来实施一个进度系统，以升级您的角色并为您的 XP 获得更多奖励。 这是我们想要花时间来确保我们为我们的平台定义最佳奖励系统并减轻机器人试图玩弄系统的问题。
 
-New details will be announced as we define our emission model for each new game. We plan to implement a progression system to level-up Degens and gain additional rewards with the goal to enhance the player experience.
-
-## Noob Player Earnings Bonus
-
-We added a Noob Player Earnings bonus in February 2022, which allows new players to accrue NFTL while learning to play [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers). The bonus is based on number of games played and is constantly being tested and tweaked to ensure new player activation, engagement and retention are optimal, while also controlling overall NFTL emissions. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
-
-## Double Bonks Earnings Bonus
-
-We added and enabled a special bonus period in February 2022, which allows all players to accrue 2x the NFTL during gameplay. The purpose of this earnings bonus was to reward our loyal community and increase player activity. Please note this bonus is promotional and will not remain enabled indefinitely. Changes to this P&E Earnings Bonus will be announced in our [Discord server](https://discord.gg/niftyleague).
-
-_To create the most optimal reward system for our ecosystem, and mitigate the risk of bots and abuse, please note we will itereate with our gameplay reward model over time._
+我们会经常奖励在我们社区中保持活跃的用户，因此请务必加入我们的 **[Discord](https://discord.gg/niftyleague)** 服务器以获取随机 **NFTL** 提示！ 我们一直在关注和跟踪为我们的社区提供最大价值的用户。 通过回答问题或分享建议来帮助我们加入新会员，您可能会发现更多提示！ 🙌
