@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Pozadí DEGEN byla náhodně přiřazena při ražbě, což vedlo buď k běžnému pozadí nebo jednomu ze tří speciálních pozadí: **Vzácné**, **Meta**nebo **Legendární**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Kromě toho, že vypadá skvěle, pozadí přichází se speciálními výhodami, jako je výrazný vzhled ve hře a multiplikátory extra výdělků.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Multiplikátory výdělků
+## Earnings Multipliers
 
-- Vzácné: 1.5
-- Meta: 3
-- Legendární: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
