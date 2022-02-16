@@ -4,4 +4,14 @@ title: Přehled
 sidebar_position: 1
 ---
 
-NFTL funguje jako způsob, jak decentralizovat náš ekosystém tím, že zajišťuje, aby se o důležitých rozhodnutích ohledně směřování Nifty League rozhodovalo prostřednictvím Nifty DAO. Prodej našich postav odstartoval počáteční distribuci nativního tokenu užitku a řízení našeho ekosystému; NFTL. NFTL slouží dvojímu účelu – dává uživatelům hlasovací práva v nadcházejících hrách a turnajích a také se používá na náklady na platformě. Prozatím to zahrnuje pouze pojmenování postav, ale může být rozšířeno tak, aby bylo možné zakoupit další předměty ve hře, sběratelské předměty nebo dokonce potenciální budoucí postavy. Jakékoli NFTL použité pro pojmenovávání znaků je okamžitě spáleno nebo odstraněno z oběhu. Pokud a až budou zavedeny další položky ve hře, 90 % všech výtěžků bude věnováno Nifty DAO a zbývajících 10 % bude zaplaceno našemu týmu.
+The sale of our characters kicked off the initial distribution of our ecosystem’s native utility and governance token, [NFTL](https://www.coingecko.com/en/coins/nifty-league).
+
+NFTL is currently only available for trading and staking on [SushiSwap](https://sushi.com/).
+
+NFTL helps decentralize our ecosystem by ensuring important decisions regarding the direction of Nifty League are decided via the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview).
+
+NFTL serves a dual purpose of giving users voting rights on upcoming games and tournaments, as well paying for platform-wide expenses. For now, this only includes naming characters, but will soon be expanded to be used for purchasing additional in-game items and collectibles.
+
+Any NFTL used for naming characters is immediately burned (removed from circulation). When additional in-game items are introduced, 90% of all proceeds will be given to the Nifty League DAO, and the remaining 10% will be paid to the core team.
+
+NFTL will also be required to pay for Degen [Rentals](https://docs.niftyleague.com/guides/rentals/rental-overview), and to purchase land in the [Niftyverse](https://docs.niftyleague.com/overview/games/niftyverse).
