@@ -4,7 +4,9 @@ title: 미래 게임
 sidebar_position: 7
 ---
 
-우리는 몇 가지 아이디어가 스며들어 있고 **[Nifty Smashers](https://nifty-league.com/games)** 원하는 대로 작동하게 되면 이를 확장할 계획입니다. 일부 출시 예정 타이틀은 이미 발표되었지만 자세한 내용은 **[Discord](https://discord.gg/niftyleague)**… 😈 다음 게임의 순서는 커뮤니티 투표에 따릅니다.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
