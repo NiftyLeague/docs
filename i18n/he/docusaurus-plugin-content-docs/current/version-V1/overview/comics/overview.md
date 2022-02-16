@@ -4,45 +4,30 @@ title: סקירה כללית
 sidebar_position: 1
 ---
 
-![](/img/NL_Comic_Burner.jpeg)
+כאילו תהליך ההטבעה שלנו לא היה מספיק מהנה עבורכם... הפתענו את הקהילה עם קולקציית קומיקס מיוחדת להשקת Nifty League! זה היה כדי לומר תודה על שטבעת את הקולקציה שלנו ועל שהקדמתם 😁
 
-During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
+צילומי מצב לקומיקס צולמו לאורך תהליך ההטבעה עבור 4 עמודי הקומיקס הראשונים באבני הדרך הבאות: עמוד 1 - 2500 | עמוד 2 - 3500 | עמוד 3 - 5000 | עמוד 4 - 7500.
 
-Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
+אתה בוודאי תוהה, "מה אני עושה עם הקומיקס?". ובכן, יהיו לך כמה בחירות לעשות מכיוון שיהיו להם מספר כלי עזר. אז, יש כאן משחק בתוך משחק כדי שתוכל לבחור את הדרך שלך.
 
-- Page 1 - 2500
-- Page 2 - 3500
-- Page 3 - 5000
-- Page 4 - 7500
+אוסף הקומיקס Nifty League מורכב מ-6 עמודים עם קומיקס 5 ו-6 שטרם שוחררו. תהיה תמונת מצב ב-31/1/2022 עבור קומיקס 5 שיוענק לכל מחזיקי DEGEN וקומיקס 6 שיוענק לכל הארנקים המכילים את כל 6 שבטי DEGEN. כל DEGENS ברקע המטא יקבלו קומיקס 6 אחד וכל DEGENS ברקע האגדי יקבלו שני קומיקס 6! אלה יהיו זמינים באמצעות תביעה באתר האינטרנט שלנו.
 
-Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
+כל קומיקס יהיה בר שריפה בתאריך עתידי כדי לקבל פריט לביש או נשק במשחק בתמורה לכל עמוד שנשרף. עם זאת, חלון הצריבה הזה לא יהיה לנצח וכל בעל ייאלץ לקבל כמה החלטות קשות לעתיד האוסף שלו.
 
-The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
+סאטושי אמר לנו שהוא אוהב אוספים מלאים כמעט בכל דבר…אז תחשוב פעמיים לפני שאתה מקבל יותר מדי החלטות כאן.
 
-There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
-
-All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
-
-כל קומיקס יהיה בר שריפה בתאריך עתידי כדי לקבל פריט לביש או נשק במשחק בתמורה לכל עמוד שנשרף. These items modify a DEGEN's P2E multiplier when worn.
-
-אנחנו עדיין קובעים בדיוק כמה משבצות ניתן למלא לכל DEGEN, אבל רק 1 מכל לביש ניתן להקצאה לכל DEGEN NFT.
-
-להלן תיאור של חוזק מכפיל לביש עבור כל רכיב לביש מתאים. The exact rates are still being determined.
-
-**Comic 1**: 💪💪💪💪💪  
-**Comic 2**: 💪💪💪💪  
-**Comic 3**: 💪💪💪  
-**Comic 4**: 💪💪  
-**Comic 5**: 💪  
-**Comic 6**: 💪💪💪💪💪💪
-
-## Summary
+**TL;DR**
 
 - ניתן לצרוב כל קומיקס עבור פריט לביש במשחק
 - NFTs אלה יהיו של ERC-1155
 - פריטים משנים את מכפיל ה-P2E של degen כאשר הם לובשים
 - לחלופין, אתה יכול להחזיק את הקומיקס לשימוש עתידי שעדיין לא חשפנו
-- All 6 Comics can be burned together as a set for a special mystery item
+- ניתן לצרוב את כל 6 הקומיקס יחד כסט לפריט מסתורי מיוחד
 - פריט מסתורי זה לא ישנה את מכפיל ה-P2E
 
-![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
+להלן תיאור של חוזק מכפיל לביש עבור כל רכיב לביש מתאים. התעריפים המדויקים עדיין לא נקבעים.
+
+קומיקס 1 💪💪💪💪💪\ קומיקס 2 💪💪💪💪\ קומיקס 3 💪💪💪\ קומיקס 4 💪💪\ קומיקס 5 💪\ קומיקס💪💪💪💪💪💪💪💪💪💪💪
+
+
+אנחנו עדיין קובעים בדיוק כמה משבצות ניתן למלא לכל DEGEN, אבל רק 1 מכל לביש ניתן להקצאה לכל DEGEN NFT. 
