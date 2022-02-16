@@ -1,6 +1,6 @@
 ---
 id: 关于
-title: 关于
+title: 概述
 sidebar_position: 1
 ---
 
