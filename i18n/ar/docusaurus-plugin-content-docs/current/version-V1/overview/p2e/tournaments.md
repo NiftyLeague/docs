@@ -4,6 +4,12 @@ title: البطولات
 sidebar_position: 2
 ---
 
-**البطولات 🏆**
+Improve your gameplay skills, meet members of the community, and earn NFTL and other prizes by playing in a Nifty Smashers tournament!
 
-انضم إلى المرح في البطولات الأسبوعية أو الشهرية! يمكن تحفيز جميع البطولات عن طريق المكافآت من صندوق خزانة المجتمع لدينا **Nifty DAO** خلال التصويت الرمزي. قد يبتعد بعض أبطال البطولات عن إصدار خاص من Key to the Citadel 🗝️ NFT ... بالنسبة إلى أي أنشطة أخرى ترغب في تنفيذها ، يرجى التواصل مع فريقنا!
+Tournaments may be incentivized by rewards from our community treasury fund at the [Nifty League DAO](http://localhost:3000/overview/nifty-dao/overview)'s discretion via token voting. Some tournament champions may even walk away with a special prizes, like a key to the Citadel in Niftyverse!
+
+Tournaments are announced via [Twitter](https://twitter.com/NiftyLeague) and [Discord](https://discord.gg/niftyleague), and managed by Nifty League [Community Moderators](https://docs.niftyleague.com/overview/team).
+
+For any other activities you'd like to see implemented, please reach out to our team in Discord!
+
+![](/img/twitch-stream.png)
