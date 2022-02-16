@@ -4,23 +4,27 @@ title: Törzsek
 sidebar_position: 2
 ---
 
-Jelenlegi játékunk, a Nifty Smashers és az összes jövőbeli játékunk minden karaktertípushoz különleges lépést tartalmaz. Íme az első játék különleges lépéseinek listája:
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each tribe.
 
--![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)**Ape** – Dobj bumeráng banánt
+## Special Ability by tribe:
 
--![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)**Alien** - Teleportál
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)**Ape**: throws boomerang bananas
 
--![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)**Cat** – Ugrálj, és ideiglenesen növeld az ütőerőt és a sebességet
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)**Alien**: teleports
 
--![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)**Béka** - A nyelvmarkoló horog
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)**Cat**: pounces, has increased bat power, and temporary speed boost
 
--![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge** - Doge érme tekercs
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)**Frog**: the tongue grapple hook
 
--![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Ember** - Dobj dinamitot, amely parancsra felrobban
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)**Doge**: doge coin roll
 
-Tudjon meg többet ezekről a mozgáskészletekről a [Smashers Guide](/guides/nifty-smashers/tribes)
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)**Human**: throws dynamite that explodes on command
 
-A jövőben azt képzeljük, hogy új "speciális" törzsek jelenhetnek meg / tarthatók fenn a skálázhatóság, az új játékok, a versenyek jutalmai és egyebek miatt.
+<br></br>
+
+Learn more about these movesets in our [Smashers Guide](https://docs.niftyleague.com/guides/nifty-smashers/tribes).
+
+In the future, we envision introducing new "special" tribes may be released for scalability, new games, tournament rewards, and more.
 
 ![https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif](https://nifty-league.com/static/media/alien-sketch.791d3ef1.gif)
 
