@@ -4,45 +4,30 @@ title: Przegląd
 sidebar_position: 1
 ---
 
-![](/img/NL_Comic_Burner.jpeg)
+Jakby nasz proces tworzenia nie był dla was wystarczająco zabawny… zaskoczyliśmy społeczność specjalną kolekcją komiksów z okazji premiery Nifty League! To było podziękowanie za wybicie naszej kolekcji i za wczesne przybycie 😁
 
-During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
+Migawki do komiksów zostały wykonane podczas procesu bicia pierwszych 4 stron komiksu w następujących etapach: Page 1 - 2500 | Strona 2 - 3500 | Strona 3 - 5000 | Strona 4 - 7500.
 
-Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
+Prawdopodobnie zastanawiasz się: „Co mam zrobić z komiksami?”. Cóż, będziesz musiał dokonać pewnych wyborów, ponieważ będą miały wiele narzędzi. Tak więc jest tutaj gra w grze, w której możesz wybrać własną ścieżkę.
 
-- Page 1 - 2500
-- Page 2 - 3500
-- Page 3 - 5000
-- Page 4 - 7500
+Kolekcja komiksów Nifty League składa się z 6 stron z komiksami 5 i 6, które nie zostały jeszcze wydane. Będzie migawka 31.01.2022 dla komiksu 5 przyznawanego wszystkim posiadaczom DEGEN i komiksu 6 przyznawanego wszystkim portfelom zawierającym wszystkie 6 plemion DEGEN. Wszystkie DEGENS w tle meta otrzymają jeden komiks 6, a wszystkie DEGENS w tle legendarnym otrzymają dwa komiksy 6! Zostaną one udostępnione poprzez zgłoszenie na naszej stronie internetowej.
 
-Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
+Każdy komiks będzie można spalić w przyszłości, aby otrzymać przedmioty do noszenia w grze lub broń w zamian za każdą spaloną stronę. Jednak to okno wypalania nie będzie trwać wiecznie i każdy posiadacz będzie zmuszony do podjęcia trudnych decyzji dotyczących przyszłości swojej kolekcji.
 
-The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
+Satoshi powiedział nam, że uwielbia pełne zbiory w prawie wszystko…więc pomyśleć dwa razy przed podjęciem decyzji o zbyt wiele.
 
-There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
-
-All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
-
-Każdy komiks będzie można spalić w przyszłości, aby otrzymać przedmioty do noszenia w grze lub broń w zamian za każdą spaloną stronę. These items modify a DEGEN's P2E multiplier when worn.
-
-Wciąż ustalamy dokładnie, ile miejsc można zapełnić na DEGEN, ale tylko 1 z każdego elementu do noszenia można przypisać do DEGEN NFT.
-
-Poniżej znajduje się opis siły mnożnika do noszenia dla każdego odpowiedniego elementu do noszenia. The exact rates are still being determined.
-
-**Comic 1**: 💪💪💪💪💪  
-**Comic 2**: 💪💪💪💪  
-**Comic 3**: 💪💪💪  
-**Comic 4**: 💪💪  
-**Comic 5**: 💪  
-**Comic 6**: 💪💪💪💪💪💪
-
-## Summary
+**TL; DR**
 
 - Każdy komiks można spalić, aby otrzymać przedmiot do noszenia w grze
 - Te NFT będą ERC-1155
 - Przedmioty modyfikują mnożnik P2E degen, gdy są noszone
 - Alternatywnie możesz zatrzymać komiksy dla przyszłego narzędzia, którego jeszcze nie ujawniliśmy
-- All 6 Comics can be burned together as a set for a special mystery item
+- Wszystkie 6 komiksów można spalić razem jako zestaw na specjalny tajemniczy przedmiot
 - Ten tajemniczy przedmiot NIE zmodyfikuje mnożnika P2E
 
-![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
+Poniżej znajduje się opis siły mnożnika do noszenia dla każdego odpowiedniego elementu do noszenia. Dokładne stawki nie zostały jeszcze ustalone.
+
+Komiks 1 💪💪💪💪💪\ Komiks 2 💪💪💪💪\ Komiks 3 💪💪💪\ Komiks 4 💪💪\ Komiks 5 💪\ Komiks 6 💪💪💪💪💪💪
+
+
+Wciąż ustalamy dokładnie, ile miejsc można zapełnić na DEGEN, ale tylko 1 z każdego elementu do noszenia można przypisać do DEGEN NFT. 
