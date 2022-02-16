@@ -1,6 +1,6 @@
 ---
 id: Di
-title: Di
+title: Panoramica
 sidebar_position: 1
 ---
 
