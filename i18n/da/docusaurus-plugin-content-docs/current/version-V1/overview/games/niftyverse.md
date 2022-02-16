@@ -1,19 +1,19 @@
 ---
 id: niftyverse
-title: NiftyVerse
+title: Niftyverse
 sidebar_position: 1
 ---
 
-### 🚧 Under udvikling til Q2 2022 🚧
+## 🚧 Under Development 🚧
 
 ![](/img/niftyverse-snarfy.gif)
 
 Jord i NiftyVerse vil blive sat til salg i 2022.
 
-Enhver vil være i stand til at eje jord og bygge i NiftyVerse.
+Anyone will be able to own land and build in the Niftyverse.
 
 Vi planlægger at arbejde med indie-spilstudier og kunstnere for at give dem mulighed for at bygge Nifty League-spil i NiftyVerse!
 
 Den første iteration vil være et top-down, pixel art-metavers med det urbane Sushi-kunsttema.
 
-Alle jordkøb i Nifty Verse vil blive udført ved hjælp af NFTL.
+All land purchases in the Nifty Verse will be done using our token, [NFTL](https://docs.niftyleague.com/overview/nftl/overview).
