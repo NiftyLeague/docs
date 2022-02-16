@@ -6,12 +6,18 @@ sidebar_position: 3
 
 ![](/img/rngBackgrounds.gif)
 
-Fundalurile DEGEN au fost alocate aleatoriu la batere, ceea ce a rezultat fie într-un fundal comun, fie într-unul dintre cele trei fundaluri speciale: **Rare**, **Meta**sau **Legendare**.
+DEGEN backgrounds were randomly assigned upon minting, which either resulted in a **Common** background or one of three special backgrounds: **Rare**, **Meta**, **Legendary**.
 
-Pe lângă faptul că arată cool, fundalul vine cu avantaje speciale, cum ar fi un aspect distins în joc și multiplicatori suplimentari de câștig.
+Background come with special perks such as a distinguished look in game and exta earning multipliers.
 
-### Multiplicatori ai veniturilor
+## Earnings Multipliers
 
-- Rare: 1,5
-- Meta: 3
-- Legendar: 6
+- **Rare**: 1.5
+- **Meta**: 3
+- **Legendary**: 6
+
+The earnings multipliers above are based off of the baseline Common NFTL earning amount for play-and-earn winnings it [Nifty Smashers](https://docs.niftyleague.com/guides/nifty-smashers/general-info) gameplay.
+
+<br></br>
+
+_Please note, these multipliers are subject to change._
