@@ -1,6 +1,13 @@
 ---
 id: 自由
-title: 無料-2-プレイ
+title: Free-to-play
 sidebar_position: 3
 ---
 
+[Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers) Free-to-Play ("F2P") will launch in March 2022. F2Pは、賃貸人と所有者のオンボーディングフローの鍵です。 最初はデスクトップで起動し、後でAndroidやiOSなどのモバイルで起動する予定です。
+
+In F2P, players will be able to jump into the game immediately.
+
+Grinding will earn players NFTL over time, which will help the player be able to earn enough to rent a DEGEN. Please note, players' preferred crypto wallets will need to be connected to claim any NFTL earned via grinding.
+
+F2Pプレーヤーは典型的なDEGENのようには見えません。 It's important for other players to be able to distinguish between F2P and DEGEN owners and renters within the gaming ecosystem. Given this, F2P players will appear like 'dummy' DEGENs, and players will be able to select the tribe they wish to play, as testing a DEGEN trib prior to purchasing or renting is important.
