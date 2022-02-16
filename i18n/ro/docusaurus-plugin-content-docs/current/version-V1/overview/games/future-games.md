@@ -4,7 +4,9 @@ title: Jocuri viitoare
 sidebar_position: 7
 ---
 
-Avem mai multe idei în curs de desfășurare și intenționăm să le extindem după ce **[Nifty Smashers](https://nifty-league.com/games)** funcționează așa de bine pe cât ne-am dori. Câteva titluri viitoare au fost deja anunțate, dar rămâneți pe fază în **[Discord](https://discord.gg/niftyleague)** pentru mai multe detalii… 😈 Ordinea oricăror jocuri viitoare va fi supusă votului comunității.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
