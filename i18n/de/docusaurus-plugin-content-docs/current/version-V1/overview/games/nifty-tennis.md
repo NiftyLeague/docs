@@ -4,14 +4,14 @@ title: Geschicktes Tennis
 sidebar_position: 3
 ---
 
-### 🚧 In Entwicklung für 2022 🚧
+## 🚧 In Entwicklung für 2022 🚧
 
 ![](/img/NiftyTennis.jpeg)
 
-- 1-4 Spieler lokaler und Online-Multiplayer, Einzel oder Doppel.
-- Entscheiden Sie sich dafür, Linienschiedsrichter zu sein und wichtige Anrufe zu tätigen.
-- Seien Sie ein Zuschauer und heben Sie sich von der Menge ab.
-- Discord-Sprachintegration für Spieler und Publikum.
-- Spielen Sie auf einer Vielzahl von Platzoberflächen in einzigartigen Phasen.
-- Rüsten Sie verschiedene Schläger & Gegenstände für einen vorübergehenden taktischen Vorteil aus.
-- Kämpfe um den _Nifty League Grand Slam Cup_.
+- 1-4 players local and online multiplayer, singles or doubles
+- Choose to be the line umpire and make important calls
+- Be an audience member and emote from the crowd
+- Discord voice integration for both players and audience
+- Play on a variety of court surfaces in unique stages
+- Equip different racquets & items for a temporary tactical advantage
+- Compete for the Nifty League Grand Slam Cup
