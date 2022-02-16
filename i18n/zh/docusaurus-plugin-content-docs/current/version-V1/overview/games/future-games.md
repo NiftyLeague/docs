@@ -4,7 +4,9 @@ title: 未来游戏
 sidebar_position: 7
 ---
 
-我们有几个想法正在渗透并计划在我们有 **[Nifty Smashers](https://nifty-league.com/games)** 工作以及我们希望的那样工作时扩展它们。 一些即将推出的游戏已经公布，但请继续关注我们的 **[Discord](https://discord.gg/niftyleague)** 了解更多详情… 😈 任何即将到来的游戏的顺序将由社区投票决定。
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
