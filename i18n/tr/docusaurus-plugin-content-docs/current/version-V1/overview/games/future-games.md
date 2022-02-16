@@ -4,7 +4,9 @@ title: Gelecek Oyunlar
 sidebar_position: 7
 ---
 
-Süzülen birkaç fikrimiz **[](https://nifty-league.com/games)** istediğimiz gibi çalıştığında bunları genişletmeyi planlıyoruz. Yaklaşan bazı başlıklar zaten duyuruldu, ancak daha fazla ayrıntı için **[Discord](https://discord.gg/niftyleague)**… 😈 Yaklaşan oyunların sırası bir topluluk oylamasına tabi tutulacaktır.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
