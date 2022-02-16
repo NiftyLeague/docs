@@ -4,56 +4,45 @@ title: Zvláštní schopnosti kmene
 sidebar_position: 3
 ---
 
-**Naše současná hra Nifty Smashers a všechny budoucí hry mají speciální schopnost (“SA”) pro každý typ postavy.**
+Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
 
-### Seznam speciálních schopností
-
-- **Ape** - Hoďte bumerangové banány ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
-- **Mimozemšťan** - Teleport ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
-- **Cat** - Pounge a získejte dočasně netopýří sílu a zvýšení rychlosti ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
-- **Žába** - Hák na uchopení jazyka ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
-- **Doge** - Hod mincí Doge ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
-- **Člověk** – Hoďte dynamity, které explodují na povel ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
-
-### Mimozemšťan
+![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
 
 - Stisknutí tlačítka SA způsobí, že se Vetřelec může teleportovat na krátkou vzdálenost v zamýšleném směru (doleva, doprava, nahoru, dolů, úhlopříčky)
 - V teleportovaném místě dojde k energetické explozi, která zasáhne protivníky, kteří stojí poblíž
 
-### Opice
+![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
 
-- Stisknutí tlačítka SA hází banán zamířeným směrem (doleva, doprava, nahoru, dolů, úhlopříčky), dokud **nezasáhne soupeře**, nezasáhne část mapy nebo nevyletí z mapy
-- Opětovným stisknutím tlačítka SA banán letí zpět k degenovi, což umožňuje znovu zasáhnout soupeře.
+- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
+- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
 - Banány lze zasáhnout pálkou a letět zamířeným směrem
 
-### Kočka
+![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
 
-- Stisknutím SA se kočka vrhne. Po krátkém vrhání se kočka zmocní.
-- Empored bat swing: netopýr zasáhne tvrději
-- Posílený pohyb: kočky běží rychleji
-- Kočky mohou dvakrát skákat / skákat ve vzduchu
+- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
+- Empored bat swing - bat hits harder
+- Empowered movement - cats run faster
+- Cats can double jump, jumping in mid-air
 
-### Dóže
+![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
 
-- Stisknutím a podržením tlačítka SA se doge vrhne.
-- Když zasáhnete protivníka hodem doge, poletí trochu nahoru ve směru hodu
+- Pressing and holding the SA button makes the doge roll
+- Hitting an opponent with doge roll makes them fly upwards in roll direction
 - Doge se bude létat a kutálet zamířeným směrem
-- Během doge rollu lze změnit směr třikrát (možná dvakrát po aktualizaci), dokud neskončí doge roll
-- Doge roll po určité době také končí
+- During doge roll, directions can be changed three times until the doge roll ends
 
-### Žába
+![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
 
-- Stisknutím tlačítka SA žába vystřelí jazyk
-- Když jazyk zasáhne protivníka, je tento protivník vytažen směrem k žábě a letí o kus dále
-- Když jazyk narazí na kus mapy, žáby se přitáhnou k tomuto předmětu (např. stěnám, stropům,...)
-- Jazyk lze vystřelit v zamýšleném směru (doleva, doprava, nahoru, dolů, úhlopříčky)
+- Pressing the SA button makes the frog shoot his tongue
+- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
+- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
+- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
 
-### Člověk
+![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
 
 - Stisknutí tlačítka SA odhodí bombu v namířeném směru (doleva, doprava, nahoru, dolů, úhlopříčky)
-- Bomba má letmou křivku a neletí rovně jako banány. Pokud předtím nevybuchne a zůstane na zemi
-- Bomba exploduje po nějaké době nebo po druhém stisknutí tlačítka SA
-- V současné době může bomba zasáhnout protivníka úderem nebo výbuchem
-- Aktualizovaný plán: bomba vybuchne okamžitě po kontaktu s protivníkem. Pokud není zasažen žádný protivník, zůstane na zemi, dokud nevybuchne automaticky nebo po druhém stisknutí tlačítka SA
+- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
+- The bomb explodes after some time or after the SA button is pressed a second time
+- Currently, the bomb can hit an opponent by hitting it or by explosion
 - Bomby jsou jediné SA, které mohou svou explozí zasáhnout samotný vrhací degen
-- Bomby lze zasáhnout pálkou a letět zamířeným směrem
+- Bombs can also be hit with a bat and fly in the aimed direction
