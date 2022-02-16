@@ -13,129 +13,85 @@ sidebar_position: 2
 
 ---
 
-# **Generell info**
+# Game Overview
 
-Gjør deg klar til å slåss! Den lokale flerspillerversjonen av **[Nifty Smashers](https://nifty-league.com/games)** ble gjort tilgjengelig umiddelbart ved lansering etterfulgt av online flerspiller.
+Battle it out amongst the community and get in as many bat bonks on your friends as you can! [Nifty Smashers](https://nifty-league.com/games) takes inspiration from the classic Super Smash Bros game where the objective is to knock your opponents off the map to score points.
 
-Kjemp ut i fellesskapet og få så mange flaggermusbonker på vennene dine som du kan! Nifty Smashers henter inspirasjon fra det klassiske Super Smash Bros-spillet der målet er å slå motstanderne av kartet for å score poeng.
+You can play using your keyboard or any other compatible controller (Playstation, Xbox, etc.). You must have a [DEGEN NFT](https://docs.niftyleague.com/overview/degens/about) to play the game. Simply connect your crypto wallet holding your DEGEN, enter the game lobby, and select your DEGEN for battle.
 
-Du kan spille med tastaturet eller en annen kompatibel kontroller (Playstation, Xbox, etc.). Gå inn i spilllobbyen og velg din DEGEN for kamp.
+As background, the local-multiplayer version of Nifty Smashers was made available immediately during mint in September 2021, followed by the online multiplayer.
 
 ## Scoring
 
-- Hvis en DEGEN blir truffet én gang og dør (faller av kartet) får du 1 poeng.
-- Hvis en DEGEN blir truffet flere ganger uten å være i stand til å komme seg, får du poeng like ofte som DEGEN blir truffet (uansett om tidligere treff ble gjort av en annen DEGEN - så land den siste mega-bonken for å treffe dem av kartet og kreve alle poengene for runden).
-- Jo mer motstanderen din blir tullet, jo raskere spretter de rundt og jo flere poeng får du for tullingen.
-- Det siste treffet som dreper DEGEN, får alle kombinasjonspoeng.
-- Foreløpig er det ingen grense for hvor ofte en DEGEN kan treffes (kombinert), men det er et tak på antall poeng du kan få (maks 3 poeng: 2-spiller kamp / maks 5 poeng: 3&4-spiller kamp ).
-- En 2-spiller kamp krever 5 poeng for å vinne en runde.
-- 3 & 4-spillerkamper krever 10 poeng for å vinne en runde.
-- Kamper er best av 5 runder.
-- Hvis det er uavgjort etter 5. runde, går de likestilte spillerne inn i en sudden death-runde som de andre spillerne får se fra sidelinjen.
+- If a DEGEN is hit once and dies (fall off the map) you earn 1 point
+- If a DEGEN is hit multiple times without being able to recover, you get points as often as the DEGEN is hit (regardless of if previous hits were done by another DEGEN - so land the final mega-bonk to hit them off the map and claim all the points for the round)
+- The more your opponent is successively bonked, the faster they bounce around and the more points you'll score for bonking
+- The last hit that kills the DEGEN, gets all combo points
+- Currently there is no cap of how often a DEGEN can be hit ("combo’ed"), but there is a cap on the number of points you can get (max 3 points in a 2-player match, and max 5 points in a 3- & 4-player match)
+- A 2-player match require 5pts to win a round
+- 3- & 4-player matches require 10pts to win a round
+- Matches are best of 5 rounds
+- If there is a tie after the 5th round, the tied players move into a sudden death round that the other players get to watch from the sideline
 
 ## Lag
 
-- Lagindikatoren viser etterslepet (pinghastighet) til tilkoblingen din.
-- Lag indikerer typisk pinghastigheten din er over 100 ms.
-- Generelt sett er lag alltid tilstede når det er fysisk avstand mellom spillerne på internett. Jo større avstand, jo større etterslep.
-- Det er forskjellige teknikker som utviklere bruker for å kompensere og skjule etterslepet.
-- Vi har implementert en rekke av disse forsinkelseskompensasjonsteknikkene som skjuler forsinkelsen for en best mulig opplevelse.
-- Vi har også innlemmet løsninger med servere over hele verden slik at vi kan matche spillere nærmest hverandre for å minimere etterslepet så mye som mulig. Hvis du er interessert i å lære mer om disse teknikkene, sjekk ut [dette innlegget](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) vi elsker på Lagkompensasjon av Gabriel Gambetta.
+- The lag indicator shows the lag (ping speed) of your connection
+- Lag tyipcally indicates your ping speed is above 100ms
+- Generally speaking, lag is always present whenever there is physical distance between the players on the internet (the greater the distance, the greater the lag)
+- There are different techniques that developers use to compensate and hide the lag
+- We have implemented a number of these lag compensation techniques that veil the lag for the best experience possible
+- We have also incorporated solutions with servers all around the world so that we can match players closest to each other to minimize the lag as much as possible
+- If you are interested in learning more about these techniques, check out [this post](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) we love on Lag Compensation by Gabriel Gambetta
 
 ## Tilpasset lobby
 
-- En tilpasset lobby kan brukes til å åpne en kamp i en valgt region. Skaperen av lobbyen kan se en kode i lobbykartet som kan deles med andre.
-- Hvis en annen degen ønsker å bli med i lobbyen, må han først velge riktig region og deretter skrive inn lobbykoden i inntastingsboksen.
-- Når du bruker en tilpasset lobbykode, bør regionen byttes automatisk.
+- A custom lobby can be used to open a match in a chosen region
+- Skaperen av lobbyen kan se en kode i lobbykartet som kan deles med andre
+- If another Degen wants to join the lobby, they must first select the same region as the custom lobby, and then type the lobby code into the input box
 
 ## Endre regioner
 
-- Smasher er et fartsfylt spill hvor latency/ping er avgjørende. Jo nærmere den valgte regionen er spillerens plassering, jo lavere ping.
-- Etter å ha endret regionen i Web-GL eller Desktop App, vises gjeldende ping.
+- Nifty Smashers is a fast paced game where latency/ping is crucial
+- The closer the chosen region is to the player’s location, the lower the ping
+- After changing the region in the Web-GL or Desktop App, the current ping is displayed
 
-# **Grunnleggende om kamp**
+<br></br>
 
-## Generelle råd
+# Grunnleggende om kamp
 
-- Å spille med en kontroller anbefales på det sterkeste (Playstation, Xbox eller en annen kontroller som gjenkjennes av din PC/Mac).
+General information, advice, tips and tricks regarding battling in Nifty Smashers.
+
+## Controllers
+
+- Playing with a controller highly recommended (Playstation, Xbox, or any other controller recognized by your PC/Mac)
 
 ## Flaggermus svinger
 
-- Flaggermusen kan svinges i alle mulige retninger: venstre, høyre, opp, ned, diagonaler.
-- Flaggermusen kan svinges ved å klikke på angrepsknappen.
-- Lengre knappetrykk gjør at flaggermusen slår hardere.
-- Flaggermusen kan svinges mens den står, løper eller hopper.
-- Spillere kan trykke lenge på angrepsknappen under hopp - dette er vanligvis en god måte å overraske motstanderen(e).
+- The bat can be swung in all possible direction: left, right, up, down, diagonals
+- The bat can be swung by clicking the attack button
+- Longer button presses makes the bat hit harder
+- The bat can be swung while standing, running, or jumping
+- Players may long press the attack button during jumps - this is usually a good way to surprise your opponent(s)
 
 ## Flytte
 
-- Som et 2D-spill er bevegelige retninger venstre/høyre.
-- Retninger kan endres under hopp/tumbling (dette er mye lettere å få til med en kontroller).
+- As a 2D Game, moving directions are left/right
+- Directions can be changed during jumps/tumble (this is much easier to accomplish using a controller)
 
 ## Hopping
 
-- Hopphøyden kan endres ved å trykke på varigheten av hoppknappen.
-- Retningen kan endres under hopp/tumbling.
+- Hopphøyden kan endres ved å trykke på varigheten av hoppknappen
+- Retninger kan endres under hopp/tumbling
 
 ## Flyvende hamburger
 
-- Å fange den flygende hamburgeren vil få DEGENs flaggermus til å treffe mye sterkere - dette resulterer vanligvis i et direkte drap.
-- Vi vurderer å begrense burgerbuffets varighet etter tid og/eller drep.
+- Catching the flying hamburger will make your DEGEN's bat hit much stronger - this typically results in a direct kill
+- We are considering limiting burger buff duration by time and/or kill
 
-# **Stammespesifikasjoner**
+# Tribe Specifics
 
-_Alle DEGEN-stammer har en spesiell evne ("SA"), som vil være konsistent på tvers av alle Nifty League-spill (live og fremtidig)._
+All DEGEN tribes have a Special Ability (”SA”), which are consistent across all Nifty League games (live and future), including Nifty Smashers. Learn everytyhing you need to know about each tribe [here](http://localhost:3000/overview/degens/tribes).
 
-## Liste over spesielle evner
+<br></br>
 
-- **Ape** - Kast bumerangbananer
-- **Alien** - Teleport
-- **Katt** - Slå ned og få flaggermuskraft og fartsøkning midlertidig
-- **Frosk** - Tungegripekroken
-- **Doge** - Doge myntrull
-- **Menneske** - Kast dynamitt som eksploderer på kommando
-
-## Romvesen
-
-- Ved å trykke på SA-knappen kan Alien teleportere en kort avstand i den siktede retningen (venstre, høyre, opp, ned, diagonaler).
-- Det er en energieksplosjon på det teleporterte stedet, og treffer motstandere som står i nærheten.
-
-## Ape
-
-- Et trykk på SA-knappen kaster en banan i den siktede retningen (venstre, høyre, opp, ned, diagonaler) til den treffer en motstander, treffer en kartdel eller flyr av kartet.
-- Ved å trykke på SA-knappen igjen får bananen til å fly tilbake til DEGEN, noe som gjør det mulig å treffe en motstander igjen.
-- Bananer kan slås med balltre og fly i den siktede retningen.
-
-## Katt
-
-- Å trykke på SA får katten til å kaste seg. Etter å ha kastet en kort periode, fikk katten makt.
-- Styrket flaggermussving betyr at flaggermusen slår hardere.
-- Styrket bevegelse betyr at katten løper raskere.
-- Katter kan dobbelthoppe og hoppe i luften.
-
-## Doge
-
-- Ved å trykke og holde inne SA-knappen får dogen til å rulle.
-- Å treffe en motstander med doge roll får dem til å fly oppover i rulleretning.
-- Doge vil fly-rulle i den siktede retningen.
-- Under doge roll kan retningen endres tre ganger til doge roll slutter.
-- Doge roll slutter også etter en viss tid.
-
-## Frosk
-
-- Ved å trykke på SA-knappen får frosken til å skyte med tungen.
-- Når tungen treffer en motstander, blir den motstanderen trukket til froskens retning og flyr litt lenger.
-- Når tungen treffer et kartstykke, trekker froskene seg til det objektet (f.eks. vegger, tak osv.)
-- Tungen kan skytes i den siktede retningen (venstre, høyre, opp, ned, diagonaler).
-
-### Menneskelig
-
-- Et trykk på SA-knappen kaster en bombe i den siktede retningen (venstre, høyre, opp, ned, diagonaler).
-- Bomben har en flygende kurve og flyr ikke rett som bananer (hvis den ikke detoneres, forblir den på bakken).
-- Bomben eksploderer etter en stund eller etter at SA-knappen trykkes en gang til.
-- For øyeblikket kan bomben treffe en motstander ved å treffe den eller via eksplosjon.
-- Bomber er den eneste SA som kan treffe selve DEGEN som kaster seg med eksplosjonen.
-- Bomber kan treffes med balltre og fly i den siktede retningen.
-- Vi planlegger å oppdatere spillet slik at bomben detonerer umiddelbart etter kontakt med en motstander. Hvis ingen motstander blir truffet, forblir den på bakken til den eksploderer automatisk eller etter å ha trykket på SA-knappen andre gang.
-
-Bli med på vår **[Discord](https://discord.gg/niftyleague)** å gi tilbakemeldinger og ideer om hvordan vi kan forbedre spillet og ta det til neste nivå.
+Please join our **[Discord](https://discord.gg/niftyleague)** to provide feedback and ideas on how we can improve the game and take it to the next level!
