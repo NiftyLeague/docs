@@ -4,7 +4,9 @@ title: Game Masa Depan
 sidebar_position: 7
 ---
 
-Kami memiliki beberapa ide yang meresap dan berencana untuk mengembangkannya setelah kami memiliki **[Nifty Smashers](https://nifty-league.com/games)** bekerja sebaik yang kami inginkan. Beberapa judul yang akan datang telah diumumkan tetapi tetap ikuti kami **[Perselisihan](https://discord.gg/niftyleague)** untuk lebih jelasnya… Urutan game yang akan datang akan dimasukkan ke pemungutan suara komunitas.
+[Nifty Spike](https://docs.niftyleague.com/overview/team_) and the team and community are constantly brainstorming ideas for future games.
+
+We've already announced several upcoming titles, but stay tuned by joining our **[Discord](https://discord.gg/niftyleague)** to stay up to date with all the details.
 
 ![https://nifty-league.com/static/media/smash-sketch.7d5f0061.png](https://nifty-league.com/static/media/smash-sketch.7d5f0061.png)
 
