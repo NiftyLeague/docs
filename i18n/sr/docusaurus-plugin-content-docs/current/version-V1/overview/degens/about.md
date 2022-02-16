@@ -1,6 +1,6 @@
 ---
 id: О томе
-title: О томе
+title: Преглед
 sidebar_position: 1
 ---
 
