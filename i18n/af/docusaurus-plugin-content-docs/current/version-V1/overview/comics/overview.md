@@ -4,30 +4,45 @@ title: Oorsig
 sidebar_position: 1
 ---
 
-Asof ons muntproses nie reeds vir julle lekker genoeg was nie... ons het die gemeenskap verras met 'n spesiale Nifty League-bekendstelling-strokiesprentversameling! Dit was om dankie te sê dat jy ons versameling gemunt het en dat jy vroeg was 😁
+![](/img/NL_Comic_Burner.jpeg)
 
-Foto's vir strokiesprente is regdeur die muntproses geneem vir die eerste 4 strokiesprentbladsye by die volgende mylpale: Bladsy 1 - 2500 | Bladsy 2 - 3500 | Bladsy 3 - 5000 | Bladsy 4 - 7500.
+During minting, we surprised the community with a special Nifty League launch Comic Collection to say thank you for minting our collection and for being early. Our Comic NFTs are all ERC-1155’s.
 
-Jy wonder waarskynlik: "Wat doen ek met die Comics?". Wel, jy gaan 'n paar keuses hê om te maak, aangesien hulle verskeie nutsprogramme sal hê. So, daar is 'n speletjie binne 'n speletjie hier vir jou om jou eie pad te kies.
+Snapshots for comics were taken throughout the minting process for the first 4 comic pages at the following milestones:
 
-Die Nifty League Comic Collection bestaan uit 6 bladsye met strokiesprente 5 en 6 wat nog vrygestel moet word. Daar sal 'n momentopname op 31/1/2022 wees vir strokiesprent 5 wat aan alle DEGEN-houers toegeken word en strokiesprent 6 toegeken aan alle beursies wat al 6 DEGEN-stamme bevat. Alle Meta-agtergrond DEGENS sal een strokiesprent 6 ontvang en alle legendariese agtergrond DEGENS sal twee strokiesprent 6'e ontvang! Dit sal beskikbaar gestel word deur 'n eis op ons webwerf.
+- Page 1 - 2500
+- Page 2 - 3500
+- Page 3 - 5000
+- Page 4 - 7500
 
-Elke strokiesprent sal op 'n toekomstige datum brandbaar wees om 'n in-game drabare of wapen te ontvang in ruil vir elke bladsy wat verbrand word. Hierdie brandvenster sal egter nie vir ewig wees nie en elke houer sal gedwing word om 'n paar moeilike besluite te neem vir die toekoms van hul versameling.
+Our collection of Comics 1-4 are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
 
-Satoshi het vir ons gesê hy is lief vir volledige versamelings in omtrent alles…so dink twee keer voor jy te veel besluite hier neem.
+The Nifty League Comic Collection consists of 6 pages with Comics 5 and 6 yet to be released (coming in February/March 2022).
 
-**TL; DR**
+There was a snapshot on 1/31/2022 for Comic 5 awarded to all DEGEN holders, and Comic 6 awarded to all wallets containing all 6 DEGEN tribes.
+
+All [Meta background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive one Comic 6, and all [Legendary background](https://docs.niftyleague.com/overview/degens/backgrounds) DEGENs will receive two Comic 6 NFTs. These will be made available via a claim flow on [our website](https://niftyleague.com/) (coming soon).
+
+Elke strokiesprent sal op 'n toekomstige datum brandbaar wees om 'n in-game drabare of wapen te ontvang in ruil vir elke bladsy wat verbrand word. These items modify a DEGEN's P2E multiplier when worn.
+
+Ons is nog besig om te bepaal presies hoeveel gleuwe per DEGEN gevul kan word, maar slegs 1 van elke draagbare is toekenbaar per DEGEN NFT.
+
+Hieronder is 'n uitbeelding van draagbare vermenigvuldigersterkte vir elke ooreenstemmende draagbare. The exact rates are still being determined.
+
+**Comic 1**: 💪💪💪💪💪  
+**Comic 2**: 💪💪💪💪  
+**Comic 3**: 💪💪💪  
+**Comic 4**: 💪💪  
+**Comic 5**: 💪  
+**Comic 6**: 💪💪💪💪💪💪
+
+## Summary
 
 - Elke strokiesprent kan verbrand word vir 'n draagbare item in die speletjie
 - Hierdie NFT's sal ERC-1155's wees
 - Items verander 'n degen se P2E-vermenigvuldiger wanneer dit gedra word
 - Alternatiewelik kan jy die strokiesprente hou vir toekomstige nut wat ons nog nie bekend gemaak het nie
-- Al 6 strokiesprente kan saam gebrand word as 'n stel vir 'n spesiale raaiselitem
+- All 6 Comics can be burned together as a set for a special mystery item
 - Hierdie geheimsinnige item sal NIE die P2E-vermenigvuldiger verander nie
 
-Hieronder is 'n uitbeelding van draagbare vermenigvuldigersterkte vir elke ooreenstemmende draagbare. Die presiese tariewe moet nog bepaal word.
-
-Strokiesprent 1 💪💪💪💪💪\ Strokiesprent 2 💪💪💪💪\ Strokiesprent 3 💪💪💪\ Strokiesprent 4 💪💪\ Strokiesprent 5 💪\ Strokiesprent 6 💪💪💪💪
-
-
-Ons is nog besig om te bepaal presies hoeveel gleuwe per DEGEN gevul kan word, maar slegs 1 van elke draagbare is toekenbaar per DEGEN NFT. 
+![](/img/NL_Comic_1.png) ![](/img/NL_Comic_2.png) ![](/img/NL_Comic_3.png) ![](/img/NL_Comic_4.png)
