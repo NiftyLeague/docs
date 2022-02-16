@@ -1,6 +1,6 @@
 ---
 id: عن
-title: عن
+title: ملخص
 sidebar_position: 1
 ---
 
