@@ -1,20 +1,20 @@
 ---
 id: routekaart
-title: Volgende ➡️
+title: stappenplan
 sidebar_position: 9
 ---
 
-Naast extra games hebben we verschillende ideeën in petto om ons platform verder te laten groeien. Een van onze belangrijkste doelen is om een NFT-marktplaats te lanceren of ermee samen te werken, zodat je herbruikbare NFT's zoals auto's of speciale wapens voor onze games kunt verzamelen. Deze slimme contracten zouden de ERC-1155 Ethereum multi-token-standaard uitbreiden om niet-vergankelijke items te maken met een vaste beschikbaarheidslimiet voor elk. Als bonus voor het spelen van onze spellen, willen we items die hier kunnen worden gekocht, toekennen aan spelers die ze vervolgens kunnen verkopen of in de game kunnen gebruiken. Een andere optie die we overwegen is het toekennen van time-released NFT's, zoals schatkisten die kunnen worden verbrand, waardoor het verzamelobject binnenin wordt onthuld.
-
 ![](/img/nifty_roadmap.png)
+
+Naast extra games hebben we verschillende ideeën in petto om ons platform verder te laten groeien. Een van onze belangrijkste doelen is het lanceren van een marktplaats waar je herbruikbare NFT's zoals auto's, speciale wapens of wearables voor onze games kunt verzamelen. Deze slimme contracten zouden de ERC-1155 Ethereum multi-token-standaard uitbreiden om niet-vergankelijke items te maken met een vaste beschikbaarheidslimiet voor elk. Als bonus voor het spelen van onze spellen, willen we items die hier kunnen worden gekocht, toekennen aan spelers die ze vervolgens kunnen verkopen of in de game kunnen gebruiken. Een andere optie die we overwegen is het toekennen van time-released NFT's, zoals schatkisten die kunnen worden verbrand, waardoor het verzamelobject binnenin wordt onthuld.
 
 ## DEGEN Munten
 
-Nifty League DEGEN NFT's werden eind september 2021 door onze community tot leven gebracht. Het muntproces was een uniek spektakel dat minters de mogelijkheid bood om hun eigen DEGEN te ontwerpen met behulp van Satoshi's **[Mint-O-Matic**.](https://niftyleague.com/mint-o-matic)
+Nifty League DEGEN NFT's werden eind september 2021 door onze community tot leven gebracht. Het muntproces was een uniek spektakel dat minters de mogelijkheid bood om hun eigen DEGEN te ontwerpen met behulp van Satoshi's[Mint-O-Matic](https://niftyleague.com/mint-o-matic).
 
-## Handige Smashers Alpha
+## Nifty Smashers Alpha lancering
 
-Onze NFT-lancering viel samen met de onmiddellijke beschikbaarheid van onze eerste van vele games,**[Nifty Smashers](http://localhost:3000/games)**. <div>
+Our NFT launch coincided with the immediate availability of our first of many games, [Nifty Smashers](http://localhost:3000/games). <div>
   <video width="100%" height="100%" playsInline controls loop>
   <source src="https://www.youtube.com/watch?v=WWLqE1tnf6U&feature=youtu.be" />
   Uw browser ondersteunt de videotag niet.
@@ -23,84 +23,84 @@ Onze NFT-lancering viel samen met de onmiddellijke beschikbaarheid van onze eers
 
 ## Desktop-app
 
-De**[Desktop App](https://niftyleague.com/games)**is nu live voor Windows-gebruikers! *(MacOS is om de hoek)*
+The [Desktop App](https://niftyleague.com/games) is now live for Windows users! MacOS is right around the corner.
 
-Gezien de browserbeperkingen met onze vorige WebGL-build, hebben we er een punt van gemaakt om onze onmiddellijke inspanningen te concentreren op het maken van een launcher om al onze games te huisvesten en Discord-integraties op te nemen. Nu geheugenlimieten geen punt van zorg zijn, zijn we vrij om extra animaties, movesets en andere NFT-projecten te introduceren - terwijl we tegelijkertijd de ping voor onze gebruikers aanzienlijk verbeteren.
+Gezien de browserbeperkingen met onze vorige WebGL-build, hebben we er een punt van gemaakt om onze onmiddellijke inspanningen te concentreren op het maken van een launcher om al onze games te huisvesten en sociale integraties van Discord op te nemen. Nu geheugenlimieten geen punt van zorg zijn, zijn we vrij om extra animaties, movesets en andere NFT-projecten te introduceren, terwijl we tegelijkertijd de ping voor onze gebruikers aanzienlijk verbeteren.
+
+## Play-and-earn ✅
+
+Hoe cool is het om geld te verdienen terwijl je games speelt die je echt leuk vindt? With the rollout of our P&E system you can accumulate NFTL through casual matches in Nifty Smashers. Terwijl de grootste winst gaat naar degene die de eerste plaats in een wedstrijd behaalt, verdien je ook NFTL door gescoorde punten en winnende rondes. Pas op dat u niet van de kaart valt, want er zullen boetes worden afgetrokken van uw potentiële inkomsten!
+
+## Merchandise ✅
+
+We weten dat onze community niet kan wachten om hun coole DEGENS op straat te laten zien! We zijn verheugd om onze merchandise-marktplaats te onthullen, inclusief twee kledinglijnen. The first having a strong gaming slant similar to Pokémon, while the other will be focused on a rad streetwear aesthetic.
+
+## Stripverhalen
+
+Our team has been slowly hinting at the upcoming utilities for comics - as you may already be aware you will be able to burn each page for special in-game items that increase your DEGEN's NFTL multiplier.
+
+We previously airdropped our initial 4 Comic pages to minters and still have 2 pages remaining for DEGEN holders. Word from Satoshi - securing a full collection is highly recommended.
+
+## Verhuur
+
+Onze spelersbasis is momenteel beperkt tot het aantal unieke DEGEN NFT-houders. We willen ons platform zo veel mogelijk schalen zonder onze genesis DEGEN-stammen, die het hart van ons ecosysteem vormen, te devalueren.
+
+Rather than inflating the character supply, we are introducing a bespoke rental system allowing DEGEN holders to earn NFTL daily through fees. Elke DEGEN kan voor onbepaalde tijd worden gehuurd, maar de kosten hiervoor zullen exponentieel toenemen met elke extra verhuur. Hierdoor kan de markt de prijs voor elke DEGEN afzonderlijk bepalen, terwijl de verhuur over de hele linie wordt gespreid, aangezien sommige uitgerust met kostbare items, wearables of achtergronden een hoger verdienpercentage zullen hebben via NFTL-vermenigvuldigers.
 
 ## Leaderboards
 
-Onze spellen zijn bedoeld om competitief te zijn; wat is een betere manier om dit te laten zien dan een leaderboard met sterspelers zoals FVSVY aan de top? We zullen gamestatistieken voor dagelijkse, wekelijkse, maandelijkse en natuurlijk all-time leiders voor al onze games opnemen in de NiftyVerse.
-
-## Spelen-2-verdienen
-
-Hoe cool is het om geld te verdienen terwijl je games speelt die je echt leuk vindt? Met de uitrol van ons P2E-systeem kun je beginnen met het verzamelen van NFTL door middel van losse wedstrijden in Nifty Smashers. Terwijl de grootste winst gaat naar degene die de eerste plaats in een wedstrijd behaalt, verdien je ook NFTL door gescoorde punten en winnende rondes. Pas op dat u niet van de kaart valt, want er zullen boetes worden afgetrokken van uw potentiële inkomsten!
+Onze spellen zijn bedoeld om competitief te zijn; wat is een betere manier om dit te laten zien dan een leaderboard met sterspelers zoals FVSVY aan de top? We'll include game stats for daily, weekly, monthly, and of course all-time leaders for all of our games in the Niftyverse.
 
 ## Nifty Smashers Bèta
 
 We implementeren een nieuwe netcode-oplossing die er al in een vroeg ontwikkelingsstadium veelbelovend uitziet. Dit zal niet alleen de vertraging aanzienlijk verbeteren, maar je kunt ook een aantal coole functies verwachten, zoals het uitzenden van live games en het direct beschikbaar hebben van herhalingen via ons archief.
 
-## Degen Rentals
+## Free-to-play
 
-Onze spelersbasis is momenteel beperkt tot het aantal unieke DEGEN NFT-houders. We willen ons platform zo veel mogelijk schalen zonder onze genesis DEGEN-stammen, die het hart van ons ecosysteem vormen, te devalueren.
-
-In plaats van het karakteraanbod op te blazen, zoals sommige projecten kunnen doen, introduceren we een op maat gemaakt verhuursysteem waarmee DEGEN-houders dagelijks NFTL kunnen verdienen door middel van vergoedingen. Elke DEGEN kan voor onbepaalde tijd worden gehuurd, maar de kosten hiervoor zullen exponentieel toenemen met elke extra verhuur. Hierdoor kan de markt de prijs voor elke DEGEN afzonderlijk bepalen, terwijl de verhuur over de hele linie wordt gespreid, aangezien sommige uitgerust met kostbare items, wearables of achtergronden een hoger verdienpercentage zullen hebben via NFTL-vermenigvuldigers.
-
-## Free-2-Play
-
-Als je het laatste punt leest, weet je dat het opschalen van ons platform een hoge prioriteit heeft. Een deel van dit proces is het in dienst nemen van nieuwe gebruikers die het zich misschien niet kunnen veroorloven om een DEGEN te bezitten of te huren. Onze free-2-play-optie stelt nieuwe gebruikers in staat om in wedstrijden te springen met een generiek personage waarmee ze de speciale beweging van elke stam kunnen testen, maar nog belangrijker - het uitwerken totdat ze genoeg NFTL hebben om te betalen voor een huur.
-
-## Merchandise
-
-We weten dat onze community niet kan wachten om hun coole DEGENS op straat te laten zien! We zijn verheugd om onze merchandise-marktplaats te onthullen, inclusief twee kledinglijnen. De eerste met een sterke gaming inslag vergelijkbaar met **Pokémon,** terwijl de andere zal gericht zijn op een rad streetwear esthetiek.
-
-## Stripverhalen
-
-Ons team hintte langzaam naar de aankomende hulpprogramma's voor strips - zoals je misschien al weet, kun je elke pagina branden voor speciale in-game-items die je DEGEN'S NFTL-multiplier verhogen... maar het plezier houdt daar niet op. !
-
-We hebben eerder onze eerste 4 strippagina's naar minters gestuurd en hebben begin 2022 nog 2 pagina's over voor DEGEN-houders. Het woord van Satoshi - beveiligen van een volledige verzameling of 2 is _zeer_ aanbevolen.
+Scaling our platform is a high priority. Een deel van dit proces is het in dienst nemen van nieuwe gebruikers die het zich misschien niet kunnen veroorloven om een DEGEN te bezitten of te huren. Our free-2-play option will allow new users to join matches using a generic character that allows them to test out each tribe’s special move, but more importantly - grind it out until they have enough NFTL to pay for a rental.
 
 ## Artikelen Marktplaats
 
-We werken samen met het Immutable X-team om begin volgend jaar onze marktplaats voor artikelen te lanceren. Het aanbod omvat coole skins, wapens, verbruiksartikelen en meer om je DEGENS-in-game te verbeteren. Hoewel sommige items coole cosmetische toevoegingen kunnen zijn, bevatten veel items NFTL-vermenigvuldigers voor play-2-earn.
+We werken samen met het Immutable X-team om onze marktplaats voor artikelen begin 2022 te lanceren. Offerings will include skins, weapons, consumable items, and more to enhance your DEGENS in-game. Hoewel sommige items cosmetische toevoegingen kunnen zijn, bevatten veel items NFTL-vermenigvuldigers voor spelen en verdienen.
 
 Items worden in beperkte hoeveelheden via NFTL verkocht. 70% van alle opbrengsten wordt verbrand, terwijl de rest naar de DAO wordt gestuurd voor de eerste inkomstenstroom.
 
-## DAO
+## Nifty League DAO
 
-We zullen geleidelijk het eigendom van de Nifty League overdragen aan onze DAO om het platform te decentraliseren en ontwikkelaars aan te moedigen ons te helpen bouwen! Onze visie is om snelle groei en ontwikkeling mogelijk te maken door middel van bijdragen van de gemeenschap, waardoor we een gamingplatform als geen ander kunnen bouwen. Simpel gezegd, DAO's zijn de toekomst. We zien maar één weg om 's werelds toonaangevende GameFi-platform te worden en dat is door samen te bouwen. 💜
+We zullen geleidelijk het eigendom van Nifty League overdragen aan onze DAO om het platform te decentraliseren en ontwikkelaars aan te moedigen ons te helpen bouwen! Onze visie is om snelle groei en ontwikkeling mogelijk te maken via bijdragen van de gemeenschap, waardoor we een gamingplatform als geen ander kunnen bouwen. Simpel gezegd, DAO's zijn de toekomst. We zien maar één weg om 's werelds toonaangevende GameFi-platform te worden en dat is door samen te bouwen.
 
-## Nifty League mobiel
+## Mobile
 
 In de toekomst zullen al onze games mobiel compatibel zijn. Met een hoge concentratie aan gamers die mobiele platforms gebruiken, denken we dat deze release cruciaal zal zijn voor het project.
 
 ## In-game chat
 
-Ter voorbereiding op de NiftyVerse beginnen we met het vrijgeven van een in-game chat waarin je kunt praten of sms'en met DEGEN frens. Omdat het een populair verzoek is, bestaat de kans dat dit zelfs eerder in onze tijdlijn wordt geïntroduceerd, dus houd ons in de gaten!
+In preparation for the Niftyverse we will start by releasing an in-game chat for you to talk or text with DEGEN frens. Omdat het een populair verzoek is - er is een kans dat dit zelfs eerder in onze tijdlijn wordt geïntroduceerd - blijf op de hoogte!
 
-## NiftyVerse
+## Niftyverse
 
-Welkom bij de NiftyVerse; een wereld vol DEGENS- en NFT-gemeenschappen met een gedeelde visie om plezier te hebben en een bloeiende gaminggemeenschap op te bouwen. Wat de NiftyVerse onderscheidt van andere metaverses, is dat onze p2e-games het middelpunt zijn. Loop onze speelhal binnen vol met leuke minigames of ga naar bestemmingen op de kaart om in onze klassieke titels zoals Nifty Smashers en Nifty Kart te springen.
+Welcome to the Niftyverse - a world filled with DEGENS and NFT communities alike with a shared vision to have fun and build a thriving gaming community. What makes the Niftyverse stand apart from other metaverses is our P&E games being the centerpiece. Loop onze speelhal binnen vol met leuke minigames of ga naar bestemmingen op de kaart om in onze klassieke titels zoals Nifty Smashers en Nifty Kart te springen.
 
-De wereld is gecentreerd rond een stad die doet denken aan ons populaire Sushiswap-niveau in Nifty Smashers. Als aftrap houden we een grondverkoop met premium opties in de stad en goedkopere braakliggende gronden buiten de stadsgrenzen. Het verwerven van eersteklas grond in de stad waar alle actie plaatsvindt, heeft als bijkomend voordeel dat je al gebouwen hebt die je naar eigen inzicht kunt ontwerpen.
+The world is centered around a city reminiscent of our popular SushiSwap level in Nifty Smashers. Als aftrap houden we een grondverkoop met premium opties in de stad en goedkopere braakliggende gronden buiten de stadsgrenzen. Het verwerven van eersteklas grond in de stad waar alle actie plaatsvindt, heeft als bijkomend voordeel dat je al gebouwen hebt die je naar eigen inzicht kunt ontwerpen.
 
-Als je een creatief type bent, mag je deze kans niet missen - we hebben een activawinkel waar je activa zoals gebouwen of bomen kunt ontwerpen en ze te koop kunt aanbieden op basis van je gedefinieerde limieten en prijzen. Wil je een gaaf DEGEN themapark of Cyber Kongz meetup? Bouw de NiftyVerse uit naar wat je hartje begeert!
+Als je een creatief type bent, mag je deze kans niet missen - we hebben een activawinkel waar je activa zoals gebouwen of bomen kunt ontwerpen en ze te koop kunt aanbieden op basis van je gedefinieerde limieten en prijzen. Wil je een gaaf DEGEN themapark of Cyber Kongz meetup? Build out the Niftyverse to whatever your heart desires!
 
-Oh... en het is waarschijnlijk de moeite waard om op te merken dat het land en de activa zullen worden verkocht met NFTL (waarvan een deel zal worden verbrand), dus het kan de moeite waard zijn om uw p2e-inkomsten vast te houden.
+The land and assets will be sold with NFTL (a portion of which will be burned).
 
 ## Huisdieren
 
-Na onze lancering van NiftyVerse introduceren we coole pets voor je DEGENS! Veel communityleden hebben ons gevraagd om Satoshi's **[Mint-O-Matic](https://niftyleague.com/mint-o-matic)**af te stoffen en terug te brengen, en we waren het daar helemaal mee eens!
+Following our Niftyverse launch we will introduce cool pets for your DEGENS! Veel communityleden hebben ons gevraagd om Satoshi's **[Mint-O-Matic](https://niftyleague.com/mint-o-matic)**af te stoffen en terug te brengen, en we waren het daar helemaal mee eens!
 
 DEGEN NFT-houders ontvangen plaatsen op de witte lijst zodat onze gemeenschap op hun gemak huisdieren kan maken. Voor de resterende huisdieren volgt een openbare aanbieding. Als je de eerste muntervaring hebt gemist, houd deze dan in je agenda!
 
 ## Handige Royale
 
-Het is belangrijk op te merken dat over alle volgende games wordt gestemd door de DAO. Een van de eerste games die we willen introduceren, is een leuke Battle Royale gebaseerd op de NiftyVerse.
+Het is belangrijk op te merken dat over alle volgende games wordt gestemd door de DAO. One of the first games we'd like to introduce is a fun battle royale based in the Niftyverse.
 
 ## Handige Kart
 
-Old school klassiekers vormen de kern van ons spelaanbod, omdat we de kracht erkennen van het herbeleven van favorieten uit de kindertijd met een Web3-twist. Bezit je karakters & karts en maak je klaar om te racen voor NFTL!
+Old school classics are core to our game offerings as we recognize the power of reliving childhood favorites with a web3 twist. Bezit je karakters & karts en maak je klaar om te racen voor NFTL!
 
-## Gen2 DEGENS
+## Gen2 DEGEN's
 
 Naarmate ons platform groeit en de vraag naar DEGEN-huurkosten stijgt, kunnen we een toekomstige NFT-verkoop overwegen om nieuwe stammen te introduceren. Houd er rekening mee dat de uiteindelijke beslissing om deze route te gaan bij de DAO ligt.
