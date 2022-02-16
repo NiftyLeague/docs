@@ -4,6 +4,10 @@ title: Uitstoot
 sidebar_position: 3
 ---
 
-**250M NFTL** zal jaarlijks verdeeld worden over de eerste **3 jaar** aan alle genesis **DEGEN** NFT-eigenaren. Het is niet nodig om uw NFT in te zetten; leun achterover en kijk hoe uw **** dagelijks wordt opgebouwd en die u op elk moment op onze website kunt claimen op uw [portemonnee pagina](https://nifty-league.com/wallet).
+250M NFTL will be distributed annually over the first 3 years to all genesis Degen NFT owners at a rate of **68.5 NFTL per day**.
 
-Alle resterende toekomstige emissies zijn voor dagelijkse in-game-beloningen of financiering voor de **Nifty DAO**. We geven de **Nifty DAO** de mogelijkheid om **330M NFTL** minten nadat we een minimum van **7 ondertekenaars** die de multi-sig-portemonnee beheren. We voorzien dat de meeste van deze tokens naar gemeenschapsbijdragers gaan en ook worden gebruikt voor competitiebeloningen, maar uiteindelijk zal de DAO die beslissing nemen wanneer de tijd daar is.
+**There is no need to stake your Degen NFT to earn daily NFTL.**
+
+Degen owners may claim their NFTL on our website at any time by visiting their [Wallet](https://nifty-league.com/wallet). NFTL is associated with your Degen automatically, regardless of if it is claimed. Claiming your Degen's earned NFTL means moving the token to your preferred crypto wallet (gas must be paid to perform this action).
+
+Any remaining future emissions will either be for daily in-game rewards or funding the [Nifty League DAO](https://docs.niftyleague.com/overview/nifty-dao/overview). We will grant the Nifty League DAO the ability to mint up to 330M NFTL over the first year after we receive a minimum of 7 signers controlling the multi-sig wallet. We foresee most of these tokens going to community contributors, as being used for competition rewards, but ultimately the DAO will decide.
