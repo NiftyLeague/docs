@@ -4,45 +4,56 @@ title: Kabile Özel Yetenekleri
 sidebar_position: 3
 ---
 
-Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
+**Mevcut oyunumuz Nifty Smashers ve gelecekteki tüm oyunlarımız, her karakter türü için bir Özel Yeteneğe ("SA") sahiptir.**
 
-![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
+### Özel Yetenekler Listesi
+
+- **Maymun** - Bumerang muzları atın ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **Uzaylı** - Işınlanma ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **Cat** - Atla ve geçici olarak yarasa gücü ve hız artışı elde et ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **Kurbağa** - Dil kıskaçlı kanca ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **Doge** - Doge madeni para rulosu ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **İnsan** - Komut verildiğinde patlayan dinamitleri fırlat ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+
+### Yabancı
 
 - SA düğmesine basıldığında, Alien hedeflenen yönde kısa bir mesafe ışınlayabilir (sol, sağ, yukarı, aşağı, köşegenler)
 - Işınlanan konumda bir enerji patlaması var ve yakındaki rakipleri vuruyor
 
-![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
+### Maymun
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
-- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
+- SA düğmesine basmak, bir muzu hedeflenen yöne (sol, sağ, yukarı, aşağı, köşegenler) fırlatır, ta ki **bir rakibe**çarpana, bir harita parçasına çarpana veya haritadan uçup gidene kadar
+- SA düğmesine tekrar basmak, muzun dejene geri uçmasını sağlayarak rakibe tekrar vurmayı mümkün kılar.
 - Muz bir sopayla vurulabilir ve hedeflenen yöne uçabilir
 
-![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
+### Kedi
 
-- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
-- Empored bat swing - bat hits harder
-- Empowered movement - cats run faster
-- Cats can double jump, jumping in mid-air
+- SA'ya basmak kedinin zıplamasını sağlar. Kısa bir süre zıpladıktan sonra kedi güçlenir.
+- Empored yarasa salıncak: yarasa daha sert vurur
+- Güçlendirilmiş hareket: kediler daha hızlı koşar
+- Kediler havada çift zıplayabilir / zıplayabilir
 
-![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
+### doge
 
-- Pressing and holding the SA button makes the doge roll
-- Hitting an opponent with doge roll makes them fly upwards in roll direction
+- SA düğmesini basılı tutmak, doge rulosunu yapar.
+- Bir rakibe doge roll ile vurmak, onların yuvarlanma yönünde biraz yukarı uçmalarını sağlar
 - Doge amaçlanan yönde uçacak
-- During doge roll, directions can be changed three times until the doge roll ends
+- Doge roll sırasında, doge roll bitene kadar yönler üç kez (güncellemeden sonra belki iki kez) değiştirilebilir
+- Doge roll da belli bir süre sonra bitiyor
 
-![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
+### Kurbağa
 
-- Pressing the SA button makes the frog shoot his tongue
-- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
-- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
+- SA düğmesine basmak, Kurbağa'nın dilini vurmasını sağlar
+- Dil bir rakibe çarptığında, o rakip kurbağa yönüne çekilir ve biraz daha uzağa uçar.
+- Dil bir harita parçasına çarptığında, kurbağalar kendini o nesneye çeker (örneğin duvarlar, tavanlar,...)
+- Dil, hedeflenen yönde (sol, sağ, yukarı, aşağı, köşegenler) çekilebilir.
 
-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
+### İnsan
 
 - SA düğmesine basmak, hedeflenen yönde bir bomba atar (sol, sağ, yukarı, aşağı, köşegenler)
-- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
-- The bomb explodes after some time or after the SA button is pressed a second time
-- Currently, the bomb can hit an opponent by hitting it or by explosion
+- Bombanın uçuş eğrisi var ve muz gibi dümdüz uçmuyor. Daha önce patlatılmamışsa ve yerde kalırsa
+- Bir süre sonra veya SA düğmesine ikinci kez basıldıktan sonra bomba patlıyor
+- Şu anda bomba, vurarak veya patlatarak bir rakibe çarpabilir.
+- Güncellenmiş plan: bomba, bir rakiple temas ettikten hemen sonra patlar. Hiçbir rakibe vurulmazsa, otomatik olarak patlayana kadar veya SA düğmesine ikinci kez bastıktan sonra yerde kalır.
 - Bombalar, fırlatma degenini patlamasıyla vurabilen tek SA'dır.
-- Bombs can also be hit with a bat and fly in the aimed direction
+- Bombalar bir sopayla vurulabilir ve hedeflenen yönde uçabilir
