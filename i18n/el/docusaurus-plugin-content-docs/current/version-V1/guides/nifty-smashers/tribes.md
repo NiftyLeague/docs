@@ -4,45 +4,56 @@ title: Ειδικές Ικανότητες Φυλής
 sidebar_position: 3
 ---
 
-Our current game, [Nifty Smashers](https://docs.niftyleague.com/overview/games/nifty-smashers), and all future games will feature the same Special Ability ("SA") for each [tribe](http://localhost:3000/overview/degens/tribes).
+**Το τρέχον παιχνίδι μας, Nifty Smashers, και όλα τα μελλοντικά παιχνίδια έχουν μια Ειδική Ικανότητα ("SA") για κάθε τύπο χαρακτήρα.**
 
-![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44) **Alien**
+### Κατάλογος Ειδικών Ικανοτήτων
+
+- **Πίθηκος** - Πέτα μπανάνες μπούμερανγκ ![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44)
+- **Alien** - Teleport ![https://cdn.discordapp.com/emojis/876655147634294794.png?size=44](https://cdn.discordapp.com/emojis/876655147634294794.png?size=44)
+- **Cat** - Περάστε και αποκτήστε προσωρινή ισχύ και ώθηση ταχύτητας ![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44)
+- **Frog** - Το άγκιστρο αγκίστρωσης της γλώσσας ![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44)
+- **Doge** - Ρολό κέρματος Doge ![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44)
+- **Human** - Ρίξτε δυναμίτες που εκρήγνυνται κατόπιν εντολής ![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44)
+
+### Εξωγήινο
 
 - Πατώντας το κουμπί SA, το Alien μπορεί να τηλεμεταφέρει μια μικρή απόσταση προς την κατεύθυνση (αριστερά, δεξιά, πάνω, κάτω, διαγώνιες)
 - Υπάρχει μια ενεργειακή έκρηξη στην τηλεμεταφερόμενη τοποθεσία, χτυπώντας τους αντιπάλους που βρίσκονται κοντά
 
-![https://cdn.discordapp.com/emojis/876605610165157968.png?size=44](https://cdn.discordapp.com/emojis/876605610165157968.png?size=44) **Ape**
+### Πίθηκος
 
-- Pressing the SA button throws a banana in the aimed direction (left, right, up, down, diagonals) until it hits an opponent, hits a map part or flies off the map
-- Pressing the SA button again makes the banana fly back to the degen, making it possible to hit an opponent again.
+- Πατώντας το κουμπί SA ρίχνει μια μπανάνα προς την κατεύθυνση (αριστερά, δεξιά, πάνω, κάτω, διαγώνιες) μέχρι να **χτυπήσει έναν αντίπαλο**, να χτυπήσει ένα μέρος του χάρτη ή να πετάξει από τον χάρτη
+- Πατώντας ξανά το κουμπί SA, η μπανάνα πετάει πίσω στο degen, καθιστώντας δυνατό να χτυπήσει ξανά έναν αντίπαλο.
 - Οι μπανάνες μπορούν να χτυπηθούν με ρόπαλο και να πετάξουν προς την κατεύθυνση
 
-![https://cdn.discordapp.com/emojis/876655087869644830.png?size=44](https://cdn.discordapp.com/emojis/876655087869644830.png?size=44) **Cat**
+### Γάτα
 
-- Pressing the SA makes the cat pounce, and after pouncing for a short duration, cat get empowered
-- Empored bat swing - bat hits harder
-- Empowered movement - cats run faster
-- Cats can double jump, jumping in mid-air
+- Το πάτημα του SA κάνει τη γάτα να ανατινάξει. Μετά από ορμή για σύντομη διάρκεια, η γάτα ενδυναμώνεται.
+- Empored swing: bat χτυπάει πιο δυνατά
+- Ενδυναμωμένη κίνηση: οι γάτες τρέχουν πιο γρήγορα
+- Οι γάτες μπορούν να κάνουν διπλό άλμα / άλμα στον αέρα
 
-![https://cdn.discordapp.com/emojis/876600985819164764.png?size=44](https://cdn.discordapp.com/emojis/876600985819164764.png?size=44) **Doge**
+### Δόγης
 
-- Pressing and holding the SA button makes the doge roll
-- Hitting an opponent with doge roll makes them fly upwards in roll direction
+- Πατώντας και κρατώντας πατημένο το κουμπί SA, ο δόγης κυλάει.
+- Χτυπώντας έναν αντίπαλο με ρολό doge τον κάνει να πετάξει λίγο προς τα πάνω προς την κατεύθυνση του ρολού
 - Ο Doge θα πετάξει-κυλήσει προς την στοχευμένη κατεύθυνση
-- During doge roll, directions can be changed three times until the doge roll ends
+- Κατά τη διάρκεια του Doge roll οι οδηγίες μπορούν να αλλάξουν τρεις φορές (ίσως δύο φορές μετά την ενημέρωση) μέχρι να τελειώσει το Doge roll
+- Το ρολό Doge τελειώνει επίσης μετά από ορισμένο χρόνο
 
-![https://cdn.discordapp.com/emojis/876655119817670686.png?size=44](https://cdn.discordapp.com/emojis/876655119817670686.png?size=44) **Frog**
+### Βάτραχος
 
-- Pressing the SA button makes the frog shoot his tongue
-- When the tongue hits an opponent, the opponent is pulled to the frogs direction and flies
-- When the tongue hits a map piece, the frogs pulls himself to that object (e.g. walls, ceilings)
-- The tongue can be shot in an aimed direction (left, right, up, down, diagonals)
+- Πατώντας το κουμπί SA, ο Βάτραχος πυροβολεί τη γλώσσα του
+- Όταν η γλώσσα χτυπά έναν αντίπαλο, αυτός ο αντίπαλος τραβιέται προς την κατεύθυνση των βατράχων και πετάει λίγο πιο πέρα
+- Όταν η γλώσσα χτυπά ένα κομμάτι χάρτη, οι βάτραχοι τραβούν τον εαυτό τους σε αυτό το αντικείμενο (π.χ. τοίχοι, οροφές,...)
+- Η γλώσσα μπορεί να πυροβοληθεί προς την κατεύθυνση (αριστερά, δεξιά, πάνω, κάτω, διαγώνιες)
 
-![https://cdn.discordapp.com/emojis/876604536784052274.png?size=44](https://cdn.discordapp.com/emojis/876604536784052274.png?size=44) **Human**
+### Ο άνθρωπος
 
 - Πατώντας το κουμπί SA εκτοξεύεται μια βόμβα προς την κατεύθυνση (αριστερά, δεξιά, πάνω, κάτω, διαγώνιες)
-- The bomb has a flying curve and doesn't fly straight like bananas (if the bomb is not detonated prior, it remains on the ground)
-- The bomb explodes after some time or after the SA button is pressed a second time
-- Currently, the bomb can hit an opponent by hitting it or by explosion
+- Η βόμβα έχει καμπύλη πτήσης και δεν πετάει ευθεία σαν τις μπανάνες. Εάν δεν πυροδοτηθεί πριν και παραμείνει στο έδαφος
+- Η βόμβα εκρήγνυται μετά από κάποιο χρονικό διάστημα ή αφού πατηθεί το κουμπί SA για δεύτερη φορά
+- Επί του παρόντος, η βόμβα μπορεί να χτυπήσει έναν αντίπαλο χτυπώντας τον ή με έκρηξη
+- Ενημερωμένο σχέδιο: η βόμβα εκρήγνυται αμέσως μετά την επαφή με έναν αντίπαλο. Εάν δεν χτυπηθεί κανένας αντίπαλος, παραμένει στο έδαφος μέχρι να εκραγεί αυτόματα ή αφού πατήσει το κουμπί SA δεύτερη φορά
 - Οι βόμβες είναι το μόνο SA που μπορεί να χτυπήσει το ίδιο το ριπτικό degen με την έκρηξή του
-- Bombs can also be hit with a bat and fly in the aimed direction
+- Οι βόμβες μπορούν να χτυπηθούν με ρόπαλο και να πετάξουν προς την κατεύθυνση
