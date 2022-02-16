@@ -1,6 +1,6 @@
 ---
 id: 에 대한
-title: 에 대한
+title: 개요
 sidebar_position: 1
 ---
 
