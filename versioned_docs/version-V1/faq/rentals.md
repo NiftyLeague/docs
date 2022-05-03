@@ -187,9 +187,9 @@ It's not. Solution? ✨COMPETE & EARN✨ (more details to come soon).
 
 <details><summary>What is a rental pass?</summary><br/>
   
-Rental passes let you rent a DEGEN for free, bypassing the rental fee entirely! Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue (these typically cost 1,000 NFTL for a week-long rental).
+Rental passes let you rent a DEGEN for free, bypassing the rental fee entirely! Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue (these typically cost 1,000 NFTL for a week-long rental).</br></br>
 
-Nifty League typically issues rental passes as rewards for our active community members and players, and to Clubs, partners and other communites we love.
+Nifty League typically issues rental passes as rewards for our active community members and players, and to Clubs, partners and other communites we love.</br></br>
   
 You may choose to share your rental pass with a friend or family member who's interested in trying out Nifty Smashers, or buying a DEGEN NFT and understanding the player ecosystem in more detail. Alternatively, you can apply the rental pass on a DEGEN you don't own but wish to rent.
   
@@ -203,17 +203,17 @@ Click <code>Launch App</code> on the top right corner of our [website](www.nifty
 
 <details><summary>How do I issue a rental pass?</summary><br/>
  
-Open our [app](www.app.niftyleague.com), connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace (click <code>Degen Rentals</code> in the side navigation, and <code>Rent Now</code> under the DEGEN's photo) or selecting a DEGEN you own (click<code>My Dashboard</code>,<code>Overview</code>, and <code>Rent Now</code> under the DEGEN's photo).
-  
+Open our [app](www.app.niftyleague.com), connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace (click <code>Degen Rentals</code> in the side navigation, and <code>Rent Now</code> under the DEGEN's photo) or selecting a DEGEN you own (click<code>My Dashboard</code>,<code>Overview</code>, and <code>Rent Now</code> under the DEGEN's photo).<br/><br/>
+
 After clicking <code>Rent Now</code>, the **Rental Overview** dialog will appear.
   
 To rent the DEGEN for a Recruit/Player (friend, family, etc.):
   1. Select <code>Recruit</code> under <code>What are you renting for?</code> 
   2. A field will appear below <code>What is your recruit’s ETH wallet address?</code>, where you must enter address for the Recruit/Player
   3. Select <code>Yes</code> next to <code>Use a rental pass?</code>
-  4. Complete the dialog by checking the box to acknowledge the rental/fees and clicking the <code>Rent Degen</code>
-  
-Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue. Prior to sending a rental pass to a Recruit, friend or family, etc., they must create a Nifty League profile by simply connecting their crypto wallet to our [app](www.app.niftyleague.com).
+  4. Complete the dialog by checking the box to acknowledge the rental/fees and clicking the <code>Rent Degen</code><br/><br/>
+
+Please note, rental passes can only be applied to DEGENs with **Common backgrounds** and **zero rentals in queue**. Prior to sending a rental pass to a Recruit, friend or family, etc., they must create a Nifty League profile by simply connecting their crypto wallet to our [app](www.app.niftyleague.com).
   
 </details>
 
@@ -239,15 +239,15 @@ No. Rental passes can only be used on DEGENs with Common backgrounds.
   
 </details>
 
-<details><summary>Are rental passes an NFT?</summary><br/>
+<details><summary>Are rental passes a NFT?</summary><br/>
 
 No.
 
 </details>
 
-<details><summary>Are rental passes transferrable?</summary><br/>
+<details><summary>Are rental passes transferable?</summary><br/>
 
-No. If you have available rental passes in your wallet, you cannot transfer them to another wallet to then be isseud to a Recruit/Player.
+No. If you have available rental passes in your wallet, you cannot transfer them to another wallet to then be issued to a Recruit/Player.
 
 </details>
 
