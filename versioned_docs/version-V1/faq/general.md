@@ -6,7 +6,7 @@ sidebar_position: 1
 
 <details><summary>Does it cost to play Nifty Smashers?</summary><br/>
 
-Today, you must own a DEGEN NFT to play Nifty Smashers. We will soon be launching a rental system, where you can rent a DEGEN NFT for a weekly fee.
+You can play Nifty Smashers by either renting a DEGEN NFT from our [Degen Rentals Marketplace](https://app.niftyleague.com/degen-rentals) for a weekly fee or owning a DEGEN NFT (which can be purchased on [OpenSea](https://opensea.io/collection/niftydegen), [LooksRare](https://looksrare.org/collections/0x986aea67C7d6A15036e18678065eb663Fc5BE883) or Coinbase NFT).
 
 </details>
 
