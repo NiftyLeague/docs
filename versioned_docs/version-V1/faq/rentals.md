@@ -188,9 +188,9 @@ It's not. Solution? ✨COMPETE & EARN✨ (more details to come soon).
 <details><summary>What is a rental pass?</summary><br/>
   
 Rental passes let you rent a DEGEN for free, bypassing the rental fee entirely! Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue (these typically cost 1,000 NFTL for a week-long rental).
-</br></br>
+<br /><br />
 
-Nifty League typically issues rental passes as rewards for our active community members and players, and to Clubs, partners and other communites we love.</br></br>
+Nifty League typically issues rental passes as rewards for our active community members and players, and to Clubs, partners and other communites we love.<br /><br />
   
 You may choose to share your rental pass with a friend or family member who's interested in trying out Nifty Smashers, or buying a DEGEN NFT and understanding the player ecosystem in more detail. Alternatively, you can apply the rental pass on a DEGEN you don't own but wish to rent.
   
@@ -205,10 +205,10 @@ Click <code>Launch App</code> on the top right corner of our [website](https://n
 <details><summary>How do I issue a rental pass?</summary><br/>
  
 Open our [app](https://app.niftyleague.com), connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace or selecting a DEGEN you own.
-</br></br>
+<br /><br />
 
 After clicking <code>Rent Now</code>, the Rental Overview dialog will appear.
-</br></br>
+<br /><br />
 
 To rent the DEGEN for a Recruit/Player (friend, family, etc.):<br/><br/>
   1. Select <code>Recruit</code> under <code>What are you renting for?</code><br/><br/>
