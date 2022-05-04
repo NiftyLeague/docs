@@ -20,9 +20,9 @@ Read more about our plans for DEGEN rentals [here](/docs/guides/rentals/rental-o
 
 <details><summary>What do the terms Club, Sponsor and Recruit mean?</summary><br/>
 
-We use the term **Club** to refer to a group of players. In web3/P&E/NFT gaming, these are typically referred to as Guilds. Furthermore, **Clubs** will be core to the Nifty ecosystem, with in-game social features where DEGENs can proudly represent their **Clubs** on their profile and within the game.
+We use the term **Club** to refer to a group of players. In web3/P&E/NFT gaming, these are typically referred to as Clubs. Furthermore, **Clubs** will be core to the Nifty ecosystem, with in-game social features where DEGENs can proudly represent their **Clubs** on their profile and within the game.
   
-We use the term **Sponsor** to refer to a **Club** (or any other DEGEN owner) who has paid for a DEGEN rental on behalf of a player. In web3/P&E/NFT gaming, **Sponsors** are typically Guilds, but at Nifty Leauge, owning your NFT means your can rent it out to any player you wish! 
+We use the term **Sponsor** to refer to a **Club** (or any other DEGEN owner) who has paid for a DEGEN rental on behalf of a player. In web3/P&E/NFT gaming, **Sponsors** are typically Clubs, but at Nifty Leauge, owning your NFT means your can rent it out to any player you wish! 
 
 We use the term **Recruit** to refer to a player and member of the community who is sponsored by a **Club** or DEGEN owner.  
 
