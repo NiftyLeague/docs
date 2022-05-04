@@ -205,7 +205,7 @@ Click <code>Launch App</code> on the top right corner of our [website](https://n
 <details><summary>How do I issue a rental pass?</summary>
 <br />
  
-Open our [app](https://app.niftyleague.com), connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace or selecting a DEGEN you own.
+Open our <a href="https://app.niftyleague.com">app</a>, connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace or selecting a DEGEN you own.
 <br /><br />
 
 After clicking <code>Rent Now</code>, the Rental Overview dialog will appear.
@@ -224,7 +224,7 @@ Please note, rental passes can only be applied to DEGENs with Common backgrounds
 
 <details><summary>Help! I received an error when attempting to issue a rental pass. Now what?</summary><br/>
   
-If you receive an error after attempting to rent a DEGEN using a rental pass, this is likely because the DEGEN either does not have a Common background, has an ongoing active rental, or, the address you attempted to issue the pass to is not recognized as a profile in our system. If the address is not recognized, please instruct your Recruit/Player (friend, family, etc.) to connect their crypto wallet to our [app](https://app.niftyleague.com).
+If you receive an error after attempting to rent a DEGEN using a rental pass, this is likely because the DEGEN either does not have a Common background, has an ongoing active rental, or, the address you attempted to issue the pass to is not recognized as a profile in our system. If the address is not recognized, please instruct your Recruit/Player (friend, family, etc.) to connect their crypto wallet to our <a href="https://app.niftyleague.com">app</a>.
 <br/><br/>
 
 If you are encountering other issues with your rental pass, please reach out to a Community Moderator in our Discord server.
