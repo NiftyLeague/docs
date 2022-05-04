@@ -38,13 +38,13 @@ No, but the rental fee increases with each subsequent rental.
   
 You can initiate a rental by paying the initial rental fee, which covers the cost of the rental for **one week**. After the first week, the rental switches to **daily**. The daily rental fee will automatically deduct from your <code>Game & Rental Balance</code> until either the rental is terminated or the DEGEN is no longer available for rent.
 
-View your <code>Game & Rental Balance</code> by opening our [app](www.app.niftyleague.com), clicking <code>My Dashboard</code> in the side navigation, then <code>[Overview](https://app.niftyleague.com/dashboard)</code>, which opens your dashboard where <code>Game & Rental Balance</code> is visible.
+View your <code>Game & Rental Balance</code> by opening our [app](https://www.app.niftyleague.com), clicking <code>My Dashboard</code> in the side navigation, then <code>[Overview](https://app.niftyleague.com/dashboard)</code>, which opens your dashboard where <code>Game & Rental Balance</code> is visible.
 
 </details>
 
 <details><summary>Can I take my DEGEN off the public market if it has already been rented?</summary><br/>
 
-Yes! Any existing rentals active on your DEGEN will be terminated at the **end** of the ongoing rental period. You can disable your DEGEN by opening our [app](www.app.niftyleague.com), clicking <code>My Dashboard</code>, <code>Overview</code>, and <code>Disable Rentals</code> under the DEGEN's image. After all active rentals have expired, your DEGEN will no longer be available to rent by the public. **Please note that re-activating a DEGEN rental costs 1,000 NFTL.**
+Yes! Any existing rentals active on your DEGEN will be terminated at the **end** of the ongoing rental period. You can disable your DEGEN by opening our [app](https://www.app.niftyleague.com), clicking <code>My Dashboard</code>, <code>Overview</code>, and <code>Disable Rentals</code> under the DEGEN's image. After all active rentals have expired, your DEGEN will no longer be available to rent by the public. **Please note that re-activating a DEGEN rental costs 1,000 NFTL.**
 
 </details>
 
@@ -74,7 +74,7 @@ As a Recruit/Player, you can terminate an active rental at any time. The rental 
   
 As an Owner/Sponsor, you can terminate an active rental issued to your Recruit/Player at any time. The rental will stay active until the end of the period for which it’s been paid but will not renew for subsequent rental periods. You will not be issued a NFTL refund for a rental that is terminated prior to last day of the rental period.
   
-All rentals (regardless of if you are a Recruit/Player or Owner/Sponsor) can be terminated by navigating to the [app](www.app.niftyleague.com), where you will click <code>My Dashboard</code>, then <code>Rentals</code>. Hover over the row with the rental you wish to terminate and scroll to right until the <code>Terminate</code> button is visible. Click <code>Terminate</code>. A success notification will trigger once your rental is terminated.  
+All rentals (regardless of if you are a Recruit/Player or Owner/Sponsor) can be terminated by navigating to the [app](https://www.app.niftyleague.com), where you will click <code>My Dashboard</code>, then <code>Rentals</code>. Hover over the row with the rental you wish to terminate and scroll to right until the <code>Terminate</code> button is visible. Click <code>Terminate</code>. A success notification will trigger once your rental is terminated.  
 
 </details>
 
@@ -198,11 +198,12 @@ You may choose to share your rental pass with a friend or family member who's in
 
 <details><summary>Where can I view the number of rental passes I have available?</summary><br/>
 
-Click <code>Launch App</code> on the top right corner of our [website](https://niftyleague.com), which opens our [app](https://app.niftyleague.com). Click <code>Connect Wallet</code> on the left side of the window. Via the left sidebar, click <code>My Dashboard</code> then <code>Degens</code>. Click <code>Rent Now</code> on the DEGEN you’d like to select for a rental pass. **You can view the number of rental passes available on your wallet in the <code>Rental Passes Remaining</code> row on this dialog.**
+Click <code>Launch App</code> on the top right corner of our [website](https://niftyleague.com), which opens our [app](https://www.app.niftyleague.com). Click <code>Connect Wallet</code> on the left side of the window. Via the left sidebar, click <code>My Dashboard</code> then <code>Degens</code>. Click <code>Rent Now</code> on the DEGEN you’d like to select for a rental pass. **You can view the number of rental passes available on your wallet in the <code>Rental Passes Remaining</code> row on this dialog.**
   
 </details>
 
-<details><summary>How do I issue a rental pass?</summary><br/>
+<details><summary>How do I issue a rental pass?</summary>
+<br />
  
 Open our [app](https://app.niftyleague.com), connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace or selecting a DEGEN you own.
 <br /><br />
@@ -217,7 +218,7 @@ To rent the DEGEN for a Recruit/Player (friend, family, etc.):<br/><br/>
   4. Check the box to acknowledge the rental/fees<br/><br/>
   5. Click <code>Rent Degen</code><br/><br/>
 
-Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue. Prior to sending a rental pass to a Recruit, friend or family, etc., they must create a Nifty League profile by simply connecting their crypto wallet to our [app](www.app.niftyleague.com).
+Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue. Prior to sending a rental pass to a Recruit, friend or family, etc., they must create a Nifty League profile by simply connecting their crypto wallet to our [app](https://app.niftyleague.com).
   
 </details>
 
