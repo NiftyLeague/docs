@@ -187,7 +187,8 @@ It's not. Solution? ✨COMPETE & EARN✨ (more details to come soon).
 
 <details><summary>What is a rental pass?</summary><br/>
   
-Rental passes let you rent a DEGEN for free, bypassing the rental fee entirely! Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue (these typically cost 1,000 NFTL for a week-long rental).</br></br>
+Rental passes let you rent a DEGEN for free, bypassing the rental fee entirely! Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue (these typically cost 1,000 NFTL for a week-long rental).
+</br></br>
 
 Nifty League typically issues rental passes as rewards for our active community members and players, and to Clubs, partners and other communites we love.</br></br>
   
@@ -197,31 +198,35 @@ You may choose to share your rental pass with a friend or family member who's in
 
 <details><summary>Where can I view the number of rental passes I have available?</summary><br/>
 
-Click <code>Launch App</code> on the top right corner of our [website](www.niftyleague.com), which opens our [app](www.app.niftyleague.com). Click the <code>Connect Wallet</code> button on the left side of the window. Via the left sidebar, click <code>My Dashboard</code> then <code>Degens</code>. Click the <code>Rent Now</code> button on the DEGEN you’d like to select for a rental pass. **You can view the number of rental passes available on your wallet in the <code>Rental Passes Remaining</code> row on this dialog.**
+Click <code>Launch App</code> on the top right corner of our [website](https://niftyleague.com), which opens our [app](https://app.niftyleague.com). Click <code>Connect Wallet</code> on the left side of the window. Via the left sidebar, click <code>My Dashboard</code> then <code>Degens</code>. Click <code>Rent Now</code> on the DEGEN you’d like to select for a rental pass. **You can view the number of rental passes available on your wallet in the <code>Rental Passes Remaining</code> row on this dialog.**
   
 </details>
 
 <details><summary>How do I issue a rental pass?</summary><br/>
  
-Open our [app](www.app.niftyleague.com), connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace (click <code>Degen Rentals</code> in the side navigation, and <code>Rent Now</code> under the DEGEN's photo) or selecting a DEGEN you own (click<code>My Dashboard</code>,<code>Overview</code>, and <code>Rent Now</code> under the DEGEN's photo).<br/><br/>
+Open our [app](https://app.niftyleague.com), connect your wallet, select the DEGEN you wish to apply the rental pass to - either by browsing the Degen Rentals marketplace or selecting a DEGEN you own.
+</br></br>
 
-After clicking <code>Rent Now</code>, the **Rental Overview** dialog will appear.
-  
-To rent the DEGEN for a Recruit/Player (friend, family, etc.):
-  1. Select <code>Recruit</code> under <code>What are you renting for?</code> 
-  2. A field will appear below <code>What is your recruit’s ETH wallet address?</code>, where you must enter address for the Recruit/Player
-  3. Select <code>Yes</code> next to <code>Use a rental pass?</code>
-  4. Complete the dialog by checking the box to acknowledge the rental/fees and clicking the <code>Rent Degen</code><br/><br/>
+After clicking <code>Rent Now</code>, the Rental Overview dialog will appear.
+</br></br>
 
-Please note, rental passes can only be applied to DEGENs with **Common backgrounds** and **zero rentals in queue**. Prior to sending a rental pass to a Recruit, friend or family, etc., they must create a Nifty League profile by simply connecting their crypto wallet to our [app](www.app.niftyleague.com).
+To rent the DEGEN for a Recruit/Player (friend, family, etc.):<br/><br/>
+  1. Select <code>Recruit</code> under <code>What are you renting for?</code><br/><br/>
+  2. A field will appear below <code>What is your recruit’s ETH wallet address?</code>, where you must enter address for the Recruit/Player<br/><br/>
+  3. Select <code>Yes</code> next to <code>Use a rental pass?</code><br/><br/>
+  4. Check the box to acknowledge the rental/fees<br/><br/>
+  5. Click <code>Rent Degen</code><br/><br/>
+
+Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue. Prior to sending a rental pass to a Recruit, friend or family, etc., they must create a Nifty League profile by simply connecting their crypto wallet to our [app](www.app.niftyleague.com).
   
 </details>
 
 <details><summary>Help! I received an error when attempting to issue a rental pass. Now what?</summary><br/>
   
-If you receive an error after attempting to rent a DEGEN using a rental pass, this is likely because the DEGEN either does not have a Common background, has an ongoing active rental, or, the address you attempted to issue the pass to is not recognized as a profile in our system. If the address is not recognized, please instruct your Recruit/Player (friend, family, etc.) to connect their crypto wallet to our [app](www.app.niftyleague.com).
-  
-If you are encountering other issues with your rental pass, please reach out to a [Community Moderator](https://niftyleague.com/docs/overview/team#community-moderators) in [our Discord server](https://discord.com/invite/niftyleague).
+If you receive an error after attempting to rent a DEGEN using a rental pass, this is likely because the DEGEN either does not have a Common background, has an ongoing active rental, or, the address you attempted to issue the pass to is not recognized as a profile in our system. If the address is not recognized, please instruct your Recruit/Player (friend, family, etc.) to connect their crypto wallet to our [app](https://app.niftyleague.com).
+<br/><br/>
+
+If you are encountering other issues with your rental pass, please reach out to a Community Moderator in our Discord server.
   
 </details>
   
