@@ -62,7 +62,7 @@ A rental is initiated with a weekly in-game earnings cap that applies to the fir
 
 <details><summary>What happens after I reach the in-game earnings cap on my rental?</summary><br/>
 
-You can still play, however you won’t earn NFTL until a new rental period is activated. For intance, if you hit the in-game earnings cap on your initial weekly rental, the cap will be reset once your week-long rental expires and your DEGEN moves to a daily rental. 
+You can still play, however you won’t earn NFTL until a new rental period is activated. For instance, if you hit the in-game earnings cap on your initial weekly rental, the cap will be reset once your week-long rental expires and your DEGEN moves to a daily rental. 
 
 Hit your cap and can't wait to earn more NFTL? You can initiate a rental on another DEGEN at any time! Players are not limited to any number of active rentals. Test gameplay with another tribe to discover your favorite.
 
