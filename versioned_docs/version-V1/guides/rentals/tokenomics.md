@@ -4,7 +4,7 @@ title: Tokenomics
 sidebar_position: 2
 ---
 
-**What is the current split for In-Game Earnings?**
+## What is the current split for In-Game Earnings?
 
 | Audience       | Share |
 | -------------- | ----- |
@@ -12,7 +12,7 @@ sidebar_position: 2
 | Sponsor        | 50%   |
 | Player/Recruit | 40%   |
 
-**What is the current split for Daily Rental Fees?**
+## What is the current split for Daily Rental Fees?
 
 | Audience     | Share |
 | ------------ | ----- |
@@ -20,7 +20,7 @@ sidebar_position: 2
 | Nifty League | 10%   |
 | Burn         | 80%   |
 
-**What is the current split for Weekly Rental Fees?**
+## What is the current split for Weekly Rental Fees?
 
 | Audience     | Share |
 | ------------ | ----- |
@@ -28,9 +28,10 @@ sidebar_position: 2
 | Nifty League | 5%    |
 | Burn         | 50%   |
 
-**Rental Fees and In-Game Earnings Caps per DEGEN broken down by [Background](https://niftyleague.com/docs/overview/degens/backgrounds):**
+## Rental Fees and In-Game Earnings Caps per DEGEN broken down by [Background](https://niftyleague.com/docs/overview/degens/backgrounds)
 
-**Weekly**
+### Weekly
+
 | Background | Weekly Rental Fee (NFTL) | Weekly In-Game Earnings Cap (NFTL) |
 | ---------- | ------------------------ | ---------------------------------- |
 | Common     | 1,000                    | 4,004                              |
@@ -38,7 +39,8 @@ sidebar_position: 2
 | Meta       | 2,000                    | 8,008                              |
 | Legendary  | 3,500                    | 14,014                             |
 
-**Daily**
+### Daily
+
 | Background | Daily Rental Fee (NFTL)| Daily In-Game Earnings Cap (NFTL)|
 | ---------- | ---------------------- | -------------------------------- |
 | Common     | 100                    | 572                              | 
