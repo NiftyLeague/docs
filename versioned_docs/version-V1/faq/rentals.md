@@ -36,7 +36,7 @@ No, but the rental fee increases with each subsequent rental.
 
 <details><summary>How does the rental fee work?</summary><br/>
   
-You can initiate a rental by paying the initial rental fee, which covers the cost of the rental for **one week**. After the first week, the rental switches to **daily**. The daily rental fee will automatically deduct from your <code>Game & Rental Balance</code> until either the rental is terminated or the DEGEN is no longer available for rent.
+You can initiate a rental by paying the initial rental fee, which covers the cost of the rental for one week. After the first week, the rental switches to daily. The daily rental fee will automatically deduct from your <code>Game & Rental Balance</code> until either the rental is terminated or the DEGEN is no longer available for rent.<br/><br/>
 
 View your <code>Game & Rental Balance</code> by opening our [app](https://app.niftyleague.com), clicking <code>My Dashboard</code> in the side navigation, then [<code>Overview</code>](https://app.niftyleague.com/dashboard), which opens your dashboard where <code>Game & Rental Balance</code> is visible.
 
