@@ -1,7 +1,7 @@
 ---
 id: future-games
 title: Future Games
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 [Nifty Spike](/docs/overview/team) and the team and community are constantly brainstorming ideas for future games.

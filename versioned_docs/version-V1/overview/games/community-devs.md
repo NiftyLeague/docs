@@ -1,7 +1,7 @@
 ---
 id: community-devs
 title: Community Devs
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 Our goal is to expand our platform with as many fun and exciting games as possible, which we believe is only possible with the help of our DEGEN community, including indie gaming studios.

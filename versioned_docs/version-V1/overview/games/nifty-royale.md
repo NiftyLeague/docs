@@ -1,7 +1,7 @@
 ---
 id: nifty-royale
 title: Nifty Royale
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 ## 🚧 Under development for 2022 🚧

@@ -37,22 +37,26 @@ How cool is it to earn money while playing games you actually enjoy? With the ro
 
 We know our community can't wait to showcase their cool DEGENS on the streets! We are excited to unveil our merchandise marketplace including two clothing lines. The first having a strong gaming slant similar to Pokémon, while the other will be focused on a rad streetwear aesthetic.
 
+## Rentals ✅
+
+Our player-base is currently limited to the number of unique DEGEN NFT holders. We want to scale our platform as much as possible without devaluing our genesis DEGEN tribes who stand at the heart of our ecosystem.
+
+Rather than inflating the character supply, we are introducing a bespoke rental system allowing DEGEN holders to earn NFTL daily through fees. Each DEGEN can be rented indefinitely but the cost for doing so will increase exponentially with each additional rental. This allows the market to decide the price for each DEGEN individually while spreading out the rentals across the board as some equipped with precious items, wearables, or backgrounds will have a higher earn rate through NFTL multipliers.
+
+## Leaderboards ✅
+
+Our games are meant to be competitive; what better way to showcase this than a leaderboard with star players like FVSVY at the top? We'll include game stats for daily, weekly, monthly, and of course all-time leaders for all of our games in the Niftyverse.
+
+## WEN Game ✅
+
+Our first of many arcade style games, [WEN Game](/docs/overview/games/wen-game) is all about timing as players attempt to hit a baseball from a pitching machine! This launch also introduces our Arcade Token used to access any of our Arcade games.
+
 ## Comics
 
 Our team has been slowly hinting at the upcoming utilities for comics - as you may already be aware you will be able to burn each page for special in-game items that increase your DEGEN's NFTL multiplier.
 
 We previously airdropped our initial 4 Comic pages to minters and still have 2 pages remaining for
 DEGEN holders. Word from Satoshi - securing a full collection is highly recommended.
-
-## Rentals
-
-Our player-base is currently limited to the number of unique DEGEN NFT holders. We want to scale our platform as much as possible without devaluing our genesis DEGEN tribes who stand at the heart of our ecosystem.
-
-Rather than inflating the character supply, we are introducing a bespoke rental system allowing DEGEN holders to earn NFTL daily through fees. Each DEGEN can be rented indefinitely but the cost for doing so will increase exponentially with each additional rental. This allows the market to decide the price for each DEGEN individually while spreading out the rentals across the board as some equipped with precious items, wearables, or backgrounds will have a higher earn rate through NFTL multipliers.
-
-## Leaderboards
-
-Our games are meant to be competitive; what better way to showcase this than a leaderboard with star players like FVSVY at the top? We'll include game stats for daily, weekly, monthly, and of course all-time leaders for all of our games in the Niftyverse.
 
 ## Nifty Smashers Beta
 
