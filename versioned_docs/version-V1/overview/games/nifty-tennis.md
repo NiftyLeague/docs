@@ -1,7 +1,7 @@
 ---
 id: nifty-tennis
 title: Nifty Tennis
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 ## 🚧 Under development for 2022 🚧

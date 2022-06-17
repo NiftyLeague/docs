@@ -1,7 +1,7 @@
 ---
 id: nifty-kart
 title: Nifty Kart
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 ## 🚧 Under development for 2022 🚧
