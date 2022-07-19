@@ -15,11 +15,11 @@ During minting, we surprised the community with a special Nifty League launch Co
 - **Comic 3** - 5000
 - **Comic 4** - 7500
 
-Our collection of **Comics 1-4** are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
+Our collection of **Comics 1-6** are available for purchase on [OpenSea](https://opensea.io/collection/nifty-league-launch-comics).
 
 There was a snapshot on 1/31/2022 for **Comic 5** awarded to all DEGEN holders, and **Comic 6** awarded to all wallets containing all 6 DEGEN tribes.
 
-In addition, all [Meta background](/docs/overview/degens/backgrounds) DEGENs received one **Comic 6** NFT, and all [Legendary background](/docs/overview/degens/backgrounds) DEGENs will receive two **Comic 6** NFTs. These will be made available via a claim flow on [our app](https://app.niftyleague.com/) (coming soon).
+In addition, all [Meta background](/docs/overview/degens/backgrounds) DEGENs received one **Comic 6** NFT, and all [Legendary background](/docs/overview/degens/backgrounds) DEGENs received two **Comic 6** NFTs. 
 
 Each Comic will be burnable at a future date to receive an in-game wearable or weapon in exchange for each page burned. These items modify a DEGEN's P&E multiplier when worn.
 
@@ -40,8 +40,8 @@ Below is a list of items for each Comic's corresponding wearable:
 **Comic 2**: Halo  
 **Comic 3**: Diamond Bat  
 **Comic 4**: Bread Bat  
-**Comic 5**: TBA  
-**Comic 6**: TBA  
+**Comic 5**: Purple Bat  
+**Comic 6**: Companion
 
 ## Summary
 
