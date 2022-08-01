@@ -8,9 +8,9 @@ sidebar_position: 2
 
 | Audience       | Share |
 | -------------- | ----- |
-| Owner          | 10%   |
+| Owner          | 25%   |
 | Sponsor        | 50%   |
-| Player/Recruit | 40%   |
+| Player/Recruit | 25%   |
 
 ## What is the current split for Daily Rental Fees?
 
