@@ -26,17 +26,11 @@ sidebar_position: 2
 | <img src={require('/static/img/nicolas.png').default} width="175" /> | <img src={require('/static/img/ashley.png').default} width="175" />       | <img src={require('/static/img/david.png').default} width="175" /> | <img src={require('/static/img/sahin.png').default} width="175" /> |
 | <div align="center"> Sr. Frontend Dev </div>                         | <div align="center"> Sr. Unity Engineer </div>                            | <div align="center"> Sr. Unity Engineer </div>                     | <div align="center"> Sr. Unity Engineer </div>                     |
 
-| <div align="center" style={{ width: "175px" }}> Will Patrick </div> | <div align="center" style={{ width: "175px" }}> Caleb </div>                 | <div align="center" style={{ width: "175px" }}> Gideon Awolesi </div> | <div align="center" style={{ width: "175px" }}> Ben Collie </div>   |
+| <div align="center" style={{ width: "175px" }}> Caleb </div>                 | <div align="center" style={{ width: "175px" }}> Gideon Awolesi </div> | <div align="center" style={{ width: "175px" }}> Ben Collie </div>   |  <div align="center" style={{ width: "175px" }}> David Lee </div>      |
 | ------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <div align="center"> Will </div>                                    | <div align="center"> Caleb </div>                                            | <div align="center"> Gideon </div>                                    | <div align="center"> Ben </div>                                     |
-| <img src={require('/static/img/will.png').default} width="175" />   | <img src={require('/static/img/caleb.png').default} width="175" />           | <img src={require('/static/img/gideon.png').default} width="175" />   | <img src={require('/static/img/ben.png').default} width="175" />    |
-| <div align="center"> Sr. Programmer </div>                          | <div align="center" style={{ width: "175px" }}> Game Economy Designer </div> | <div align="center"> Product Designer </div>                          | <div align="center" style={{ width: "175px" }}> Pixel Artist </div> |
-
-| <div align="center" style={{ width: "175px" }}> David Lee </div>      |
-| --------------------------------------------------------------------- |
-| <div align="center"> David Lee </div>                                 |
-| <img src={require('/static/img/davidLee.png').default} width="175" /> |
-| <div align="center"> Sr. Solidity Dev </div>                          |
+| <div align="center"> Caleb </div>                                            | <div align="center"> Gideon </div>                                    | <div align="center"> Ben </div>                                     |<div align="center"> David Lee </div>                                 |
+   | <img src={require('/static/img/caleb.png').default} width="175" />           | <img src={require('/static/img/gideon.png').default} width="175" />   | <img src={require('/static/img/ben.png').default} width="175" />    |<img src={require('/static/img/davidLee.png').default} width="175" /> |
+| <div align="center" style={{ width: "175px" }}> Game Economy Designer </div> | <div align="center"> Product Designer </div>                          | <div align="center" style={{ width: "175px" }}> Pixel Artist </div> |<div align="center"> Sr. Solidity Dev </div>                          |
 
 ## Community Moderators
 
