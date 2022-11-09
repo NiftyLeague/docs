@@ -27,7 +27,7 @@ export const actions = [
     href: '#',
     icon: FireIcon,
     to: '/docs/overview/intro',
-    text: `Learn about the vision for our gaming platform including core concepts, inception, and the team behind it.`,
+    text: `Learn about the vision for our gaming platform including core concepts, inception, and aspirations.`,
   },
   {
     title: 'Play-And-Earn / Rentals Overview',
@@ -78,11 +78,11 @@ export const Guides = [
     text: 'Learn more about Nifty Smashers free-to-play',
     to: '/docs/guides/free2play/free-2-play-overview',
   },
-  {
-    title: 'DEGEN Rentals',
-    text: 'Learn about renting DEGENs to increase your NFTL earnings',
-    to: '/docs/guides/rentals/rental-overview',
-  },
+  // {
+  //   title: 'DEGEN Rentals',
+  //   text: 'Learn about renting DEGENs to increase your NFTL earnings',
+  //   to: '/docs/guides/rentals/rental-overview',
+  // },
   {
     title: 'Playing Nifty Smashers',
     text: 'Learn how to bonk in Nifty Smashers!',
@@ -95,11 +95,6 @@ export const quick = [
     title: 'FAQ',
     text: 'Get quick answers to your questions',
     to: '/docs/faq/general',
-  },
-  {
-    title: 'Team',
-    text: 'Learn about the Nifty League core team',
-    to: '/docs/overview/team',
   },
   {
     title: 'Nifty League DAO',

@@ -4,7 +4,7 @@ title: Future Games
 sidebar_position: 8
 ---
 
-[Nifty Spike](/docs/overview/team) and the team and community are constantly brainstorming ideas for future games.
+The team and community are constantly brainstorming ideas for future games.
 
 We've already announced several upcoming titles, but stay tuned by joining our [Discord](https://discord.gg/niftyleague) to stay up to date with all the details.
 
