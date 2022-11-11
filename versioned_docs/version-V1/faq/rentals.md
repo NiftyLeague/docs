@@ -14,17 +14,17 @@ Open www.niftyleague.com and tap the <code>Launch App</code> button in the heade
 
 <details><summary>Where can I learn more about DEGEN rentals?</summary><br/>
 
-Read more about our plans for DEGEN rentals [here](/docs/guides/rentals/rental-overview). Stay in the loop regarding rental, gameplay and community updates by joining [our Discord server](https://discord.com/invite/niftyleague) and following us on [Twitter](https://twitter.com/NiftyLeague). 
+Read more about our plans for DEGEN rentals [here](/docs/guides/rentals/rental-overview). Stay in the loop regarding rental, gameplay and community updates by joining [our Discord server](https://discord.com/invite/niftyleague) and following us on [Twitter](https://twitter.com/NiftyLeague).
 
 </details>
 
 <details><summary>What do the terms Club, Sponsor and Recruit mean?</summary><br/>
 
 We use the term **Club** to refer to a group of players. In web3/P&E/NFT gaming, these are typically referred to as Guilds. Furthermore, **Clubs** will be core to the Nifty ecosystem, with in-game social features where DEGENs can proudly represent their **Clubs** on their profile and within the game.
-  
-We use the term **Sponsor** to refer to a **Club** (or any other DEGEN owner) who has paid for a DEGEN rental on behalf of a player. In web3/P&E/NFT gaming, **Sponsors** are typically Guilds, but at Nifty Leauge, owning your NFT means your can rent it out to any player you wish! 
 
-We use the term **Recruit** to refer to a player and member of the community who is sponsored by a **Club** or DEGEN owner.  
+We use the term **Sponsor** to refer to a **Club** (or any other DEGEN owner) who has paid for a DEGEN rental on behalf of a player. In web3/P&E/NFT gaming, **Sponsors** are typically Guilds, but at Nifty Leauge, owning your NFT means your can rent it out to any player you wish!
+
+We use the term **Recruit** to refer to a player and member of the community who is sponsored by a **Club** or DEGEN owner.
 
 </details>
 
@@ -62,7 +62,7 @@ A rental is initiated with a weekly in-game earnings cap that applies to the fir
 
 <details><summary>What happens after I reach the in-game earnings cap on my rental?</summary><br/>
 
-You can still play, however you won’t earn NFTL until a new rental period is activated. For instance, if you hit the in-game earnings cap on your initial weekly rental, the cap will be reset once your week-long rental expires and your DEGEN moves to a daily rental. 
+You can still play, however you won’t earn NFTL until a new rental period is activated. For instance, if you hit the in-game earnings cap on your initial weekly rental, the cap will be reset once your week-long rental expires and your DEGEN moves to a daily rental.
 
 Hit your cap and can't wait to earn more NFTL? You can initiate a rental on another DEGEN at any time! Players are not limited to any number of active rentals. Test gameplay with another tribe to discover your favorite.
 
@@ -71,10 +71,10 @@ Hit your cap and can't wait to earn more NFTL? You can initiate a rental on anot
 <details><summary>How do I terminate a rental?</summary><br/>
 
 As a Recruit/Player, you can terminate an active rental at any time. The rental will stay active until the end of the period for which it’s been paid. You will not be issued a NFTL refund for a rental that is terminated prior to last day of the rental period.
-  
+
 As an Owner/Sponsor, you can terminate an active rental issued to your Recruit/Player at any time. The rental will stay active until the end of the period for which it’s been paid but will not renew for subsequent rental periods. You will not be issued a NFTL refund for a rental that is terminated prior to last day of the rental period.
-  
-All rentals (regardless of if you are a Recruit/Player or Owner/Sponsor) can be terminated by navigating to the [app](https://app.niftyleague.com), where you will click <code>My Dashboard</code>, then <code>Rentals</code>. Hover over the row with the rental you wish to terminate and scroll to right until the <code>Terminate</code> button is visible. Click <code>Terminate</code>. A success notification will trigger once your rental is terminated.  
+
+All rentals (regardless of if you are a Recruit/Player or Owner/Sponsor) can be terminated by navigating to the [app](https://app.niftyleague.com), where you will click <code>My Dashboard</code>, then <code>Rentals</code>. Hover over the row with the rental you wish to terminate and scroll to right until the <code>Terminate</code> button is visible. Click <code>Terminate</code>. A success notification will trigger once your rental is terminated.
 
 </details>
 
@@ -113,7 +113,7 @@ Having a cap on our emissions helps our ecosystem in maintaining a more sustaina
 <details><summary>Why is the rental price curve so steep?</summary><br/>
 
 We have set the curve based on player-base size, which will be readjusted dynamically as the player-base grows. The curve helps ensure the rental spread is fair across all background multipliers.
-  
+
 </details>
 
 <details><summary>How can the rental price curve possibly support more players?</summary><br/>
@@ -136,10 +136,10 @@ The first version of the rental system will set the Owner’s share to 10%. The 
 
 <details><summary>Can the Sponsor shares of in-game earnings be adjusted?</summary><br/>
 
-The first version of the rental system will set the Sponsor’s share to 50%. The second version of the rental system will include a feature allowing Sponsors to customize the share of in-game earnings they wish to keep. The Sponsor will be able to set the % split with the remainder of earnings left after the Owner’s share is removed.  
+The first version of the rental system will set the Sponsor’s share to 50%. The second version of the rental system will include a feature allowing Sponsors to customize the share of in-game earnings they wish to keep. The Sponsor will be able to set the % split with the remainder of earnings left after the Owner’s share is removed.
 
-For example, if the Owner set their in-game earnings share to 20%, the Sponsor could choose to keep e.g. 80%, leaving the Player/Recruit 0%, or e.g. 10%, leaving the Player/Recruit 70%.  
-  
+For example, if the Owner set their in-game earnings share to 20%, the Sponsor could choose to keep e.g. 80%, leaving the Player/Recruit 0%, or e.g. 10%, leaving the Player/Recruit 70%.
+
 </details>
 
 <details><summary>Can the Player/Recruit shares of in-game earnings be adjusted?</summary><br/>
@@ -156,23 +156,23 @@ Yes, all DEGENs have their weekly earnings capped based on their multiplier. Thi
 
 <details><summary>How much NFTL can I expect to earn per match?</summary><br/>
 
-It will depend on your skill level, but you will be rewarded for every play you make in Nifty Smashers.  Each kill, hit, ability hit, round win, or match win will reward you with points, which translate into NFTL rewards after the match. Remember that you can also lose points for unassisted deaths!
+It will depend on your skill level, but you will be rewarded for every play you make in Nifty Smashers. Each kill, hit, ability hit, round win, or match win will reward you with points, which translate into NFTL rewards after the match. Remember that you can also lose points for unassisted deaths!
 
 </details>
 
 <details><summary>What happens to the weekly rental fee? Where does it go?</summary><br/>
 
-45% of the fee is given to the Owner.  <br />
+45% of the fee is given to the Owner. <br />
 5% of the fee is given to Nifty League (initially the Corporation, later the DAO). <br />
-50% of the fee is burned (removed from the ecosystem). 
+50% of the fee is burned (removed from the ecosystem).
 
 </details>
 
 <details><summary>What happens to the daily rental fee? Where does it go?</summary><br/>
 
-10% of the fee is given to the Owner.  <br />
+10% of the fee is given to the Owner. <br />
 10% of the fee is given to Nifty League (initially the Corporation, later the DAO). <br />
-80% of the fee is burned (removed from the ecosystem). 
+80% of the fee is burned (removed from the ecosystem).
 
 </details>
 
@@ -182,7 +182,6 @@ It's not. Solution? ✨COMPETE & EARN✨ (more details to come soon).
 
 </details>
 
-
 ## Rental Passes
 
 <details><summary>What is a rental pass?</summary><br/>
@@ -191,15 +190,15 @@ Rental passes let you rent a DEGEN for free, bypassing the rental fee entirely! 
 <br /><br />
 
 Nifty League typically issues rental passes as rewards for our active community members and players, and to Clubs, partners and other communites we love.<br /><br />
-  
+
 You may choose to share your rental pass with a friend or family member who's interested in trying out Nifty Smashers, or buying a DEGEN NFT and understanding the player ecosystem in more detail. Alternatively, you can apply the rental pass on a DEGEN you don't own but wish to rent.
-  
+
 </details>
 
 <details><summary>Where can I view the number of rental passes I have available?</summary><br/>
 
 Click <code>Launch App</code> on the top right corner of our [website](https://niftyleague.com), which opens our [app](https://app.niftyleague.com). Click <code>Connect Wallet</code> on the left side of the window. Via the left sidebar, click <code>My Dashboard</code> then <code>Degens</code>. Click <code>Rent Now</code> on the DEGEN you’d like to select for a rental pass. **You can view the number of rental passes available on your wallet in the <code>Rental Passes Remaining</code> row on this dialog.**
-  
+
 </details>
 
 <details><summary>How do I issue a rental pass?</summary>
@@ -212,15 +211,17 @@ After clicking <code>Rent Now</code>, the Rental Overview dialog will appear.
 <br />
 
 To rent the DEGEN for a Recruit/Player (friend, family, etc.):<br/>
-  1. Select <code>Recruit</code> under <code>What are you renting for?</code>
-  2. A field will appear below <code>What is your recruit’s ETH wallet address?</code>, where you must enter address for the Recruit/Player
-  3. Select <code>Yes</code> next to <code>Use a rental pass?</code>
-  4. Check the box to acknowledge the rental/fees
-  5. Click <code>Rent Degen</code>
+
+1. Select <code>Recruit</code> under <code>What are you renting for?</code>
+2. A field will appear below <code>What is your recruit’s ETH wallet address?</code>, where you must enter address for the Recruit/Player
+3. Select <code>Yes</code> next to <code>Use a rental pass?</code>
+4. Check the box to acknowledge the rental/fees
+5. Click <code>Rent Degen</code>
 
 Please note, rental passes can only be applied to DEGENs with Common backgrounds and zero rentals in queue. Prior to sending a rental pass to a Recruit, friend or family, etc., they must create a Nifty League profile by simply connecting their crypto wallet to our [app](https://app.niftyleague.com).
 
-Check out our [tutorial video on issuing rental passes](https://www.loom.com/share/4169c3271b714304abd4581046f312c7 ).
+Check out our [tutorial video on issuing rental passes](https://www.loom.com/share/4169c3271b714304abd4581046f312c7).
+
 </details>
 
 <details><summary>Help! I received an error when attempting to issue a rental pass. Now what?</summary><br/>
@@ -228,22 +229,22 @@ Check out our [tutorial video on issuing rental passes](https://www.loom.com/sha
 If you receive an error after attempting to rent a DEGEN using a rental pass, this is likely because the DEGEN either does not have a Common background, has an ongoing active rental, or, the address you attempted to issue the pass to is not recognized as a profile in our system. If the address is not recognized, please instruct your Recruit/Player (friend, family, etc.) to connect their crypto wallet to our <a href="https://app.niftyleague.com">app</a>.
 <br/><br/>
 
-If you are encountering other issues with your rental pass, please reach out to a [Community Moderator](/overview/team#community-moderators) in our Discord server.
-  
+If you are encountering other issues with your rental pass, please reach out to a community moderators in our Discord server.
+
 </details>
   
 <details><summary>How can I get a rental pass?</summary><br/>
 
-From time to time we issue passes to players to reward engagement and other milestones! Sometimes we share them via raffles and giveaways. 
+From time to time we issue passes to players to reward engagement and other milestones! Sometimes we share them via raffles and giveaways.
 
 If you run a Club (Guild) or Esports team and are interested in working with Nifty League as an official partner, please DM us on Twitter or reach out via Discord to learn more about how rental passes can help onboard your Recruits/Players to the Nifty League ecosystem.
-  
+
 </details>
 
 <details><summary>Are rental passes able to be used on DEGENs with Rare, Meta and Legendary backgrounds?</summary><br/>
 
 No. Rental passes can only be used on DEGENs with Common backgrounds.
-  
+
 </details>
 
 <details><summary>Are rental passes a NFT?</summary><br/>
@@ -257,10 +258,3 @@ No.
 No. If you have available rental passes in your wallet, you cannot transfer them to another wallet to then be issued to a Recruit/Player.
 
 </details>
-
-
-
-
-
-
-

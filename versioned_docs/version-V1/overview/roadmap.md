@@ -51,6 +51,18 @@ Our games are meant to be competitive; what better way to showcase this than a l
 
 Our first of many arcade style games, [WEN Game](/docs/overview/games/wen-game) is all about timing as players attempt to hit a baseball from a pitching machine! This launch also introduces our Arcade Token used to access any of our Arcade games.
 
+## Mt. Gawx ✅
+
+Hearing the DEGENs' desperate pleas to spend their hard-earned NFTL and with bigger sinks still under his development, Satoshi suggests the DEGENs climb to the top of the Mt. Gawx volcano to offer their NFTL sacrifices to the fiery depths to see who might burn the most, and to discover whether the rumors of Rugman offering interesting rewards to burners are true.
+
+## Crypto Winter ✅
+
+Crypto Winter is a our second arcade style game which also depends on skillful timing and reflex. Play this single-player dodgeball-inspired arcade game and rank as high as you can!
+
+## L2 Migration ✅
+
+Selecting a suitable Layer 2 partner is crucial to scaling our ecosystem at Nifty League, and we couldn't be more excited to start rolling out products on [Immutable X (IMX)](https://www.immutable.com/) . IMX is solely focused on powering the next generation of Web3 games which positions Nifty League to capitalize on the upcoming wave of mainstream adoption.
+
 ## Comics
 
 Our team has been slowly hinting at the upcoming utilities for comics - as you may already be aware you will be able to burn each page for special in-game items that increase your DEGEN's NFTL multiplier.
@@ -66,39 +78,53 @@ We are implementing a new netcode solution which looks very promising even from 
 
 Scaling our platform is a high priority. Part of this process is onboarding new users who may not be able to afford to own or rent a DEGEN. Our free-2-play option will allow new users to join matches using a generic character that allows them to test out each tribe’s special move, but more importantly - grind it out until they have enough NFTL to pay for a rental.
 
+## Smashers Release Candidate
+
+We are implementing several fundamental tools for our games including progression and marketplace systems. These systems incentivize players to stick around by rewarding them for milestones that drive engagement and retention. Nifty Smashers will be the first game we integrate with live ops tooling as part of its mobile launch. In addition, we are training Smashers AI to keep lobbies full and accomodate multiple skill levels.
+
+## Smashers Mobile
+
+Bringing Smashers to Mobile (Android first). Going forward all of our games will be mobile compatible. With a high concentration of gamers using mobile platforms, we envision this release will be pivotal to the project.
+
 ## Items Marketplace
 
 We are working with the Immutable X team to launch our items marketplace in early 2022. Offerings will include skins, weapons, consumable items, and more to enhance your DEGENS in-game. While some items may be cosmetic additions, many will include NFTL multipliers for play-and-earn.
 
 Items will be sold via NFTL in limited quantities. 70% of all proceeds will be burned while the remainder will be sent to the DAO for its initial revenue stream.
 
+## Niftyverse
+
+Welcome to the Niftyverse - a world filled with DEGENS and NFT communities alike with a shared vision to have fun and build a thriving gaming ecosystem. What makes the Niftyverse stand apart from other metaverses is our games being the centerpiece. Walk into our arcade room filled with fun mini-games or venture to destinations on the map to jump into our classic titles like Nifty Smashers and Nifty Kart.
+
+While Nifty League focuses on building a decentralized game platform with titles such as Nifty Smashers and other Nintendo-inspired games, Niftyverse stands at the heart of our ecosystem tying everything together. It's not only the central lobby system or launch point for many of these games, but the main hub for all social interactions (and quite frankly our biggest game in and of itself).
+
+If you're a creative type, don't miss this opportunity - we will have an asset store for you to design assets such as buildings or trees and list them for sale based on your defined limits and pricing. Do you want a cool DEGEN theme park or Cyber Kongz meetup? Build out the Niftyverse to whatever your heart desires!
+
 ## Nifty League DAO
 
 We will gradually be transferring ownership of Nifty League to our DAO in order to decentralize the platform and encourage devs to help us build! Our vision is power rapid growth and development via community contributions, enabling us to build a gaming platform like no other. Simply put, DAOs are the future. We see only one route to becoming the world's leading GameFi platform and that’s by building together.
 
-## Mobile
+---
 
-Going forward all of our games will be mobile compatible. With a high concentration of gamers using mobile platforms, we envision this release will be pivotal to the project.
+# Items below are TDB and may change at any moment!
 
-## In-Game Chat
+---
 
-In preparation for the Niftyverse we will start by releasing an in-game chat for you to talk or text with DEGEN frens. Being a popular request - there is a chance this may even be introduced earlier in our timeline - stay tuned!
+## Land
 
-## Niftyverse
+Land parcels give you ownership in the Niftyverse. Each DEGEN NFT will recieve 1 free plot of land if and when the mint goes live. As a land holder you can build freely on your parcels as long as they meet platform guidelines. For larger developments that span across a region we will introduce an HOA model for build proposals.
 
-Welcome to the Niftyverse - a world filled with DEGENS and NFT communities alike with a shared vision to have fun and build a thriving gaming community. What makes the Niftyverse stand apart from other metaverses is our P&E games being the centerpiece. Walk into our arcade room filled with fun mini-games or venture to destinations on the map to jump into our classic titles like Nifty Smashers and Nifty Kart.
-
-The world is centered around a city reminiscent of our popular SushiSwap level in Nifty Smashers. To kick things off we will hold a land sale with premium options in the city as well as cheaper undeveloped land outside the city limits. Acquiring premium land in the city where all the action is comes with the additional benefit of having buildings already in place that you can design however you see fit.
-
-If you're a creative type, don't miss this opportunity - we will have an asset store for you to design assets such as buildings or trees and list them for sale based on your defined limits and pricing. Do you want a cool DEGEN theme park or Cyber Kongz meetup? Build out the Niftyverse to whatever your heart desires!
-
-The land and assets will be sold with NFTL (a portion of which will be burned).
+Oh... and it&apos;s probably worth noting the land and assets will be sold with <strong>NFTL</strong> (a portion of which will be burned) so it might be worth hodling your p2e earnings.
 
 ## Pets
 
 Following our Niftyverse launch we will introduce cool pets for your DEGENS! A lot of community members have asked us to dust off and bring back Satoshi's [Mint-O-Matic](https://app.niftyleague.com/mint-o-matic), and we couldn't agree more!
 
 DEGEN NFT holders will receive whitelist spots so our community can create pets at their leisure. A public offering will follow for any remaining pets. If you missed the first minting experience be sure to keep this one on your calendar!
+
+## Nifty Tennis
+
+Early development of Nifty Tennis already started in 2022. We plan to accommodate all playstyles whether playing competitively or just for fun.
 
 ## Nifty Royale
 
